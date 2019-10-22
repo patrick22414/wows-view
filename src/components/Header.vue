@@ -1,7 +1,7 @@
 <template>
-  <div class="header">
+  <header>
     <h1>WoWs View - Selecting</h1>
-  </div>
+  </header>
 </template>
 
 <script>
@@ -11,17 +11,16 @@ export default {
 </script>
 
 <style lang="less" scoped>
-.header {
+header {
   width: 100%;
   height: 15vh;
 
-  background: rgba(0, 0, 0, 0.45);
-  box-shadow: 0 0 6px rgba(0, 0, 0, 0.45);
+  background: rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
 
   h1 {
     color: whitesmoke;
-    font-size: 3rem;
-    font-weight: 400;
+    font-size: 48pt;
     line-height: 15vh;
   }
 }

@@ -1,26 +1,37 @@
 <template>
   <div class="nation">
-    {{children}}
     <div class="illuminant"></div>
+    <p class="full-name">{{nation.fullName}}</p>
   </div>
 </template>
 
 <script>
 export default {
-  name: "Nation"
+  name: "Nation",
+  props: ["nation"]
 };
 </script>
 
 <style lang="less" scoped>
 .nation {
   width: 100%;
-  height: 3rem;
-
-  //   margin: 0.5rem 0;
+  height: 40pt;
+  margin: 5px 0;
 
   background: rgba(255, 255, 255, 0.3);
 
+  display: grid;
+  grid-template-areas: "a";
+  justify-items: center;
+  align-items: center;
+
+  .full-name {
+    grid-area: a;
+    font-size: 16pt;
+  }
+
   .illuminant {
+    grid-area: a;
     width: 100%;
     height: 100%;
 

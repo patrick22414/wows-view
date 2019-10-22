@@ -7,7 +7,7 @@
 
 <script>
 import Header from "./components/Header";
-import SelectingView from "./components/Selecting/SelectingView";
+import SelectingView from "./components/selecting/SelectingView";
 
 export default {
   name: "app",
@@ -35,7 +35,7 @@ export default {
   -moz-osx-font-smoothing: grayscale;
 
   text-align: center;
-  color: #2c3e50;
+  color: whitesmoke;
   background-image: url(./assets/background1.jpg);
   background-size: cover;
 }

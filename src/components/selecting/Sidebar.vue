@@ -1,16 +1,6 @@
 <template>
   <div class="sidebar">
-    <Nation>Japan</Nation>
-    <Nation>U.S.A</Nation>
-    <Nation>Germany</Nation>
-    <Nation>U.S.S.R</Nation>
-    <Nation>U.K.</Nation>
-    <Nation>France</Nation>
-    <Nation>Italy</Nation>
-    <Nation>Commonwealth</Nation>
-    <Nation>Pan Asia</Nation>
-    <Nation>Pan Europe</Nation>
-    <Nation>Pan America</Nation>
+    <Nation v-for="nation in nations" :key="nation.name" :nation="nation" />
   </div>
 </template>
 
@@ -21,6 +11,16 @@ export default {
   name: "Sidebar",
   components: {
     Nation
+  },
+  data: function() {
+    return {
+      nations: [
+        { name: "japan", fullName: "Japan" },
+        { name: "usa", fullName: "U.S.A." },
+        { name: "uk", fullName: "U.K." },
+        { name: "germany", fullName: "Germany" }
+      ]
+    };
   }
 };
 </script>
@@ -34,6 +34,5 @@ export default {
 
   display: flex;
   flex-flow: column nowrap;
-  justify-content: space-evenly;
 }
 </style>
