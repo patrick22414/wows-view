@@ -1,14 +1,18 @@
 <template>
-  <div class="nation">
-    <div class="illuminant"></div>
-    <p class="full-name">{{nation.fullName}}</p>
+  <div class="nation" @click="selectNation(nation.id)">
+    <div class="illuminant" :style="nation.selected ? {opacity: 1} : {opacity: 0}"></div>
+    <p class="nation-title">{{nation.title}}</p>
   </div>
 </template>
 
 <script>
+import { mapActions } from "vuex";
 export default {
   name: "Nation",
-  props: ["nation"]
+  props: ["nation"],
+  methods: {
+    ...mapActions(["selectNation"])
+  }
 };
 </script>
 
@@ -25,7 +29,7 @@ export default {
   justify-items: center;
   align-items: center;
 
-  .full-name {
+  .nation-title {
     grid-area: a;
     font-size: 16pt;
   }

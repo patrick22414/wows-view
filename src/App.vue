@@ -38,5 +38,7 @@ export default {
   color: whitesmoke;
   background-image: url(./assets/background1.jpg);
   background-size: cover;
+
+  overflow: hidden;
 }
 </style>

@@ -1,27 +1,19 @@
 <template>
   <div class="sidebar">
-    <Nation v-for="nation in nations" :key="nation.name" :nation="nation" />
+    <Nation v-for="nation in getNations" :key="nation.id" :nation="nation" />
   </div>
 </template>
 
 <script>
 import Nation from "./Nation";
+import { mapGetters, mapActions } from "vuex";
 
 export default {
   name: "Sidebar",
   components: {
     Nation
   },
-  data: function() {
-    return {
-      nations: [
-        { name: "japan", fullName: "Japan" },
-        { name: "usa", fullName: "U.S.A." },
-        { name: "uk", fullName: "U.K." },
-        { name: "germany", fullName: "Germany" }
-      ]
-    };
-  }
+  computed: mapGetters(["getNations"])
 };
 </script>
 

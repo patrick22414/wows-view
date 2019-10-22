@@ -1,16 +1,19 @@
 <template>
   <div class="selecting-view">
-    <Sidebar></Sidebar>
+    <Sidebar />
+    <Content />
   </div>
 </template>
 
 <script>
 import Sidebar from "./Sidebar";
+import Content from "./Content";
 
 export default {
   name: "SelectingView",
   components: {
-    Sidebar
+    Sidebar,
+    Content
   }
 };
 </script>
