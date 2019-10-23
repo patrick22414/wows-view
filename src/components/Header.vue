@@ -21,6 +21,7 @@ header {
   h1 {
     color: whitesmoke;
     font-size: 48pt;
+    // font-weight: 400;
     line-height: 15vh;
   }
 }
