@@ -1,0 +1,110 @@
+{
+  "status": "ok",
+  "meta": {
+    "count": 14,
+    "page_total": 1,
+    "total": 14,
+    "limit": 100,
+    "page": 1
+  },
+  "data": [
+    {
+      "id": "3762173136",
+      "name": "Loyang",
+      "type": "Destroyer",
+      "tier": 8,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSD508_e24bc8a7bc321dd877414d2223334d7037572eea68655535bf05a977e8608eb0.png"
+    },
+    {
+      "id": "3762205904",
+      "name": "Irian",
+      "type": "Cruiser",
+      "tier": 8,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSC508_0605d18babad08c2fdacbee009d61c6492033ac5d47d6d71cd38c59cf4e26ce2.png"
+    },
+    {
+      "id": "3764270288",
+      "name": "Anshan",
+      "type": "Destroyer",
+      "tier": 6,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSD506_c15e19bdc93bcccd33d8329062a460b4f886f657d9db057cae6717140a281155.png"
+    },
+    {
+      "id": "3764303056",
+      "name": "Huanghe",
+      "type": "Cruiser",
+      "tier": 6,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSC506_b25a8e7a3e744f47f3ae216378f3dc038883737dd91cadb0f22a741668651a54.png"
+    },
+    {
+      "id": "4179506384",
+      "name": "Yueyang",
+      "type": "Destroyer",
+      "tier": 10,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSD110_c87b452aed8b57078d48466e7919467e3f6aaaefbd8f0da7b24b4a085669e7c9.png"
+    },
+    {
+      "id": "4180554960",
+      "name": "Chung Mu",
+      "type": "Destroyer",
+      "tier": 9,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSD109_01c2cd5db13b8d1dc93d3b9d289e5a47be6d36e3f39da11253e5f8c2ab335ae3.png"
+    },
+    {
+      "id": "4181603536",
+      "name": "Hsienyang",
+      "type": "Destroyer",
+      "tier": 8,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSD108_3cf1a30e667e581e46b0764f3dcc3725fad3dd64af4a2f85d817c43235e425a4.png"
+    },
+    {
+      "id": "4182652112",
+      "name": "Gadjah Mada",
+      "type": "Destroyer",
+      "tier": 7,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSD107_6a303812ba4d1ed539eaa5a5442f16196c371c3b528fcc888df00ddaa48f563d.png"
+    },
+    {
+      "id": "4183700688",
+      "name": "Fushun",
+      "type": "Destroyer",
+      "tier": 6,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSD106_9c86ed26df83e8a946fde426545d0869d3a9f49df9cd6e60360b3c8ede3ecb7c.png"
+    },
+    {
+      "id": "4184749264",
+      "name": "Jianwei",
+      "type": "Destroyer",
+      "tier": 5,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSD105_51993ca1acf2972ced63f23980395e1bd678b23f161f2e209bfd9367ee98331d.png"
+    },
+    {
+      "id": "4185797840",
+      "name": "Shenyang",
+      "type": "Destroyer",
+      "tier": 4,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSD104_4f1f5b3ad225402e9a29f7c0b31f32f2adf436e6aff2283045399ec7ca246d30.png"
+    },
+    {
+      "id": "4186846416",
+      "name": "Phra Ruang",
+      "type": "Destroyer",
+      "tier": 3,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSD103_4a7c0a61010701df997f7ab2aba4d7484fbdc797fd700af94443c54db4cd08d2.png"
+    },
+    {
+      "id": "4187894992",
+      "name": "Longjiang",
+      "type": "Destroyer",
+      "tier": 2,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSD102_56803877da32e7f15061c4b29f51d31fa5afd90dd6f1a3ce341f17846fb235db.png"
+    },
+    {
+      "id": "4188976336",
+      "name": "Chengan",
+      "type": "Cruiser",
+      "tier": 1,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSC101_e2d9c4c1fee42333b79ccb39822709e0784eeda19fd291e6ddf577f600173394.png"
+    }
+  ]
+}

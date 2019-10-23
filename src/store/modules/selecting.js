@@ -1,8 +1,4 @@
-import axios from "axios"
-import { stat } from "fs";
-
 const state = {
-    selectedNation: "",
     nations: [
         { id: "usa", title: "U.S.A.", selected: false },
         { id: "japan", title: "Japan", selected: false },
@@ -25,25 +21,18 @@ const getters = {
 };
 
 const actions = {
-    selectNation: async function ({ commit }, id) {
+    selectNation: function ({ commit }, id) {
         console.log(`select nation ${id}`);
 
-        const resp = await axios.get(`https://api.worldofwarships.ru/wows/encyclopedia/ships/?application_id=d9e3cd11e2529af77d0317ff1597b2be&nation=${id}&language=en&fields=name%2Ctier%2Cis_premium%2Cis_special%2Ctype`);
+        const ships = require(`../../assets/${id}`);
 
-        if (resp.data.status === "ok") {
-            console.log(resp.data.data);
-            commit("setShips", resp.data.data);
-        } else {
-            console.log("not ok");
-        }
-
+        commit("setShips", ships.data);
         commit("setSelectedNation", id);
     },
 };
 
 const mutations = {
     setSelectedNation: function (state, id) {
-        state.selectedNation = id;
         state.nations.forEach(nation => {
             if (nation.id === id) {
                 nation.selected = true;
@@ -54,19 +43,7 @@ const mutations = {
     },
 
     setShips: function (state, data) {
-        state.ships = [];
-
-        for (const id in data) {
-            if (data.hasOwnProperty(id)) {
-                const ship = data[id];
-                if (!ship.name.startsWith("[")) {
-                    state.ships.push({
-                        id,
-                        ...ship,
-                    })
-                }
-            }
-        }
+        state.ships = data;
     }
 };
 

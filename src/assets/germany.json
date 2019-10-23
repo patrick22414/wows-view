@@ -1,0 +1,299 @@
+{
+  "status": "ok",
+  "meta": {
+    "count": 43,
+    "page_total": 1,
+    "total": 43,
+    "limit": 100,
+    "page": 1
+  },
+  "data": [
+    {
+      "id": "3554588464",
+      "name": "HSF Admiral Graf Spee",
+      "type": "Cruiser",
+      "tier": 6,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC706_b3c99f5ac9380a04b653d4f05cdab282c0b6ef2679969e9509ff202e46f7a957.png"
+    },
+    {
+      "id": "3667867440",
+      "name": "Tirpitz B",
+      "type": "Battleship",
+      "tier": 8,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB598_38cafa84763ff00a5ac34e17d885785f994e37deee48725316fc4a9c2bbdbdbb.png"
+    },
+    {
+      "id": "3751720752",
+      "name": "Mainz",
+      "type": "Cruiser",
+      "tier": 8,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC518_abe8c7d0bd569584f7d39787c2a58c4450499c25bc986c397b089e5db5f57662.png"
+    },
+    {
+      "id": "3751786288",
+      "name": "Graf Zeppelin",
+      "type": "AirCarrier",
+      "tier": 8,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSA518_3f1aff5cb151b143cc14e9da364ab2d3269cd9a6ab80df0529ccd0e1b75c1ba4.png"
+    },
+    {
+      "id": "3761157936",
+      "name": "Siegfried",
+      "type": "Cruiser",
+      "tier": 9,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC509_30f9ff5841ec1c8cdbfed55101217c2d08615ef9ee111868772f719f8c06e707.png"
+    },
+    {
+      "id": "3762173744",
+      "name": "Z-39",
+      "type": "Destroyer",
+      "tier": 7,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSD508_9aa92d1aab51689cf337177e30b27688c614bb9803dc617aacbf89f0ed4a0fa4.png"
+    },
+    {
+      "id": "3762206512",
+      "name": "Prinz Eugen",
+      "type": "Cruiser",
+      "tier": 8,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC508_f1aeb94a477976b1dc3a487804f06ef16688b53c9c3b6a796007e2f439815193.png"
+    },
+    {
+      "id": "3763287856",
+      "name": "Scharnhorst",
+      "type": "Battleship",
+      "tier": 7,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB507_f73355091fc84cf4b698a3b9b6f0e60c14091a22503afe00b9533916f969533d.png"
+    },
+    {
+      "id": "3764270896",
+      "name": "T-61",
+      "type": "Destroyer",
+      "tier": 6,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSD506_7dcc64e840bc4ff641d4669aae606aacf023f41a222cfb0b71bcfaf4c692d865.png"
+    },
+    {
+      "id": "3764303664",
+      "name": "Admiral Graf Spee",
+      "type": "Cruiser",
+      "tier": 6,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC506_cd19a0c7ddbdcc99aef6f5cc2b0a27bbed9881faad07bed279305f04e6fa5bdd.png"
+    },
+    {
+      "id": "3764336432",
+      "name": "Prinz Eitel Friedrich",
+      "type": "Battleship",
+      "tier": 6,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB506_d8b0ba60b21183cd8af7d0071bdca57687cf1890e822219a828cabb59572e0a8.png"
+    },
+    {
+      "id": "3767482160",
+      "name": "König Albert",
+      "type": "Battleship",
+      "tier": 3,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB503_b54f41d5fb3a82619bdcb8c655c378f41452c858b3ea124ea610ab857ad3f3cf.png"
+    },
+    {
+      "id": "3768497968",
+      "name": "Emden",
+      "type": "Cruiser",
+      "tier": 2,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC502_0368049f8d9c4c52a7d92148e41e8a832b63a25fffe3fc9a363790cd69c22040.png"
+    },
+    {
+      "id": "4179506992",
+      "name": "Z-52",
+      "type": "Destroyer",
+      "tier": 10,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSD110_9afa6ea3980695c40159f5b4b290b7caff8f3150db86fde1a5142866d7b77748.png"
+    },
+    {
+      "id": "4179539760",
+      "name": "Hindenburg",
+      "type": "Cruiser",
+      "tier": 10,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC110_4635332915d94f64dbdc1fda94f7f2f0bfd227355eab5406b16f5d2e81006c3d.png"
+    },
+    {
+      "id": "4179572528",
+      "name": "Großer Kurfürst",
+      "type": "Battleship",
+      "tier": 10,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB110_9b3dbcaf7d4508435c97bc3b30de24490dc70b24cf6e49794f0681db9ec86bfe.png"
+    },
+    {
+      "id": "4180555568",
+      "name": "Z-46",
+      "type": "Destroyer",
+      "tier": 9,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSD109_0f0f3c787bb5f08f1b7b27900ddfb76bd3a05554746212d87d166ecfa95e84c9.png"
+    },
+    {
+      "id": "4180588336",
+      "name": "Roon",
+      "type": "Cruiser",
+      "tier": 9,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC109_7c46eca44e99cb1c0b0c9c8f5fddaa71fc41d5c14d18c65ba5ef55a5c0a92a6b.png"
+    },
+    {
+      "id": "4180621104",
+      "name": "Friedrich der Große",
+      "type": "Battleship",
+      "tier": 9,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB109_a4c6684ba41bbb922a684ed1055c2163849f4e3cad992e2c7842cb07bd861556.png"
+    },
+    {
+      "id": "4181604144",
+      "name": "Z-23",
+      "type": "Destroyer",
+      "tier": 8,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSD108_bdf17aa0439bd000b558266e8b938f1ddcb78d9d2c514b0c47d3f22819ecce0f.png"
+    },
+    {
+      "id": "4181636912",
+      "name": "Admiral Hipper",
+      "type": "Cruiser",
+      "tier": 8,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC108_dc6b59b5f648bc0dabb4854f50c9e11d0d4f429543c890fb49467f66906e6524.png"
+    },
+    {
+      "id": "4181669680",
+      "name": "Bismarck",
+      "type": "Battleship",
+      "tier": 8,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB108_9e1ed243aae21ca2487345acf3c5a5701b8cbd4f2e3fa2dad7f64f9865df1885.png"
+    },
+    {
+      "id": "4182652720",
+      "name": "Leberecht Maass",
+      "type": "Destroyer",
+      "tier": 7,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSD107_b238d268b8b682dcda19fac084ef4f1dbc31eaeb826b8045d728f89d577b4bff.png"
+    },
+    {
+      "id": "4182685488",
+      "name": "Yorck",
+      "type": "Cruiser",
+      "tier": 7,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC107_66822a0b94d76dc69a836a4dde6d4851f873d6a5003fc1dc002fa3e85ba0afc1.png"
+    },
+    {
+      "id": "4182718256",
+      "name": "Gneisenau",
+      "type": "Battleship",
+      "tier": 7,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB107_d40dddfed38d402024b9c438bcd1999dccf85f2766e6c88ea29044e1f020a285.png"
+    },
+    {
+      "id": "4183701296",
+      "name": "Ernst Gaede",
+      "type": "Destroyer",
+      "tier": 6,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSD106_e6af2fb755c921e56af3dbe8759ff96ff9a06af0c74ffdc73c3ce163b51c67c1.png"
+    },
+    {
+      "id": "4183734064",
+      "name": "Nürnberg",
+      "type": "Cruiser",
+      "tier": 6,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC106_d8710dbe24d48e935adff6eb41a193491251d1af7a1248d7e4c4fcb7aecc6090.png"
+    },
+    {
+      "id": "4183766832",
+      "name": "Bayern",
+      "type": "Battleship",
+      "tier": 6,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB106_e44780fcd179d6c2ca875ae7d167182a32202a4a1e21c8e61dcef90fcec2e0ee.png"
+    },
+    {
+      "id": "4184749872",
+      "name": "T-22",
+      "type": "Destroyer",
+      "tier": 5,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSD105_0dbd8297e68c5ff53bdede55155ea6fb3ed8d023c115b9400e31ef2095a0e8d4.png"
+    },
+    {
+      "id": "4184782640",
+      "name": "Königsberg",
+      "type": "Cruiser",
+      "tier": 5,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC105_174fb3aaf7e110a67c49bfa00996f345abf8b2ca1e8f9bbdcf117cbc786366e7.png"
+    },
+    {
+      "id": "4184815408",
+      "name": "König",
+      "type": "Battleship",
+      "tier": 5,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB105_4910e9f204fe1fd41318f81f5b82af0dfd24d14662b132dff1656c41a2488f78.png"
+    },
+    {
+      "id": "4185798448",
+      "name": "V-170",
+      "type": "Destroyer",
+      "tier": 4,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSD104_1881fe953a9d2c7d99d0700aa3ceb47f40d62ca54d3ad45ac95030e3b79b3863.png"
+    },
+    {
+      "id": "4185831216",
+      "name": "Karlsruhe",
+      "type": "Cruiser",
+      "tier": 4,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC104_f19a56ce3041cbf965fdbeb2259ee92a683832bdb74d2644fb230194c07a8bcc.png"
+    },
+    {
+      "id": "4185863984",
+      "name": "Kaiser",
+      "type": "Battleship",
+      "tier": 4,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB104_bfd77b36af9570ac04c6b75e3a958e52438e108502f5e7f9c601763e02966a32.png"
+    },
+    {
+      "id": "4186847024",
+      "name": "G-101",
+      "type": "Destroyer",
+      "tier": 3,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSD103_c7128beea81bb83db391af8a6ab9ed7ce65629cb05d468420ded858816556eaf.png"
+    },
+    {
+      "id": "4186879792",
+      "name": "Kolberg",
+      "type": "Cruiser",
+      "tier": 3,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC103_9bd72e63e422417406b041ffdc25fccaf50d739d6a51ba8bffd6284672639fb9.png"
+    },
+    {
+      "id": "4186912560",
+      "name": "Nassau",
+      "type": "Battleship",
+      "tier": 3,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB103_73dcd3cc1f269a765bc5300e3c9cfbff9a98b6178149152428e513b99243a2f2.png"
+    },
+    {
+      "id": "4187895600",
+      "name": "V-25",
+      "type": "Destroyer",
+      "tier": 2,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSD102_985d3831fa202e83d1cd69ce61ec74ffaaecfa8c7f610674756b9acc5b856e2f.png"
+    },
+    {
+      "id": "4292785968",
+      "name": "Dresden",
+      "type": "Cruiser",
+      "tier": 2,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC002_66ce623a93dfde135c49a146b20de3337863d1760ab813d7bef4808dd3ba2a1c.png"
+    },
+    {
+      "id": "4292818736",
+      "name": "Tirpitz",
+      "type": "Battleship",
+      "tier": 8,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB002_e7b49ecef4ae0be8382c3ff3c77ad70beeb89bdb90e7dd7a6d82b194c5812260.png"
+    },
+    {
+      "id": "4293834544",
+      "name": "Hermelin",
+      "type": "Cruiser",
+      "tier": 1,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC001_14099708b79bc1fd1442376ae808df4af10a51a1c0b7b6e676722cdc2dcaaa0e.png"
+    }
+  ]
+}

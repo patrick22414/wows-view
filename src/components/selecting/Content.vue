@@ -1,18 +1,18 @@
 <template>
   <div class="content">
-    <div
-      class="ship-item"
-      v-for="ship in getShips"
-      :key="ship.id"
-      :style="ship.is_premium || ship.is_special ? {color: `gold`} : {}"
-    >{{`${ship.tier} ${ship.name}`}}</div>
+    <ShipTag v-for="ship in getShips" :key="ship.id" :ship="ship" />
   </div>
 </template>
 
 <script>
+import ShipTag from "./ShipTag";
 import { mapGetters } from "vuex";
+
 export default {
   name: "Content",
+  components: {
+    ShipTag
+  },
   computed: mapGetters(["getShips"])
 };
 </script>
@@ -21,9 +21,7 @@ export default {
 .content {
   display: flex;
   flex-flow: column wrap;
-}
 
-.ship-item {
-  margin: 10px;
+  //   overflow: scroll;
 }
 </style>

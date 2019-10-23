@@ -1,0 +1,33 @@
+{
+  "status": "ok",
+  "meta": {
+    "count": 3,
+    "page_total": 1,
+    "total": 3,
+    "limit": 100,
+    "page": 1
+  },
+  "data": [
+    {
+      "id": "3760076080",
+      "name": "Friesland",
+      "type": "Destroyer",
+      "tier": 9,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PWSD510_590c7a4fc8b1c5ff9c1c5bea106c9e76d10dc5c27d1abd837368808d40fc0520.png"
+    },
+    {
+      "id": "3766433072",
+      "name": "Viribus Unitis",
+      "type": "Battleship",
+      "tier": 5,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PWSB504_ecd3c4de540d2b616e3d8e82968e29c2357336293c5e183d539c75f15929fe8e.png"
+    },
+    {
+      "id": "3769513264",
+      "name": "Błyskawica",
+      "type": "Destroyer",
+      "tier": 7,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PWSD501_85e89984588cbe60601a42f1fb9d85b33994ab524e0884b5199ad0c58584a522.png"
+    }
+  ]
+}
