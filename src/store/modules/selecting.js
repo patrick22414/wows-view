@@ -17,7 +17,14 @@ const state = {
 
 const getters = {
     getNations: state => state.nations,
-    getShips: state => state.ships,
+
+    getShips: (state) => function (type, tier) {
+        return state.ships.filter(s => s.type === type && s.tier === tier);
+    },
+
+    hasShip: (state) => function (type, tier) {
+        return state.ships.some(s => s.type === type && s.tier === tier);
+    }
 };
 
 const actions = {

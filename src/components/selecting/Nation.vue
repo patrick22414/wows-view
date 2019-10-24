@@ -1,6 +1,6 @@
 <template>
   <div class="nation" @click="selectNation(nation.id)">
-    <div class="illuminant" :style="nation.selected ? {opacity: 1} : {opacity: 0}"></div>
+    <div class="illuminant" :style="nation.selected ? {opacity: 1} : {}"></div>
     <p class="nation-title">{{nation.title}}</p>
   </div>
 </template>
@@ -32,6 +32,7 @@ export default {
   .nation-title {
     grid-area: a;
     font-size: 16pt;
+    text-shadow: 0 0 12px rgba(0, 0, 0, 0.8);
   }
 
   .illuminant {
@@ -39,7 +40,7 @@ export default {
     width: 100%;
     height: 100%;
 
-    background: rgba(255, 255, 255, 0.4);
+    background: rgba(255, 255, 255, 0.3);
 
     filter: blur(4px);
     opacity: 0;
@@ -48,7 +49,7 @@ export default {
 
   &:hover {
     .illuminant {
-      opacity: 1;
+      opacity: 0.5;
     }
   }
 }

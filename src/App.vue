@@ -30,7 +30,7 @@ export default {
   width: 100vw;
   height: 100vh;
 
-  font-family: "Oswald", sans-serif;
+  font-family: "Oswald", -apple-system, "Segoe UI", Roboto, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 

@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name: "header"
+  name: "Header"
 };
 </script>
 
@@ -20,8 +20,10 @@ header {
 
   h1 {
     color: whitesmoke;
+
     font-size: 48pt;
-    // font-weight: 400;
+    font-weight: 400;
+
     line-height: 15vh;
   }
 }

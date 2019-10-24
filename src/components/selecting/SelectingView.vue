@@ -1,19 +1,19 @@
 <template>
   <div class="selecting-view">
     <Sidebar />
-    <Content />
+    <TechTree />
   </div>
 </template>
 
 <script>
 import Sidebar from "./Sidebar";
-import Content from "./Content";
+import TechTree from "./TechTree";
 
 export default {
   name: "SelectingView",
   components: {
     Sidebar,
-    Content
+    TechTree
   }
 };
 </script>

@@ -19,6 +19,8 @@ export default {
   margin: 5px;
   background: rgba(255, 255, 255, 0.6);
 
+  transition: background-color 0.4s ease;
+
   display: grid;
   grid-template-rows: auto auto;
   grid-template-columns: auto;
@@ -32,11 +34,18 @@ export default {
     grid-row: 1 / span 1;
     grid-column: 1 / span 1;
 
-    // width: 120px;
-    // height: 24px;
-    font-weight: 300;
-
     background: rgba(0, 0, 0, 0.6);
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.3);
+
+    transition: background-color 0.4s ease;
+  }
+
+  &:hover {
+    background: rgba(255, 255, 255, 0.8);
+
+    figcaption {
+      background: rgba(0, 0, 0, 0.8);
+    }
   }
 }
 </style>

@@ -19,7 +19,7 @@ export default {
 
 <style lang="less" scoped>
 .sidebar {
-  width: 240px;
+  width: 12.5%;
   height: 100%;
   background: rgba(0, 0, 0, 0.3);
   box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
