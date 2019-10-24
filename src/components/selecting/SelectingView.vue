@@ -21,7 +21,7 @@ export default {
 <style lang="less" scoped>
 .selecting-view {
   width: 100%;
-  height: 85vh;
+  height: 88vh;
   display: flex;
   flex-flow: row nowrap;
 }

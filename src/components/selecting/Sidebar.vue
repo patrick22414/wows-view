@@ -26,5 +26,8 @@ export default {
 
   display: flex;
   flex-flow: column nowrap;
+  justify-content: center;
+
+  overflow: hidden;
 }
 </style>

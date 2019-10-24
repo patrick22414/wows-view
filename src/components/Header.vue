@@ -13,18 +13,18 @@ export default {
 <style lang="less" scoped>
 header {
   width: 100%;
-  height: 15vh;
+  height: 12vh;
 
-  background: rgba(0, 0, 0, 0.5);
-  box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.6);
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
 
   h1 {
     color: whitesmoke;
 
-    font-size: 48pt;
+    font-size: 36pt;
     font-weight: 400;
 
-    line-height: 15vh;
+    line-height: 12vh;
   }
 }
 </style>

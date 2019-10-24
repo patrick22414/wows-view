@@ -36,7 +36,8 @@ export default {
 
   text-align: center;
   color: whitesmoke;
-  background-image: url(./assets/background1.jpg);
+  background-image: url(./assets/background1.webp);
+  background-size: cover;
 
   overflow: hidden;
 }
