@@ -18,6 +18,10 @@ const state = {
 const getters = {
     getNations: state => state.nations,
 
+    getNationById: state => function (id) {
+        return state.nations.find(nation => nation.id === id).title;
+    },
+
     getShips: (state) => function (type, tier) {
         return state.ships.filter(s => s.type === type && s.tier === tier);
     },
@@ -28,14 +32,19 @@ const getters = {
 };
 
 const actions = {
-    selectNation: function ({ commit }, id) {
-        console.log(`select nation ${id}`);
+    selectNation: function ({ commit }, nation) {
+        console.log(`select nation ${nation.id}`);
 
-        const ships = require(`../../assets/${id}`);
+        const ships = require(`../../assets/nations/${nation.id}`).data;
 
-        commit("setShips", ships.data);
-        commit("setSelectedNation", id);
+        commit("setShips", ships);
+        commit("setSelectedNation", nation.id);
+        commit("setSiteTitle", `WoWs View - Selecting - ${nation.title}`);
     },
+
+    resetSelecting: function ({ commit }) {
+        commit("resetSelecting");
+    }
 };
 
 const mutations = {
@@ -49,8 +58,16 @@ const mutations = {
         });
     },
 
-    setShips: function (state, data) {
-        state.ships = data;
+    setShips: function (state, ships) {
+        state.ships = ships;
+    },
+
+    resetSelecting: function (state) {
+        state.nations.forEach(nation => {
+            nation.selected = false;
+        });
+
+        state.ships = [];
     }
 };
 

@@ -14,6 +14,12 @@ export default {
   components: {
     Sidebar,
     TechTree
+  },
+  created: function() {
+    this.$store.dispatch("changeSiteTitle", "WoWs View - Selecting");
+  },
+  destroyed: function() {
+    this.$store.dispatch("resetSelecting");
   }
 };
 </script>

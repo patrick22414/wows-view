@@ -1,18 +1,20 @@
 <template>
   <header>
-    <h1>WoWs View - Selecting</h1>
+    <h1>{{getSiteTitle}}</h1>
     <Nav />
   </header>
 </template>
 
 <script>
 import Nav from "./Nav";
+import { mapGetters } from "vuex";
 
 export default {
   name: "Header",
   components: {
     Nav
-  }
+  },
+  computed: mapGetters(["getSiteTitle"])
 };
 </script>
 

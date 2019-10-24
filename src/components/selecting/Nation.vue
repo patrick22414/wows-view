@@ -1,5 +1,5 @@
 <template>
-  <div class="nation" @click="selectNation(nation.id)">
+  <div class="nation" @click="selectNation(nation)">
     <div class="illuminant" :style="nation.selected ? {opacity: 1} : {}"></div>
     <p class="nation-title">{{nation.title}}</p>
   </div>
@@ -11,7 +11,7 @@ export default {
   name: "Nation",
   props: ["nation"],
   methods: {
-    ...mapActions(["selectNation"])
+    ...mapActions(["selectNation", "appendSiteTitle"])
   }
 };
 </script>
