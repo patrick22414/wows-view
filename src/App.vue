@@ -1,19 +1,17 @@
 <template>
   <div id="app">
-    <Header></Header>
-    <SelectingView></SelectingView>
+    <Header />
+    <router-view />
   </div>
 </template>
 
 <script>
-import Header from "./components/Header";
-import SelectingView from "./components/selecting/SelectingView";
+import Header from "./components/layout/Header";
 
 export default {
   name: "app",
   components: {
-    Header,
-    SelectingView
+    Header
   }
 };
 </script>

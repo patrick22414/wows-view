@@ -6,8 +6,8 @@
 </template>
 
 <script>
-import Sidebar from "./Sidebar";
-import TechTree from "./TechTree";
+import Sidebar from "../components/selecting/Sidebar";
+import TechTree from "../components/selecting/TechTree";
 
 export default {
   name: "SelectingView",

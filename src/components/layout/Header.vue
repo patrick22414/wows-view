@@ -1,12 +1,18 @@
 <template>
   <header>
     <h1>WoWs View - Selecting</h1>
+    <Nav />
   </header>
 </template>
 
 <script>
+import Nav from "./Nav";
+
 export default {
-  name: "Header"
+  name: "Header",
+  components: {
+    Nav
+  }
 };
 </script>
 
@@ -25,6 +31,23 @@ header {
     font-weight: 400;
 
     line-height: 12vh;
+  }
+}
+
+#nav {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 2vh;
+  height: 12vh;
+
+  a {
+    font-weight: bold;
+    color: #2c3e50;
+
+    &.router-link-exact-active {
+      color: #42b983;
+    }
   }
 }
 </style>

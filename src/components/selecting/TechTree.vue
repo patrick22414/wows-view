@@ -42,4 +42,13 @@ export default {
     position: sticky;
   }
 }
+
+.tech-tree {
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* Edge and IE 10+ */
+}
+
+.tech-tree::-webkit-scrollbar {
+  width: 0 !important; /* Chrome, Safari and Opera */
+}
 </style>
