@@ -1,5 +1,5 @@
 <template>
-  <div class="tech-tree">
+  <div class="tech-tree" v-if="getNations.some(nation => nation.selected)">
     <TechBranch :title="`Battleships`" :type="`Battleship`" />
     <div class="separator"></div>
     <TechBranch :title="`Cruisers`" :type="`Cruiser`" />
@@ -12,12 +12,14 @@
 
 <script>
 import TechBranch from "./TechBranch";
+import { mapGetters } from "vuex";
 
 export default {
   name: "TechTree",
   components: {
     TechBranch
-  }
+  },
+  computed: mapGetters(["getNations"])
 };
 </script>
 
