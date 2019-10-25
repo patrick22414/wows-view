@@ -1,8 +1,10 @@
 <template>
-  <figure class="ship-tag">
-    <img :src="ship.image" width="120" height="72" />
-    <figcaption>{{ship.name}}</figcaption>
-  </figure>
+  <router-link to="/building">
+    <figure class="ship-tag">
+      <img :src="ship.image" width="120" height="72" />
+      <figcaption>{{ship.name}}</figcaption>
+    </figure>
+  </router-link>
 </template>
 
 <script>
@@ -47,5 +49,10 @@ export default {
       background: rgba(0, 0, 0, 0.8);
     }
   }
+}
+
+a {
+  color: unset;
+  text-decoration: none;
 }
 </style>

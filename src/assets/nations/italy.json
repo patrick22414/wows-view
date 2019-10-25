@@ -9,13 +9,6 @@
   },
   "data": [
     {
-      "id": "3450812144",
-      "name": "Giunio Bruto",
-      "type": "Battleship",
-      "tier": 6,
-      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISB805_3135dc9429186c90ce0dd5aa84c3df5682ecfe2d9dd77d2e79fabd390b059921.png"
-    },
-    {
       "id": "3658397424",
       "name": "Gorizia",
       "type": "Cruiser",

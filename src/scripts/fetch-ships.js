@@ -59,6 +59,7 @@ function transformShipData(data) {
         "Brennus",
         "L'Effronté",
         "Alabama ST",
+        "Giunio Bruto",
     ]
     var newData = [];
 

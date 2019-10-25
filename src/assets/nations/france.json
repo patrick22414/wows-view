@@ -9,20 +9,6 @@
   },
   "data": [
     {
-      "id": "3445536592",
-      "name": "Brennus",
-      "type": "Cruiser",
-      "tier": 10,
-      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSC810_80d6751b4a7232cb1c3c30c33baeffc7e8195a244d7e249298ee737cc12ee3e1.png"
-    },
-    {
-      "id": "3447600976",
-      "name": "L'Effronté",
-      "type": "Destroyer",
-      "tier": 8,
-      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSD808_9a0ca2691d3a7397c345e821e140cc20dc763682b13218faaf9a8b8882889dd0.png"
-    },
-    {
       "id": "3751753552",
       "name": "Jean Bart",
       "type": "Battleship",

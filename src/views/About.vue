@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>This is the about page</h1>
+    <p>This is the about page</p>
   </div>
 </template>
 
@@ -12,3 +12,10 @@ export default {
   }
 };
 </script>
+
+<style lang="less" scoped>
+p {
+  font-size: 16pt;
+  margin: 1em;
+}
+</style>
