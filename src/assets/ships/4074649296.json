@@ -1,0 +1,248 @@
+{
+  "status": "ok",
+  "meta": {
+    "count": 1,
+    "page_total": 1,
+    "total": 1,
+    "limit": 100,
+    "page": 1
+  },
+  "data": {
+    "4074649296": {
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD210_862f91814ff6ab4143a329542f73b93b5e4a4beefd9958a9585b8d1c1a85337b.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSD210_db0179f4caa0fffcca0d761b55aec3c70cc14f175bb96798f6801749632c6c31.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSD210_1c5b1a44a271f49c9c71142f3b1937563abab78fbae849d95e4d766af801c5d5.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSD210_45ad1dee3dcb34559ab7b3cd3ea5bbd1f2433228e11cc78b0e552c99339ae7ab.png"
+      },
+      "next_ships": {},
+      "default_profile": {
+        "engine": {
+          "engine_id_str": "PJUE942",
+          "max_speed": 35.7,
+          "engine_id": 3307056848
+        },
+        "torpedo_bomber": null,
+        "anti_aircraft": {
+          "slots": {
+            "0": {
+              "distance": 0.1,
+              "avg_damage": 66,
+              "caliber": 40,
+              "name": "40 mm/60 Type5",
+              "guns": 6
+            },
+            "1": {
+              "distance": 0.1,
+              "avg_damage": 28,
+              "caliber": 25,
+              "name": "25 mm/60 Type96 mod. 1",
+              "guns": 16
+            },
+            "2": {
+              "distance": 0.2,
+              "avg_damage": 104,
+              "caliber": 100,
+              "name": "100 mm/65 Type98",
+              "guns": 5
+            }
+          },
+          "defense": 72
+        },
+        "mobility": {
+          "rudder_time": 5.5,
+          "total": 61,
+          "turning_radius": 830,
+          "max_speed": 35.7
+        },
+        "hull": {
+          "hull_id": 3348901584,
+          "hull_id_str": "PJUH902",
+          "torpedoes_barrels": 1,
+          "anti_aircraft_barrels": 27,
+          "range": {
+            "max": 20,
+            "min": 13
+          },
+          "health": 25600,
+          "planes_amount": 0,
+          "artillery_barrels": 5,
+          "atba_barrels": 0
+        },
+        "atbas": null,
+        "artillery": {
+          "max_dispersion": 109,
+          "shells": {
+            "AP": {
+              "burn_probability": null,
+              "bullet_speed": 1000,
+              "name": "100 mm AP Type98",
+              "damage": 1700,
+              "bullet_mass": 13,
+              "type": "AP"
+            },
+            "HE": {
+              "burn_probability": 5,
+              "bullet_speed": 1000,
+              "name": "100 mm HE Type98",
+              "damage": 1200,
+              "bullet_mass": 13,
+              "type": "HE"
+            }
+          },
+          "shot_delay": 3,
+          "rotation_time": 11.25,
+          "distance": 12.6,
+          "artillery_id": 3317673680,
+          "artillery_id_str": "PJUA932",
+          "slots": {
+            "0": {
+              "barrels": 2,
+              "name": "100 mm/65 Type98",
+              "guns": 5
+            }
+          },
+          "gun_rate": 20
+        },
+        "torpedoes": {
+          "visibility_dist": 1.7,
+          "distance": 12,
+          "torpedoes_id": 3344314064,
+          "torpedo_name": "Type93 mod. 3",
+          "reload_time": 171,
+          "torpedo_speed": 67,
+          "rotation_time": 7.2,
+          "torpedoes_id_str": "PJUT906",
+          "slots": {
+            "0": {
+              "barrels": 6,
+              "caliber": 610,
+              "name": "610 mm Sextuple",
+              "guns": 1
+            }
+          },
+          "max_damage": 23766
+        },
+        "fighters": null,
+        "fire_control": {
+          "fire_control_id": 3347492560,
+          "distance": 12.6,
+          "distance_increase": 0,
+          "fire_control_id_str": "PJUS903"
+        },
+        "weaponry": {
+          "anti_aircraft": 72,
+          "aircraft": 0,
+          "artillery": 20,
+          "torpedoes": 22
+        },
+        "battle_level_range_max": 10,
+        "battle_level_range_min": 10,
+        "flight_control": null,
+        "concealment": {
+          "total": 84,
+          "detect_distance_by_plane": 4.2,
+          "detect_distance_by_ship": 7.9
+        },
+        "armour": {
+          "casemate": {
+            "max": -1,
+            "min": -1
+          },
+          "flood_prob": 0,
+          "deck": {
+            "max": -1,
+            "min": -1
+          },
+          "flood_damage": 0,
+          "range": {
+            "max": 20,
+            "min": 13
+          },
+          "health": 25600,
+          "extremities": {
+            "max": -1,
+            "min": -1
+          },
+          "total": 41,
+          "citadel": {
+            "max": -1,
+            "min": -1
+          }
+        },
+        "dive_bomber": null
+      },
+      "name": "Harugumo",
+      "modules_tree": {
+        "3307056848": {
+          "name": "Propulsion: 79,240 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1650000,
+          "next_ships": null,
+          "module_id": 3307056848,
+          "type": "Engine",
+          "module_id_str": "PJUE942"
+        },
+        "3317673680": {
+          "name": "100 mm/65 Type98",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1700000,
+          "next_ships": null,
+          "module_id": 3317673680,
+          "type": "Artillery",
+          "module_id_str": "PJUA932"
+        },
+        "3342216912": {
+          "name": "Type F3",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 30000,
+          "price_credit": 2500000,
+          "next_ships": null,
+          "module_id": 3342216912,
+          "type": "Torpedoes",
+          "module_id_str": "PJUT908"
+        },
+        "3344314064": {
+          "name": "Type93 mod. 3",
+          "next_modules": [
+            3342216912
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2500000,
+          "next_ships": null,
+          "module_id": 3344314064,
+          "type": "Torpedoes",
+          "module_id_str": "PJUT906"
+        },
+        "3347492560": {
+          "name": "Type10 mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1100000,
+          "next_ships": null,
+          "module_id": 3347492560,
+          "type": "Suo",
+          "module_id_str": "PJUS903"
+        },
+        "3348901584": {
+          "name": "Harugumo (A)",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2000000,
+          "next_ships": null,
+          "module_id": 3348901584,
+          "type": "Hull",
+          "module_id_str": "PJUH902"
+        }
+      }
+    }
+  }
+}

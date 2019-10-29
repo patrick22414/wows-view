@@ -1,0 +1,221 @@
+{
+  "status": "ok",
+  "meta": {
+    "count": 1,
+    "page_total": 1,
+    "total": 1,
+    "limit": 100,
+    "page": 1
+  },
+  "data": {
+    "4277024464": {
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD017_e674ae3673bb6ca14a72b76a2e5cc071ea1ec38e81fc44ee782813139b97061f.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSD017_101147dac7eb547cbb2abef31a97e31a751f2948fc4c25ca7b285dbdf0579645.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSD017_9bc20018b70c66a9bfe030fc30f9e1c0fd13cf5afeba4931ea742f6963781879.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSD017_f1c69825c51d59c17754bb4b74b73c15963dce5f95a7b4f064fe6d388fca23e6.png"
+      },
+      "next_ships": {},
+      "default_profile": {
+        "engine": {
+          "engine_id_str": "PJUE431",
+          "max_speed": 37.5,
+          "engine_id": 3842879184
+        },
+        "torpedo_bomber": null,
+        "anti_aircraft": {
+          "slots": {
+            "0": {
+              "distance": 0,
+              "avg_damage": 3,
+              "caliber": 7,
+              "name": "7.7 mm/80 Type92",
+              "guns": 2
+            }
+          },
+          "defense": 2
+        },
+        "mobility": {
+          "rudder_time": 2.9,
+          "total": 70,
+          "turning_radius": 550,
+          "max_speed": 37.5
+        },
+        "hull": {
+          "hull_id": 3821809360,
+          "hull_id_str": "PJUH451",
+          "torpedoes_barrels": 3,
+          "anti_aircraft_barrels": 2,
+          "range": {
+            "max": 18,
+            "min": 6
+          },
+          "health": 11100,
+          "planes_amount": 0,
+          "artillery_barrels": 4,
+          "atba_barrels": 0
+        },
+        "atbas": null,
+        "artillery": {
+          "max_dispersion": 80,
+          "shells": {
+            "AP": {
+              "burn_probability": null,
+              "bullet_speed": 825,
+              "name": "120 mm AP Type0",
+              "damage": 2000,
+              "bullet_mass": 20,
+              "type": "AP"
+            },
+            "HE": {
+              "burn_probability": 8,
+              "bullet_speed": 825,
+              "name": "120 mm HE Type1",
+              "damage": 2000,
+              "bullet_mass": 20,
+              "type": "HE"
+            }
+          },
+          "shot_delay": 10,
+          "rotation_time": 25.71,
+          "distance": 8.7,
+          "artillery_id": 3832524496,
+          "artillery_id_str": "PJUA441",
+          "slots": {
+            "0": {
+              "barrels": 1,
+              "name": "120 mm/45 3rd Year Type",
+              "guns": 4
+            }
+          },
+          "gun_rate": 6
+        },
+        "torpedoes": {
+          "visibility_dist": 1.4,
+          "distance": 7,
+          "torpedoes_id": 3842387664,
+          "torpedo_name": "Type 92",
+          "reload_time": 47,
+          "torpedo_speed": 68,
+          "rotation_time": 7.2,
+          "torpedoes_id_str": "PJUT431",
+          "slots": {
+            "0": {
+              "barrels": 2,
+              "caliber": 533,
+              "name": "533 mm Twin",
+              "guns": 3
+            }
+          },
+          "max_damage": 14400
+        },
+        "fighters": null,
+        "fire_control": {
+          "fire_control_id": 3831934672,
+          "distance": 8.7,
+          "distance_increase": 0,
+          "fire_control_id_str": "PJUS441"
+        },
+        "weaponry": {
+          "anti_aircraft": 2,
+          "aircraft": 0,
+          "artillery": 14,
+          "torpedoes": 20
+        },
+        "battle_level_range_max": 7,
+        "battle_level_range_min": 5,
+        "flight_control": null,
+        "concealment": {
+          "total": 94,
+          "detect_distance_by_plane": 2.5,
+          "detect_distance_by_ship": 6.2
+        },
+        "armour": {
+          "casemate": {
+            "max": -1,
+            "min": -1
+          },
+          "flood_prob": 0,
+          "deck": {
+            "max": -1,
+            "min": -1
+          },
+          "flood_damage": 0,
+          "range": {
+            "max": 18,
+            "min": 6
+          },
+          "health": 11100,
+          "extremities": {
+            "max": -1,
+            "min": -1
+          },
+          "total": 18,
+          "citadel": {
+            "max": -1,
+            "min": -1
+          }
+        },
+        "dive_bomber": null
+      },
+      "name": "Fūjin",
+      "modules_tree": {
+        "3821809360": {
+          "name": "Fūjin",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3821809360,
+          "type": "Hull",
+          "module_id_str": "PJUH451"
+        },
+        "3831934672": {
+          "name": "Type5 mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3831934672,
+          "type": "Suo",
+          "module_id_str": "PJUS441"
+        },
+        "3832524496": {
+          "name": "120 mm/45 3rd Year Type",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3832524496,
+          "type": "Artillery",
+          "module_id_str": "PJUA441"
+        },
+        "3842387664": {
+          "name": "Type 92",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3842387664,
+          "type": "Torpedoes",
+          "module_id_str": "PJUT431"
+        },
+        "3842879184": {
+          "name": "Propulsion: 38,500 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3842879184,
+          "type": "Engine",
+          "module_id_str": "PJUE431"
+        }
+      }
+    }
+  }
+}

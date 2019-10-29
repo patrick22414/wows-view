@@ -1,0 +1,292 @@
+{
+  "status": "ok",
+  "meta": {
+    "count": 1,
+    "page_total": 1,
+    "total": 1,
+    "limit": 100,
+    "page": 1
+  },
+  "data": {
+    "4282300112": {
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC012_49a90dabd944968fe21ce60cefb889d49d4562e8be3f0202b2b2b71e0c4481b2.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSC012_e75b704aef9e9c7d817e3e8d7dee55d59aba1e82fbfdd74f0bde69d3b7bbd25b.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSC012_f4e40a1e8226b4af671c894e67659c87bc244d6cd19bde5a7b03272bc204637f.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSC012_037404362004bdc40e1e951f5d13ea21684a19bf6cc5541c1bd24ef6960b1a5f.png"
+      },
+      "next_ships": {
+        "4259231440": 238000
+      },
+      "default_profile": {
+        "engine": {
+          "engine_id_str": "PJUE831",
+          "max_speed": 35,
+          "engine_id": 3423448784
+        },
+        "torpedo_bomber": null,
+        "anti_aircraft": {
+          "slots": {
+            "0": {
+              "distance": 0.1,
+              "avg_damage": 39,
+              "caliber": 25,
+              "name": "25 mm/60 Type96 Triple mod. 1",
+              "guns": 12
+            },
+            "1": {
+              "distance": 0.1,
+              "avg_damage": 50,
+              "caliber": 25,
+              "name": "25 mm/60 Type96 mod. 1",
+              "guns": 28
+            },
+            "2": {
+              "distance": 0.2,
+              "avg_damage": 83,
+              "caliber": 100,
+              "name": "100 mm/65 Type98",
+              "guns": 4
+            }
+          },
+          "defense": 63
+        },
+        "mobility": {
+          "rudder_time": 9.5,
+          "total": 58,
+          "turning_radius": 770,
+          "max_speed": 35
+        },
+        "hull": {
+          "hull_id": 3444322000,
+          "hull_id_str": "PJUH811",
+          "torpedoes_barrels": 4,
+          "anti_aircraft_barrels": 44,
+          "range": {
+            "max": 140,
+            "min": 6
+          },
+          "health": 35100,
+          "planes_amount": 0,
+          "artillery_barrels": 5,
+          "atba_barrels": 4
+        },
+        "atbas": {
+          "distance": 5,
+          "slots": {
+            "0": {
+              "burn_probability": 6,
+              "bullet_speed": 1000,
+              "name": "100 mm HE Type98",
+              "shot_delay": 2,
+              "damage": 1700,
+              "bullet_mass": 13,
+              "type": "HE",
+              "gun_rate": 21
+            }
+          }
+        },
+        "artillery": {
+          "max_dispersion": 127,
+          "shells": {
+            "AP": {
+              "burn_probability": null,
+              "bullet_speed": 840,
+              "name": "203 mm AP Type91",
+              "damage": 4700,
+              "bullet_mass": 126,
+              "type": "AP"
+            },
+            "HE": {
+              "burn_probability": 17,
+              "bullet_speed": 840,
+              "name": "203 mm HE Type0",
+              "damage": 3300,
+              "bullet_mass": 126,
+              "type": "HE"
+            }
+          },
+          "shot_delay": 13,
+          "rotation_time": 30,
+          "distance": 15,
+          "artillery_id": 3434065616,
+          "artillery_id_str": "PJUA821",
+          "slots": {
+            "0": {
+              "barrels": 2,
+              "name": "203 mm/50 3rd Year Type mod. E",
+              "guns": 5
+            }
+          },
+          "gun_rate": 4.4
+        },
+        "torpedoes": {
+          "visibility_dist": 1.6,
+          "distance": 10,
+          "torpedoes_id": 3454414544,
+          "torpedo_name": "Type90 mod. 1",
+          "reload_time": 101,
+          "torpedo_speed": 62,
+          "rotation_time": 7.2,
+          "torpedoes_id_str": "PJUT801",
+          "slots": {
+            "0": {
+              "barrels": 4,
+              "caliber": 610,
+              "name": "610 mm Quad",
+              "guns": 4
+            }
+          },
+          "max_damage": 17233
+        },
+        "fighters": null,
+        "fire_control": {
+          "fire_control_id": 3433475792,
+          "distance": 15,
+          "distance_increase": 0,
+          "fire_control_id_str": "PJUS821"
+        },
+        "weaponry": {
+          "anti_aircraft": 63,
+          "aircraft": 0,
+          "artillery": 64,
+          "torpedoes": 49
+        },
+        "battle_level_range_max": 10,
+        "battle_level_range_min": 9,
+        "flight_control": null,
+        "concealment": {
+          "total": 56,
+          "detect_distance_by_plane": 7.2,
+          "detect_distance_by_ship": 12.6
+        },
+        "armour": {
+          "casemate": {
+            "max": -1,
+            "min": -1
+          },
+          "flood_prob": 16,
+          "deck": {
+            "max": -1,
+            "min": -1
+          },
+          "flood_damage": 25,
+          "range": {
+            "max": 140,
+            "min": 6
+          },
+          "health": 35100,
+          "extremities": {
+            "max": -1,
+            "min": -1
+          },
+          "total": 50,
+          "citadel": {
+            "max": -1,
+            "min": -1
+          }
+        },
+        "dive_bomber": null
+      },
+      "name": "Ibuki",
+      "modules_tree": {
+        "3423448784": {
+          "name": "Propulsion: 152,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 800000,
+          "next_ships": null,
+          "module_id": 3423448784,
+          "type": "Engine",
+          "module_id_str": "PJUE831"
+        },
+        "3432427216": {
+          "name": "Type9 mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 22000,
+          "price_credit": 2000000,
+          "next_ships": null,
+          "module_id": 3432427216,
+          "type": "Suo",
+          "module_id_str": "PJUS822"
+        },
+        "3433475792": {
+          "name": "Type9 mod. 1",
+          "next_modules": [
+            3432427216
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 800000,
+          "next_ships": null,
+          "module_id": 3433475792,
+          "type": "Suo",
+          "module_id_str": "PJUS821"
+        },
+        "3434065616": {
+          "name": "203 mm/50 Type3",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1000000,
+          "next_ships": null,
+          "module_id": 3434065616,
+          "type": "Artillery",
+          "module_id_str": "PJUA821"
+        },
+        "3443273424": {
+          "name": "Ibuki (B)",
+          "next_modules": [
+            3453365968
+          ],
+          "is_default": false,
+          "price_xp": 42000,
+          "price_credit": 3000000,
+          "next_ships": [
+            4259231440
+          ],
+          "module_id": 3443273424,
+          "type": "Hull",
+          "module_id_str": "PJUH812"
+        },
+        "3444322000": {
+          "name": "Ibuki (A)",
+          "next_modules": [
+            3443273424
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1100000,
+          "next_ships": null,
+          "module_id": 3444322000,
+          "type": "Hull",
+          "module_id_str": "PJUH811"
+        },
+        "3453365968": {
+          "name": "Type93 mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 20000,
+          "price_credit": 1800000,
+          "next_ships": null,
+          "module_id": 3453365968,
+          "type": "Torpedoes",
+          "module_id_str": "PJUT802"
+        },
+        "3454414544": {
+          "name": "Type90 mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1300000,
+          "next_ships": null,
+          "module_id": 3454414544,
+          "type": "Torpedoes",
+          "module_id_str": "PJUT801"
+        }
+      }
+    }
+  }
+}

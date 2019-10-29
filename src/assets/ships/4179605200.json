@@ -1,0 +1,300 @@
+{
+  "status": "ok",
+  "meta": {
+    "count": 1,
+    "page_total": 1,
+    "total": 1,
+    "limit": 100,
+    "page": 1
+  },
+  "data": {
+    "4179605200": {
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSA110_00695fda2927f4e847c390fef1fc00a72ecb9eeebb7cfa439fdb696dea539764.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSA110_926851195456a89c04bb5ff56b79f430b41c10be736a902850e2499f8263f2e3.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSA110_d20c3b0a0057ce03fc3fc8e665378de547b6bcd30d42a13fad1afb5895bc0d3e.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSA110_73bb8fb1f36a9c378d115898a74862a4537d78da7b6e6dce193d252927469b04.png"
+      },
+      "next_ships": {},
+      "default_profile": {
+        "engine": {
+          "engine_id_str": "PJUE922",
+          "max_speed": 34.5,
+          "engine_id": 3328028368
+        },
+        "torpedo_bomber": {
+          "torpedo_distance": 6,
+          "plane_level": 9,
+          "squadrons": 1,
+          "name": "C6N Saiun",
+          "cruise_speed": 141,
+          "prepare_time": 0,
+          "torpedo_damage": 9333,
+          "count_in_squadron": {
+            "max": 9,
+            "min": 9
+          },
+          "torpedo_max_speed": 50,
+          "torpedo_bomber_id_str": "PJUB903",
+          "gunner_damage": 0,
+          "max_damage": 9333,
+          "max_health": 1750,
+          "torpedo_bomber_id": 3348049616,
+          "torpedo_name": "Type 91 mod. 7"
+        },
+        "anti_aircraft": {
+          "slots": {
+            "0": {
+              "distance": 0.1,
+              "avg_damage": 242,
+              "caliber": 40,
+              "name": "40 mm/60 Type5",
+              "guns": 22
+            },
+            "1": {
+              "distance": 0.2,
+              "avg_damage": 249,
+              "caliber": 100,
+              "name": "100 mm/65 Type98",
+              "guns": 12
+            }
+          },
+          "defense": 99
+        },
+        "mobility": {
+          "rudder_time": 17.1,
+          "total": 46,
+          "turning_radius": 1250,
+          "max_speed": 34.5
+        },
+        "hull": {
+          "hull_id": 3317444304,
+          "hull_id_str": "PJUH932",
+          "torpedoes_barrels": 0,
+          "anti_aircraft_barrels": 34,
+          "range": {
+            "max": 165,
+            "min": 13
+          },
+          "health": 63100,
+          "planes_amount": 100,
+          "artillery_barrels": 0,
+          "atba_barrels": 12
+        },
+        "atbas": {
+          "distance": 5,
+          "slots": {
+            "0": {
+              "burn_probability": 6,
+              "bullet_speed": 1000,
+              "name": "100 mm HE Type98",
+              "shot_delay": 2,
+              "damage": 1700,
+              "bullet_mass": 13,
+              "type": "HE",
+              "gun_rate": 21
+            }
+          }
+        },
+        "artillery": null,
+        "torpedoes": null,
+        "fighters": {
+          "fighters_id": 3347820240,
+          "squadrons": 1,
+          "name": "A7M Reppū",
+          "cruise_speed": 156,
+          "prepare_time": 0,
+          "gunner_damage": 0,
+          "fighters_id_str": "PJUI903",
+          "count_in_squadron": {
+            "max": 9,
+            "min": 9
+          },
+          "max_ammo": 0,
+          "plane_level": 9,
+          "avg_damage": 0,
+          "max_health": 1450
+        },
+        "fire_control": null,
+        "weaponry": {
+          "anti_aircraft": 99,
+          "aircraft": 7,
+          "artillery": 8,
+          "torpedoes": 0
+        },
+        "battle_level_range_max": 10,
+        "battle_level_range_min": 10,
+        "flight_control": {
+          "flight_control_id_str": "PJUF991",
+          "bomber_squadrons": 1,
+          "torpedo_squadrons": 1,
+          "flight_control_id": 3255643856,
+          "fighter_squadrons": 1
+        },
+        "concealment": {
+          "total": 32,
+          "detect_distance_by_plane": 11.4,
+          "detect_distance_by_ship": 15.7
+        },
+        "armour": {
+          "casemate": {
+            "max": -1,
+            "min": -1
+          },
+          "flood_prob": 16,
+          "deck": {
+            "max": -1,
+            "min": -1
+          },
+          "flood_damage": 25,
+          "range": {
+            "max": 165,
+            "min": 13
+          },
+          "health": 63100,
+          "extremities": {
+            "max": -1,
+            "min": -1
+          },
+          "total": 82,
+          "citadel": {
+            "max": -1,
+            "min": -1
+          }
+        },
+        "dive_bomber": {
+          "squadrons": 1,
+          "name": "A7M Reppū",
+          "cruise_speed": 148,
+          "dive_bomber_id": 3347984080,
+          "prepare_time": 0,
+          "gunner_damage": 0,
+          "bomb_damage": 8500,
+          "count_in_squadron": {
+            "max": 9,
+            "min": 9
+          },
+          "bomb_name": "Type 99 No. 80 Mk. 5",
+          "bomb_bullet_mass": 811,
+          "plane_level": 9,
+          "bomb_burn_probability": 0,
+          "max_damage": 8500,
+          "max_health": 1720,
+          "dive_bomber_id_str": "PJUD903",
+          "accuracy": {
+            "max": 140,
+            "min": 35
+          }
+        }
+      },
+      "name": "Hakuryū",
+      "modules_tree": {
+        "3255643856": {
+          "name": "Type10 mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1100000,
+          "next_ships": null,
+          "module_id": 3255643856,
+          "type": "FlightControl",
+          "module_id_str": "PJUF991"
+        },
+        "3317444304": {
+          "name": "Hakuryū (A)",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 3000000,
+          "next_ships": null,
+          "module_id": 3317444304,
+          "type": "Hull",
+          "module_id_str": "PJUH932"
+        },
+        "3328028368": {
+          "name": "Propulsion: 240,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 900000,
+          "next_ships": null,
+          "module_id": 3328028368,
+          "type": "Engine",
+          "module_id_str": "PJUE922"
+        },
+        "3346771664": {
+          "name": "A8M Rikufū",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 38000,
+          "price_credit": 2500000,
+          "next_ships": null,
+          "module_id": 3346771664,
+          "type": "Fighter",
+          "module_id_str": "PJUI904"
+        },
+        "3346935504": {
+          "name": "J5N Tenrai",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 38000,
+          "price_credit": 2500000,
+          "next_ships": null,
+          "module_id": 3346935504,
+          "type": "DiveBomber",
+          "module_id_str": "PJUD904"
+        },
+        "3347001040": {
+          "name": "J5N Tenrai\nType 91 mod. 7",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 38000,
+          "price_credit": 2500000,
+          "next_ships": null,
+          "module_id": 3347001040,
+          "type": "TorpedoBomber",
+          "module_id_str": "PJUB904"
+        },
+        "3347820240": {
+          "name": "A7M Reppū",
+          "next_modules": [
+            3346771664
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1000000,
+          "next_ships": null,
+          "module_id": 3347820240,
+          "type": "Fighter",
+          "module_id_str": "PJUI903"
+        },
+        "3347984080": {
+          "name": "A7M Reppū",
+          "next_modules": [
+            3346935504
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1000000,
+          "next_ships": null,
+          "module_id": 3347984080,
+          "type": "DiveBomber",
+          "module_id_str": "PJUD903"
+        },
+        "3348049616": {
+          "name": "C6N Saiun",
+          "next_modules": [
+            3347001040
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1000000,
+          "next_ships": null,
+          "module_id": 3348049616,
+          "type": "TorpedoBomber",
+          "module_id_str": "PJUB903"
+        }
+      }
+    }
+  }
+}

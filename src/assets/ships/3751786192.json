@@ -1,0 +1,288 @@
+{
+  "status": "ok",
+  "meta": {
+    "count": 1,
+    "page_total": 1,
+    "total": 1,
+    "limit": 100,
+    "page": 1
+  },
+  "data": {
+    "3751786192": {
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSA518_12ef9eaa534e14ae966d5c5af03277e8c9142ae157cbdf76b4a49afe9fc7910f.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSA518_7630ac57accf86ef680cbd63f6dfed2a91a31e29a4f3611d6f0bb0b6008b8988.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSA518_c4d89c3ff8cecfb4d0d469a8da386cec26354fb4539c2ff11685f3f2589f8583.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSA518_57ddc269897705a11e163b5dfcba4aee9775a1807e98033759a966e4f98ec522.png"
+      },
+      "next_ships": {},
+      "default_profile": {
+        "engine": {
+          "engine_id_str": "PJUE506",
+          "max_speed": 28,
+          "engine_id": 3764235984
+        },
+        "torpedo_bomber": {
+          "torpedo_distance": 5,
+          "plane_level": 7,
+          "squadrons": 1,
+          "name": "B6N Tenzan",
+          "cruise_speed": 133,
+          "prepare_time": 0,
+          "torpedo_damage": 5400,
+          "count_in_squadron": {
+            "max": 8,
+            "min": 8
+          },
+          "torpedo_max_speed": 50,
+          "torpedo_bomber_id_str": "PJUB013",
+          "gunner_damage": 0,
+          "max_damage": 5400,
+          "max_health": 1600,
+          "torpedo_bomber_id": 4281282256,
+          "torpedo_name": "Type 91 mod. 1"
+        },
+        "anti_aircraft": {
+          "slots": {
+            "0": {
+              "distance": 0.1,
+              "avg_damage": 37,
+              "caliber": 25,
+              "name": "25 mm/60 Type96 Twin mod. 1",
+              "guns": 14
+            },
+            "1": {
+              "distance": 0.2,
+              "avg_damage": 60,
+              "caliber": 127,
+              "name": "127 mm/40 Type89 A1",
+              "guns": 6
+            },
+            "2": {
+              "distance": 0.2,
+              "avg_damage": 20,
+              "caliber": 127,
+              "name": "127 mm/40 Type89 A1 mod. 2",
+              "guns": 2
+            }
+          },
+          "defense": 60
+        },
+        "mobility": {
+          "rudder_time": 14.4,
+          "total": 35,
+          "turning_radius": 1080,
+          "max_speed": 28
+        },
+        "hull": {
+          "hull_id": 3720097488,
+          "hull_id_str": "PJUH548",
+          "torpedoes_barrels": 0,
+          "anti_aircraft_barrels": 22,
+          "range": {
+            "max": 152,
+            "min": 1
+          },
+          "health": 54200,
+          "planes_amount": 85,
+          "artillery_barrels": 0,
+          "atba_barrels": 18
+        },
+        "atbas": {
+          "distance": 4.5,
+          "slots": {
+            "0": {
+              "burn_probability": 17,
+              "bullet_speed": 870,
+              "name": "200 mm Common Type4 HE",
+              "shot_delay": 15,
+              "damage": 3300,
+              "bullet_mass": 110,
+              "type": "HE",
+              "gun_rate": 4
+            },
+            "1": {
+              "burn_probability": 8,
+              "bullet_speed": 725,
+              "name": "127 mm HE Type0",
+              "shot_delay": 6,
+              "damage": 2100,
+              "bullet_mass": 23,
+              "type": "HE",
+              "gun_rate": 10
+            },
+            "2": {
+              "burn_probability": 8,
+              "bullet_speed": 725,
+              "name": "127 mm HE Type0",
+              "shot_delay": 5,
+              "damage": 2100,
+              "bullet_mass": 23,
+              "type": "HE",
+              "gun_rate": 12
+            }
+          }
+        },
+        "artillery": null,
+        "torpedoes": null,
+        "fighters": {
+          "fighters_id": 4270567120,
+          "squadrons": 1,
+          "name": "A6M5 Zero",
+          "cruise_speed": 144,
+          "prepare_time": 0,
+          "gunner_damage": 0,
+          "fighters_id_str": "PJUI023",
+          "count_in_squadron": {
+            "max": 8,
+            "min": 8
+          },
+          "max_ammo": 0,
+          "plane_level": 7,
+          "avg_damage": 0,
+          "max_health": 1330
+        },
+        "fire_control": null,
+        "weaponry": {
+          "anti_aircraft": 60,
+          "aircraft": 6,
+          "artillery": 6,
+          "torpedoes": 0
+        },
+        "battle_level_range_max": 10,
+        "battle_level_range_min": 8,
+        "flight_control": {
+          "flight_control_id_str": "PJUF792",
+          "bomber_squadrons": 1,
+          "torpedo_squadrons": 1,
+          "flight_control_id": 3464310480,
+          "fighter_squadrons": 1
+        },
+        "concealment": {
+          "total": 47,
+          "detect_distance_by_plane": 10.9,
+          "detect_distance_by_ship": 12.6
+        },
+        "armour": {
+          "casemate": {
+            "max": -1,
+            "min": -1
+          },
+          "flood_prob": 22,
+          "deck": {
+            "max": -1,
+            "min": -1
+          },
+          "flood_damage": 25,
+          "range": {
+            "max": 152,
+            "min": 1
+          },
+          "health": 54200,
+          "extremities": {
+            "max": -1,
+            "min": -1
+          },
+          "total": 69,
+          "citadel": {
+            "max": -1,
+            "min": -1
+          }
+        },
+        "dive_bomber": {
+          "squadrons": 1,
+          "name": "D4Y3 Suisei",
+          "cruise_speed": 142,
+          "dive_bomber_id": 4282265296,
+          "prepare_time": 0,
+          "gunner_damage": 0,
+          "bomb_damage": 8800,
+          "count_in_squadron": {
+            "max": 8,
+            "min": 8
+          },
+          "bomb_name": "Type 90 No. 50 Mk. 2",
+          "bomb_bullet_mass": 507,
+          "plane_level": 7,
+          "bomb_burn_probability": 50,
+          "max_damage": 8800,
+          "max_health": 1580,
+          "dive_bomber_id_str": "PJUD012",
+          "accuracy": {
+            "max": 120,
+            "min": 30
+          }
+        }
+      },
+      "name": "Kaga",
+      "modules_tree": {
+        "3464310480": {
+          "name": "Type8 mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3464310480,
+          "type": "FlightControl",
+          "module_id_str": "PJUF792"
+        },
+        "3720097488": {
+          "name": "Kaga",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3720097488,
+          "type": "Hull",
+          "module_id_str": "PJUH548"
+        },
+        "3764235984": {
+          "name": "Propulsion: 125,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3764235984,
+          "type": "Engine",
+          "module_id_str": "PJUE506"
+        },
+        "4270567120": {
+          "name": "A6M5 Zero",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4270567120,
+          "type": "Fighter",
+          "module_id_str": "PJUI023"
+        },
+        "4281282256": {
+          "name": "B6N Tenzan",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4281282256,
+          "type": "TorpedoBomber",
+          "module_id_str": "PJUB013"
+        },
+        "4282265296": {
+          "name": "D4Y3 Suisei",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4282265296,
+          "type": "DiveBomber",
+          "module_id_str": "PJUD012"
+        }
+      }
+    }
+  }
+}

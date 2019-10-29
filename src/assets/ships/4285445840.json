@@ -1,0 +1,304 @@
+{
+  "status": "ok",
+  "meta": {
+    "count": 1,
+    "page_total": 1,
+    "total": 1,
+    "limit": 100,
+    "page": 1
+  },
+  "data": {
+    "4285445840": {
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC009_33e71e78734f0619b10f8c02cbcf7028c774fcf2fda26a6a1a5be811ad036a9a.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSC009_36079ee3a441f0cab8a872093138167ee46d576abcb23f594a1ae324a4811a20.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSC009_a6c6eda973e2bf02418bc2f672cc2492b704faaa5995a4086540baac49892dc5.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSC009_ffebda402eb6517b771dc7384f33bd913d1adb4b2c271d4edca8f1c01e91902b.png"
+      },
+      "next_ships": {
+        "4282300112": 151000
+      },
+      "default_profile": {
+        "engine": {
+          "engine_id_str": "PJUE711",
+          "max_speed": 34.5,
+          "engine_id": 3549277904
+        },
+        "torpedo_bomber": null,
+        "anti_aircraft": {
+          "slots": {
+            "0": {
+              "distance": 0,
+              "avg_damage": 4,
+              "caliber": 13,
+              "name": "13 mm/76 Type93 Twin",
+              "guns": 2
+            },
+            "1": {
+              "distance": 0.1,
+              "avg_damage": 10,
+              "caliber": 25,
+              "name": "25 mm/60 Type96 Twin mod. 1",
+              "guns": 4
+            },
+            "2": {
+              "distance": 0.2,
+              "avg_damage": 40,
+              "caliber": 127,
+              "name": "127 mm/40 Type89 A1",
+              "guns": 4
+            }
+          },
+          "defense": 43
+        },
+        "mobility": {
+          "rudder_time": 9.3,
+          "total": 57,
+          "turning_radius": 750,
+          "max_speed": 34.5
+        },
+        "hull": {
+          "hull_id": 3643551440,
+          "hull_id_str": "PJUH621",
+          "torpedoes_barrels": 4,
+          "anti_aircraft_barrels": 10,
+          "range": {
+            "max": 140,
+            "min": 6
+          },
+          "health": 35500,
+          "planes_amount": 0,
+          "artillery_barrels": 5,
+          "atba_barrels": 4
+        },
+        "atbas": {
+          "distance": 5,
+          "slots": {
+            "0": {
+              "burn_probability": 8,
+              "bullet_speed": 725,
+              "name": "127 mm HE Type0",
+              "shot_delay": 5,
+              "damage": 2100,
+              "bullet_mass": 23,
+              "type": "HE",
+              "gun_rate": 12
+            }
+          }
+        },
+        "artillery": {
+          "max_dispersion": 131,
+          "shells": {
+            "AP": {
+              "burn_probability": null,
+              "bullet_speed": 925,
+              "name": "155 mm AP/APC Type91",
+              "damage": 3300,
+              "bullet_mass": 56,
+              "type": "AP"
+            },
+            "HE": {
+              "burn_probability": 10,
+              "bullet_speed": 925,
+              "name": "155 mm HE Type0",
+              "damage": 2600,
+              "bullet_mass": 56,
+              "type": "HE"
+            }
+          },
+          "shot_delay": 10,
+          "rotation_time": 36,
+          "distance": 14.2,
+          "artillery_id": 3538923216,
+          "artillery_id_str": "PJUA721",
+          "slots": {
+            "0": {
+              "barrels": 3,
+              "name": "155 mm/60 3rd Year Type",
+              "guns": 5
+            }
+          },
+          "gun_rate": 6
+        },
+        "torpedoes": {
+          "visibility_dist": 1.6,
+          "distance": 10,
+          "torpedoes_id": 3559272144,
+          "torpedo_name": "Type90 mod. 1",
+          "reload_time": 101,
+          "torpedo_speed": 62,
+          "rotation_time": 7.2,
+          "torpedoes_id_str": "PJUT701",
+          "slots": {
+            "0": {
+              "barrels": 4,
+              "caliber": 610,
+              "name": "610 mm Quad",
+              "guns": 4
+            }
+          },
+          "max_damage": 17233
+        },
+        "fighters": null,
+        "fire_control": {
+          "fire_control_id": 3643190992,
+          "distance": 14.2,
+          "distance_increase": 0,
+          "fire_control_id_str": "PJUS621"
+        },
+        "weaponry": {
+          "anti_aircraft": 43,
+          "aircraft": 0,
+          "artillery": 52,
+          "torpedoes": 49
+        },
+        "battle_level_range_max": 10,
+        "battle_level_range_min": 8,
+        "flight_control": null,
+        "concealment": {
+          "total": 58,
+          "detect_distance_by_plane": 7.2,
+          "detect_distance_by_ship": 12.1
+        },
+        "armour": {
+          "casemate": {
+            "max": -1,
+            "min": -1
+          },
+          "flood_prob": 10,
+          "deck": {
+            "max": -1,
+            "min": -1
+          },
+          "flood_damage": 25,
+          "range": {
+            "max": 140,
+            "min": 6
+          },
+          "health": 35500,
+          "extremities": {
+            "max": -1,
+            "min": -1
+          },
+          "total": 49,
+          "citadel": {
+            "max": -1,
+            "min": -1
+          }
+        },
+        "dive_bomber": null
+      },
+      "name": "Mogami",
+      "modules_tree": {
+        "3537874640": {
+          "name": "203 mm/50 Type3",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 15000,
+          "price_credit": 1600000,
+          "next_ships": null,
+          "module_id": 3537874640,
+          "type": "Artillery",
+          "module_id_str": "PJUA722"
+        },
+        "3538923216": {
+          "name": "155 mm/60 3rd Year Type",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 700000,
+          "next_ships": null,
+          "module_id": 3538923216,
+          "type": "Artillery",
+          "module_id_str": "PJUA721"
+        },
+        "3549277904": {
+          "name": "Propulsion: 152,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 650000,
+          "next_ships": null,
+          "module_id": 3549277904,
+          "type": "Engine",
+          "module_id_str": "PJUE711"
+        },
+        "3559272144": {
+          "name": "Type90 mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1300000,
+          "next_ships": null,
+          "module_id": 3559272144,
+          "type": "Torpedoes",
+          "module_id_str": "PJUT701"
+        },
+        "3641454288": {
+          "name": "Mogami (C)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 28000,
+          "price_credit": 2100000,
+          "next_ships": [
+            4282300112
+          ],
+          "module_id": 3641454288,
+          "type": "Hull",
+          "module_id_str": "PJUH623"
+        },
+        "3642142416": {
+          "name": "Type8 mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 12000,
+          "price_credit": 900000,
+          "next_ships": null,
+          "module_id": 3642142416,
+          "type": "Suo",
+          "module_id_str": "PJUS622"
+        },
+        "3642502864": {
+          "name": "Mogami (B)",
+          "next_modules": [
+            3537874640,
+            3641454288
+          ],
+          "is_default": false,
+          "price_xp": 22000,
+          "price_credit": 1400000,
+          "next_ships": null,
+          "module_id": 3642502864,
+          "type": "Hull",
+          "module_id_str": "PJUH622"
+        },
+        "3643190992": {
+          "name": "Type8 mod. 1",
+          "next_modules": [
+            3642142416
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 420000,
+          "next_ships": null,
+          "module_id": 3643190992,
+          "type": "Suo",
+          "module_id_str": "PJUS621"
+        },
+        "3643551440": {
+          "name": "Mogami (A)",
+          "next_modules": [
+            3642502864
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 690000,
+          "next_ships": null,
+          "module_id": 3643551440,
+          "type": "Hull",
+          "module_id_str": "PJUH621"
+        }
+      }
+    }
+  }
+}

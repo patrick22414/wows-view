@@ -1,0 +1,259 @@
+{
+  "status": "ok",
+  "meta": {
+    "count": 1,
+    "page_total": 1,
+    "total": 1,
+    "limit": 100,
+    "page": 1
+  },
+  "data": {
+    "3764336336": {
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB506_f7afee3eeaab2267520c0e70725e9d89ea6acf2b9507b7116620abb1d518f0af.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSB506_f667172a53a12c724ed981973ff85187f9d78ecd370e3c2c56808c468c30ae00.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSB506_a9166e3ace4d7e5324ae43fafa20d51e8f5cef994f00e9ea22e27d7ff89e827c.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSB506_e1d0f8c402acf3e5c016ca535273d5b53fdad6ee69e40815420f3c5af1b904e4.png"
+      },
+      "next_ships": {},
+      "default_profile": {
+        "engine": {
+          "engine_id_str": "PJUE504",
+          "max_speed": 26.5,
+          "engine_id": 3766333136
+        },
+        "torpedo_bomber": null,
+        "anti_aircraft": {
+          "slots": {
+            "0": {
+              "distance": 0,
+              "avg_damage": 4,
+              "caliber": 7,
+              "name": "7.7 mm/80 Type92",
+              "guns": 3
+            },
+            "1": {
+              "distance": 0.1,
+              "avg_damage": 15,
+              "caliber": 40,
+              "name": "40 mm \"HI\" Type91",
+              "guns": 2
+            },
+            "2": {
+              "distance": 0.2,
+              "avg_damage": 40,
+              "caliber": 127,
+              "name": "127 mm/40 Type89 A1",
+              "guns": 4
+            }
+          },
+          "defense": 43
+        },
+        "mobility": {
+          "rudder_time": 13.7,
+          "total": 37,
+          "turning_radius": 750,
+          "max_speed": 26.5
+        },
+        "hull": {
+          "hull_id": 3755749072,
+          "hull_id_str": "PJUH514",
+          "torpedoes_barrels": 4,
+          "anti_aircraft_barrels": 9,
+          "range": {
+            "max": 330,
+            "min": 16
+          },
+          "health": 58400,
+          "planes_amount": 0,
+          "artillery_barrels": 4,
+          "atba_barrels": 24
+        },
+        "atbas": {
+          "distance": 4,
+          "slots": {
+            "0": {
+              "burn_probability": 8,
+              "bullet_speed": 725,
+              "name": "127 mm HE Type0",
+              "shot_delay": 5,
+              "damage": 2100,
+              "bullet_mass": 23,
+              "type": "HE",
+              "gun_rate": 12
+            },
+            "1": {
+              "burn_probability": 10,
+              "bullet_speed": 850,
+              "name": "140 mm HE Type0",
+              "shot_delay": 8,
+              "damage": 2400,
+              "bullet_mass": 38,
+              "type": "HE",
+              "gun_rate": 7.5
+            }
+          }
+        },
+        "artillery": {
+          "max_dispersion": 230,
+          "shells": {
+            "AP": {
+              "burn_probability": null,
+              "bullet_speed": 790,
+              "name": "410 mm AP/APC Type88",
+              "damage": 12400,
+              "bullet_mass": 1000,
+              "type": "AP"
+            },
+            "HE": {
+              "burn_probability": 30,
+              "bullet_speed": 805,
+              "name": "410 mm HE Type0",
+              "damage": 6500,
+              "bullet_mass": 939,
+              "type": "HE"
+            }
+          },
+          "shot_delay": 30,
+          "rotation_time": 47.37,
+          "distance": 20.4,
+          "artillery_id": 3757027024,
+          "artillery_id_str": "PJUA513",
+          "slots": {
+            "0": {
+              "barrels": 2,
+              "name": "410 mm/45 3rd Year Type",
+              "guns": 4
+            }
+          },
+          "gun_rate": 2
+        },
+        "torpedoes": {
+          "visibility_dist": 1.2,
+          "distance": 7,
+          "torpedoes_id": 3756404432,
+          "torpedo_name": "533 mm Type6",
+          "reload_time": 21,
+          "torpedo_speed": 57,
+          "rotation_time": 7.2,
+          "torpedoes_id_str": "PJUT513",
+          "slots": {
+            "0": {
+              "barrels": 1,
+              "caliber": 533,
+              "name": "533 mm Single",
+              "guns": 4
+            }
+          },
+          "max_damage": 10833
+        },
+        "fighters": null,
+        "fire_control": {
+          "fire_control_id": 3755388624,
+          "distance": 20.4,
+          "distance_increase": 0,
+          "fire_control_id_str": "PJUS514"
+        },
+        "weaponry": {
+          "anti_aircraft": 43,
+          "aircraft": 0,
+          "artillery": 84,
+          "torpedoes": 12
+        },
+        "battle_level_range_max": 8,
+        "battle_level_range_min": 6,
+        "flight_control": null,
+        "concealment": {
+          "total": 28,
+          "detect_distance_by_plane": 10.6,
+          "detect_distance_by_ship": 16.9
+        },
+        "armour": {
+          "casemate": {
+            "max": -1,
+            "min": -1
+          },
+          "flood_prob": 22,
+          "deck": {
+            "max": -1,
+            "min": -1
+          },
+          "flood_damage": 25,
+          "range": {
+            "max": 330,
+            "min": 16
+          },
+          "health": 58400,
+          "extremities": {
+            "max": -1,
+            "min": -1
+          },
+          "total": 70,
+          "citadel": {
+            "max": -1,
+            "min": -1
+          }
+        },
+        "dive_bomber": null
+      },
+      "name": "Mutsu",
+      "modules_tree": {
+        "3755388624": {
+          "name": "Type6 mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3755388624,
+          "type": "Suo",
+          "module_id_str": "PJUS514"
+        },
+        "3755749072": {
+          "name": "Mutsu",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3755749072,
+          "type": "Hull",
+          "module_id_str": "PJUH514"
+        },
+        "3756404432": {
+          "name": "Type 6",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3756404432,
+          "type": "Torpedoes",
+          "module_id_str": "PJUT513"
+        },
+        "3757027024": {
+          "name": "410 mm/45 Type3",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3757027024,
+          "type": "Artillery",
+          "module_id_str": "PJUA513"
+        },
+        "3766333136": {
+          "name": "Propulsion: 80,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3766333136,
+          "type": "Engine",
+          "module_id_str": "PJUE504"
+        }
+      }
+    }
+  }
+}

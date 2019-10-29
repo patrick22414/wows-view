@@ -1,0 +1,202 @@
+{
+  "status": "ok",
+  "meta": {
+    "count": 1,
+    "page_total": 1,
+    "total": 1,
+    "limit": 100,
+    "page": 1
+  },
+  "data": {
+    "4256085712": {
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC037_2070cb19579c77e4fb7586891286347b81eb9f30cd809d10dc3eaf802c546267.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSC037_9000e9b4c60efbd5e9d68cfafd528b44d17cb445eb3b9393aabef8e10528f8e1.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSC037_cfb31b3b6311c4e87d843d627b477c0aa53b4e5dfdc8780acc1c2cb01cf1df58.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSC037_10811389a1a4eb45b8dc510d5c6b27a77b5b1eef188c0d169bf12ed78d37d018.png"
+      },
+      "next_ships": {
+        "4258182864": 350
+      },
+      "default_profile": {
+        "engine": {
+          "engine_id_str": "PJUE002",
+          "max_speed": 19.5,
+          "engine_id": 4292718288
+        },
+        "torpedo_bomber": null,
+        "anti_aircraft": {
+          "slots": {
+            "0": {
+              "distance": 0,
+              "avg_damage": 1,
+              "caliber": 25,
+              "name": "25 mm/60 Type96 Twin mod. 2",
+              "guns": 2
+            },
+            "1": {
+              "distance": 0,
+              "avg_damage": 0,
+              "caliber": 7,
+              "name": "7.7 mm/80 Type92",
+              "guns": 3
+            },
+            "2": {
+              "distance": 0.1,
+              "avg_damage": 1,
+              "caliber": 120,
+              "name": "120 mm/45 10th Year Type",
+              "guns": 2
+            }
+          },
+          "defense": 7
+        },
+        "mobility": {
+          "rudder_time": 3,
+          "total": 34,
+          "turning_radius": 270,
+          "max_speed": 19.5
+        },
+        "hull": {
+          "hull_id": 4291571408,
+          "hull_id_str": "PJUH003",
+          "torpedoes_barrels": 0,
+          "anti_aircraft_barrels": 7,
+          "range": {
+            "max": 13,
+            "min": 6
+          },
+          "health": 5150,
+          "planes_amount": 0,
+          "artillery_barrels": 2,
+          "atba_barrels": 0
+        },
+        "atbas": null,
+        "artillery": {
+          "max_dispersion": 83,
+          "shells": {
+            "HE": {
+              "burn_probability": 9,
+              "bullet_speed": 825,
+              "name": "120 mm HE Type1T",
+              "damage": 900,
+              "bullet_mass": 20,
+              "type": "HE"
+            }
+          },
+          "shot_delay": 4,
+          "rotation_time": 18,
+          "distance": 9.1,
+          "artillery_id": 4291800784,
+          "artillery_id_str": "PJUA003",
+          "slots": {
+            "0": {
+              "barrels": 2,
+              "name": "120 mm/45 10th Year Type",
+              "guns": 2
+            }
+          },
+          "gun_rate": 12.5
+        },
+        "torpedoes": null,
+        "fighters": null,
+        "fire_control": {
+          "fire_control_id": 4291210960,
+          "distance": 9.1,
+          "distance_increase": 0,
+          "fire_control_id_str": "PJUS003"
+        },
+        "weaponry": {
+          "anti_aircraft": 7,
+          "aircraft": 0,
+          "artillery": 1,
+          "torpedoes": 0
+        },
+        "battle_level_range_max": 1,
+        "battle_level_range_min": 1,
+        "flight_control": null,
+        "concealment": {
+          "total": 81,
+          "detect_distance_by_plane": 5.8,
+          "detect_distance_by_ship": 7.7
+        },
+        "armour": {
+          "casemate": {
+            "max": -1,
+            "min": -1
+          },
+          "flood_prob": 0,
+          "deck": {
+            "max": -1,
+            "min": -1
+          },
+          "flood_damage": 0,
+          "range": {
+            "max": 13,
+            "min": 6
+          },
+          "health": 5150,
+          "extremities": {
+            "max": -1,
+            "min": -1
+          },
+          "total": 4,
+          "citadel": {
+            "max": -1,
+            "min": -1
+          }
+        },
+        "dive_bomber": null
+      },
+      "name": "Hashidate",
+      "modules_tree": {
+        "4291210960": {
+          "name": "Type1 mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4291210960,
+          "type": "Suo",
+          "module_id_str": "PJUS003"
+        },
+        "4291571408": {
+          "name": "Hashidate (A)",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": [
+            4258182864
+          ],
+          "module_id": 4291571408,
+          "type": "Hull",
+          "module_id_str": "PJUH003"
+        },
+        "4291800784": {
+          "name": "120 mm/45 10th Year Type",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4291800784,
+          "type": "Artillery",
+          "module_id_str": "PJUA003"
+        },
+        "4292718288": {
+          "name": "Propulsion: 4,600 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4292718288,
+          "type": "Engine",
+          "module_id_str": "PJUE002"
+        }
+      }
+    }
+  }
+}

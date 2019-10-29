@@ -1,0 +1,271 @@
+{
+  "status": "ok",
+  "meta": {
+    "count": 1,
+    "page_total": 1,
+    "total": 1,
+    "limit": 100,
+    "page": 1
+  },
+  "data": {
+    "4185896656": {
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSA104_7d7342a688ea162287c65071f89954cf0720400daa96bccbed5f3a6dc76868c8.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSA104_0b546d162b2de6895db9521549463f0b23a76ed307a14399d218b35e9e91f02a.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSA104_057b1b984f780668b7a0f77383e8f336e063c82de78b92261071cb1f70002506.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSA104_199b916f560d858229ac088d8a2a851e37a297fe44c3bc5df2c000f9d672817b.png"
+      },
+      "next_ships": {
+        "4183799504": 68000
+      },
+      "default_profile": {
+        "engine": {
+          "engine_id_str": "PJUE352",
+          "max_speed": 25,
+          "engine_id": 3925716688
+        },
+        "torpedo_bomber": {
+          "torpedo_distance": 3,
+          "plane_level": 5,
+          "squadrons": 1,
+          "name": "B4Y Jean",
+          "cruise_speed": 97,
+          "prepare_time": 0,
+          "torpedo_damage": 5400,
+          "count_in_squadron": {
+            "max": 6,
+            "min": 6
+          },
+          "torpedo_max_speed": 40,
+          "torpedo_bomber_id_str": "PJUB303",
+          "gunner_damage": 0,
+          "max_damage": 5400,
+          "max_health": 1380,
+          "torpedo_bomber_id": 3977195216,
+          "torpedo_name": "Type 91 mod. 0"
+        },
+        "anti_aircraft": {
+          "slots": {
+            "0": {
+              "distance": 0,
+              "avg_damage": 12,
+              "caliber": 13,
+              "name": "13 mm/76 Type93 Twin",
+              "guns": 6
+            }
+          },
+          "defense": 4
+        },
+        "mobility": {
+          "rudder_time": 11.1,
+          "total": 36,
+          "turning_radius": 740,
+          "max_speed": 25
+        },
+        "hull": {
+          "hull_id": 3923521232,
+          "hull_id_str": "PJUH354",
+          "torpedoes_barrels": 0,
+          "anti_aircraft_barrels": 6,
+          "range": {
+            "max": 20,
+            "min": 6
+          },
+          "health": 31000,
+          "planes_amount": 24,
+          "artillery_barrels": 0,
+          "atba_barrels": 4
+        },
+        "atbas": {
+          "distance": 3.5,
+          "slots": {
+            "0": {
+              "burn_probability": 10,
+              "bullet_speed": 850,
+              "name": "140 mm HE Type0",
+              "shot_delay": 8,
+              "damage": 2400,
+              "bullet_mass": 38,
+              "type": "HE",
+              "gun_rate": 7.5
+            }
+          }
+        },
+        "artillery": null,
+        "torpedoes": null,
+        "fighters": {
+          "fighters_id": 3976965840,
+          "squadrons": 1,
+          "name": "A4N",
+          "cruise_speed": 108,
+          "prepare_time": 0,
+          "gunner_damage": 0,
+          "fighters_id_str": "PJUI303",
+          "count_in_squadron": {
+            "max": 6,
+            "min": 6
+          },
+          "max_ammo": 0,
+          "plane_level": 4,
+          "avg_damage": 0,
+          "max_health": 1150
+        },
+        "fire_control": null,
+        "weaponry": {
+          "anti_aircraft": 4,
+          "aircraft": 4,
+          "artillery": 4,
+          "torpedoes": 0
+        },
+        "battle_level_range_max": 5,
+        "battle_level_range_min": 4,
+        "flight_control": {
+          "flight_control_id_str": "PJUF391",
+          "bomber_squadrons": 1,
+          "torpedo_squadrons": 1,
+          "flight_control_id": 3884789456,
+          "fighter_squadrons": 1
+        },
+        "concealment": {
+          "total": 75,
+          "detect_distance_by_plane": 6.5,
+          "detect_distance_by_ship": 8.8
+        },
+        "armour": {
+          "casemate": {
+            "max": -1,
+            "min": -1
+          },
+          "flood_prob": 0,
+          "deck": {
+            "max": -1,
+            "min": -1
+          },
+          "flood_damage": 0,
+          "range": {
+            "max": 20,
+            "min": 6
+          },
+          "health": 31000,
+          "extremities": {
+            "max": -1,
+            "min": -1
+          },
+          "total": 37,
+          "citadel": {
+            "max": -1,
+            "min": -1
+          }
+        },
+        "dive_bomber": {
+          "squadrons": 1,
+          "name": "D1A Susie",
+          "cruise_speed": 98,
+          "dive_bomber_id": 3979226832,
+          "prepare_time": 0,
+          "gunner_damage": 0,
+          "bomb_damage": 3000,
+          "count_in_squadron": {
+            "max": 6,
+            "min": 6
+          },
+          "bomb_name": "Type 99 No. 25 mod. 2",
+          "bomb_bullet_mass": 251,
+          "plane_level": 4,
+          "bomb_burn_probability": 0,
+          "max_damage": 3000,
+          "max_health": 1360,
+          "dive_bomber_id_str": "PJUD301",
+          "accuracy": {
+            "max": 99,
+            "min": 24
+          }
+        }
+      },
+      "name": "Hōshō",
+      "modules_tree": {
+        "3884789456": {
+          "name": "Type4 mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 60000,
+          "next_ships": null,
+          "module_id": 3884789456,
+          "type": "FlightControl",
+          "module_id_str": "PJUF391"
+        },
+        "3922472656": {
+          "name": "Hōshō (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 3000,
+          "price_credit": 250000,
+          "next_ships": [
+            4183799504
+          ],
+          "module_id": 3922472656,
+          "type": "Hull",
+          "module_id_str": "PJUH355"
+        },
+        "3923521232": {
+          "name": "Hōshō (A)",
+          "next_modules": [
+            3922472656
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 100000,
+          "next_ships": null,
+          "module_id": 3923521232,
+          "type": "Hull",
+          "module_id_str": "PJUH354"
+        },
+        "3925716688": {
+          "name": "Propulsion: 30,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 40000,
+          "next_ships": null,
+          "module_id": 3925716688,
+          "type": "Engine",
+          "module_id_str": "PJUE352"
+        },
+        "3976965840": {
+          "name": "A4N",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 50000,
+          "next_ships": null,
+          "module_id": 3976965840,
+          "type": "Fighter",
+          "module_id_str": "PJUI303"
+        },
+        "3977195216": {
+          "name": "B4Y Jean",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 50000,
+          "next_ships": null,
+          "module_id": 3977195216,
+          "type": "TorpedoBomber",
+          "module_id_str": "PJUB303"
+        },
+        "3979226832": {
+          "name": "D1A Susie",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 50000,
+          "next_ships": null,
+          "module_id": 3979226832,
+          "type": "DiveBomber",
+          "module_id_str": "PJUD301"
+        }
+      }
+    }
+  }
+}

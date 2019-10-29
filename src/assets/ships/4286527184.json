@@ -1,0 +1,216 @@
+{
+  "status": "ok",
+  "meta": {
+    "count": 1,
+    "page_total": 1,
+    "total": 1,
+    "limit": 100,
+    "page": 1
+  },
+  "data": {
+    "4286527184": {
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB008_1e5831aa5cd00c6c6808c4538edca19902e436a4b16247161a5c0ed46800e2b6.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSB008_ed874931afa258764394373964410893d95785d4c652584a084bcaabbee47785.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSB008_ec1925048d9189210db31a040ff75070dce9d6e80afc31a6a646ed2f7eecb8e7.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSB008_ea5c90a0871d1d29c5b6e04d4c1d87ec6ee569d79a729800d07a328a9b72de0c.png"
+      },
+      "next_ships": {},
+      "default_profile": {
+        "engine": {
+          "engine_id_str": "PJUE341",
+          "max_speed": 27.5,
+          "engine_id": 3937251024
+        },
+        "torpedo_bomber": null,
+        "anti_aircraft": {
+          "slots": {
+            "0": {
+              "distance": 0.1,
+              "avg_damage": 9,
+              "caliber": 76,
+              "name": "80 mm/40 3rd Year Type",
+              "guns": 6
+            }
+          },
+          "defense": 9
+        },
+        "mobility": {
+          "rudder_time": 12.9,
+          "total": 40,
+          "turning_radius": 740,
+          "max_speed": 27.5
+        },
+        "hull": {
+          "hull_id": 3937152720,
+          "hull_id_str": "PJUH341",
+          "torpedoes_barrels": 0,
+          "anti_aircraft_barrels": 6,
+          "range": {
+            "max": 254,
+            "min": 13
+          },
+          "health": 45700,
+          "planes_amount": 0,
+          "artillery_barrels": 5,
+          "atba_barrels": 22
+        },
+        "atbas": {
+          "distance": 3.5,
+          "slots": {
+            "0": {
+              "burn_probability": 9,
+              "bullet_speed": 825,
+              "name": "152 mm HE Type4",
+              "shot_delay": 10,
+              "damage": 2500,
+              "bullet_mass": 45,
+              "type": "HE",
+              "gun_rate": 6
+            },
+            "1": {
+              "burn_probability": 5,
+              "bullet_speed": 680,
+              "name": "76 mm HE Mk2",
+              "shot_delay": 3,
+              "damage": 1300,
+              "bullet_mass": 6,
+              "type": "HE",
+              "gun_rate": 17.1
+            }
+          }
+        },
+        "artillery": {
+          "max_dispersion": 194,
+          "shells": {
+            "AP": {
+              "burn_probability": null,
+              "bullet_speed": 831,
+              "name": "305 mm AP Mk6",
+              "damage": 8000,
+              "bullet_mass": 386,
+              "type": "AP"
+            },
+            "HE": {
+              "burn_probability": 32,
+              "bullet_speed": 831,
+              "name": "305 mm HE Mk2a",
+              "damage": 5200,
+              "bullet_mass": 386,
+              "type": "HE"
+            }
+          },
+          "shot_delay": 25,
+          "rotation_time": 41.86,
+          "distance": 15.3,
+          "artillery_id": 3947867856,
+          "artillery_id_str": "PJUA331",
+          "slots": {
+            "0": {
+              "barrels": 2,
+              "name": "305 mm/45 Mk10",
+              "guns": 5
+            }
+          },
+          "gun_rate": 2.4
+        },
+        "torpedoes": null,
+        "fighters": null,
+        "fire_control": {
+          "fire_control_id": 3936792272,
+          "distance": 15.3,
+          "distance_increase": 0,
+          "fire_control_id_str": "PJUS341"
+        },
+        "weaponry": {
+          "anti_aircraft": 9,
+          "aircraft": 0,
+          "artillery": 73,
+          "torpedoes": 0
+        },
+        "battle_level_range_max": 5,
+        "battle_level_range_min": 4,
+        "flight_control": null,
+        "concealment": {
+          "total": 40,
+          "detect_distance_by_plane": 8.9,
+          "detect_distance_by_ship": 15.2
+        },
+        "armour": {
+          "casemate": {
+            "max": -1,
+            "min": -1
+          },
+          "flood_prob": 4,
+          "deck": {
+            "max": -1,
+            "min": -1
+          },
+          "flood_damage": 25,
+          "range": {
+            "max": 254,
+            "min": 13
+          },
+          "health": 45700,
+          "extremities": {
+            "max": -1,
+            "min": -1
+          },
+          "total": 53,
+          "citadel": {
+            "max": -1,
+            "min": -1
+          }
+        },
+        "dive_bomber": null
+      },
+      "name": "Ishizuchi",
+      "modules_tree": {
+        "3936792272": {
+          "name": "Type4 mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3936792272,
+          "type": "Suo",
+          "module_id_str": "PJUS341"
+        },
+        "3937152720": {
+          "name": "Ishizuchi",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3937152720,
+          "type": "Hull",
+          "module_id_str": "PJUH341"
+        },
+        "3937251024": {
+          "name": "Propulsion: 64,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3937251024,
+          "type": "Engine",
+          "module_id_str": "PJUE341"
+        },
+        "3947867856": {
+          "name": "305 mm/45 Mk10",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3947867856,
+          "type": "Artillery",
+          "module_id_str": "PJUA331"
+        }
+      }
+    }
+  }
+}

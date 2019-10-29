@@ -5,76 +5,54 @@ URL = "https://api.worldofwarships.eu/wows/encyclopedia/ships/";
 APPID = "d9e3cd11e2529af77d0317ff1597b2be";
 
 SHIP_NATIONS = [
-    "usa",
     "japan",
-    "ussr",
-    "germany",
-    "uk",
-    "commonwealth",
-    "france",
-    "italy",
-    "pan_asia",
-    "europe",
-    "pan_america",
-];
+]
 
 FIELDS = [
     "name",
-    "tier",
-    "type",
-    "images.small",
-];
+    "images",
+    "next_ships",
+    "default_profile",
+    "modules_tree",
+]
 
 SHIP_NATIONS.forEach(nation => {
-    axios.get(URL, {
-        params: {
-            application_id: APPID,
-            nation: nation,
-            fields: FIELDS.join(","),
-            language: "en",
-        }
-    })
-        .then(resp => {
-            console.log(`${nation}:`);
-            if (resp.data.status === "ok") {
-                console.log(resp.data.meta);
+    const ships = require(`../assets/nations/${nation}.json`).data;
 
-                var content = resp.data;
-                content.data = transformShipData(content.data);
-                var contentStr = JSON.stringify(content, null, 2);
-                fs.writeFileSync(`./src/assets/nations/${nation}.json`, contentStr);
-            } else if (resp.data.status === "error") {
-                console.log(resp.data.error.message);
+
+    ships.forEach(ship => {
+        console.log(`${nation} - ${ship.name}:`);
+        axios.get(URL, {
+            params: {
+                application_id: APPID,
+                ship_id: ship.id,
+                fields: FIELDS.join(","),
+                language: "en",
             }
         })
-        .catch(err => {
-            console.log(`${nation}:`);
-            console.error(err.errno);
-        });
+            .then(resp => {
+                if (resp.data.status === "ok") {
+                    console.log("\tOK");
+
+                    var content = resp.data;
+                    // content.data = transformShipData(content.data);
+                    var contentStr = JSON.stringify(content, null, 2);
+                    fs.writeFileSync(`./src/assets/ships/${ship.id}.json`, contentStr);
+                } else if (resp.data.status === "error") {
+                    console.log("\t", resp.data.error.message);
+                }
+            })
+            .catch(err => {
+                console.error("\t", err.errno);
+            });
+    })
 });
 
-function transformShipData(data) {
-    const excludedShips = [
-        "STALINGRAD #2",
-        "Brennus",
-        "L'Effronté",
-        "Alabama ST",
-        "Giunio Bruto",
-    ]
-    var newData = [];
+function transformShipParams(data) {
+    return {
+        images: data.images,
 
-    for (const id in data) {
-        const ship = data[id];
-        if (!(ship.name.startsWith("[") || excludedShips.some(name => ship.name === name))) {
-            newData.push({
-                id: id,
-                name: ship.name,
-                type: ship.type,
-                tier: ship.tier,
-                image: ship.images.small,
-            });
-        }
+        speed: data.default_profile.mobility.max_speed,
+        rudderTime: data.default_profile.mobility.rudder_time,
     }
-
-    return newData;
 }

@@ -1,0 +1,254 @@
+{
+  "status": "ok",
+  "meta": {
+    "count": 1,
+    "page_total": 1,
+    "total": 1,
+    "limit": 100,
+    "page": 1
+  },
+  "data": {
+    "4276041424": {
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB018_09d58fd0f34d6b2d24352c735c1abc10a2c483ffbcfd203f192238263b77c7ba.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSB018_d6ba5e3daa5eb137266f664c2eadc81191a100b0a49a033a9f5cbc61b7dd5bc9.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSB018_a59a2f17c9455f15647f8c9a93d2c4ff22bdf78200e5719506480064f824cbde.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSB018_c106a22ccd24e981b65d3aeec27cb96927b8970393253e5d5921914ea78d2ff8.png"
+      },
+      "next_ships": {},
+      "default_profile": {
+        "engine": {
+          "engine_id_str": "PJUE931",
+          "max_speed": 27,
+          "engine_id": 3318591184
+        },
+        "torpedo_bomber": null,
+        "anti_aircraft": {
+          "slots": {
+            "0": {
+              "distance": 0.1,
+              "avg_damage": 171,
+              "caliber": 25,
+              "name": "25 mm/60 Type96 Triple",
+              "guns": 52
+            },
+            "1": {
+              "distance": 0,
+              "avg_damage": 4,
+              "caliber": 13,
+              "name": "13 mm/76 Type93 Twin",
+              "guns": 2
+            },
+            "2": {
+              "distance": 0.1,
+              "avg_damage": 10,
+              "caliber": 25,
+              "name": "25 mm/60 Type96 mod. 1",
+              "guns": 6
+            },
+            "3": {
+              "distance": 0.2,
+              "avg_damage": 60,
+              "caliber": 127,
+              "name": "127 mm/40 Type89 A1",
+              "guns": 6
+            },
+            "4": {
+              "distance": 0.2,
+              "avg_damage": 60,
+              "caliber": 127,
+              "name": "127 mm/40 Type89 A1 mod. 3",
+              "guns": 6
+            }
+          },
+          "defense": 77
+        },
+        "mobility": {
+          "rudder_time": 22.1,
+          "total": 30,
+          "turning_radius": 900,
+          "max_speed": 27
+        },
+        "hull": {
+          "hull_id": 3339464400,
+          "hull_id_str": "PJUH911",
+          "torpedoes_barrels": 0,
+          "anti_aircraft_barrels": 72,
+          "range": {
+            "max": 650,
+            "min": 16
+          },
+          "health": 97200,
+          "planes_amount": 0,
+          "artillery_barrels": 3,
+          "atba_barrels": 14
+        },
+        "atbas": {
+          "distance": 7,
+          "slots": {
+            "0": {
+              "burn_probability": 8,
+              "bullet_speed": 725,
+              "name": "127 mm HE Type0",
+              "shot_delay": 6,
+              "damage": 2100,
+              "bullet_mass": 23,
+              "type": "HE",
+              "gun_rate": 10
+            },
+            "1": {
+              "burn_probability": 8,
+              "bullet_speed": 725,
+              "name": "127 mm HE Type0",
+              "shot_delay": 5,
+              "damage": 2100,
+              "bullet_mass": 23,
+              "type": "HE",
+              "gun_rate": 12
+            },
+            "2": {
+              "burn_probability": 10,
+              "bullet_speed": 925,
+              "name": "155 mm HE Type0",
+              "shot_delay": 12,
+              "damage": 2600,
+              "bullet_mass": 56,
+              "type": "HE",
+              "gun_rate": 5
+            }
+          }
+        },
+        "artillery": {
+          "max_dispersion": 275,
+          "shells": {
+            "AP": {
+              "burn_probability": null,
+              "bullet_speed": 780,
+              "name": "460 mm AP/APC Type91",
+              "damage": 14800,
+              "bullet_mass": 1460,
+              "type": "AP"
+            },
+            "HE": {
+              "burn_probability": 35,
+              "bullet_speed": 805,
+              "name": "460 mm HE Type0",
+              "damage": 7300,
+              "bullet_mass": 1360,
+              "type": "HE"
+            }
+          },
+          "shot_delay": 30,
+          "rotation_time": 60,
+          "distance": 26.6,
+          "artillery_id": 3339693776,
+          "artillery_id_str": "PJUA911",
+          "slots": {
+            "0": {
+              "barrels": 3,
+              "name": "460 mm/45 Type94",
+              "guns": 3
+            }
+          },
+          "gun_rate": 2
+        },
+        "torpedoes": null,
+        "fighters": null,
+        "fire_control": {
+          "fire_control_id": 3339103952,
+          "distance": 26.6,
+          "distance_increase": 0,
+          "fire_control_id_str": "PJUS911"
+        },
+        "weaponry": {
+          "anti_aircraft": 77,
+          "aircraft": 0,
+          "artillery": 91,
+          "torpedoes": 0
+        },
+        "battle_level_range_max": 10,
+        "battle_level_range_min": 10,
+        "flight_control": null,
+        "concealment": {
+          "total": 18,
+          "detect_distance_by_plane": 12.8,
+          "detect_distance_by_ship": 18
+        },
+        "armour": {
+          "casemate": {
+            "max": -1,
+            "min": -1
+          },
+          "flood_prob": 55,
+          "deck": {
+            "max": -1,
+            "min": -1
+          },
+          "flood_damage": 25,
+          "range": {
+            "max": 650,
+            "min": 16
+          },
+          "health": 97200,
+          "extremities": {
+            "max": -1,
+            "min": -1
+          },
+          "total": 100,
+          "citadel": {
+            "max": -1,
+            "min": -1
+          }
+        },
+        "dive_bomber": null
+      },
+      "name": "Yamato",
+      "modules_tree": {
+        "3318591184": {
+          "name": "Propulsion: 150,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 590000,
+          "next_ships": null,
+          "module_id": 3318591184,
+          "type": "Engine",
+          "module_id_str": "PJUE931"
+        },
+        "3339103952": {
+          "name": "Type10 mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2100000,
+          "next_ships": null,
+          "module_id": 3339103952,
+          "type": "Suo",
+          "module_id_str": "PJUS911"
+        },
+        "3339464400": {
+          "name": "Yamato (A)",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 3300000,
+          "next_ships": null,
+          "module_id": 3339464400,
+          "type": "Hull",
+          "module_id_str": "PJUH911"
+        },
+        "3339693776": {
+          "name": "460 mm/45 Type94",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2300000,
+          "next_ships": null,
+          "module_id": 3339693776,
+          "type": "Artillery",
+          "module_id_str": "PJUA911"
+        }
+      }
+    }
+  }
+}

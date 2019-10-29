@@ -1,0 +1,256 @@
+{
+  "status": "ok",
+  "meta": {
+    "count": 1,
+    "page_total": 1,
+    "total": 1,
+    "limit": 100,
+    "page": 1
+  },
+  "data": {
+    "3532568272": {
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC727_9b70be9b1d1890fafe3ceaac99d99577c0a1f93b52be6aa816b9d10b67fec6fc.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSC727_1f9c1da2d8880913203dfc8cef7c107712a8f7844f7beb7d114702381650bf9f.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSC727_82df9882c2dc35c58b88b94d087249d6f94a09956d1e409d84f88d830ad6eaf4.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSC727_817027e3df84c28a88d865e296f0f8babd26087c957784dff36b01b8db28c86a.png"
+      },
+      "next_ships": {},
+      "default_profile": {
+        "engine": {
+          "engine_id_str": "PJUE796",
+          "max_speed": 35,
+          "engine_id": 3460148944
+        },
+        "torpedo_bomber": null,
+        "anti_aircraft": {
+          "slots": {
+            "0": {
+              "distance": 0.1,
+              "avg_damage": 13,
+              "caliber": 25,
+              "name": "25 mm/60 Type96 Triple mod. 1",
+              "guns": 4
+            },
+            "1": {
+              "distance": 0.1,
+              "avg_damage": 46,
+              "caliber": 25,
+              "name": "25 mm/60 Type96 mod. 1",
+              "guns": 26
+            },
+            "2": {
+              "distance": 0.1,
+              "avg_damage": 21,
+              "caliber": 25,
+              "name": "25 mm/60 Type96 Twin mod. 1",
+              "guns": 8
+            },
+            "3": {
+              "distance": 0.2,
+              "avg_damage": 40,
+              "caliber": 127,
+              "name": "127 mm/40 Type89 mod. A1",
+              "guns": 4
+            }
+          },
+          "defense": 47
+        },
+        "mobility": {
+          "rudder_time": 7.1,
+          "total": 59,
+          "turning_radius": 780,
+          "max_speed": 35
+        },
+        "hull": {
+          "hull_id": 3456904912,
+          "hull_id_str": "PJUH799",
+          "torpedoes_barrels": 4,
+          "anti_aircraft_barrels": 42,
+          "range": {
+            "max": 102,
+            "min": 6
+          },
+          "health": 39200,
+          "planes_amount": 0,
+          "artillery_barrels": 5,
+          "atba_barrels": 4
+        },
+        "atbas": {
+          "distance": 4.5,
+          "slots": {
+            "0": {
+              "burn_probability": 8,
+              "bullet_speed": 725,
+              "name": "127 mm HE Type0",
+              "shot_delay": 7,
+              "damage": 2100,
+              "bullet_mass": 23,
+              "type": "HE",
+              "gun_rate": 8
+            }
+          }
+        },
+        "artillery": {
+          "max_dispersion": 131,
+          "shells": {
+            "AP": {
+              "burn_probability": null,
+              "bullet_speed": 840,
+              "name": "203 mm AP Type91",
+              "damage": 4700,
+              "bullet_mass": 126,
+              "type": "AP"
+            },
+            "HE": {
+              "burn_probability": 17,
+              "bullet_speed": 840,
+              "name": "203 mm HE Type0",
+              "damage": 3300,
+              "bullet_mass": 126,
+              "type": "HE"
+            }
+          },
+          "shot_delay": 14,
+          "rotation_time": 36,
+          "distance": 15.6,
+          "artillery_id": 3671043792,
+          "artillery_id_str": "PJUA595",
+          "slots": {
+            "0": {
+              "barrels": 2,
+              "name": "203 mm/50 3rd Year Type 2 GO mod. C",
+              "guns": 5
+            }
+          },
+          "gun_rate": 4.3
+        },
+        "torpedoes": {
+          "visibility_dist": 1.6,
+          "distance": 10,
+          "torpedoes_id": 3562417872,
+          "torpedo_name": "Type90 mod. 1",
+          "reload_time": 76,
+          "torpedo_speed": 62,
+          "rotation_time": 7.2,
+          "torpedoes_id_str": "PJUT698",
+          "slots": {
+            "0": {
+              "barrels": 3,
+              "caliber": 610,
+              "name": "610 mm Triple",
+              "guns": 4
+            }
+          },
+          "max_damage": 17233
+        },
+        "fighters": null,
+        "fire_control": {
+          "fire_control_id": 3460738768,
+          "distance": 15.6,
+          "distance_increase": 0,
+          "fire_control_id_str": "PJUS795"
+        },
+        "weaponry": {
+          "anti_aircraft": 47,
+          "aircraft": 0,
+          "artillery": 63,
+          "torpedoes": 43
+        },
+        "battle_level_range_max": 9,
+        "battle_level_range_min": 7,
+        "flight_control": null,
+        "concealment": {
+          "total": 54,
+          "detect_distance_by_plane": 6.5,
+          "detect_distance_by_ship": 13.1
+        },
+        "armour": {
+          "casemate": {
+            "max": -1,
+            "min": -1
+          },
+          "flood_prob": 13,
+          "deck": {
+            "max": -1,
+            "min": -1
+          },
+          "flood_damage": 25,
+          "range": {
+            "max": 102,
+            "min": 6
+          },
+          "health": 39200,
+          "extremities": {
+            "max": -1,
+            "min": -1
+          },
+          "total": 51,
+          "citadel": {
+            "max": -1,
+            "min": -1
+          }
+        },
+        "dive_bomber": null
+      },
+      "name": "Eastern Dragon",
+      "modules_tree": {
+        "3456904912": {
+          "name": "Eastern Dragon",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3456904912,
+          "type": "Hull",
+          "module_id_str": "PJUH799"
+        },
+        "3460148944": {
+          "name": "Propulsion: 132,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3460148944,
+          "type": "Engine",
+          "module_id_str": "PJUE796"
+        },
+        "3460738768": {
+          "name": "Type7 mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3460738768,
+          "type": "Suo",
+          "module_id_str": "PJUS795"
+        },
+        "3562417872": {
+          "name": "Type90 mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3562417872,
+          "type": "Torpedoes",
+          "module_id_str": "PJUT698"
+        },
+        "3671043792": {
+          "name": "203 mm/50 Type3",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3671043792,
+          "type": "Artillery",
+          "module_id_str": "PJUA595"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "status": "ok",
+  "meta": {
+    "count": 1,
+    "page_total": 1,
+    "total": 1,
+    "limit": 100,
+    "page": 1
+  },
+  "data": {
+    "4077795024": {
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD207_0353f8a63a02490d991b25e39665419f3840d9e16bdb3e35fa8fb0e5eb6c6c78.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSD207_f5e3c36a0b03c6321d4c0c2f67c0e6461c27820891312828c887dabff4d3e8ce.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSD207_b9cde9cce0ae9519e0e4d95c1ca6caa815f7b0a37715732e0dabea7447dc867c.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSD207_179e8eebf4e4b7175dfeba178f6b9802bf223f8b01b5ff73ae1ed73949323ca3.png"
+      },
+      "next_ships": {
+        "4181604048": 115000
+      },
+      "default_profile": {
+        "engine": {
+          "engine_id_str": "PJUE652",
+          "max_speed": 34,
+          "engine_id": 3611143888
+        },
+        "torpedo_bomber": null,
+        "anti_aircraft": {
+          "slots": {
+            "0": {
+              "distance": 0.1,
+              "avg_damage": 7,
+              "caliber": 25,
+              "name": "25 mm/60 Type96 mod. 1",
+              "guns": 4
+            }
+          },
+          "defense": 6
+        },
+        "mobility": {
+          "rudder_time": 4.4,
+          "total": 61,
+          "turning_radius": 590,
+          "max_speed": 34
+        },
+        "hull": {
+          "hull_id": 3622579920,
+          "hull_id_str": "PJUH641",
+          "torpedoes_barrels": 2,
+          "anti_aircraft_barrels": 4,
+          "range": {
+            "max": 20,
+            "min": 6
+          },
+          "health": 11600,
+          "planes_amount": 0,
+          "artillery_barrels": 3,
+          "atba_barrels": 0
+        },
+        "atbas": null,
+        "artillery": {
+          "max_dispersion": 90,
+          "shells": {
+            "AP": {
+              "burn_probability": null,
+              "bullet_speed": 915,
+              "name": "127 mm AP Type0",
+              "damage": 2200,
+              "bullet_mass": 23,
+              "type": "AP"
+            },
+            "HE": {
+              "burn_probability": 9,
+              "bullet_speed": 915,
+              "name": "127 mm HE Type1",
+              "damage": 2150,
+              "bullet_mass": 23,
+              "type": "HE"
+            }
+          },
+          "shot_delay": 7,
+          "rotation_time": 30,
+          "distance": 10,
+          "artillery_id": 3621760720,
+          "artillery_id_str": "PJUA642",
+          "slots": {
+            "0": {
+              "barrels": 1,
+              "name": "127 mm/50 3rd Year Type",
+              "guns": 1
+            },
+            "1": {
+              "barrels": 2,
+              "name": "127 mm/50 3rd Year Type mod. C",
+              "guns": 2
+            }
+          },
+          "gun_rate": 8
+        },
+        "torpedoes": {
+          "visibility_dist": 1.5,
+          "distance": 10,
+          "torpedoes_id": 3643158224,
+          "torpedo_name": "Type8 mod. 2",
+          "reload_time": 94,
+          "torpedo_speed": 59,
+          "rotation_time": 7.2,
+          "torpedoes_id_str": "PJUT621",
+          "slots": {
+            "0": {
+              "barrels": 4,
+              "caliber": 610,
+              "name": "610 mm Quad",
+              "guns": 2
+            }
+          },
+          "max_damage": 16266
+        },
+        "fighters": null,
+        "fire_control": {
+          "fire_control_id": 3632705232,
+          "distance": 10,
+          "distance_increase": 0,
+          "fire_control_id_str": "PJUS631"
+        },
+        "weaponry": {
+          "anti_aircraft": 6,
+          "aircraft": 0,
+          "artillery": 25,
+          "torpedoes": 23
+        },
+        "battle_level_range_max": 9,
+        "battle_level_range_min": 7,
+        "flight_control": null,
+        "concealment": {
+          "total": 92,
+          "detect_distance_by_plane": 2.8,
+          "detect_distance_by_ship": 6.7
+        },
+        "armour": {
+          "casemate": {
+            "max": -1,
+            "min": -1
+          },
+          "flood_prob": 0,
+          "deck": {
+            "max": -1,
+            "min": -1
+          },
+          "flood_damage": 0,
+          "range": {
+            "max": 20,
+            "min": 6
+          },
+          "health": 11600,
+          "extremities": {
+            "max": -1,
+            "min": -1
+          },
+          "total": 21,
+          "citadel": {
+            "max": -1,
+            "min": -1
+          }
+        },
+        "dive_bomber": null
+      },
+      "name": "Shiratsuyu",
+      "modules_tree": {
+        "3611143888": {
+          "name": "Propulsion: 42,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 370000,
+          "next_ships": null,
+          "module_id": 3611143888,
+          "type": "Engine",
+          "module_id_str": "PJUE652"
+        },
+        "3621531344": {
+          "name": "Shiratsuyu (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 12000,
+          "price_credit": 1080000,
+          "next_ships": [
+            4181604048
+          ],
+          "module_id": 3621531344,
+          "type": "Hull",
+          "module_id_str": "PJUH642"
+        },
+        "3621760720": {
+          "name": "127 mm/50 Type3",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 410000,
+          "next_ships": null,
+          "module_id": 3621760720,
+          "type": "Artillery",
+          "module_id_str": "PJUA642"
+        },
+        "3622579920": {
+          "name": "Shiratsuyu (A)",
+          "next_modules": [
+            3621531344
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 490000,
+          "next_ships": null,
+          "module_id": 3622579920,
+          "type": "Hull",
+          "module_id_str": "PJUH641"
+        },
+        "3631656656": {
+          "name": "Type7 mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 6200,
+          "price_credit": 500000,
+          "next_ships": null,
+          "module_id": 3631656656,
+          "type": "Suo",
+          "module_id_str": "PJUS632"
+        },
+        "3632705232": {
+          "name": "Type7 mod. 1",
+          "next_modules": [
+            3631656656
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 235000,
+          "next_ships": null,
+          "module_id": 3632705232,
+          "type": "Suo",
+          "module_id_str": "PJUS631"
+        },
+        "3642109648": {
+          "name": "Type90 mod. 1",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 16000,
+          "price_credit": 1300000,
+          "next_ships": null,
+          "module_id": 3642109648,
+          "type": "Torpedoes",
+          "module_id_str": "PJUT622"
+        },
+        "3643158224": {
+          "name": "Type8 mod. 2",
+          "next_modules": [
+            3642109648
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 400000,
+          "next_ships": null,
+          "module_id": 3643158224,
+          "type": "Torpedoes",
+          "module_id_str": "PJUT621"
+        }
+      }
+    }
+  }
+}

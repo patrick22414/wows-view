@@ -1,0 +1,220 @@
+{
+  "status": "ok",
+  "meta": {
+    "count": 1,
+    "page_total": 1,
+    "total": 1,
+    "limit": 100,
+    "page": 1
+  },
+  "data": {
+    "3760109264": {
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC510_886ef945c0c4bf7eb13c2bbe9fcec363931c50e65bd5bdbf7eda10fe2f8d94b3.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSC510_c2d2c259b1a6a6c9cdb0458a01bc8ec7f2082a148aa64a1aba3364dad15c5b2b.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSC510_ad9b87551d75b06dcd54d669a9b944c55bbf6f3488f51f710cf5993342fa4ae1.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSC510_2da6e256c03e54117ac8927135a5bbc3da8d46cabd9a60f046f0f23015712988.png"
+      },
+      "next_ships": {},
+      "default_profile": {
+        "engine": {
+          "engine_id_str": "PJUE971",
+          "max_speed": 34,
+          "engine_id": 3276648144
+        },
+        "torpedo_bomber": null,
+        "anti_aircraft": {
+          "slots": {
+            "0": {
+              "distance": 0.1,
+              "avg_damage": 79,
+              "caliber": 25,
+              "name": "25 mm/60 Type96 Triple",
+              "guns": 24
+            },
+            "1": {
+              "distance": 0.1,
+              "avg_damage": 16,
+              "caliber": 25,
+              "name": "25 mm/60 Type96 Twin mod. 1",
+              "guns": 6
+            },
+            "2": {
+              "distance": 0.2,
+              "avg_damage": 166,
+              "caliber": 100,
+              "name": "100 mm/65 Type98",
+              "guns": 8
+            }
+          },
+          "defense": 84
+        },
+        "mobility": {
+          "rudder_time": 13.9,
+          "total": 51,
+          "turning_radius": 920,
+          "max_speed": 34
+        },
+        "hull": {
+          "hull_id": 3275501264,
+          "hull_id_str": "PJUH972",
+          "torpedoes_barrels": 0,
+          "anti_aircraft_barrels": 38,
+          "range": {
+            "max": 305,
+            "min": 13
+          },
+          "health": 58350,
+          "planes_amount": 0,
+          "artillery_barrels": 3,
+          "atba_barrels": 8
+        },
+        "atbas": {
+          "distance": 5,
+          "slots": {
+            "0": {
+              "burn_probability": 6,
+              "bullet_speed": 1000,
+              "name": "100 mm HE Type98",
+              "shot_delay": 3,
+              "damage": 1700,
+              "bullet_mass": 13,
+              "type": "HE",
+              "gun_rate": 20
+            }
+          }
+        },
+        "artillery": {
+          "max_dispersion": 196,
+          "shells": {
+            "AP": {
+              "burn_probability": null,
+              "bullet_speed": 836,
+              "name": "310 mm AP Type92",
+              "damage": 8650,
+              "bullet_mass": 449,
+              "type": "AP"
+            },
+            "HE": {
+              "burn_probability": 27,
+              "bullet_speed": 836,
+              "name": "310 mm HE Type92",
+              "damage": 5100,
+              "bullet_mass": 449,
+              "type": "HE"
+            }
+          },
+          "shot_delay": 20,
+          "rotation_time": 36,
+          "distance": 19.1,
+          "artillery_id": 3275730640,
+          "artillery_id_str": "PJUA972",
+          "slots": {
+            "0": {
+              "barrels": 3,
+              "name": "310 mm/50 Type0",
+              "guns": 3
+            }
+          },
+          "gun_rate": 3
+        },
+        "torpedoes": null,
+        "fighters": null,
+        "fire_control": {
+          "fire_control_id": 3276189392,
+          "distance": 19.1,
+          "distance_increase": 0,
+          "fire_control_id_str": "PJUS971"
+        },
+        "weaponry": {
+          "anti_aircraft": 84,
+          "aircraft": 0,
+          "artillery": 84,
+          "torpedoes": 0
+        },
+        "battle_level_range_max": 10,
+        "battle_level_range_min": 9,
+        "flight_control": null,
+        "concealment": {
+          "total": 36,
+          "detect_distance_by_plane": 10.7,
+          "detect_distance_by_ship": 15.1
+        },
+        "armour": {
+          "casemate": {
+            "max": -1,
+            "min": -1
+          },
+          "flood_prob": 22,
+          "deck": {
+            "max": -1,
+            "min": -1
+          },
+          "flood_damage": 25,
+          "range": {
+            "max": 305,
+            "min": 13
+          },
+          "health": 58350,
+          "extremities": {
+            "max": -1,
+            "min": -1
+          },
+          "total": 75,
+          "citadel": {
+            "max": -1,
+            "min": -1
+          }
+        },
+        "dive_bomber": null
+      },
+      "name": "Azuma",
+      "modules_tree": {
+        "3275501264": {
+          "name": "Azuma",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3275501264,
+          "type": "Hull",
+          "module_id_str": "PJUH972"
+        },
+        "3275730640": {
+          "name": "310 mm/50 Type0",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3275730640,
+          "type": "Artillery",
+          "module_id_str": "PJUA972"
+        },
+        "3276189392": {
+          "name": "Type10 mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3276189392,
+          "type": "Suo",
+          "module_id_str": "PJUS971"
+        },
+        "3276648144": {
+          "name": "Propulsion: 170,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3276648144,
+          "type": "Engine",
+          "module_id_str": "PJUE971"
+        }
+      }
+    }
+  }
+}

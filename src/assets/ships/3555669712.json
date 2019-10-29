@@ -1,0 +1,237 @@
+{
+  "status": "ok",
+  "meta": {
+    "count": 1,
+    "page_total": 1,
+    "total": 1,
+    "limit": 100,
+    "page": 1
+  },
+  "data": {
+    "3555669712": {
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB705_72bc7d64bc57d7eb578c04cde318f641085b81042b74de3f0eec7070487b15ea.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSB705_9aa3ea01168645087b459800cac8bf71cb8db0ea78b3a373a01389f6222c1ee2.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSB705_b750755db91e1bd6686c9a0851f9e1eda1ccce84dc97b4d083dd0308ad159d55.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSB705_a3a93a430bd15d1c213b3dee00380b36bf190b4d53fda8ddcc6ec77067f04004.png"
+      },
+      "next_ships": {},
+      "default_profile": {
+        "engine": {
+          "engine_id_str": "PJUE495",
+          "max_speed": 30,
+          "engine_id": 3775770320
+        },
+        "torpedo_bomber": null,
+        "anti_aircraft": {
+          "slots": {
+            "0": {
+              "distance": 0,
+              "avg_damage": 8,
+              "caliber": 13,
+              "name": "13 mm/76 Type93 Twin",
+              "guns": 4
+            },
+            "1": {
+              "distance": 0,
+              "avg_damage": 5,
+              "caliber": 13,
+              "name": "13 mm/76 Type93 Quad",
+              "guns": 2
+            },
+            "2": {
+              "distance": 0.1,
+              "avg_damage": 16,
+              "caliber": 25,
+              "name": "25 mm/60 Type96 Twin mod. 1",
+              "guns": 6
+            },
+            "3": {
+              "distance": 0.2,
+              "avg_damage": 40,
+              "caliber": 127,
+              "name": "127 mm/40 Type89 A1",
+              "guns": 4
+            }
+          },
+          "defense": 43
+        },
+        "mobility": {
+          "rudder_time": 14.9,
+          "total": 43,
+          "turning_radius": 770,
+          "max_speed": 30
+        },
+        "hull": {
+          "hull_id": 3775672016,
+          "hull_id_str": "PJUH495",
+          "torpedoes_barrels": 0,
+          "anti_aircraft_barrels": 16,
+          "range": {
+            "max": 254,
+            "min": 13
+          },
+          "health": 54100,
+          "planes_amount": 0,
+          "artillery_barrels": 4,
+          "atba_barrels": 18
+        },
+        "atbas": {
+          "distance": 4,
+          "slots": {
+            "0": {
+              "burn_probability": 9,
+              "bullet_speed": 825,
+              "name": "152 mm HE Type4",
+              "shot_delay": 10,
+              "damage": 2500,
+              "bullet_mass": 45,
+              "type": "HE",
+              "gun_rate": 6
+            },
+            "1": {
+              "burn_probability": 8,
+              "bullet_speed": 725,
+              "name": "127 mm HE Type0",
+              "shot_delay": 5,
+              "damage": 2100,
+              "bullet_mass": 23,
+              "type": "HE",
+              "gun_rate": 12
+            }
+          }
+        },
+        "artillery": {
+          "max_dispersion": 236,
+          "shells": {
+            "AP": {
+              "burn_probability": null,
+              "bullet_speed": 775,
+              "name": "356 mm AP Type91",
+              "damage": 10200,
+              "bullet_mass": 674,
+              "type": "AP"
+            },
+            "HE": {
+              "burn_probability": 25,
+              "bullet_speed": 805,
+              "name": "356 mm HE Type0",
+              "damage": 5700,
+              "bullet_mass": 625,
+              "type": "HE"
+            }
+          },
+          "shot_delay": 30,
+          "rotation_time": 54.55,
+          "distance": 21.2,
+          "artillery_id": 3775901392,
+          "artillery_id_str": "PJUA495",
+          "slots": {
+            "0": {
+              "barrels": 2,
+              "name": "356 mm/45 41st Year Type",
+              "guns": 4
+            }
+          },
+          "gun_rate": 2
+        },
+        "torpedoes": null,
+        "fighters": null,
+        "fire_control": {
+          "fire_control_id": 3775311568,
+          "distance": 21.2,
+          "distance_increase": 10,
+          "fire_control_id_str": "PJUS495"
+        },
+        "weaponry": {
+          "anti_aircraft": 43,
+          "aircraft": 0,
+          "artillery": 79,
+          "torpedoes": 0
+        },
+        "battle_level_range_max": 7,
+        "battle_level_range_min": 5,
+        "flight_control": null,
+        "concealment": {
+          "total": 34,
+          "detect_distance_by_plane": 9.4,
+          "detect_distance_by_ship": 16.2
+        },
+        "armour": {
+          "casemate": {
+            "max": -1,
+            "min": -1
+          },
+          "flood_prob": 25,
+          "deck": {
+            "max": -1,
+            "min": -1
+          },
+          "flood_damage": 25,
+          "range": {
+            "max": 254,
+            "min": 13
+          },
+          "health": 54100,
+          "extremities": {
+            "max": -1,
+            "min": -1
+          },
+          "total": 64,
+          "citadel": {
+            "max": -1,
+            "min": -1
+          }
+        },
+        "dive_bomber": null
+      },
+      "name": "ARP Kongō",
+      "modules_tree": {
+        "3775311568": {
+          "name": "Type5 mod. 2",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3775311568,
+          "type": "Suo",
+          "module_id_str": "PJUS495"
+        },
+        "3775672016": {
+          "name": "ARP Kongō",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3775672016,
+          "type": "Hull",
+          "module_id_str": "PJUH495"
+        },
+        "3775770320": {
+          "name": "Propulsion: 136,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3775770320,
+          "type": "Engine",
+          "module_id_str": "PJUE495"
+        },
+        "3775901392": {
+          "name": "356 mm/45 Type41",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3775901392,
+          "type": "Artillery",
+          "module_id_str": "PJUA495"
+        }
+      }
+    }
+  }
+}
