@@ -1,0 +1,236 @@
+{
+  "status": "ok",
+  "meta": { "count": 1, "page_total": 1, "total": 1, "limit": 100, "page": 1 },
+  "data": {
+    "3530504176": {
+      "description": "A \"high-speed battleship\" project which preceded Iowa-class ships. The main battery comprised 457 mm guns placed in twin turrets, which were developed alongside the project of the ship herself in 1938.",
+      "price_gold": 19000,
+      "ship_id_str": "PASB729",
+      "has_demo_profile": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB729_d8c94ef3717e9af2fe127cb6520444cb7469243d935cd34c1473d991b50d19de.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PASB729_64de2d81799d0ac90c5a5c3bd383f9e4502897389f967191531a4fc6213a8cda.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PASB729_37294b97cd647ec3588930a1d0fafbd35a9128c59943100f0d6fbae74879023f.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PASB729_d1cab39837a6d31c460588f8bfc474b32500a4eeabdda972d4f34415ef225a61.png"
+      },
+      "modules": {
+        "engine": [3450712048],
+        "torpedo_bomber": [],
+        "fighter": [],
+        "hull": [3448516592],
+        "artillery": [3448745968],
+        "torpedoes": [],
+        "fire_control": [3448156144],
+        "flight_control": [],
+        "dive_bomber": []
+      },
+      "modules_tree": {
+        "3448156144": {
+          "name": "Mk9 mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3448156144,
+          "type": "Suo",
+          "module_id_str": "PAUS807"
+        },
+        "3448516592": {
+          "name": "Georgia",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3448516592,
+          "type": "Hull",
+          "module_id_str": "PAUH807"
+        },
+        "3450712048": {
+          "name": "Propulsion: 230,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3450712048,
+          "type": "Engine",
+          "module_id_str": "PAUE805"
+        },
+        "3448745968": {
+          "name": "457 mm/48 Mk1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3448745968,
+          "type": "Artillery",
+          "module_id_str": "PAUA807"
+        }
+      },
+      "nation": "usa",
+      "is_premium": false,
+      "ship_id": 3530504176,
+      "price_credit": 0,
+      "default_profile": {
+        "engine": {
+          "engine_id_str": "PAUE805",
+          "max_speed": 33.0,
+          "engine_id": 3450712048
+        },
+        "torpedo_bomber": null,
+        "anti_aircraft": {
+          "slots": {
+            "0": {
+              "distance": 0.1,
+              "avg_damage": 254,
+              "caliber": 40,
+              "name": "40 mm Bofors Mk2",
+              "guns": 16
+            },
+            "1": {
+              "distance": 0.1,
+              "avg_damage": 144,
+              "caliber": 20,
+              "name": "20 mm Oerlikon Mk4",
+              "guns": 40
+            },
+            "2": {
+              "distance": 0.2,
+              "avg_damage": 151,
+              "caliber": 127,
+              "name": "127 mm/38 Mk32 mod. 12",
+              "guns": 10
+            }
+          },
+          "defense": 91
+        },
+        "mobility": {
+          "rudder_time": 16.5,
+          "total": 47,
+          "turning_radius": 890,
+          "max_speed": 33.0
+        },
+        "hull": {
+          "hull_id": 3448516592,
+          "hull_id_str": "PAUH807",
+          "torpedoes_barrels": 0,
+          "anti_aircraft_barrels": 66,
+          "range": { "max": 540, "min": 6 },
+          "health": 74100,
+          "planes_amount": 0,
+          "artillery_barrels": 3,
+          "atba_barrels": 10
+        },
+        "atbas": {
+          "distance": 7.5,
+          "slots": {
+            "0": {
+              "burn_probability": 5.0,
+              "bullet_speed": 792,
+              "name": "127 mm HE Mk32",
+              "shot_delay": 4.0,
+              "damage": 1800,
+              "bullet_mass": 25,
+              "type": "HE",
+              "gun_rate": 15.0
+            }
+          }
+        },
+        "artillery": {
+          "max_dispersion": 216,
+          "shells": {
+            "AP": {
+              "burn_probability": null,
+              "bullet_speed": 732,
+              "name": "457 mm AP Type B",
+              "damage": 15750,
+              "bullet_mass": 1746,
+              "type": "AP"
+            },
+            "HE": {
+              "burn_probability": 43.0,
+              "bullet_speed": 800,
+              "name": "457 mm HE Type B",
+              "damage": 6450,
+              "bullet_mass": 1230,
+              "type": "HE"
+            }
+          },
+          "shot_delay": 26.0,
+          "rotation_time": 45.0,
+          "distance": 20.0,
+          "artillery_id": 3448745968,
+          "artillery_id_str": "PAUA807",
+          "slots": {
+            "0": { "barrels": 2, "name": "457 mm/48 Mk1", "guns": 3 }
+          },
+          "gun_rate": 2.3
+        },
+        "torpedoes": null,
+        "fighters": null,
+        "fire_control": {
+          "fire_control_id": 3448156144,
+          "distance": 20.0,
+          "distance_increase": 0,
+          "fire_control_id_str": "PAUS807"
+        },
+        "weaponry": {
+          "anti_aircraft": 91,
+          "aircraft": 0,
+          "artillery": 90,
+          "torpedoes": 0
+        },
+        "battle_level_range_max": 10,
+        "battle_level_range_min": 9,
+        "flight_control": null,
+        "concealment": {
+          "total": 27,
+          "detect_distance_by_plane": 11.3,
+          "detect_distance_by_ship": 16.9
+        },
+        "armour": {
+          "casemate": { "max": -1, "min": -1 },
+          "flood_prob": 26,
+          "deck": { "max": -1, "min": -1 },
+          "flood_damage": 25,
+          "range": { "max": 540, "min": 6 },
+          "health": 74100,
+          "extremities": { "max": -1, "min": -1 },
+          "total": 92,
+          "citadel": { "max": -1, "min": -1 }
+        },
+        "dive_bomber": null
+      },
+      "upgrades": [
+        4264742832,
+        4268937136,
+        4262645680,
+        4281520048,
+        4273131440,
+        4271034288,
+        4269985712,
+        4263694256,
+        4274180016,
+        4282568624,
+        4266839984,
+        4260548528,
+        4275228592,
+        4265791408,
+        4287811504,
+        4267888560,
+        4272082864,
+        4261597104,
+        4280471472
+      ],
+      "tier": 9,
+      "next_ships": {},
+      "mod_slots": 6,
+      "type": "Battleship",
+      "is_special": true,
+      "name": "Georgia"
+    }
+  }
+}
