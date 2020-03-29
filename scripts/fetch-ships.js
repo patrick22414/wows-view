@@ -19,7 +19,7 @@ SHIP_NATIONS = [
 ]
 
 SHIP_NATIONS.forEach(nation => {
-    const ships = require(`../src/assets/nations/${nation}.json`).data;
+    const ships = require(`../assets/nations/${nation}.json`).data;
 
     ships.forEach(ship => {
         axios.get(URL, {
@@ -37,7 +37,7 @@ SHIP_NATIONS.forEach(nation => {
                     const content = transformRawData(resp.data.data[ship.id]);
                     const contentStr = JSON.stringify(content, null, 2);
 
-                    fs.writeFileSync(`./src/assets/ships/${ship.id}.json`, contentStr);
+                    fs.writeFileSync(`./assets/ships/${ship.id}.json`, contentStr);
                 } else if (resp.data.status === "error") {
                     console.log("\t", resp.data.error.message);
                 }

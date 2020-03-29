@@ -42,7 +42,7 @@ SHIP_NATIONS.forEach(nation => {
                 var content = resp.data;
                 content.data = transformShipData(content.data);
                 var contentStr = JSON.stringify(content, null, 2);
-                fs.writeFileSync(`./src/assets/nations/${nation}.json`, contentStr);
+                fs.writeFileSync(`./assets/nations/${nation}.json`, contentStr);
             } else if (resp.data.status === "error") {
                 console.log(resp.data.error.message);
             }
