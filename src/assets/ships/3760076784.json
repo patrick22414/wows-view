@@ -1,0 +1,43 @@
+{
+  "name": "Somers",
+  "tier": 10,
+  "description": "A destroyer flotilla leader equipped with eight guns that had the largest number of torpedoes per salvo among all the ships of the U.S. Navy.",
+  "profile": {
+    "health": 17300,
+    "artillery": {
+      "reload": 6,
+      "range": 11.7,
+      "traverseTime": 12.24,
+      "shells": {
+        "he": {
+          "damage": 1800,
+          "velocity": 792,
+          "mass": 25,
+          "fireChance": 5
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2100,
+          "velocity": 792,
+          "mass": 25
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 16.5,
+      "reload": 130,
+      "visibility": 1.4
+    },
+    "concealment": 7.4,
+    "airConcealment": 3.1,
+    "speed": 38.6,
+    "rudderTime": 3.9,
+    "turnRadius": 620
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASD510_d96a020f6644524078ce45c834c794afeb2a39613ad47896f10dad524471c6a1.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PASD510_167602cfd832e883aab1d00addca128d84ca802b7dd63d55a411e7769aae249a.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PASD510_504f6e561e600cf19203efbee944b51e1518e3a8ebfb2e36b839c1d4092cd8a9.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PASD510_e75133e7b5da91a28d8c3820bd0db6ed53e1662ff7a0eafd2e0189ef997f166d.png"
+  }
+}

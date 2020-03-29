@@ -1,0 +1,43 @@
+{
+  "name": "Siroco",
+  "tier": 5,
+  "description": "A destroyer from the Bourrasque class that had a decisive effect on the development of the destroyer type in the French Navy. These ships differed from their foreign counterparts in their powerful 130 mm guns and 550 mm torpedo tubes.",
+  "profile": {
+    "health": 11900,
+    "artillery": {
+      "reload": 6,
+      "range": 11.8,
+      "traverseTime": 18,
+      "shells": {
+        "he": {
+          "damage": 1900,
+          "velocity": 725,
+          "mass": 35,
+          "fireChance": 9
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2300,
+          "velocity": 725,
+          "mass": 32
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 7,
+      "reload": 75,
+      "visibility": 1.2
+    },
+    "concealment": 6.8,
+    "airConcealment": 2.7,
+    "speed": 33,
+    "rudderTime": 3,
+    "turnRadius": 550
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSD504_43faa8702ad45dfc8594dcab89ca497c6c985a2e83280c4267d5db01a27324fc.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSD504_dad302a1430b0c03da29f789dff48048f5fb0ae4d5dc344052f0f21898772d06.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSD504_7ec652e53033a7868d5e91c19dfb126caf261bb6e8af4ab86ea783e8be852612.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSD504_24109d07e0d02e693e04cce79e8ccd8ed5f5a258d23657649539ffb45bc23cd9.png"
+  }
+}

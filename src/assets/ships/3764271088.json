@@ -1,0 +1,43 @@
+{
+  "name": "Monaghan",
+  "tier": 6,
+  "description": "A Farragut-class destroyer. The ship relied on dual-purpose guns as her primary armament. In 1942, one of the 127 mm guns was replaced with automatic anti-aircraft guns.",
+  "profile": {
+    "health": 13900,
+    "artillery": {
+      "reload": 4,
+      "range": 12.5,
+      "traverseTime": 12,
+      "shells": {
+        "he": {
+          "damage": 1800,
+          "velocity": 792,
+          "mass": 25,
+          "fireChance": 5
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2100,
+          "velocity": 792,
+          "mass": 25
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 6.4,
+      "reload": 87,
+      "visibility": 1.3
+    },
+    "concealment": 7.2,
+    "airConcealment": 2.8,
+    "speed": 36.5,
+    "rudderTime": 3.4,
+    "turnRadius": 560
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASD506_cccf826bd401d17d94eb5e3707e49ebdc90819b7a55864f8d20cb41cf0cf9036.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PASD506_9937f12bafc41abbf7e3abed2fa45025488b6cf2ac956d9e71c5d71f5963e1c0.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PASD506_277f7d832b91800e16281911df9f041c60bd62ab06e911ef8e9fbabfa930c214.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PASD506_54a3ab88cc6b30276eb005777aedb5f9b3e33e7199071c05240303ddd4ebf239.png"
+  }
+}

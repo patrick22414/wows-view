@@ -1,0 +1,43 @@
+{
+  "name": "Voroshilov",
+  "tier": 5,
+  "description": "One of the first large warships designed and built in the U.S.S.R. (Project 26). Despite her small displacement, she was equipped with very powerful long-range main guns and had a good speed. In contrast to the majority of her contemporaries, she had weak armor.",
+  "profile": {
+    "health": 26200,
+    "artillery": {
+      "reload": 12,
+      "range": 16.3,
+      "traverseTime": 22.5,
+      "shells": {
+        "he": {
+          "damage": 2500,
+          "velocity": 800,
+          "mass": 98,
+          "fireChance": 13
+        },
+        "sap": null,
+        "ap": {
+          "damage": 4100,
+          "velocity": 800,
+          "mass": 98
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 4,
+      "reload": 70,
+      "visibility": 1.3
+    },
+    "concealment": 14.2,
+    "airConcealment": 6.4,
+    "speed": 35.5,
+    "rudderTime": 7.8,
+    "turnRadius": 860
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC525_f00aa6745c46192ac362918178a8feb685d76863f284255c0148911d741112a0.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC525_f063e84d4ea57c8e0e84c2f66f054d34c49b4a2b854c87e230ec7f852430560a.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC525_998a95631c442a52459032678a15835c8ac6137f49d831afd606d4537da543ac.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC525_6c62c54a33f1f2c717af5c11e1ad42d70368f408160e8de7cddc6208ac12a009.png"
+  }
+}

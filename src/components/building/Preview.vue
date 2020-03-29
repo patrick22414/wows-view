@@ -8,6 +8,6 @@
 
 <style lang="less" scoped>
 .preview {
-  width: 62.5%;
+  width: 60%;
 }
 </style>

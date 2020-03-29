@@ -1,6 +1,8 @@
 <template>
   <nav>
-    <router-link to="/">Select and build a ship</router-link>
+    <router-link to="/">Home</router-link>
+    {{" | "}}
+    <router-link to="/selecting">Select and build a ship</router-link>
     {{" | "}}
     <router-link to="/comparing">Compare ships</router-link>
     {{" | "}}
@@ -16,15 +18,15 @@ export default {
 
 <style lang="less" scoped>
 nav {
-  position: absolute;
-  top: 0;
-  right: 0;
-  padding: 2vh;
-  height: 12vh;
+  padding: 10px;
+
+  grid-row: 1 / span 1;
+  grid-column: 2 / span 1;
+  justify-self: right;
 
   a {
     font-weight: bold;
-    color: #2c3e50;
+    color: whitesmoke;
 
     &.router-link-exact-active {
       color: #42b983;

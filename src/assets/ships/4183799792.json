@@ -1,0 +1,21 @@
+{
+  "name": "Ranger",
+  "tier": 6,
+  "description": "The first U.S. aircraft carrier of special construction. The ship carried a large air group. The carrier's speed was quite high for her type. Her drawbacks included a lack of torpedo protection and impractical arrangement of aircraft elevators, which slowed down the handling of air groups.",
+  "profile": {
+    "health": 43700,
+    "artillery": null,
+    "torpedoes": null,
+    "concealment": 14.2,
+    "airConcealment": 10.7,
+    "speed": 29.5,
+    "rudderTime": 15.9,
+    "turnRadius": 1010
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASA106_21c2ea782aafeeb3f5a75c83828862c7ed1d6137e3b1845460db64e8e0dd2808.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PASA106_ff0114dd7a537331a970924e96d10aeca39e8325bd6cf8119af1610812f01e25.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PASA106_82edea9ed69074dcbc4d26181983b86cbbc6bddc01d1807e229135be14aeaa9e.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PASA106_031aae82f09d9a64ee5fc2a66baf28b3ea44fcf239540f286b1ef4bc9614f5ea.png"
+  }
+}

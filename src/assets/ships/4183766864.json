@@ -1,0 +1,39 @@
+{
+  "name": "Normandie",
+  "tier": 6,
+  "description": "The first French battleship design with the main battery guns placed in three quadruple gun turrets. The construction of such turrets was driven by the desire to achieve maximum broadside firepower given the ship's limited size.",
+  "profile": {
+    "health": 44700,
+    "artillery": {
+      "reload": 30,
+      "range": 18,
+      "traverseTime": 45,
+      "shells": {
+        "he": {
+          "damage": 4700,
+          "velocity": 921,
+          "mass": 432,
+          "fireChance": 26
+        },
+        "sap": null,
+        "ap": {
+          "damage": 9500,
+          "velocity": 780,
+          "mass": 585
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 16.2,
+    "airConcealment": 8.3,
+    "speed": 28,
+    "rudderTime": 18.8,
+    "turnRadius": 640
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSB106_3ba372f12637b3ca6c4243787f128cdc619a2e9281e187b05632269b712d9c4b.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSB106_c5de4c71cae9e7ade195df5b13ad760c3f8f108aa8df305eb4968bff5dba340a.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSB106_aff29ea632c22ac8b47b54d7b20006f749dc53c17f1cd97654c1dd1f05c9853d.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSB106_d209673452c59e29960661255ba07066a4ba06ef2fd7f8756a14c832d7ec7365.png"
+  }
+}

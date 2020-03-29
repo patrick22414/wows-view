@@ -1,0 +1,43 @@
+{
+  "name": "Storozhevoi",
+  "tier": 2,
+  "description": "Designed as a \"medium-tonnage\" destroyer, this ship was intended to handle a wide range of tasks, from reconnaissance operations and torpedo attacks, to artillery engagements against enemy ships. Owing to high-tech propulsion, she could travel at a very high speed.",
+  "profile": {
+    "health": 7100,
+    "artillery": {
+      "reload": 5,
+      "range": 9.7,
+      "traverseTime": 18.56,
+      "shells": {
+        "he": {
+          "damage": 1500,
+          "velocity": 823,
+          "mass": 18,
+          "fireChance": 7
+        },
+        "sap": null,
+        "ap": {
+          "damage": 1800,
+          "velocity": 823,
+          "mass": 18
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 4,
+      "reload": 33,
+      "visibility": 0.7
+    },
+    "concealment": 5.8,
+    "airConcealment": 2.2,
+    "speed": 35,
+    "rudderTime": 2.9,
+    "turnRadius": 490
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSD102_20377e63e9c344e2e63bd0b632b17de8da693432daff88c4d06d45151da010b8.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSD102_cdeda6453efe959f19b1c410d5270098bf75e533a4b2dc7ef5cd5565bbfcff98.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSD102_552bd644cb9d7341c84d5bd7dc460e1bbe88b5d70925735adcfea961787107df.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSD102_50ff679bd39e4042f29ac152ab5a19b34d73c0e82556c2b6c85d385954e7c58e.png"
+  }
+}

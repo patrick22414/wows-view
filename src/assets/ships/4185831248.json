@@ -1,0 +1,43 @@
+{
+  "name": "Duguay-Trouin",
+  "tier": 4,
+  "description": "The world's first large warship designed and built after World War I. The ship had virtually no armor protection but carried very powerful torpedo armament. An innovation that was implemented on this type of ship was the arrangement of her main guns in twin-gun superfiring turrets.",
+  "profile": {
+    "health": 22900,
+    "artillery": {
+      "reload": 12,
+      "range": 13.7,
+      "traverseTime": 22.5,
+      "shells": {
+        "he": {
+          "damage": 2200,
+          "velocity": 870,
+          "mass": 59,
+          "fireChance": 11
+        },
+        "sap": null,
+        "ap": {
+          "damage": 3300,
+          "velocity": 870,
+          "mass": 57
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 6,
+      "reload": 84,
+      "visibility": 1.2
+    },
+    "concealment": 13.3,
+    "airConcealment": 5.6,
+    "speed": 33,
+    "rudderTime": 10.9,
+    "turnRadius": 670
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSC104_d50177c5c65715f0fca5be14385a3eb0eee7aa1023ed4d018d706454b741663a.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSC104_645e84f0ccf0a3ff194d0237a90b12114704150a6b2ab1a81b7e6e56b46c0048.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSC104_a0ca34f9acf65be656c71a63ecdff0e17e01851af605dc1621024a07dc8be7e6.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSC104_b9cd8c4448657684ff055f3f7d617f45ad864e32332f63d4a7d1573300ebfc1c.png"
+  }
+}

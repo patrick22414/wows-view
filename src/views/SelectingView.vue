@@ -1,25 +1,23 @@
 <template>
   <div class="selecting-view">
     <Sidebar />
-    <TechTree />
   </div>
 </template>
 
 <script>
-import Sidebar from "../components/selecting/Sidebar";
-import TechTree from "../components/selecting/TechTree";
+import Sidebar from "../components/Sidebar";
 
 export default {
   name: "SelectingView",
   components: {
-    Sidebar,
-    TechTree
+    Sidebar
   },
-  created: function() {
+  beforeCreate: function() {
     this.$store.dispatch("changeSiteTitle", "WoWs View - Selecting");
   },
-  destroyed: function() {
+  beforeRouteLeave: function(to, from, next) {
     this.$store.dispatch("resetSelecting");
+    next();
   }
 };
 </script>
@@ -27,7 +25,7 @@ export default {
 <style lang="less" scoped>
 .selecting-view {
   width: 100%;
-  height: 88%;
+  height: 90%;
   display: flex;
   flex-flow: row nowrap;
 }

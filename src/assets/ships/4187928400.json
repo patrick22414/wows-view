@@ -1,0 +1,39 @@
+{
+  "name": "Jurien de la Gravière",
+  "tier": 2,
+  "description": "Jurien de la Gravière was the last protected cruiser built for the French Navy. The ship's silhouette and architecture were typical of French warships at the turn of the 19th century. Powerful 164 mm guns distinguished Jurien de la Gravière from the majority of foreign counterparts.",
+  "profile": {
+    "health": 19600,
+    "artillery": {
+      "reload": 9,
+      "range": 9.3,
+      "traverseTime": 18,
+      "shells": {
+        "he": {
+          "damage": 2200,
+          "velocity": 770,
+          "mass": 45,
+          "fireChance": 7
+        },
+        "sap": null,
+        "ap": {
+          "damage": 3100,
+          "velocity": 770,
+          "mass": 54
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 9,
+    "airConcealment": 4.3,
+    "speed": 23,
+    "rudderTime": 8.1,
+    "turnRadius": 510
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSC102_69d964787492674420892eadedd7b57d637f4e59db0293b24345263044f6592d.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSC102_74c269226cf1436de2472611bcc3fa15a985d0d0419f51275a0bd37f49f9d04f.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSC102_74c269226cf1436de2472611bcc3fa15a985d0d0419f51275a0bd37f49f9d04f.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSC102_91969ea91669927d2beefc0ad9c6a34c50711102d2191546c4997e369a73f428.png"
+  }
+}

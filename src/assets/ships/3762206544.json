@@ -1,0 +1,43 @@
+{
+  "name": "Bayard",
+  "tier": 8,
+  "description": "A version that constitutes a further development in cruiser De Grasse's initial design, featuring greater firepower as a result of increasing the number of main turrets to four.",
+  "profile": {
+    "health": 34700,
+    "artillery": {
+      "reload": 7,
+      "range": 16.4,
+      "traverseTime": 15,
+      "shells": {
+        "he": {
+          "damage": 2200,
+          "velocity": 870,
+          "mass": 55,
+          "fireChance": 12
+        },
+        "sap": null,
+        "ap": {
+          "damage": 3300,
+          "velocity": 870,
+          "mass": 57
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 9,
+      "reload": 90,
+      "visibility": 1.3
+    },
+    "concealment": 12.2,
+    "airConcealment": 7.2,
+    "speed": 34,
+    "rudderTime": 9.3,
+    "turnRadius": 730
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSC508_c97a4bb1cbcefbb654d54b623dae976b4cf9b2496f8a8813227e616e0fcc50ab.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSC508_46b3aaed25cbd161b55ea70e654094667b3aa5b538c1eabc28b209c740900a85.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSC508_366a0651b28d2a8cb430024a5ee59269a72a5dbfcb2b5ac17b1054ddf818707d.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSC508_669f57bdc22dc9d66e95f1aadb2c669f60cf901088612346a2a6f966a0c93336.png"
+  }
+}

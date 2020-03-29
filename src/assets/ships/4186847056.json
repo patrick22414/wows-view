@@ -1,0 +1,43 @@
+{
+  "name": "Fusilier",
+  "tier": 3,
+  "description": "This destroyer design was offered soon after the end of World War I. The reason for the ship's significantly increased dimensions was the wider range of missions the destroyer would be tasked with during military combat.",
+  "profile": {
+    "health": 7900,
+    "artillery": {
+      "reload": 6,
+      "range": 9.5,
+      "traverseTime": 9,
+      "shells": {
+        "he": {
+          "damage": 1400,
+          "velocity": 780,
+          "mass": 14,
+          "fireChance": 6
+        },
+        "sap": null,
+        "ap": {
+          "damage": 1600,
+          "velocity": 780,
+          "mass": 14
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 7.5,
+      "reload": 35,
+      "visibility": 1.2
+    },
+    "concealment": 6.7,
+    "airConcealment": 2.5,
+    "speed": 34,
+    "rudderTime": 4,
+    "turnRadius": 530
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSD103_f53dffeebd789f0e68893b4971dc521139f05fb3c10fddec9614229712569c76.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSD103_7c065e4eb18b825850abcc3a120d4a10b8ee02da8b8dfd4e0b498688fb776767.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSD103_d4f385f41e50322127e871248f5d9259fee981b869bdd9137c9b3ed5682ff8ce.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSD103_cbd31f064a15cf6e8df5362b0c270342570bdea1adddb7fedcfbe6a1c9a9a3e3.png"
+  }
+}

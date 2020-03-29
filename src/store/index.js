@@ -1,6 +1,7 @@
 import Vue from 'vue';
 import Vuex from 'vuex';
 import selecting from "./modules/selecting";
+import building from "./modules/building";
 
 Vue.use(Vuex);
 
@@ -23,6 +24,7 @@ export default new Vuex.Store({
         }
     },
     modules: {
-        selecting
+        selecting,
+        building,
     }
 });

@@ -1,0 +1,43 @@
+{
+  "name": "Leone",
+  "tier": 6,
+  "description": "A very large destroyer in comparison with her contemporaries, officially classified as a \"light scout\" for a long time. One of the ship's features was 8 main battery guns placed in 4 twin mounts.",
+  "profile": {
+    "health": 13700,
+    "artillery": {
+      "reload": 8,
+      "range": 12.1,
+      "traverseTime": 22.5,
+      "shells": {
+        "he": {
+          "damage": 1700,
+          "velocity": 850,
+          "mass": 23,
+          "fireChance": 6
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2100,
+          "velocity": 850,
+          "mass": 23
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 12,
+      "reload": 47,
+      "visibility": 1
+    },
+    "concealment": 7.2,
+    "airConcealment": 3,
+    "speed": 34,
+    "rudderTime": 3.4,
+    "turnRadius": 620
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISD506_bdbc7333f7c1744f5415f52cb7f6bc6b137831544f6c2338511c9ab44029dd1d.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PISD506_8c669703bf8db4a86ef9870aa539fed05d990086d75052750fc169e1995e3fea.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PISD506_0e6faff72f7a051789255bcff7d2d4fb074243e2d5eb70dc28eb0b57c854a18d.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PISD506_01f4ec7cded10be987a603e3eee290091ffb6323605f5977e367d0a5e35a3354.png"
+  }
+}

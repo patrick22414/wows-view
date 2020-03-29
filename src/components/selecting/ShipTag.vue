@@ -1,5 +1,5 @@
 <template>
-  <router-link to="/building">
+  <router-link :to="`/building/${ship.id}`">
     <figure class="ship-tag">
       <img :src="ship.image" width="120" height="72" />
       <figcaption>{{ship.name}}</figcaption>

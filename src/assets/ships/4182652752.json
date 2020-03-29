@@ -1,0 +1,43 @@
+{
+  "name": "Vauquelin",
+  "tier": 7,
+  "description": "A further development of the large destroyer sub-type (French \"contre-torpilleurs\"). In contrast to the Guépard class, she featured artillery with enhanced rapid-firing capabilities. Additionally, as opposed to the Aigle class, she had her torpedo armament arranged in a different manner, providing wider rotation angles for her torpedo tubes.",
+  "profile": {
+    "health": 15100,
+    "artillery": {
+      "reload": 5,
+      "range": 11.9,
+      "traverseTime": 18,
+      "shells": {
+        "he": {
+          "damage": 2000,
+          "velocity": 700,
+          "mass": 40,
+          "fireChance": 9
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2600,
+          "velocity": 700,
+          "mass": 40
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 8,
+      "reload": 90,
+      "visibility": 1.4
+    },
+    "concealment": 7.6,
+    "airConcealment": 3.5,
+    "speed": 36,
+    "rudderTime": 5.7,
+    "turnRadius": 670
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSD107_04b53646ea290619d44b54a527b9f206d06bfbae7123f4968db778e22655384a.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSD107_d02eb7fdb114c92f6df86ca91123ce055b2850b5846a3d8238ef74d59c9b9d5f.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSD107_a76d25f291dd2b25b5176be06292494d95c5c4dfcacd5358140eab37ea3a0573.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSD107_faabe09bdb25b5016ba81495254ef6697be0e9e64f03a875865f47b6fa3cfead.png"
+  }
+}

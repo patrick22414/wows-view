@@ -1,0 +1,39 @@
+{
+  "name": "New Mexico",
+  "tier": 6,
+  "description": "The ship belonged to the generation of conventional battleships in the U.S. Navy. The main battery guns were concentrated in the ship's front and aft ends and were placed in superfiring turrets, which would soon become the standard. The battleship was armored according to the \"all or nothing\" concept, with the citadel being reliably protected and located in the center of the hull.",
+  "profile": {
+    "health": 48200,
+    "artillery": {
+      "reload": 34,
+      "range": 14.6,
+      "traverseTime": 60,
+      "shells": {
+        "he": {
+          "damage": 5000,
+          "velocity": 861,
+          "mass": 578,
+          "fireChance": 30
+        },
+        "sap": null,
+        "ap": {
+          "damage": 10500,
+          "velocity": 823,
+          "mass": 680
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 14.2,
+    "airConcealment": 9.1,
+    "speed": 18.5,
+    "rudderTime": 17.3,
+    "turnRadius": 640
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB034_790c9d33dff4da4e6c94fcb9dc68276a9b6bdff7dba1ef260a37e0f15b45d8f9.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PASB034_2d35767fa69baca18ab39d078d6f8314e5243722cfcc0fe31146315197e1c911.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PASB034_423e8b88c33865e5b7d161c5bbcb4c553142613569f0006a9b0987de90a50956.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PASB034_8f841c590671ae8cfaadf23756b3a3bce158ceeb8b1e19e9626cad9df3b4eb7e.png"
+  }
+}

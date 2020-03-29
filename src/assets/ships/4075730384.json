@@ -1,0 +1,39 @@
+{
+  "name": "Riga",
+  "tier": 9,
+  "description": "One of the early heavy cruiser design variants of Project 82. She was equipped with 220 mm guns that gave the Soviet ship superiority over her foreign heavy cruiser counterparts, which were armed with 203 mm artillery.",
+  "profile": {
+    "health": 47300,
+    "artillery": {
+      "reload": 15,
+      "range": 16.4,
+      "traverseTime": 32.73,
+      "shells": {
+        "he": {
+          "damage": 3050,
+          "velocity": 965,
+          "mass": 202,
+          "fireChance": 14
+        },
+        "sap": null,
+        "ap": {
+          "damage": 6200,
+          "velocity": 965,
+          "mass": 202
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 14.2,
+    "airConcealment": 8,
+    "speed": 33.5,
+    "rudderTime": 16.2,
+    "turnRadius": 920
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC209_77fbc44f6e1ed93c7ead5e8baa27603a241caa7d03b60775bac188420567496b.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC209_8fec44742070d52c93514bb1b68c4b3838db3f7c622b393ff2390d2f3dd2a0cc.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC209_0d136ba55cd6a3c6b7252637c3fbb7645ccc48d652f0b47e03b80641fec52541.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC209_17e68592e755449a643abcfcf3a1866ef4a1b023956443d6e64d41515a042c1e.png"
+  }
+}

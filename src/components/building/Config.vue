@@ -4,7 +4,7 @@
 
 <style lang="less" scoped>
 .config {
-  width: 25%;
+  width: 30%;
   min-width: 400px;
 
   border: solid;

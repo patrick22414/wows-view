@@ -1,0 +1,43 @@
+{
+  "name": "Östergötland",
+  "tier": 9,
+  "description": "Last of a series of destroyers of the Swedish Navy. Due to their dimensions, which were quite small for the era, they are sometimes classified as \"light\" destroyers. Their main artillery armament comprised very successful 120 mm automatic dual-purpose mounts.",
+  "profile": {
+    "health": 14100,
+    "artillery": {
+      "reload": 2,
+      "range": 9.3,
+      "traverseTime": 18,
+      "shells": {
+        "he": {
+          "damage": 1700,
+          "velocity": 850,
+          "mass": 24,
+          "fireChance": 7
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2150,
+          "velocity": 850,
+          "mass": 24
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 13.5,
+      "reload": 100,
+      "visibility": 1.8
+    },
+    "concealment": 7.6,
+    "airConcealment": 3.3,
+    "speed": 35,
+    "rudderTime": 5.1,
+    "turnRadius": 610
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PWSD109_294d99b27a69f3522789d203f673ba85d7d759c0ddfa5c5ab9349c4fafa3155e.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PWSD109_a6aa8ffde120df22fb8e963c2a280792faa64bb4777df93f65f131402b4d9998.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PWSD109_824aff20cb67b7aedadd6f0e7a00c4854eda4812fc0241344bfb128718339ac7.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PWSD109_25372878cf486a4a10d1dbcce4b52d279d3bd773d83fa1efbb967fd00cd37d34.png"
+  }
+}

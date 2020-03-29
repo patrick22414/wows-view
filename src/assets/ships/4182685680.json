@@ -1,0 +1,39 @@
+{
+  "name": "New Orleans",
+  "tier": 7,
+  "description": "One of the first heavy cruisers of the new generation in the U.S. Navy. The ship's advantage was her significantly reinforced armor protection. She boasted a very successful balance of armament, protection, and speed, taking into consideration her restricted water displacement.",
+  "profile": {
+    "health": 29700,
+    "artillery": {
+      "reload": 13,
+      "range": 14.7,
+      "traverseTime": 27.69,
+      "shells": {
+        "he": {
+          "damage": 2800,
+          "velocity": 823,
+          "mass": 118,
+          "fireChance": 14
+        },
+        "sap": null,
+        "ap": {
+          "damage": 4600,
+          "velocity": 853,
+          "mass": 118
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 12.4,
+    "airConcealment": 6,
+    "speed": 32.5,
+    "rudderTime": 9,
+    "turnRadius": 660
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC107_0313da8b996f2dcc654d6f4aa69d8a19c5ffc29b42a012bcb97768249f77697b.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PASC107_49a9ec174fb3ef40d7d34b1a8dd97f2e1adee66795d55e2bb59fa2caa7337846.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PASC107_53b22a5346ff44957b91ccdea1686eb630b0ad16ed2c87121f89f2f584423695.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PASC107_d03c1933f908b615a98cd752c13cf87ac295af87b8d6ae70ba5405daa0991bb9.png"
+  }
+}

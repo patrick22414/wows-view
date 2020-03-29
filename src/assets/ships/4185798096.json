@@ -1,0 +1,43 @@
+{
+  "name": "Izyaslav",
+  "tier": 4,
+  "description": "Developed from the legendary Novik-class destroyers, Izyaslav was one of the largest and most powerful destroyers in the Russian Navy. Compared with her predecessors, she was armed with more powerful artillery. Izyaslav was surpassed in torpedo caliber by foreign-built destroyers of her time, which was partly compensated by the number of torpedoes that could be launched in a broadside salvo.",
+  "profile": {
+    "health": 9400,
+    "artillery": {
+      "reload": 5,
+      "range": 9.2,
+      "traverseTime": 18.56,
+      "shells": {
+        "he": {
+          "damage": 1500,
+          "velocity": 823,
+          "mass": 18,
+          "fireChance": 7
+        },
+        "sap": null,
+        "ap": {
+          "damage": 1800,
+          "velocity": 823,
+          "mass": 18
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 4,
+      "reload": 33,
+      "visibility": 0.8
+    },
+    "concealment": 6.7,
+    "airConcealment": 2.7,
+    "speed": 35,
+    "rudderTime": 3.8,
+    "turnRadius": 580
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSD104_1e906dcb9379316061196bffcbd45620ec0b4dd8ee4f31c5c887a9abaec2e45e.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSD104_02be33dce16e74e0e8e443072608626c60cd024eefc495f1509cfec747a89d5b.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSD104_09c53ea9abde5b715b940fffeaa8fc6c719c9f27e07d57f72a555e9561ffeca6.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSD104_e7e73d2d56a0c5b796e5daea3a732a410a01ed2617740a5e2a0ae9ccde6a0e42.png"
+  }
+}

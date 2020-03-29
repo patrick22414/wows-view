@@ -1,0 +1,39 @@
+{
+  "name": "Ohio",
+  "tier": 10,
+  "description": "A battleship representing the Montana-class ship design, featuring 457 mm main battery guns placed in twin turrets designed in the U.S.A. in the late 1930s.",
+  "profile": {
+    "health": 96300,
+    "artillery": {
+      "reload": 27,
+      "range": 21.6,
+      "traverseTime": 30,
+      "shells": {
+        "he": {
+          "damage": 6450,
+          "velocity": 800,
+          "mass": 1230,
+          "fireChance": 43
+        },
+        "sap": null,
+        "ap": {
+          "damage": 15750,
+          "velocity": 732,
+          "mass": 1746
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 17.8,
+    "airConcealment": 12.9,
+    "speed": 28,
+    "rudderTime": 18.6,
+    "turnRadius": 950
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB510_1d778bf39031b11b53821ac9e51ae088bd5105f8fd8853e78257fb89803214aa.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PASB510_b141b8fa86615215b0a2710c636653e936b0747a1f986b6b58090c7a393fe20d.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PASB510_654f94174a6359984eb4312eca445494eb74788a75430207c79beee6baf240a1.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PASB510_29b139efed9c223b1d87c8bb3652cfdaec1ef6ae3a3a027f497840b4ba8734eb.png"
+  }
+}

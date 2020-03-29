@@ -1,0 +1,43 @@
+{
+  "name": "Icarus",
+  "tier": 6,
+  "description": "Part of the last series (I-class) of the \"standard\" destroyers of the British Navy. The ships of this class were the basis for transition from quadruple to quintuple torpedo tubes.",
+  "profile": {
+    "health": 10000,
+    "artillery": {
+      "reload": 5,
+      "range": 10.6,
+      "traverseTime": 18,
+      "shells": {
+        "he": {
+          "damage": 1700,
+          "velocity": 808,
+          "mass": 23,
+          "fireChance": 8
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2100,
+          "velocity": 808,
+          "mass": 23
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 6,
+      "reload": 95,
+      "visibility": 1.2
+    },
+    "concealment": 6.8,
+    "airConcealment": 2.6,
+    "speed": 35.5,
+    "rudderTime": 4.2,
+    "turnRadius": 540
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSD106_4a0811ab7b296ed9aac3c16670654f7acf5e00371d5e02bfc798b3a6b504e6c6.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PBSD106_a085dcc0ea3fccdaad30710c75812a99eb85536ec83349bbac9eea37e838a602.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PBSD106_9f223665cb130f7850abcda6f18dd125e28afa2af28e5dd0055dc16476605a53.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PBSD106_6366691d48a650af99a8a757b7bbcce3913c1735f785fa7364540454eb0d642a.png"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Orlan",
+  "tier": 1,
+  "description": "A patrol ship with very powerful artillery. Orlan was intended to operate in island waters. She boasted a very high level of maneuverability owing to her small dimensions and decent speed.",
+  "profile": {
+    "health": 4550,
+    "artillery": {
+      "reload": 4,
+      "range": 9.7,
+      "traverseTime": 18.56,
+      "shells": {
+        "he": {
+          "damage": 800,
+          "velocity": 870,
+          "mass": 33,
+          "fireChance": 7
+        },
+        "sap": null,
+        "ap": null
+      }
+    },
+    "torpedoes": null,
+    "concealment": 7.9,
+    "airConcealment": 4,
+    "speed": 25,
+    "rudderTime": 2.4,
+    "turnRadius": 310
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC101_5ce5d3990f5acc716cd15436522b59d05373dee3f0480355b31823eb77b5f534.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC101_556eb1ea63b37d643fdd3d36ff5d5d21b62aed300b658df4c7ab731c40993512.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC101_e0ba300df0456d7b1433d20d4ee17b2e35b4f5fb1ce30fc0065516e65c32cff9.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC101_e72f6c51e05ba8f074e64a28072990f0cbd0f0282313c5108be9d94513affaf5.png"
+  }
+}

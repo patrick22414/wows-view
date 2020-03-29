@@ -1,34 +1,47 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import SelectingView from '../views/SelectingView.vue'
+import SelectingView from '../views/SelectingView'
+import SelectingWithNationView from "../views/SelectingWithNationView"
+import BuildingView from '../views/BuildingView'
+import ComparingView from '../views/ComparingView'
+import About from '../views/About'
+import Home from "../views/Home"
 
 Vue.use(VueRouter)
 
-const routes = [
-    {
-        path: '/',
-        name: "selecting",
-        component: SelectingView,
-    },
-    {
-        path: '/building',
-        name: 'building',
-        component: () => import(/* webpackChunkName: "building" */ '../views/BuildingView.vue')
-    },
-    {
-        path: '/comparing',
-        name: 'comparing',
-        component: () => import(/* webpackChunkName: "comparing" */ '../views/ComparingView.vue')
-    },
-    {
-        path: '/about',
-        name: 'about',
-        component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
-    },
-]
-
 const router = new VueRouter({
-    routes
+    routes: [
+        {
+            path: "/",
+            name: "home",
+            component: Home,
+        },
+        {
+            path: '/selecting',
+            name: "selecting",
+            component: SelectingView,
+        },
+        {
+            path: '/selecting/:nationId',
+            name: "selecting-with-nation",
+            component: SelectingWithNationView,
+        },
+        {
+            path: '/building/:id',
+            name: 'building',
+            component: BuildingView,
+        },
+        {
+            path: '/comparing',
+            name: 'comparing',
+            component: ComparingView,
+        },
+        {
+            path: '/about',
+            name: 'about',
+            component: About,
+        },
+    ]
 })
 
 export default router

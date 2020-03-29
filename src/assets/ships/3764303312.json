@@ -1,0 +1,43 @@
+{
+  "name": "Molotov",
+  "tier": 6,
+  "description": "Bearing a close resemblance to Kirov-class cruisers, she was based on an improved design (Project 26-bis). In contrast to her prototype, the cruiser received significantly reinforced armor while retaining extremely powerful artillery and a high speed.",
+  "profile": {
+    "health": 28400,
+    "artillery": {
+      "reload": 12,
+      "range": 15.5,
+      "traverseTime": 22.5,
+      "shells": {
+        "he": {
+          "damage": 2500,
+          "velocity": 920,
+          "mass": 98,
+          "fireChance": 13
+        },
+        "sap": null,
+        "ap": {
+          "damage": 4400,
+          "velocity": 920,
+          "mass": 98
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 4,
+      "reload": 70,
+      "visibility": 1.3
+    },
+    "concealment": 13.1,
+    "airConcealment": 6,
+    "speed": 36,
+    "rudderTime": 7.8,
+    "turnRadius": 860
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC506_35f98188dc9d6615d7064ae96bb913ae7c4416d24bc5b9daf3369b22b0187622.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC506_aed0e8360d62b5f7711815cb09b17771aa729feac38509ff67dd17c7e495ddfd.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC506_afc984b575702d9056774b04a44b636d400dcfa7bca11f57de8d78de9ac40baa.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC506_f5c0ac43f936c358fe1baef45b568a03d58547345a0dd73b1e6b68c7b86a7c56.png"
+  }
+}

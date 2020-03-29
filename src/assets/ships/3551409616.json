@@ -1,0 +1,43 @@
+{
+  "name": "Neustrashimy",
+  "tier": 9,
+  "description": "The first destroyer of the Soviet Navy designed and built after World War II (Project 41). A number of innovative solutions were used in the ship's design, including the most advanced torpedo tubes and the latest artillery mounts, which served both as dual-purpose main battery and AA defense.",
+  "profile": {
+    "health": 20500,
+    "artillery": {
+      "reload": 4,
+      "range": 12.8,
+      "traverseTime": 10,
+      "shells": {
+        "he": {
+          "damage": 1800,
+          "velocity": 950,
+          "mass": 33,
+          "fireChance": 8
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2600,
+          "velocity": 950,
+          "mass": 33
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 10,
+      "reload": 125,
+      "visibility": 1.3
+    },
+    "concealment": 7.1,
+    "airConcealment": 3,
+    "speed": 36,
+    "rudderTime": 4.6,
+    "turnRadius": 700
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSD709_83852f75688cca539a7861743f2d499361a558155b1cf5a1bc31af012a880cac.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSD709_9f970239aeac0c684a951988f15d6e58f2bddb74b861fffc2c474ca888bbdfce.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSD709_a8c8e03f101d78fe35511dc7ded8497b6bf6052070663ab97c89da830d69636e.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSD709_8dffd921b7894c778c3881e7ee5cfc8b4921ee889ed404040381a286e084fec7.png"
+  }
+}

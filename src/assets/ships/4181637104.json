@@ -1,0 +1,39 @@
+{
+  "name": "Baltimore",
+  "tier": 8,
+  "description": "A Baltimore-class heavy cruiser. Increasing the ship dimensions allowed engineers to improve her survivability by means of reinforcing the deck armor and enhancing the protection of the propulsion. Another difference from her predecessor was better AA capabilities provided by the cruiser's numerous dual-purpose artillery.",
+  "profile": {
+    "health": 36600,
+    "artillery": {
+      "reload": 10,
+      "range": 14.4,
+      "traverseTime": 30,
+      "shells": {
+        "he": {
+          "damage": 2800,
+          "velocity": 823,
+          "mass": 118,
+          "fireChance": 14
+        },
+        "sap": null,
+        "ap": {
+          "damage": 5000,
+          "velocity": 762,
+          "mass": 152
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 12.6,
+    "airConcealment": 7.2,
+    "speed": 32.5,
+    "rudderTime": 10.2,
+    "turnRadius": 730
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC108_21ac1f822b53652ae435f58f86426f05265e4184ef9eba180ec95fd4c607586b.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PASC108_149e764015d9af18b7671c2a949e4db1f8899a2b56c98dabb5ae7f564d37ef6a.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PASC108_780b4f8e6ca2e009c388746889b2120683429932a4c486ef23598a302abcc7aa.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PASC108_c8de77b4cb7662ff02f97407dfecc60477aeec5738364e01fc1a037a2a24839d.png"
+  }
+}

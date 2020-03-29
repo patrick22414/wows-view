@@ -1,0 +1,39 @@
+{
+  "name": "Kremlin",
+  "tier": 10,
+  "description": "A battleship project developed at the end of World War II (Project 24). She was the evolution of the Sovetsky Soyuz-class ships and was designed to counter American Iowa-class and Montana-class battleships.",
+  "profile": {
+    "health": 108300,
+    "artillery": {
+      "reload": 33,
+      "range": 20.7,
+      "traverseTime": 30,
+      "shells": {
+        "he": {
+          "damage": 6500,
+          "velocity": 800,
+          "mass": 1373,
+          "fireChance": 45
+        },
+        "sap": null,
+        "ap": {
+          "damage": 14500,
+          "velocity": 800,
+          "mass": 1373
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 17,
+    "airConcealment": 13.9,
+    "speed": 29.5,
+    "rudderTime": 16.3,
+    "turnRadius": 1090
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSB110_a1be11ad68f17faf4282c7e80221255b52c34d1454e70cb53a32f1b79b23fc3f.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSB110_937fa0045105692812a04f2585d52d15d96d466ac54641a827d193d5352b6911.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSB110_b93c00b89a5ed6e60f87aa192d2d125a115185459c79220c166c6e9d2670e80c.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSB110_15cf7bc0b876c9bd3ce4e66ba50cd51ac6ebf7e79635a7d6b7dca5e5d294d104.png"
+  }
+}

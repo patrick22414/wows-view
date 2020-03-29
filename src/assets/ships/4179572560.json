@@ -1,0 +1,39 @@
+{
+  "name": "République",
+  "tier": 10,
+  "description": "A version of the battleship design of the post-war period. Her main distinguishing features were very powerful AA guns and 431 mm main battery guns, which were developed in France in the late 1930s.",
+  "profile": {
+    "health": 92400,
+    "artillery": {
+      "reload": 24,
+      "range": 26.1,
+      "traverseTime": 36,
+      "shells": {
+        "he": {
+          "damage": 6300,
+          "velocity": 840,
+          "mass": 1321,
+          "fireChance": 48
+        },
+        "sap": null,
+        "ap": {
+          "damage": 14500,
+          "velocity": 840,
+          "mass": 1321
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 18,
+    "airConcealment": 13.5,
+    "speed": 30,
+    "rudderTime": 18.3,
+    "turnRadius": 980
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSB110_9c674073cd4e0c582f6dcd59a24f36352306730731035e035e5e6e63a68f68f2.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSB110_4cd3703396cfea8b277aad3338e5be30a5fd3343ce4f46bc99845919ed1898c1.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSB110_62e7df825eb79f02cf9623ab9d83dcde83a98ebd9eafcdf83b537087aa50ac85.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSB110_bdd3c1f2df3bd7b3032e98b49b988ee0f88cb2e99c3a295788630db495ad7e1e.png"
+  }
+}

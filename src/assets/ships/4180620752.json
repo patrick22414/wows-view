@@ -1,0 +1,39 @@
+{
+  "name": "Sovetsky Soyuz",
+  "tier": 9,
+  "description": "The largest gunship ever built in the USSR (Project 23) and one of the most powerful battleships in the world. She differed from the prototype, Battleship A, with her larger size and more sophisticated armament systems.",
+  "profile": {
+    "health": 80900,
+    "artillery": {
+      "reload": 33,
+      "range": 17.6,
+      "traverseTime": 30,
+      "shells": {
+        "he": {
+          "damage": 5800,
+          "velocity": 830,
+          "mass": 1108,
+          "fireChance": 40
+        },
+        "sap": null,
+        "ap": {
+          "damage": 13250,
+          "velocity": 830,
+          "mass": 1108
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 16.7,
+    "airConcealment": 13.4,
+    "speed": 28,
+    "rudderTime": 20.8,
+    "turnRadius": 950
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSB109_1f7368aa523289c7da41454eda799ec135a6a1b7663aafb6f62a62b1b0013053.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSB109_06cf878d9b58b9d3160ccfe06d516653587dc20161e26a3191c0203a07cff0b8.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSB109_cc5f2b8f237ae9c6c131707d6f7fd6ca470d75f41bbdf430f995ad126eb7e5df.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSB109_0d259079c43eab61e39b6c7ed01a50f52fa7a5ab79bd33e996d90b2ef3a5036d.png"
+  }
+}

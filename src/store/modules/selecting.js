@@ -32,14 +32,14 @@ const getters = {
 };
 
 const actions = {
-    selectNation: function ({ commit }, nation) {
-        console.log(`select nation ${nation.id}`);
+    selectNation: function ({ commit, state }, nationId) {
+        console.log(`select nation ${nationId}`);
 
-        const ships = require(`../../assets/nations/${nation.id}`).data;
+        const ships = require(`../../assets/nations/${nationId}`).data;
 
         commit("setShips", ships);
-        commit("setSelectedNation", nation.id);
-        commit("setSiteTitle", `WoWs View - Selecting - ${nation.title}`);
+        commit("setSelectedNation", nationId);
+        commit("setSiteTitle", `WoWs View - Selecting - ${state.nations.find(n => n.id === nationId).title}`);
     },
 
     resetSelecting: function ({ commit }) {

@@ -1,0 +1,43 @@
+{
+  "name": "Visby",
+  "tier": 5,
+  "description": "A further development of the \"standard\" destroyers of the Swedish Navy. The ship was faster than her predecessors, had a different main-gun-mount arrangement, and carried reinforced anti-aircraft armament.",
+  "profile": {
+    "health": 8900,
+    "artillery": {
+      "reload": 7,
+      "range": 8.7,
+      "traverseTime": 22.5,
+      "shells": {
+        "he": {
+          "damage": 1600,
+          "velocity": 900,
+          "mass": 24,
+          "fireChance": 7
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2200,
+          "velocity": 900,
+          "mass": 24
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 8,
+      "reload": 55,
+      "visibility": 1.4
+    },
+    "concealment": 6.8,
+    "airConcealment": 2.6,
+    "speed": 39,
+    "rudderTime": 3.5,
+    "turnRadius": 540
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PWSD105_fc2eb8958e01dac0028f5d99a4cd723e49f8bf7259e52dc42a3bcb58147faf39.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PWSD105_cbb1677b5aeceebdd59dd4fd59a90468e3f8ddce4983a83bae988d70a45d7c21.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PWSD105_9777b4234d74cd2ac8e23ae283f293f58d7fb5d27ebf5b8c8a9253653c249af5.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PWSD105_2a684bcddeb763ece46d5bc7d0a7f5281c96386ba9cec41f0e8a6faa14f266c4.png"
+  }
+}

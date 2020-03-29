@@ -1,0 +1,43 @@
+{
+  "name": "Shchors",
+  "tier": 7,
+  "description": "This ship was designed as a light \"squadron escorting\" cruiser (Project 28). She boasted a high speed and powerful artillery but was inferior to foreign counterparts of her time in armor protection.",
+  "profile": {
+    "health": 27900,
+    "artillery": {
+      "reload": 8,
+      "range": 15.2,
+      "traverseTime": 25,
+      "shells": {
+        "he": {
+          "damage": 2200,
+          "velocity": 950,
+          "mass": 55,
+          "fireChance": 12
+        },
+        "sap": null,
+        "ap": {
+          "damage": 3300,
+          "velocity": 950,
+          "mass": 55
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 4,
+      "reload": 76,
+      "visibility": 1.4
+    },
+    "concealment": 13.3,
+    "airConcealment": 6.5,
+    "speed": 35.5,
+    "rudderTime": 12.4,
+    "turnRadius": 900
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC107_a42181e939d1415cc88c3f3f75270339b79c7310b70feec7d22b62340599d8cc.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC107_47cc569d5fe5c8766c68e9d9ee7e268e1e784dbc31db1f885f3e93d3c991e425.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC107_18f2614bea0d05a50655c33b121634602ded3ea838b6c9916e2fb9aa80ea8139.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC107_8130ffab04e40b534281675dedd865b65ddcb1fc1f22269cefaf5171da486ba8.png"
+  }
+}

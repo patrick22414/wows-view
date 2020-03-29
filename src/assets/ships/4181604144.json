@@ -1,0 +1,43 @@
+{
+  "name": "Z-23",
+  "tier": 8,
+  "description": "Developed from the Leberecht Maass-class destroyers (1936A type), this ship had larger dimensions and greater firepower compared to her prototype. She received 150 mm main gun mounts, but retained the torpedo armament of her predecessor.",
+  "profile": {
+    "health": 16700,
+    "artillery": {
+      "reload": 4,
+      "range": 9.9,
+      "traverseTime": 22.5,
+      "shells": {
+        "he": {
+          "damage": 1500,
+          "velocity": 830,
+          "mass": 28,
+          "fireChance": 6
+        },
+        "sap": null,
+        "ap": {
+          "damage": 3000,
+          "velocity": 830,
+          "mass": 28
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 8.5,
+      "reload": 90,
+      "visibility": 1.3
+    },
+    "concealment": 7.9,
+    "airConcealment": 3.5,
+    "speed": 37,
+    "rudderTime": 6.3,
+    "turnRadius": 680
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSD108_bdf17aa0439bd000b558266e8b938f1ddcb78d9d2c514b0c47d3f22819ecce0f.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSD108_230f0ce7e86aca99eb9dc4f515a24d7ca8bd070853947c29ff51731907d82d22.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSD108_1063f2d55aa770b7bfe3f8b12ce14fbaee40778399264cdf707187bbb8577317.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSD108_125a081e25896ce47622f532c7f1baa05d13e27e8d64238bb6cf954435e1618d.png"
+  }
+}
