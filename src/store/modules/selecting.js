@@ -22,11 +22,11 @@ const getters = {
         return state.nations.find(nation => nation.id === id).title;
     },
 
-    getShips: (state) => function (type, tier) {
+    getShips: state => function (type, tier) {
         return state.ships.filter(s => s.type === type && s.tier === tier);
     },
 
-    hasShip: (state) => function (type, tier) {
+    hasShip: state => function (type, tier) {
         return state.ships.some(s => s.type === type && s.tier === tier);
     }
 };

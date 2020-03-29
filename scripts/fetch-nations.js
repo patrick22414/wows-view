@@ -20,8 +20,10 @@ SHIP_NATIONS = [
 
 FIELDS = [
     "name",
-    "tier",
     "type",
+    "tier",
+    "is_premium",
+    "is_special",
     "images.small",
 ];
 
@@ -30,7 +32,6 @@ SHIP_NATIONS.forEach(nation => {
         params: {
             application_id: APPID,
             nation: nation,
-            fields: FIELDS.join(","),
             language: "en",
         }
     })

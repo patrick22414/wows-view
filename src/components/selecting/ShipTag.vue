@@ -1,6 +1,10 @@
 <template>
   <router-link :to="`/building/${ship.id}`">
-    <figure class="ship-tag">
+    <figure
+      class="ship-tag"
+      :class="{'ship-tag-premium': ship.is_premium, 'ship-tag-special': ship.is_special}"
+    >
+      <div class="illuminant"></div>
       <img :src="ship.image" width="120" height="72" />
       <figcaption>{{ship.name}}</figcaption>
     </figure>
@@ -21,33 +25,61 @@ export default {
   margin: 5px;
   background: rgba(255, 255, 255, 0.6);
 
-  transition: background-color 0.4s ease;
-
   display: grid;
   grid-template-rows: auto auto;
   grid-template-columns: auto;
 
+  .illuminant {
+    grid-row: 1 / span 2;
+    grid-column: 1 / span 1;
+
+    background: linear-gradient(skyblue, white);
+    opacity: 0;
+    transition: all 0.4s ease;
+  }
+
   img {
     grid-row: 1 / span 2;
     grid-column: 1 / span 1;
+
+    z-index: 98;
   }
 
   figcaption {
     grid-row: 1 / span 1;
     grid-column: 1 / span 1;
 
-    background: rgba(0, 0, 0, 0.6);
+    z-index: 99;
+
+    background: rgba(0, 0, 0, 0.75);
     box-shadow: 0 0 4px rgba(0, 0, 0, 0.3);
 
-    transition: background-color 0.4s ease;
+    transition: all 0.4s ease;
   }
 
   &:hover {
-    background: rgba(255, 255, 255, 0.8);
+    // background: linear-gradient(skyblue, white);
+
+    .illuminant {
+      opacity: 1;
+    }
 
     figcaption {
-      background: rgba(0, 0, 0, 0.8);
+      background: rgba(0, 0, 0, 0.25);
+      z-index: 97;
     }
+  }
+}
+
+.ship-tag-premium {
+  .illuminant {
+    background: linear-gradient(palegoldenrod, white);
+  }
+}
+
+.ship-tag-special {
+  .illuminant {
+    background: linear-gradient(peachpuff, white);
   }
 }
 

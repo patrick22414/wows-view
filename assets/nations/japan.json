@@ -13,6 +13,8 @@
       "name": "Arashi",
       "type": "Destroyer",
       "tier": 8,
+      "is_premium": false,
+      "is_special": true,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD998_c5f897b76cf14b57c9995b24eb39706a5e8147d00b100b96f2ba1c4564587971.png"
     },
     {
@@ -20,6 +22,8 @@
       "name": "ARP Nachi",
       "type": "Cruiser",
       "tier": 7,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC737_a1448e104c2a97c9947056916b64be6dcd505f06b2dc92d4c506cce31b605ba2.png"
     },
     {
@@ -27,6 +31,8 @@
       "name": "Eastern Dragon",
       "type": "Cruiser",
       "tier": 7,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC727_9b70be9b1d1890fafe3ceaac99d99577c0a1f93b52be6aa816b9d10b67fec6fc.png"
     },
     {
@@ -34,6 +40,8 @@
       "name": "AL Yukikaze",
       "type": "Destroyer",
       "tier": 8,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD718_845cdca463cf8d1cb0afb9485ab413225f75f6b2d8e47fff35200f268640b546.png"
     },
     {
@@ -41,6 +49,8 @@
       "name": "Southern Dragon",
       "type": "Cruiser",
       "tier": 7,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC717_ca2d68d62f1560db2fd711fb1ea8d93d05457c51d4a9212900758c7a9697e023.png"
     },
     {
@@ -48,6 +58,8 @@
       "name": "ARP Haguro",
       "type": "Cruiser",
       "tier": 7,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC709_0bee87c13a1dfa0a474a288e353ffa1337eff7ced7b08b93e5359bcd964083ae.png"
     },
     {
@@ -55,6 +67,8 @@
       "name": "HSF Harekaze",
       "type": "Destroyer",
       "tier": 8,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD708_470f0fed4b35fe800a5801a477fe9f81a0d36b7e56741f57fb45241d4da0518b.png"
     },
     {
@@ -62,6 +76,8 @@
       "name": "ARP Takao",
       "type": "Cruiser",
       "tier": 8,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC708_4110aecb47a60c899277f6a2b3c7af1afa89a5af1b95c7230bceb0f17781cc71.png"
     },
     {
@@ -69,6 +85,8 @@
       "name": "ARP Hiei",
       "type": "Battleship",
       "tier": 5,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB708_570188fd8cd03c7a4a8a56d66a22b1968112039e7b474bff33a79570c38522a8.png"
     },
     {
@@ -76,6 +94,8 @@
       "name": "ARP Ashigara",
       "type": "Cruiser",
       "tier": 7,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC707_213faafb421e9bb32f65f5fadfb25196728b379f80f8d6f90152507707fc9d52.png"
     },
     {
@@ -83,6 +103,8 @@
       "name": "ARP Haruna",
       "type": "Battleship",
       "tier": 5,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB707_7af8b7cf8b82825eea1035176724647ddd617f8c1e245c8e791a8999f3692d50.png"
     },
     {
@@ -90,6 +112,8 @@
       "name": "Shinonome",
       "type": "Destroyer",
       "tier": 6,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD706_415338153df91de8614c59fb4227266483dffe85fc4c98f40285a942fa2c8371.png"
     },
     {
@@ -97,6 +121,8 @@
       "name": "ARP Kirishima",
       "type": "Battleship",
       "tier": 5,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB706_11cb909a60e1cce16449c0309326e3686c69ba9f131c80a9da2d52cc11c4b0d9.png"
     },
     {
@@ -104,6 +130,8 @@
       "name": "ARP Myōkō",
       "type": "Cruiser",
       "tier": 7,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC705_23d7274014edd5a4f8b70e8367b267e7ff5289934e05624538bd412622b2be13.png"
     },
     {
@@ -111,6 +139,8 @@
       "name": "ARP Kongō",
       "type": "Battleship",
       "tier": 5,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB705_72bc7d64bc57d7eb578c04cde318f641085b81042b74de3f0eec7070487b15ea.png"
     },
     {
@@ -118,6 +148,8 @@
       "name": "Yoshino",
       "type": "Cruiser",
       "tier": 10,
+      "is_premium": false,
+      "is_special": true,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC520_017e55976eb6658f2f5cb763e38bc3d80bae966336caecc66a5b0117054032b1.png"
     },
     {
@@ -125,6 +157,8 @@
       "name": "Asashio",
       "type": "Destroyer",
       "tier": 8,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD518_31adcca978dfffcaaceee151db4a83095a69aaf99d8b5ec0f503709480c5eeae.png"
     },
     {
@@ -132,6 +166,8 @@
       "name": "Kaga",
       "type": "AirCarrier",
       "tier": 8,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSA518_12ef9eaa534e14ae966d5c5af03277e8c9142ae157cbdf76b4a49afe9fc7910f.png"
     },
     {
@@ -139,6 +175,8 @@
       "name": "Hayate",
       "type": "Destroyer",
       "tier": 10,
+      "is_premium": false,
+      "is_special": true,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD510_930c7a46da5b3a621ef97b583cbf5b3eecdc7f064f622ca5882b8859228c26da.png"
     },
     {
@@ -146,6 +184,8 @@
       "name": "Azuma",
       "type": "Cruiser",
       "tier": 9,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC510_886ef945c0c4bf7eb13c2bbe9fcec363931c50e65bd5bdbf7eda10fe2f8d94b3.png"
     },
     {
@@ -153,6 +193,8 @@
       "name": "Shikishima",
       "type": "Battleship",
       "tier": 10,
+      "is_premium": false,
+      "is_special": true,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB510_b538072996470b044aef7763b5e579f613b8ad8a1bf699f209de8f4a437d475b.png"
     },
     {
@@ -160,6 +202,8 @@
       "name": "Musashi",
       "type": "Battleship",
       "tier": 9,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB509_51ef2df4e97193eec7ae82a5a4068f4a3618e7494343100c29966675264fc93e.png"
     },
     {
@@ -167,6 +211,8 @@
       "name": "Kii",
       "type": "Battleship",
       "tier": 8,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB508_469caa40a5c2e0cf689eb4fbecd0505c0770622ad22c926a9ef66d97cba05931.png"
     },
     {
@@ -174,6 +220,8 @@
       "name": "Yūdachi",
       "type": "Destroyer",
       "tier": 7,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD507_926722d5c2a026d47a8860e099ce32268fb09533b0d881bb5f8bc2a47895abfd.png"
     },
     {
@@ -181,6 +229,8 @@
       "name": "Ashitaka",
       "type": "Battleship",
       "tier": 7,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB507_c640e33d5943ad652be03dcc03457a53312d3af4390c5cf39c1b0c3933ed9fc6.png"
     },
     {
@@ -188,6 +238,8 @@
       "name": "Mutsu",
       "type": "Battleship",
       "tier": 6,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB506_f7afee3eeaab2267520c0e70725e9d89ea6acf2b9507b7116620abb1d518f0af.png"
     },
     {
@@ -195,6 +247,8 @@
       "name": "Yahagi",
       "type": "Cruiser",
       "tier": 5,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC505_f3444e89f551cae2620d8d24f4a80ff0b1713e631936fca70bb8fe01d57db7de.png"
     },
     {
@@ -202,6 +256,8 @@
       "name": "Katori",
       "type": "Cruiser",
       "tier": 3,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC503_b03d3cbd04e63c4db90dfaf7eb16af76246530db3af68d6cacc61cc5ef983914.png"
     },
     {
@@ -209,6 +265,8 @@
       "name": "Kitakaze",
       "type": "Destroyer",
       "tier": 9,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD219_ec616c3e3fb1a52df1ce2fceb69b42b319b21348217973e52fb703914ade1e99.png"
     },
     {
@@ -216,6 +274,8 @@
       "name": "Harugumo",
       "type": "Destroyer",
       "tier": 10,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD210_862f91814ff6ab4143a329542f73b93b5e4a4beefd9958a9585b8d1c1a85337b.png"
     },
     {
@@ -223,6 +283,8 @@
       "name": "Yūgumo",
       "type": "Destroyer",
       "tier": 9,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD209_29f2671a92e1ccfcc9943ff46985e373b28a6be6be8381ecd46f3f5e00f2dca7.png"
     },
     {
@@ -230,6 +292,8 @@
       "name": "Kagerō",
       "type": "Destroyer",
       "tier": 8,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD208_878edebc5f022d83d994a8d75ef49b6de18814267ccc0c4a13d4cbcca9143c1e.png"
     },
     {
@@ -237,6 +301,8 @@
       "name": "Shiratsuyu",
       "type": "Destroyer",
       "tier": 7,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD207_0353f8a63a02490d991b25e39665419f3840d9e16bdb3e35fa8fb0e5eb6c6c78.png"
     },
     {
@@ -244,6 +310,8 @@
       "name": "Hatsuharu",
       "type": "Destroyer",
       "tier": 6,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD206_e5506189b8c14dd20516649a3050d0d1f4f1cb07eaff7e2ae52840fbb4191138.png"
     },
     {
@@ -251,6 +319,8 @@
       "name": "Hakuryū",
       "type": "AirCarrier",
       "tier": 10,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSA110_00695fda2927f4e847c390fef1fc00a72ecb9eeebb7cfa439fdb696dea539764.png"
     },
     {
@@ -258,6 +328,8 @@
       "name": "Akizuki",
       "type": "Destroyer",
       "tier": 8,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD108_fe0c2317c51024e09486238f9dd9363fd5830d82672ecb123cadec4b71aa21cb.png"
     },
     {
@@ -265,6 +337,8 @@
       "name": "Shōkaku",
       "type": "AirCarrier",
       "tier": 8,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSA108_fa0b8145aaed9d39cbe0ffab87bd6b044d7bf1e8397d60584a5ad961409dc49d.png"
     },
     {
@@ -272,6 +346,8 @@
       "name": "Akatsuki",
       "type": "Destroyer",
       "tier": 7,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD107_405b2e05bc1ac626e6ea7aedd92140e9d1aab95c025a3b3d289aade037e41494.png"
     },
     {
@@ -279,6 +355,8 @@
       "name": "Fubuki",
       "type": "Destroyer",
       "tier": 6,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD106_6a768ab5c3dc4fe4976cc5d5aad150fa6b6399a235404aee4c0db718ae8723d1.png"
     },
     {
@@ -286,6 +364,8 @@
       "name": "Ryūjō",
       "type": "AirCarrier",
       "tier": 6,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSA106_1d99eef53441172915ef874586aaec0e9e38250f3145e9b00026f7c2c7291460.png"
     },
     {
@@ -293,6 +373,8 @@
       "name": "Mutsuki",
       "type": "Destroyer",
       "tier": 5,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD105_bef8581dbc86b80baeacc78b0154e52cde072f2cfcb42eae68229c2b0254172e.png"
     },
     {
@@ -300,6 +382,8 @@
       "name": "Hōshō",
       "type": "AirCarrier",
       "tier": 4,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSA104_7d7342a688ea162287c65071f89954cf0720400daa96bccbed5f3a6dc76868c8.png"
     },
     {
@@ -307,6 +391,8 @@
       "name": "Atago",
       "type": "Cruiser",
       "tier": 8,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC038_ad542cd733f22b5763df118848a9f5705fc9c5b240c99ea30806690cacb56ae6.png"
     },
     {
@@ -314,6 +400,8 @@
       "name": "Hashidate",
       "type": "Cruiser",
       "tier": 1,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC037_2070cb19579c77e4fb7586891286347b81eb9f30cd809d10dc3eaf802c546267.png"
     },
     {
@@ -321,6 +409,8 @@
       "name": "Chikuma",
       "type": "Cruiser",
       "tier": 2,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC035_3e13e5aee5d304ac0bcaf453e1b383a9321f0dab690f44894f5cd50735bce28d.png"
     },
     {
@@ -328,6 +418,8 @@
       "name": "Zaō",
       "type": "Cruiser",
       "tier": 10,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC034_4ff33cd01dbf1be2998e56d24f0ebd229f96b0f45183925996660da926b0bb2b.png"
     },
     {
@@ -335,6 +427,8 @@
       "name": "Kamikaze R",
       "type": "Destroyer",
       "tier": 5,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD026_ae4c4e5124b791147bd405a984b325e4dc0cd1272c64464df203ae644dcf84f4.png"
     },
     {
@@ -342,6 +436,8 @@
       "name": "Iwaki Alpha",
       "type": "Cruiser",
       "tier": 4,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC026_1ea7159a86da92fc638dfff8b0de17702ad8a301d8747a6ec5aec3ff5e3e344b.png"
     },
     {
@@ -349,6 +445,8 @@
       "name": "Kamikaze",
       "type": "Destroyer",
       "tier": 5,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD025_b7e23e0c827173f76fd9b11ce98c60647d90c37fccffdc6e6827ab8654452b50.png"
     },
     {
@@ -356,6 +454,8 @@
       "name": "Wakatake",
       "type": "Destroyer",
       "tier": 3,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD024_419ac86e38917bb8f20e13308e989197d5d4605bd33d51a4e7bfe3dfe91a58a8.png"
     },
     {
@@ -363,6 +463,8 @@
       "name": "Izumo",
       "type": "Battleship",
       "tier": 9,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB021_e2fd8e78ea1cfde30df288cd9047b9efc2fa5f00dec96687bc7da70f3ecaf9e3.png"
     },
     {
@@ -370,6 +472,8 @@
       "name": "Yamato",
       "type": "Battleship",
       "tier": 10,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB018_09d58fd0f34d6b2d24352c735c1abc10a2c483ffbcfd203f192238263b77c7ba.png"
     },
     {
@@ -377,6 +481,8 @@
       "name": "Fūjin",
       "type": "Destroyer",
       "tier": 5,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD017_e674ae3673bb6ca14a72b76a2e5cc071ea1ec38e81fc44ee782813139b97061f.png"
     },
     {
@@ -384,6 +490,8 @@
       "name": "Tenryū",
       "type": "Cruiser",
       "tier": 3,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC015_f8fc92f790d19c7292753b60e47c195e3864b7748da34d08d7f28bcd4a4a798d.png"
     },
     {
@@ -391,6 +499,8 @@
       "name": "Tachibana Lima",
       "type": "Destroyer",
       "tier": 2,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD014_74630ef07ccf351532f0e1f334212f1b3c08dceb1885c2ea05b865d81a6046a5.png"
     },
     {
@@ -398,6 +508,8 @@
       "name": "Kuma",
       "type": "Cruiser",
       "tier": 4,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC013_f2735e49834b31420c33478d2a72d2d5461dbe046e49219a7d121fe4cc44a658.png"
     },
     {
@@ -405,6 +517,8 @@
       "name": "Amagi",
       "type": "Battleship",
       "tier": 8,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB013_c215682c543ac556b2a48e1bb70172dd10805f174dc63eae0066b70cfd5db1d1.png"
     },
     {
@@ -412,6 +526,8 @@
       "name": "Shimakaze",
       "type": "Destroyer",
       "tier": 10,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD012_abe195480c5687e0a492b11dcd83d8117b278c8c3aa8bc794b3df3ed77c21c26.png"
     },
     {
@@ -419,6 +535,8 @@
       "name": "Ibuki",
       "type": "Cruiser",
       "tier": 9,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC012_49a90dabd944968fe21ce60cefb889d49d4562e8be3f0202b2b2b71e0c4481b2.png"
     },
     {
@@ -426,6 +544,8 @@
       "name": "Mikasa",
       "type": "Battleship",
       "tier": 2,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB011_d7d3fab61194d998b8ca4e0af8bfc2e624a03695f8a4e3154db5990951910779.png"
     },
     {
@@ -433,6 +553,8 @@
       "name": "Nagato",
       "type": "Battleship",
       "tier": 7,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB010_ff3e7bb339d23360a083bd0da2586e2046561ab58616b89d8ce3c44e392897b3.png"
     },
     {
@@ -440,6 +562,8 @@
       "name": "Mogami",
       "type": "Cruiser",
       "tier": 8,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC009_33e71e78734f0619b10f8c02cbcf7028c774fcf2fda26a6a1a5be811ad036a9a.png"
     },
     {
@@ -447,6 +571,8 @@
       "name": "Myōkō",
       "type": "Cruiser",
       "tier": 7,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC008_7a535a1d0af5888f028d43c6bc6e9906fda362a2de2c59722cc86c3186f9d4ea.png"
     },
     {
@@ -454,6 +580,8 @@
       "name": "Ishizuchi",
       "type": "Battleship",
       "tier": 4,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB008_1e5831aa5cd00c6c6808c4538edca19902e436a4b16247161a5c0ed46800e2b6.png"
     },
     {
@@ -461,6 +589,8 @@
       "name": "Aoba",
       "type": "Cruiser",
       "tier": 6,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC007_cf448b87cb7dc3c5c66a56feda5608286d7a7ad5980811a844612b239f80f5b8.png"
     },
     {
@@ -468,6 +598,8 @@
       "name": "Kongō",
       "type": "Battleship",
       "tier": 5,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB007_0a29784ee43dfb5cb28b371e4714fb8babfda90d266a17c49ae01284a7a87350.png"
     },
     {
@@ -475,6 +607,8 @@
       "name": "Fusō",
       "type": "Battleship",
       "tier": 6,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB006_48eeed44a70f46d7ef59584a03302baab9ca1a8017c3882141cdfe5b2081b38a.png"
     },
     {
@@ -482,6 +616,8 @@
       "name": "Furutaka",
       "type": "Cruiser",
       "tier": 5,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC005_47ad5b79b8925372bf7a4c19383cb3fe5ea2c0f3baa8ac1d394c56f4d6b1790a.png"
     },
     {
@@ -489,6 +625,8 @@
       "name": "Minekaze",
       "type": "Destroyer",
       "tier": 5,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD004_f07b938240f3700ff09c933d5287b980b64a10461c6411d79f1f467fe02b1aaf.png"
     },
     {
@@ -496,6 +634,8 @@
       "name": "Yūbari",
       "type": "Cruiser",
       "tier": 4,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC004_6b130f0c0d7114d79c688d7d582a64145c5e3c017b2287b3e8ac8296ae1fb1e6.png"
     },
     {
@@ -503,6 +643,8 @@
       "name": "Isokaze",
       "type": "Destroyer",
       "tier": 4,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD003_9afebb2eb020b27e3a1542d4f75ea226036f4f6fb793525c5a121c26c7ec76cb.png"
     },
     {
@@ -510,6 +652,8 @@
       "name": "Myōgi",
       "type": "Battleship",
       "tier": 4,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB003_64e6e131b2406b726d9c50d5bd7fa8d6625f1b428d6851db4ba1c9268539387b.png"
     },
     {
@@ -517,6 +661,8 @@
       "name": "Umikaze",
       "type": "Destroyer",
       "tier": 2,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD002_31d77318ee9fa56f018282abf1b9c5a12db465e6c38a3174ca7d77d32f1b673d.png"
     },
     {
@@ -524,6 +670,8 @@
       "name": "Tachibana",
       "type": "Destroyer",
       "tier": 2,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD001_1998f44b5aab7fa5c3a229028caec8cf1e042e1586f3e11c1d3d6e57cf17f18d.png"
     },
     {
@@ -531,6 +679,8 @@
       "name": "Kawachi",
       "type": "Battleship",
       "tier": 3,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB001_f99d4a487e2eeda442edfb3eeed0feb5cd260d088d2af632f3a804d9a052fdd3.png"
     }
   ]

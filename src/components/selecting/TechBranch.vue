@@ -64,12 +64,12 @@ export default {
   h2 {
     height: 2em;
     margin: 30px 40px;
-    background: rgba(255, 255, 255, 0.4);
+    background: rgba(255, 255, 255, 0.3);
 
     font-size: 20pt;
     font-weight: 400;
     line-height: 2em;
-    text-shadow: 0 0 12px rgba(0, 0, 0, 0.8);
+    text-shadow: 0 0 12px rgba(0, 0, 0, 1);
   }
 
   .tier-tag {
@@ -83,13 +83,21 @@ export default {
 
     justify-content: center;
 
+    transition: all 0.4s ease;
+
     h3 {
       width: 100%;
-      //   border-bottom: solid whitesmoke;
-
-      //   background: rgba(255, 255, 255, 0.6);
-
+      padding-bottom: 6px;
       font-weight: 400;
+      transition: all 0.4s ease;
+    }
+
+    &:hover {
+      background: rgba(0, 0, 0, 0.6);
+
+      h3 {
+        text-shadow: white 0 0 12px;
+      }
     }
   }
 }

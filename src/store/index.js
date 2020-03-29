@@ -7,10 +7,14 @@ Vue.use(Vuex);
 
 export default new Vuex.Store({
     state: {
-        siteTitle: "WoWs View"
+        siteTitle: "WoWs View",
+        info: require("../../assets/encyclopedia"),
     },
     getters: {
-        getSiteTitle: state => state.siteTitle
+        getSiteTitle: state => state.siteTitle,
+        getShipTypeImage: state => function (type) {
+            return state.info.ship_type_images[type].image;
+        },
     },
     actions: {
         changeSiteTitle: function ({ commit }, newTitle) {

@@ -13,6 +13,8 @@
       "name": "Gorizia",
       "type": "Cruiser",
       "tier": 7,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC607_e334db632788e12588a05709b2cb78df0def5bc4ff443b97a39914d6399b9fee.png"
     },
     {
@@ -20,6 +22,8 @@
       "name": "Paolo Emilio",
       "type": "Destroyer",
       "tier": 10,
+      "is_premium": false,
+      "is_special": true,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISD510_6624831a92d15e3a7cae37d8ff287705cd226984cccad16886c572cbfe453809.png"
     },
     {
@@ -27,6 +31,8 @@
       "name": "Roma",
       "type": "Battleship",
       "tier": 8,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISB508_53c45c0e3ec38f1b909069d9b7402909b3551ff9d0a40da8f199beb1450c23e3.png"
     },
     {
@@ -34,6 +40,8 @@
       "name": "Duca degli Abruzzi",
       "type": "Cruiser",
       "tier": 7,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC507_c087484aa63c5c8cb5351c06b2afbff94a8c7a90a26a381b4c48b316d600f105.png"
     },
     {
@@ -41,6 +49,8 @@
       "name": "Leone",
       "type": "Destroyer",
       "tier": 6,
+      "is_premium": false,
+      "is_special": true,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISD506_bdbc7333f7c1744f5415f52cb7f6bc6b137831544f6c2338511c9ab44029dd1d.png"
     },
     {
@@ -48,6 +58,8 @@
       "name": "Duca d'Aosta",
       "type": "Cruiser",
       "tier": 6,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC506_8f54e2f7c9084821c2f84bb70dd6191a3fb5afcfe2b3b8becab9546ad4b114e7.png"
     },
     {
@@ -55,6 +67,8 @@
       "name": "Genova",
       "type": "Cruiser",
       "tier": 5,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC505_44e3f059fbb05a4904c7169e23eebbc19830a369f6fbb2740f7261f6a161e62f.png"
     },
     {
@@ -62,6 +76,8 @@
       "name": "Giulio Cesare",
       "type": "Battleship",
       "tier": 5,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISB505_e886c50dba9c6453eab1d69b9bafb409082034ee3a12bf2e519538436679bae1.png"
     },
     {
@@ -69,6 +85,8 @@
       "name": "Venezia",
       "type": "Cruiser",
       "tier": 10,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC110_e394d76a275b9434b48210aa7bec4662b0f8ea3b90873e8a359a20e6d6e53bc5.png"
     },
     {
@@ -76,6 +94,8 @@
       "name": "Brindisi",
       "type": "Cruiser",
       "tier": 9,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC109_c7ad8b7667d6a9d16c69f709ef1281dd56c079b6377066bb013779a1a3494b00.png"
     },
     {
@@ -83,6 +103,8 @@
       "name": "Amalfi",
       "type": "Cruiser",
       "tier": 8,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC108_cfbcefc56001806febabf1fd507fb6ba7af4d2e335534ee14278a288aad642de.png"
     },
     {
@@ -90,6 +112,8 @@
       "name": "Zara",
       "type": "Cruiser",
       "tier": 7,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC107_a0591fbc3a90c7513f4365f26b076780bb006fc84497f7a0d06cb777d54e3773.png"
     },
     {
@@ -97,6 +121,8 @@
       "name": "Trento",
       "type": "Cruiser",
       "tier": 6,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC106_b6f07d7928c76bbfa5c8b86bb0c884cff63528362b81eb2409f4c27115c910b5.png"
     },
     {
@@ -104,6 +130,8 @@
       "name": "Raimondo Montecuccoli",
       "type": "Cruiser",
       "tier": 5,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC105_57ddbbf60589cd67a7b5d2e10edf7b560d47f6f9149bc1542e60d98b8284b3e9.png"
     },
     {
@@ -111,6 +139,8 @@
       "name": "Alberto di Giussano",
       "type": "Cruiser",
       "tier": 4,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC104_fcd1ef9903eeedd1f40fba22744b31825a217fdb794fd5c20579d675924fa796.png"
     },
     {
@@ -118,6 +148,8 @@
       "name": "Taranto",
       "type": "Cruiser",
       "tier": 3,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC103_6a770d0f6274ca10230bd26cdb8c10955a6253ab0c8354953c6b39de4e811d12.png"
     },
     {
@@ -125,6 +157,8 @@
       "name": "Nino Bixio",
       "type": "Cruiser",
       "tier": 2,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC102_898785875a70f400c96acd9e7e8d100448968281c24f2a102058b79c7d076c51.png"
     },
     {
@@ -132,6 +166,8 @@
       "name": "Eritrea",
       "type": "Cruiser",
       "tier": 1,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC101_450c29f6caedbfc0c5309917d1d7179ad78a6cb879e907e4d82df8d3f662820f.png"
     }
   ]

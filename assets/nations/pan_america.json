@@ -13,6 +13,8 @@
       "name": "Nueve de Julio",
       "type": "Cruiser",
       "tier": 7,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PVSC507_823e3d410006ac4bf8c793d3f0675c60b9408bf146a78bba2934cdb6864307e5.png"
     }
   ]

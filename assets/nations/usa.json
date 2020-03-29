@@ -13,6 +13,8 @@
       "name": "Georgia",
       "type": "Battleship",
       "tier": 9,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB729_d8c94ef3717e9af2fe127cb6520444cb7469243d935cd34c1473d991b50d19de.png"
     },
     {
@@ -20,6 +22,8 @@
       "name": "AL Montpelier",
       "type": "Cruiser",
       "tier": 8,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC718_2a2852071ef0342f4ebe3986e76680bb771c4b8d8c55371ac96d69c7e9c73fcf.png"
     },
     {
@@ -27,6 +31,8 @@
       "name": "Salem",
       "type": "Cruiser",
       "tier": 10,
+      "is_premium": false,
+      "is_special": true,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC710_295243134f7325711607add114f258af9989cbd388a74b1cd834604f92644008.png"
     },
     {
@@ -34,6 +40,8 @@
       "name": "Black",
       "type": "Destroyer",
       "tier": 9,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASD709_f7d89956ba9d7ecafb01b89729fa011f898faac2adb169cf573ec58e2c58755f.png"
     },
     {
@@ -41,6 +49,8 @@
       "name": "Flint",
       "type": "Cruiser",
       "tier": 7,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC707_9a53bf9f926e7f9199ed84b19e8ab76ac7dd0559502728123fa9908c7d8b0343.png"
     },
     {
@@ -48,6 +58,8 @@
       "name": "California",
       "type": "Battleship",
       "tier": 7,
+      "is_premium": false,
+      "is_special": true,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB707_5adb831f57bb58011aec94abb7e54ede1cd75c46df3cd092550c165981c6a797.png"
     },
     {
@@ -55,6 +67,8 @@
       "name": "Texas",
       "type": "Battleship",
       "tier": 5,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB705_e629e475efaf1e29292b717f4d5b05b417d61aa78bd9b286a48f8cb8d8da0f2e.png"
     },
     {
@@ -62,6 +76,8 @@
       "name": "Puerto Rico",
       "type": "Cruiser",
       "tier": 10,
+      "is_premium": false,
+      "is_special": true,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC610_7b1e57f36e152fffef30f09831850ee95a27bc2d28047027708d5ad7f23589f7.png"
     },
     {
@@ -69,6 +85,8 @@
       "name": "Boise",
       "type": "Cruiser",
       "tier": 7,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC597_f157c4b6aa57582cb9336671d6838731b072756d5cc6cb64e54d12598fd16d2d.png"
     },
     {
@@ -76,6 +94,8 @@
       "name": "Saipan",
       "type": "AirCarrier",
       "tier": 8,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASA528_916e92731e2b592523a82077d1c8c7124e1f7edc4ac7114b6cbc3fa3d60fbad6.png"
     },
     {
@@ -83,6 +103,8 @@
       "name": "Massachusetts",
       "type": "Battleship",
       "tier": 8,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB518_2f9d62bd58e089b4190828ea78dd173b0c85959dac242ce1ea0c192c5fc9b8fe.png"
     },
     {
@@ -90,6 +112,8 @@
       "name": "Enterprise",
       "type": "AirCarrier",
       "tier": 8,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASA518_1d6166593fe612e7436a4cd708d938a973cee0a65c37c5c7479fd817644b8626.png"
     },
     {
@@ -97,6 +121,8 @@
       "name": "Somers",
       "type": "Destroyer",
       "tier": 10,
+      "is_premium": false,
+      "is_special": true,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASD510_d96a020f6644524078ce45c834c794afeb2a39613ad47896f10dad524471c6a1.png"
     },
     {
@@ -104,6 +130,8 @@
       "name": "Alaska",
       "type": "Cruiser",
       "tier": 9,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC510_1c368c094c16e8fc1fed07afbc237cb7fde0cf956ce171dc419eabfbaedf4364.png"
     },
     {
@@ -111,6 +139,8 @@
       "name": "Ohio",
       "type": "Battleship",
       "tier": 10,
+      "is_premium": false,
+      "is_special": true,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB510_1d778bf39031b11b53821ac9e51ae088bd5105f8fd8853e78257fb89803214aa.png"
     },
     {
@@ -118,6 +148,8 @@
       "name": "Benham",
       "type": "Destroyer",
       "tier": 9,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASD509_59560092e7d0faedac105e858a15f778f753bc66afe428ea6f391f3ceb456c6d.png"
     },
     {
@@ -125,6 +157,8 @@
       "name": "Missouri",
       "type": "Battleship",
       "tier": 9,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB509_9b435c1100a6f5b7c3c188bffb12ee3243cd9394b7df9bf9dced5c8a003d0dd0.png"
     },
     {
@@ -132,6 +166,8 @@
       "name": "Kidd",
       "type": "Destroyer",
       "tier": 8,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASD508_932f023f70ccd57b093e1c765dacffeb8a73549842f2775db64622a9cb8f0eb6.png"
     },
     {
@@ -139,6 +175,8 @@
       "name": "Wichita",
       "type": "Cruiser",
       "tier": 8,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC508_8cf65982bb9fa3c9dfe532a2d933b9c6df2149dab6f9d91d53d87753d0982b81.png"
     },
     {
@@ -146,6 +184,8 @@
       "name": "Alabama",
       "type": "Battleship",
       "tier": 8,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB508_69f709e9b4f7f819cdbebaee0817f988d5d2afc87de49d4cc79146b40d0e87f4.png"
     },
     {
@@ -153,6 +193,8 @@
       "name": "Indianapolis",
       "type": "Cruiser",
       "tier": 7,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC507_c6e1a2b8f6831f2fd8363929e4345fc7621bfc19e02b5ea3d3bfea796ae25e64.png"
     },
     {
@@ -160,6 +202,8 @@
       "name": "W. Virginia 1941",
       "type": "Battleship",
       "tier": 6,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB507_06ebdd3d8e3613cb57a419708ae5f1e02a977f58b60f8956ae40012fe1f95c72.png"
     },
     {
@@ -167,6 +211,8 @@
       "name": "Monaghan",
       "type": "Destroyer",
       "tier": 6,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASD506_cccf826bd401d17d94eb5e3707e49ebdc90819b7a55864f8d20cb41cf0cf9036.png"
     },
     {
@@ -174,6 +220,8 @@
       "name": "Arizona",
       "type": "Battleship",
       "tier": 6,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB506_453cedd653e813e75d7e76d15b45bf79c5fcd5aedf8bbcbba1fbdffcd8b27580.png"
     },
     {
@@ -181,6 +229,8 @@
       "name": "Hill",
       "type": "Destroyer",
       "tier": 5,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASD505_43fa2a0aad67510b333122193937f47f8e09b7418b82386426f8f91b44e370af.png"
     },
     {
@@ -188,6 +238,8 @@
       "name": "Charleston",
       "type": "Cruiser",
       "tier": 3,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC503_ae7dea4a0b3b95a0108d39ab1242a77a2e985907444c323da0b190714b84c74a.png"
     },
     {
@@ -195,6 +247,8 @@
       "name": "Smith",
       "type": "Destroyer",
       "tier": 2,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASD502_20541d13622858429f4cd9b120288fdde32606c103463e78d1c7e3c5d3d4c3e5.png"
     },
     {
@@ -202,6 +256,8 @@
       "name": "Worcester",
       "type": "Cruiser",
       "tier": 10,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC210_9458d9cdb708b6e713ccd2e0ddc0b51381ddf3957c9c265f22e7af352ecac785.png"
     },
     {
@@ -209,6 +265,8 @@
       "name": "Seattle",
       "type": "Cruiser",
       "tier": 9,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC209_e66952791db4785c96f66f8af4ae476f47fb115976c5a7ccaeba97a8deda3a26.png"
     },
     {
@@ -216,6 +274,8 @@
       "name": "Cleveland",
       "type": "Cruiser",
       "tier": 8,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC208_0e978db1d04d5995a49bdb2441aa19df9563cef3b24cf4dd40401d591eefa7ca.png"
     },
     {
@@ -223,6 +283,8 @@
       "name": "Helena",
       "type": "Cruiser",
       "tier": 7,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC207_e4d8422459b071f8e81053c0c7e0083ffa550efc2c0358a1547c06643fb9bf17.png"
     },
     {
@@ -230,6 +292,8 @@
       "name": "Dallas",
       "type": "Cruiser",
       "tier": 6,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC206_758062c1b1a7c400b03bc84734f371e4faf479d9837379e2433408f1036a192c.png"
     },
     {
@@ -237,6 +301,8 @@
       "name": "Midway",
       "type": "AirCarrier",
       "tier": 10,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASA110_4d771eaae5b865a45b94b367db15a494aa27262a7d90c215fdc6bf447e6ee219.png"
     },
     {
@@ -244,6 +310,8 @@
       "name": "Buffalo",
       "type": "Cruiser",
       "tier": 9,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC109_f4bdcdf5a7540b770044cc335d746feb6e36ec97fef9515ccb440ab6cdf161cb.png"
     },
     {
@@ -251,6 +319,8 @@
       "name": "Baltimore",
       "type": "Cruiser",
       "tier": 8,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC108_21ac1f822b53652ae435f58f86426f05265e4184ef9eba180ec95fd4c607586b.png"
     },
     {
@@ -258,6 +328,8 @@
       "name": "Lexington",
       "type": "AirCarrier",
       "tier": 8,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASA108_386d630f0633afb7d8780c7cf00a0ba01965695be83953501f4da7aad4d60bb1.png"
     },
     {
@@ -265,6 +337,8 @@
       "name": "New Orleans",
       "type": "Cruiser",
       "tier": 7,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC107_0313da8b996f2dcc654d6f4aa69d8a19c5ffc29b42a012bcb97768249f77697b.png"
     },
     {
@@ -272,6 +346,8 @@
       "name": "Pensacola",
       "type": "Cruiser",
       "tier": 6,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC106_01607f57ce654de73a1c2c496f1d093458f40f2506e142040e17cc68fe7b63e5.png"
     },
     {
@@ -279,6 +355,8 @@
       "name": "Ranger",
       "type": "AirCarrier",
       "tier": 6,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASA106_21c2ea782aafeeb3f5a75c83828862c7ed1d6137e3b1845460db64e8e0dd2808.png"
     },
     {
@@ -286,6 +364,8 @@
       "name": "Langley",
       "type": "AirCarrier",
       "tier": 4,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASA104_cb705686614cf036e6947347c24e6145f96c400bb11a747e964bc44845af739a.png"
     },
     {
@@ -293,6 +373,8 @@
       "name": "Marblehead Lima",
       "type": "Cruiser",
       "tier": 5,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC045_00270098fa52f03895dd251db098c25f052ba5aaf31968c61fc6234001fa6a25.png"
     },
     {
@@ -300,6 +382,8 @@
       "name": "Marblehead",
       "type": "Cruiser",
       "tier": 5,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC044_c352867beffd79fc91554872bd06796cdb5389feae42cac8b6ca39ca5f12df70.png"
     },
     {
@@ -307,6 +391,8 @@
       "name": "New Mexico",
       "type": "Battleship",
       "tier": 6,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB034_790c9d33dff4da4e6c94fcb9dc68276a9b6bdff7dba1ef260a37e0f15b45d8f9.png"
     },
     {
@@ -314,6 +400,8 @@
       "name": "Sims",
       "type": "Destroyer",
       "tier": 7,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASD029_dc20aa41ee113ff63d5d1f38b0fd288d3612fe5c6e3aad03d78c8f7fc31368a8.png"
     },
     {
@@ -321,6 +409,8 @@
       "name": "Wickes",
       "type": "Destroyer",
       "tier": 3,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASD027_34d54f831aa583aa965f31021072db38068694cf0ae960f37d50ab6db0c29960.png"
     },
     {
@@ -328,6 +418,8 @@
       "name": "Phoenix",
       "type": "Cruiser",
       "tier": 4,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC024_a93d18806afc27c105eaacc9c89f7f54da9ced98fa6e2957a393d555ca2371d3.png"
     },
     {
@@ -335,6 +427,8 @@
       "name": "Fletcher",
       "type": "Destroyer",
       "tier": 9,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASD021_195d2174b3a7b43d0075dd2d5f1d6fd7434f85e7e51d5b0aed7ab3e76fe0f704.png"
     },
     {
@@ -342,6 +436,8 @@
       "name": "Des Moines",
       "type": "Cruiser",
       "tier": 10,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC020_6d8433ad54145db2092483c2e1a72af6be632ac638654dff0541c8f54f4106a7.png"
     },
     {
@@ -349,6 +445,8 @@
       "name": "Clemson",
       "type": "Destroyer",
       "tier": 4,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASD019_e6390d769f905f212e17512f60c51ef66a9090bd266af5a0777df2ac9ec6f4bf.png"
     },
     {
@@ -356,6 +454,8 @@
       "name": "Iowa",
       "type": "Battleship",
       "tier": 9,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB018_0c5d0ae4701f480da30eba22b7a30acaa433fc44fc5539b260764be8dedcd28c.png"
     },
     {
@@ -363,6 +463,8 @@
       "name": "Montana",
       "type": "Battleship",
       "tier": 10,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB017_b51c4665351b2b42f323ce938b73fc6b9f221f170bc0596eefbda0d437026597.png"
     },
     {
@@ -370,6 +472,8 @@
       "name": "Nicholas",
       "type": "Destroyer",
       "tier": 5,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASD014_e79514135714915cac9a2f2c865b77804c6bff30a0b5e10e9e5b144e5dfbb4ab.png"
     },
     {
@@ -377,6 +481,8 @@
       "name": "Gearing",
       "type": "Destroyer",
       "tier": 10,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASD013_cf35f9528df69fef9880f2d65cf467010068268307c5f679cc2f2b2b93bc26d5.png"
     },
     {
@@ -384,6 +490,8 @@
       "name": "Arkansas Beta",
       "type": "Battleship",
       "tier": 4,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB013_fd0062a5f6f66b6d6ac6569219794df971d1463c8fc9f94a3de9592a44be383d.png"
     },
     {
@@ -391,6 +499,8 @@
       "name": "North Carolina",
       "type": "Battleship",
       "tier": 8,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB012_b194c9c021cc698856a3799e28c8a1e26432d91f06838f4cd4d093e553d18442.png"
     },
     {
@@ -398,6 +508,8 @@
       "name": "Benson",
       "type": "Destroyer",
       "tier": 8,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASD008_938a07eb570452670d233040657ecf2eb2f1941dcf444dc2b55f3a495d556c88.png"
     },
     {
@@ -405,6 +517,8 @@
       "name": "Colorado",
       "type": "Battleship",
       "tier": 7,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB008_f307012b83b46b5701060cfb0d1a3abe4cb3e9ce0a2b6db149d4f93752f182b9.png"
     },
     {
@@ -412,6 +526,8 @@
       "name": "Mahan",
       "type": "Destroyer",
       "tier": 7,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASD006_8809457fd91e0059ae2ad9a12bbbc625f9da78d53447c3aeac7946f7262b720a.png"
     },
     {
@@ -419,6 +535,8 @@
       "name": "Atlanta",
       "type": "Cruiser",
       "tier": 7,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC006_e8351e2a51cd6e4546791ccf2e903498370d5d953836ccc11db81ec903646f7a.png"
     },
     {
@@ -426,6 +544,8 @@
       "name": "New York",
       "type": "Battleship",
       "tier": 5,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB006_23fd08bc3676319adccc69b91c3242226f3d9c1018ffb201b443801a0e1f6656.png"
     },
     {
@@ -433,6 +553,8 @@
       "name": "Farragut",
       "type": "Destroyer",
       "tier": 6,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASD005_c503f2cb82bd84759aee1093d7d5b0310afc726e413e6305fbd317026a15e8fd.png"
     },
     {
@@ -440,6 +562,8 @@
       "name": "Omaha",
       "type": "Cruiser",
       "tier": 5,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC005_1da1d762b9b557bec30b79e3ccbecf3f2b715121313d8e89ff491edfd9e5263d.png"
     },
     {
@@ -447,6 +571,8 @@
       "name": "St. Louis",
       "type": "Cruiser",
       "tier": 3,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC004_e5d30b5654a101a3c8401eca35d8b9de6badc1a9d37918b5a002384296b9a7f0.png"
     },
     {
@@ -454,6 +580,8 @@
       "name": "Wyoming",
       "type": "Battleship",
       "tier": 4,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB004_dbd237bb068f2af87183f11156be3a08b65f2c25ddab0b870abb52a6f41711b6.png"
     },
     {
@@ -461,6 +589,8 @@
       "name": "Albany",
       "type": "Cruiser",
       "tier": 2,
+      "is_premium": true,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC003_4380819e83afd2df986c9ce98ca3ea3b248b8ea2ba0c720350a7530842b024e4.png"
     },
     {
@@ -468,6 +598,8 @@
       "name": "Sampson",
       "type": "Destroyer",
       "tier": 2,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASD002_ce33bc86770e84359455424b0535414ab34cd868867525e0d9984287db93024f.png"
     },
     {
@@ -475,6 +607,8 @@
       "name": "Chester",
       "type": "Cruiser",
       "tier": 2,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC002_6528f63b24be737d9eafb80f25f4344ad5c601e6d2c36d56eaaf9584c58d0144.png"
     },
     {
@@ -482,6 +616,8 @@
       "name": "Erie",
       "type": "Cruiser",
       "tier": 1,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC001_ade92dc58a7fb61bdf43dc04baf0f16916ae76371b427930a833b0e0852fbc38.png"
     },
     {
@@ -489,6 +625,8 @@
       "name": "South Carolina",
       "type": "Battleship",
       "tier": 3,
+      "is_premium": false,
+      "is_special": false,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB001_a9ac93ce54f839a639eacc67b81ea5d374e2f514883b8dcd8f4addeb868bad22.png"
     }
   ]
