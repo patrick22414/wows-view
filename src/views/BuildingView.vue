@@ -1,21 +1,21 @@
 <template>
   <div class="building-view">
     <Sidebar />
-    <Preview />
+    <Profile />
     <Config />
   </div>
 </template>
 
 <script>
 import Sidebar from "../components/Sidebar";
-import Preview from "../components/building/Preview";
+import Profile from "../components/building/Profile";
 import Config from "../components/building/Config";
 
 export default {
   name: "BuildingView",
   components: {
     Sidebar,
-    Preview,
+    Profile,
     Config
   },
   beforeCreate: function() {

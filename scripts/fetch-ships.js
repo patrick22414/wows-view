@@ -5,17 +5,17 @@ URL = "https://api.worldofwarships.eu/wows/encyclopedia/ships/";
 APPID = "d9e3cd11e2529af77d0317ff1597b2be";
 
 SHIP_NATIONS = [
-    "commonwealth",
-    "europe",
-    "france",
-    "germany",
-    "italy",
-    "japan",
-    "pan_america",
-    "pan_asia",
-    "uk",
+    // "commonwealth",
+    // "europe",
+    // "france",
+    // "germany",
+    // "italy",
+    // "japan",
+    // "pan_america",
+    // "pan_asia",
+    // "uk",
     "usa",
-    "ussr",
+    // "ussr",
 ]
 
 SHIP_NATIONS.forEach(nation => {
@@ -54,10 +54,14 @@ SHIP_NATIONS.forEach(nation => {
 
 function transformRawData(data) {
     return {
+        id: data.ship_id,
         name: data.name,
+        type: data.type,
         tier: data.tier,
         description: data.description,
-        profile: transformDefaultProfile(data.default_profile),
+        price_gold: data.price_gold,
+        price_credit: data.price_credit,
+        params: transformDefaultProfile(data.default_profile),
         images: data.images,
     };
 }

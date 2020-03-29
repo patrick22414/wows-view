@@ -77,6 +77,8 @@ function transformShipData(data) {
             name: ship.name,
             type: ship.type,
             tier: ship.tier,
+            is_premium: ship.is_premium,
+            is_special: ship.is_special,
             image: ship.images.small,
         });
     }

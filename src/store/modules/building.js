@@ -1,17 +1,17 @@
 const state = {
-    shipId: 0,
-    shipInfo: {
-        name: "",
-    },
-
-    profile: {},
-
+    id: 0,
+    name: "",
+    type: "",
+    tier: "",
+    description: "",
+    images: {},
+    params: {},
     modifiers: []
 }
 
 const getters = {
     getParam: (state) => function (entry) {
-        return state.profile[entry]
+        return state.params[entry]
     }
 }
 
@@ -21,14 +21,20 @@ const actions = {
 
         console.log(`select ship #${id} ${ship.name}`)
 
-        commit("setProfile", ship.profile)
+        commit("setShip", ship)
         commit("setSiteTitle", `WoWs View - Building - ${ship.name}`)
     }
 }
 
 const mutations = {
-    setProfile: function (state, profile) {
-        state.profile = profile
+    setShip: function (state, ship) {
+        state.id = ship.id
+        state.name = ship.name
+        state.type = ship.type
+        state.tier = ship.tier
+        state.description = ship.description
+        state.images = ship.images
+        state.params = ship.params
     }
 }
 
