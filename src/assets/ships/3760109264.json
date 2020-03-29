@@ -1,0 +1,39 @@
+{
+  "name": "Azuma",
+  "tier": 9,
+  "description": "A powerful high-speed ship (Project B-65) designed to destroy American heavy cruisers and confront Alaska-class \"large cruisers\". Some design solutions were borrowed from Yamato-class battleships. She was armed with nine 310 mm guns and had good anti-torpedo protection.",
+  "profile": {
+    "health": 58350,
+    "artillery": {
+      "reload": 20,
+      "range": 19.1,
+      "traverseTime": 36,
+      "shells": {
+        "he": {
+          "damage": 5100,
+          "velocity": 836,
+          "mass": 449,
+          "fireChance": 27
+        },
+        "sap": null,
+        "ap": {
+          "damage": 8650,
+          "velocity": 836,
+          "mass": 449
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 15.1,
+    "airConcealment": 10.7,
+    "speed": 34,
+    "rudderTime": 13.9,
+    "turnRadius": 920
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC510_886ef945c0c4bf7eb13c2bbe9fcec363931c50e65bd5bdbf7eda10fe2f8d94b3.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSC510_074cd38b77bc1c7dd15606d50e2bbba1a123745a91381a8943a8376d186bf324.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSC510_ebc728bb25fd57d23c37074ff90cf8939ce74b35ce0bdee4149f50ef0dae9bd4.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSC510_2da6e256c03e54117ac8927135a5bbc3da8d46cabd9a60f046f0f23015712988.png"
+  }
+}

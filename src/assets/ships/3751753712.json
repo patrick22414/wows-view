@@ -1,0 +1,39 @@
+{
+  "name": "Massachusetts",
+  "tier": 8,
+  "description": "A South Dakota-class battleship. Designed subject to treaty limitations, the ship had well-balanced characteristics in terms of armament, speed, and armor protection. By the end of World War II, the ship had a very powerful AA defense.",
+  "profile": {
+    "health": 66300,
+    "artillery": {
+      "reload": 30,
+      "range": 18.3,
+      "traverseTime": 36,
+      "shells": {
+        "he": {
+          "damage": 5700,
+          "velocity": 803,
+          "mass": 862,
+          "fireChance": 36
+        },
+        "sap": null,
+        "ap": {
+          "damage": 13100,
+          "velocity": 701,
+          "mass": 1225
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 16.6,
+    "airConcealment": 9.7,
+    "speed": 27.5,
+    "rudderTime": 15.7,
+    "turnRadius": 710
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB518_2f9d62bd58e089b4190828ea78dd173b0c85959dac242ce1ea0c192c5fc9b8fe.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PASB518_123f4847f0575749fbd1f83941b34ad311037e15f2fd180909314f9a6def18ac.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PASB518_2813864f4249f7931bc918be81cb7d25e72ee00a548614caf07b194f15efcfa6.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PASB518_d28176fae54dd8a119db06278d75d9b82f4e104499a4367ec8c10d5fbb68c5cf.png"
+  }
+}

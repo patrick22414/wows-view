@@ -1,0 +1,39 @@
+{
+  "name": "Colbert",
+  "tier": 10,
+  "description": "Designed and built after World War II, and equipped with powerful dual-purpose 127 mm artillery, this relatively small cruiser was primarily used for AA defenses.",
+  "profile": {
+    "health": 36100,
+    "artillery": {
+      "reload": 3,
+      "range": 13.8,
+      "traverseTime": 6,
+      "shells": {
+        "he": {
+          "damage": 2100,
+          "velocity": 808,
+          "mass": 32,
+          "fireChance": 7
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2600,
+          "velocity": 808,
+          "mass": 33
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 12.4,
+    "airConcealment": 7.4,
+    "speed": 33,
+    "rudderTime": 9.2,
+    "turnRadius": 620
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSC510_5ee9a0797f12dfcc05df9b68b53b854b75af21b7827cac1b16ef4765666124c5.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSC510_43b9aa936c57da947baac7a12798b1aac63998f62d889c1e6da821007b2df00b.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSC510_364f96cda3630509a92fdb38e89a133f61d59de08e3657766ba8890985d29f47.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSC510_09a869951d591e7951afb216bb95373f839d599ae37799cefd9828f21ef6654b.png"
+  }
+}

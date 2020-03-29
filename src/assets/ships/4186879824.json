@@ -1,0 +1,43 @@
+{
+  "name": "Friant",
+  "tier": 3,
+  "description": "A light cruiser project designed after the end of World War I that revealed an acute shortage of this type of ship in the French Navy. The primary features of the project were high speed, weak armor, powerful torpedo armament and main guns placed in turrets.",
+  "profile": {
+    "health": 18900,
+    "artillery": {
+      "reload": 12,
+      "range": 11.7,
+      "traverseTime": 25.71,
+      "shells": {
+        "he": {
+          "damage": 2000,
+          "velocity": 840,
+          "mass": 32,
+          "fireChance": 8
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2700,
+          "velocity": 790,
+          "mass": 40
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 6,
+      "reload": 84,
+      "visibility": 1.2
+    },
+    "concealment": 11.3,
+    "airConcealment": 5.1,
+    "speed": 30,
+    "rudderTime": 8.4,
+    "turnRadius": 560
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSC103_22a4ee8a89edceb8063e312a2ae915bf767ea9676a6673eae375656da4d10341.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSC103_4cb16b14ac7c4de57667fd0ad5d1a418b2c2010dd2b1e4124fd36171c50e6b68.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSC103_3a7016cc153e6a91529374406fff90a3934391b0e4b5bef621c2b3928bfee2a4.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSC103_ad370adfd8e48be66f0606cf532c90c3f34a1da28e7bc6fe9f378b829aa3bfed.png"
+  }
+}

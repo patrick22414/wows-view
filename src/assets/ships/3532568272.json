@@ -1,0 +1,43 @@
+{
+  "name": "Eastern Dragon",
+  "tier": 7,
+  "description": " ",
+  "profile": {
+    "health": 39200,
+    "artillery": {
+      "reload": 14,
+      "range": 15.6,
+      "traverseTime": 36,
+      "shells": {
+        "he": {
+          "damage": 3300,
+          "velocity": 840,
+          "mass": 126,
+          "fireChance": 17
+        },
+        "sap": null,
+        "ap": {
+          "damage": 4700,
+          "velocity": 840,
+          "mass": 126
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 10,
+      "reload": 76,
+      "visibility": 1.6
+    },
+    "concealment": 13.1,
+    "airConcealment": 6.5,
+    "speed": 35,
+    "rudderTime": 7.1,
+    "turnRadius": 780
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC727_9b70be9b1d1890fafe3ceaac99d99577c0a1f93b52be6aa816b9d10b67fec6fc.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSC727_2aaa4a1b37cb7410f49c143732ed552c93f13f67c1548d50c36e7e432b1633c0.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSC727_a41cdce4547b00c76e4d4d651b527383a5c5195d905b42243bf2d00973ef1d66.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSC727_817027e3df84c28a88d865e296f0f8babd26087c957784dff36b01b8db28c86a.png"
+  }
+}

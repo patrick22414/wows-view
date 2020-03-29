@@ -1,0 +1,41 @@
+{
+  "name": "ARP Nachi",
+  "tier": 7,
+  "description": "A heavy cruiser of the \"Fleet of Fog\". Modelled after the Imperial Japanese Navy's 2nd Myōkō-class cruiser, Nachi. Harnessing an exceptional reconnaissance ability, she can track I-401 even during her silent runs. In combat, she acts as a spotter; calculating data for Myōkō's long-range engagements. Her Mental Model \"Nachi\" acts as \"Treasurer\" under Hiei's \"Student Council of the Fog\". Having a rather placid personality, she is often swayed by her energetic colleague, Ashigara.\nThis warship has been specially designed for World of Warships, and is modelled after Nachi as she appears in \"ARPEGGIO OF BLUE STEEL -ARS NOVA- Cadenza\".",
+  "profile": {
+    "health": 39200,
+    "artillery": {
+      "reload": 14,
+      "range": 15.6,
+      "traverseTime": 36,
+      "shells": {
+        "he": {
+          "damage": 3300,
+          "fireChance": 17,
+          "mass": 126
+        },
+        "sap": null,
+        "ap": {
+          "damage": 4700,
+          "mass": 126
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 10,
+      "reload": 76,
+      "visibility": 1.6
+    },
+    "concealment": 13.1,
+    "airConcealment": 6.5,
+    "speed": 35,
+    "rudderTime": 7.1,
+    "turnRadius": 780
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC737_a1448e104c2a97c9947056916b64be6dcd505f06b2dc92d4c506cce31b605ba2.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSC737_d29cc8d2b1c6bfc012859e3c415cd39977fa1bbabcd397189da90725abff7d09.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSC737_7f4c41cc333c000f49250f438f3dd9ef5c5d04bc01b33b282b33e0e38245cf94.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSC737_817027e3df84c28a88d865e296f0f8babd26087c957784dff36b01b8db28c86a.png"
+  }
+}

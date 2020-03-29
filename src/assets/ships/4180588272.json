@@ -1,0 +1,38 @@
+{
+  "name": "Brindisi",
+  "tier": 9,
+  "description": "A further development of the preceding project, with the main battery reinforced by adding the fourth main gun turret. 203 mm main battery guns had high elevation angles.",
+  "profile": {
+    "health": 40000,
+    "artillery": {
+      "reload": 20,
+      "range": 15.6,
+      "traverseTime": 25.71,
+      "shells": {
+        "he": null,
+        "sap": null,
+        "ap": {
+          "damage": 4800,
+          "velocity": 910,
+          "mass": 125
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 13.5,
+      "reload": 95,
+      "visibility": 1.1
+    },
+    "concealment": 15.5,
+    "airConcealment": 9.2,
+    "speed": 36.7,
+    "rudderTime": 15.1,
+    "turnRadius": 730
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC109_c7ad8b7667d6a9d16c69f709ef1281dd56c079b6377066bb013779a1a3494b00.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PISC109_8a7381e3710acdef1c8dbd47cbd23f934400afd4af54b9d635978621cbb0cba3.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PISC109_f850bf644b3a3c8ad3bf1ea69bf35374d2e6259fc489f42dc4479ceb60905af3.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PISC109_9f29119ab1e0519189b213d1c2c5ce0950678b895c5cb09f36c8ce78eb6daf33.png"
+  }
+}

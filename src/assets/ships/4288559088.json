@@ -1,0 +1,43 @@
+{
+  "name": "Mahan",
+  "tier": 7,
+  "description": "Developed from the Farragut class, this ship carried a more powerful torpedo armament. At the beginning of World War II, these destroyers were armed with several automatic AA guns to fight enemy aircraft more efficiently.",
+  "profile": {
+    "health": 11700,
+    "artillery": {
+      "reload": 3,
+      "range": 10.6,
+      "traverseTime": 12,
+      "shells": {
+        "he": {
+          "damage": 1800,
+          "velocity": 792,
+          "mass": 25,
+          "fireChance": 5
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2100,
+          "velocity": 792,
+          "mass": 25
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 6.4,
+      "reload": 88,
+      "visibility": 1.3
+    },
+    "concealment": 7.6,
+    "airConcealment": 2.9,
+    "speed": 35,
+    "rudderTime": 4,
+    "turnRadius": 560
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASD006_8809457fd91e0059ae2ad9a12bbbc625f9da78d53447c3aeac7946f7262b720a.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PASD006_309a2e22144463458cbed79fd2c7fd1e1a1175717176cc571cfa5d207e59ffac.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PASD006_f0f61ff9166317244d16d600c2fca0fe3196108b00469146840cb4ca56f3f604.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PASD006_408b460ef3aededc5f2d6bd1e5f985433fccf2cb7b93e9cc3ac7ae76a64828cc.png"
+  }
+}

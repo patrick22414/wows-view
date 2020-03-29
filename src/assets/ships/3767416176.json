@@ -1,0 +1,43 @@
+{
+  "name": "Vampire",
+  "tier": 3,
+  "description": "One in a series of advantageous Type 5 flotilla leaders designed and built for the Royal Navy. In 1933, the ship was transferred to the Royal Australian Navy. During World War II, she was slightly upgraded and partially rearmed.",
+  "profile": {
+    "health": 9500,
+    "artillery": {
+      "reload": 5,
+      "range": 10.1,
+      "traverseTime": 18,
+      "shells": {
+        "he": {
+          "damage": 1500,
+          "velocity": 805,
+          "mass": 14,
+          "fireChance": 5
+        },
+        "sap": null,
+        "ap": {
+          "damage": 1700,
+          "velocity": 805,
+          "mass": 15
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 6,
+      "reload": 62,
+      "visibility": 1.1
+    },
+    "concealment": 6.5,
+    "airConcealment": 2.4,
+    "speed": 34,
+    "rudderTime": 2.5,
+    "turnRadius": 520
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PUSD503_b5e6657efeca92e6d36bf56e7bb8288f417aefc4f5a99ecb102bf3781df9d776.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PUSD503_322b547f6afd6de3d04973972dc1bcda52ec3476e7c6447db5057943d3450d4a.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PUSD503_4036a1a337a65804b54afd40c5389511d577b1c1ce8e953b7e3d44c54909486a.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PUSD503_0b2cdb9fc0d59b3be9dff84a4aa59db390881ccbeab8c26be8f5a858a7a50cee.png"
+  }
+}

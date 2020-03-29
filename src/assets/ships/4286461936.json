@@ -1,0 +1,43 @@
+{
+  "name": "Benson",
+  "tier": 8,
+  "description": "A rather large ship for her type. As compared to her predecessors, the ship was much better armed owing to more efficient artillery mounts and a successful arrangement of novel quintuple torpedo tubes.",
+  "profile": {
+    "health": 12800,
+    "artillery": {
+      "reload": 3,
+      "range": 10.5,
+      "traverseTime": 5.29,
+      "shells": {
+        "he": {
+          "damage": 1800,
+          "velocity": 792,
+          "mass": 25,
+          "fireChance": 5
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2100,
+          "velocity": 792,
+          "mass": 25
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 9.2,
+      "reload": 109,
+      "visibility": 1.1
+    },
+    "concealment": 7.4,
+    "airConcealment": 2.9,
+    "speed": 38,
+    "rudderTime": 4,
+    "turnRadius": 570
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASD008_938a07eb570452670d233040657ecf2eb2f1941dcf444dc2b55f3a495d556c88.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PASD008_08b4ecab39d4bc7057c0cfaf0938c7fc584853621eb7270256c825e055deaa04.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PASD008_bf47fcac051dbe98cb70bce9df75e768bed929de34a8e649edd2cf0cd21069f6.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PASD008_33ead3f65f80d3ea3674e46a636568cdae28cb563817feb630b95b648188c402.png"
+  }
+}

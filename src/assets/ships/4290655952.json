@@ -1,0 +1,43 @@
+{
+  "name": "Minekaze",
+  "tier": 5,
+  "description": "A ship that had a remarkable influence on the development of destroyers in the Imperial Japanese Navy. Owing to her powerful turbines, Minekaze could produce very high speeds that were superior to many of the destroyers built later.",
+  "profile": {
+    "health": 9600,
+    "artillery": {
+      "reload": 10,
+      "range": 8.1,
+      "traverseTime": 30,
+      "shells": {
+        "he": {
+          "damage": 1700,
+          "velocity": 825,
+          "mass": 20,
+          "fireChance": 7
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2000,
+          "velocity": 825,
+          "mass": 20
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 7,
+      "reload": 42,
+      "visibility": 1.2
+    },
+    "concealment": 6.2,
+    "airConcealment": 2.5,
+    "speed": 39,
+    "rudderTime": 3.2,
+    "turnRadius": 550
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD004_f07b938240f3700ff09c933d5287b980b64a10461c6411d79f1f467fe02b1aaf.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSD004_f96887a0c14607c77b760e8039545e9fdc499627f0be1176464a8fa2c3434a44.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSD004_87808592dd37d06c64f1de3963764898dd439a2ec72c242553b0dca01b306508.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSD004_c854e949023f294b1f503cc88d95d2a1a1c6ce98e27c5dec7dd3caec84ffea2e.png"
+  }
+}

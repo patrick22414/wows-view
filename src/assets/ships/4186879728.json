@@ -1,0 +1,38 @@
+{
+  "name": "Taranto",
+  "tier": 3,
+  "description": "A light cruiser built for the German Navy and transferred to the Royal Navy of Italy after World War I. In addition to the 150 mm main guns, the ship was armed with two single-tube torpedo launchers.",
+  "profile": {
+    "health": 17600,
+    "artillery": {
+      "reload": 12,
+      "range": 10.3,
+      "traverseTime": 25.71,
+      "shells": {
+        "he": null,
+        "sap": null,
+        "ap": {
+          "damage": 3700,
+          "velocity": 835,
+          "mass": 45
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 4,
+      "reload": 21,
+      "visibility": 1.1
+    },
+    "concealment": 9.4,
+    "airConcealment": 5.1,
+    "speed": 28.2,
+    "rudderTime": 8,
+    "turnRadius": 450
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC103_6a770d0f6274ca10230bd26cdb8c10955a6253ab0c8354953c6b39de4e811d12.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PISC103_05ebdcec44d6ebf53d2a2cac23cf25744306053a3bd6f46e1267100c21c93a7c.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PISC103_3f3e2cab88c41e56b64f085eed41a4bc7d3caec89a7aff974f391c68ab147b34.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PISC103_49105fb782e2606ef88bb2fd73ece7618b472df588781a2c8febc9fbd18ab280.png"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "AL Montpelier",
+  "tier": 8,
+  "description": "Brave and energetic like her elder sister, Cleveland. Loves battles and stands up to even the strongest of foes, but is clumsy at everything other than combat. Member of Task Force 18—a group assembled of ships of her type. Admires her sister, Cleveland.\nFrom the game Azur Lane.",
+  "profile": {
+    "health": 37500,
+    "artillery": {
+      "reload": 7,
+      "range": 15.6,
+      "traverseTime": 18,
+      "shells": {
+        "he": {
+          "damage": 2200,
+          "velocity": 812,
+          "mass": 48,
+          "fireChance": 12
+        },
+        "sap": null,
+        "ap": {
+          "damage": 3200,
+          "velocity": 762,
+          "mass": 59
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 11.9,
+    "airConcealment": 7.2,
+    "speed": 32.5,
+    "rudderTime": 7.2,
+    "turnRadius": 660
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC718_2a2852071ef0342f4ebe3986e76680bb771c4b8d8c55371ac96d69c7e9c73fcf.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PASC718_d86c0cc5e1d5191c9bcab1c5edab162d05b115b49468873048711bbfd58b1e7e.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PASC718_0b03cc32abbc285258498507b191039ddec3c45ab7142a6ed883bd47cde555ad.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PASC718_c630af301f603abb13022e2d97b57e08e44ec28bedeb589dd061337ec3b9e41b.png"
+  }
+}

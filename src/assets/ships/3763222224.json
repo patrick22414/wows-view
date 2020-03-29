@@ -1,0 +1,43 @@
+{
+  "name": "Yūdachi",
+  "tier": 7,
+  "description": "One of the Shiratsuyu-class destroyers tasked with escorting the major forces of the Japanese Navy and delivering torpedo attacks against enemy ships. The ship carried quadruple torpedo tubes.",
+  "profile": {
+    "health": 13200,
+    "artillery": {
+      "reload": 9,
+      "range": 11.8,
+      "traverseTime": 30,
+      "shells": {
+        "he": {
+          "damage": 2150,
+          "velocity": 915,
+          "mass": 23,
+          "fireChance": 9
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2200,
+          "velocity": 915,
+          "mass": 23
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 15,
+      "reload": 100,
+      "visibility": 1.9
+    },
+    "concealment": 7,
+    "airConcealment": 3,
+    "speed": 34,
+    "rudderTime": 3.2,
+    "turnRadius": 570
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD507_926722d5c2a026d47a8860e099ce32268fb09533b0d881bb5f8bc2a47895abfd.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSD507_8a6f64a8a5f5554217591c719d14c8fdd50fb53210c8af7694af1dbe1a241041.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSD507_36e980b6ddadcb1070989a69365985416daaa00c973256c8f12fd2851574ab5b.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSD507_eadad5f6cc411f5d7a6df41258d49b61cc7866ec56fa48136c108678ad32f543.png"
+  }
+}

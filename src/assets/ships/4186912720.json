@@ -1,0 +1,39 @@
+{
+  "name": "Bellerophon",
+  "tier": 3,
+  "description": "The Bellerophon-class battleships were developed from the renowned Dreadnought class. The ship inherited turbine propulsion and a main battery consisting of ten 305 mm guns from her predecessor, but, unlike the prototype, she had armored torpedo protection.",
+  "profile": {
+    "health": 33400,
+    "artillery": {
+      "reload": 30,
+      "range": 13.7,
+      "traverseTime": 60,
+      "shells": {
+        "he": {
+          "damage": 5200,
+          "velocity": 831,
+          "mass": 386,
+          "fireChance": 32
+        },
+        "sap": null,
+        "ap": {
+          "damage": 8100,
+          "velocity": 831,
+          "mass": 390
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 13.7,
+    "airConcealment": 6.8,
+    "speed": 20.4,
+    "rudderTime": 16.3,
+    "turnRadius": 560
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSB103_6c7791803b29f19cc327147c78f15fae9914b611f0326bcf1b03e6f04b422cba.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PBSB103_2691c703363a3db4ead2d8b588f3449a9ddb6ff871f12e4fee69b1ecb0434bb6.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PBSB103_2cbc4a43e05da261f0a9b5013a6b29a58ddb6592745636ca9b70504bc04b84b8.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PBSB103_54453a16578abb1d7214aa7ff853a51741d03892e71306a5151b65fd35e0b748.png"
+  }
+}

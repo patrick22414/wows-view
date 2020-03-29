@@ -1,0 +1,21 @@
+{
+  "name": "Kaga",
+  "tier": 8,
+  "description": "Until the early 1940s, she was one of the biggest aircraft carriers of the Imperial Japanese Navy. Initially laid down as a battleship, she was redesigned during construction to become a carrier. The ship had good armor protection for her type, carried quite numerous air group and powerful secondary battery guns.",
+  "profile": {
+    "health": 54200,
+    "artillery": null,
+    "torpedoes": null,
+    "concealment": 12.6,
+    "airConcealment": 10.9,
+    "speed": 28,
+    "rudderTime": 14.4,
+    "turnRadius": 1080
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSA518_12ef9eaa534e14ae966d5c5af03277e8c9142ae157cbdf76b4a49afe9fc7910f.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSA518_3f0e9e1b0034e249a0262f48e2d9bd3a0313ee360f30b689e1c7aa01e7614c25.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSA518_3aeb2c850032096009e9d1f2d7580821744c44807c16f7879bf240b40c9e91b0.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSA518_57ddc269897705a11e163b5dfcba4aee9775a1807e98033759a966e4f98ec522.png"
+  }
+}

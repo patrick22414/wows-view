@@ -1,0 +1,39 @@
+{
+  "name": "König Albert",
+  "tier": 3,
+  "description": "A typical German dreadnought featuring very thick armor and boasting high survivability. Her main battery guns had very high armor-piercing capabilities and outmatched other artillery systems of the same caliber in terms of rate of fire.",
+  "profile": {
+    "health": 41300,
+    "artillery": {
+      "reload": 30,
+      "range": 11.9,
+      "traverseTime": 60,
+      "shells": {
+        "he": {
+          "damage": 3400,
+          "velocity": 850,
+          "mass": 406,
+          "fireChance": 22
+        },
+        "sap": null,
+        "ap": {
+          "damage": 8300,
+          "velocity": 855,
+          "mass": 405
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 11.5,
+    "airConcealment": 7.9,
+    "speed": 21,
+    "rudderTime": 12.1,
+    "turnRadius": 600
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB503_b54f41d5fb3a82619bdcb8c655c378f41452c858b3ea124ea610ab857ad3f3cf.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSB503_2d97e397e56d3aeab0ebfafe544fd3b224c27de445aebd6ba564fbd6234309cf.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSB503_4f41f16f18909ce34730efa28805958b064c6cfd617342e368dde9fc9421439b.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSB503_e545301b6f8b078cb44f3508f422017efa22a782534e3add27637efba8ed2769.png"
+  }
+}

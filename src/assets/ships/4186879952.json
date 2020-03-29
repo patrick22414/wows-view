@@ -1,0 +1,38 @@
+{
+  "name": "Caledon",
+  "tier": 3,
+  "description": "This light cruiser was designed to provide support to destroyers and perform reconnaissance duties. In contrast to her predecessors, this ship had a higher speed and carried powerful torpedo armament.",
+  "profile": {
+    "health": 17500,
+    "artillery": {
+      "reload": 8,
+      "range": 10.8,
+      "traverseTime": 18,
+      "shells": {
+        "he": null,
+        "sap": null,
+        "ap": {
+          "damage": 2900,
+          "velocity": 853,
+          "mass": 45
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 6,
+      "reload": 41,
+      "visibility": 1.1
+    },
+    "concealment": 10.1,
+    "airConcealment": 3.9,
+    "speed": 29,
+    "rudderTime": 7.8,
+    "turnRadius": 530
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSC103_7171dbacee49e315b624e086b891af757c200c3d66f46fc3eca43a03de1b2032.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PBSC103_69abee16092af39f0e86df85120595772c3c862c0562e3e605427decbdb63e82.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PBSC103_655216329cee53545220c2698ed4b5a5c9452fde4239a8a1c9c37a04bf0c9f41.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PBSC103_ffd10727e70a7c8b1e1b0f6b34f56ba941849210d50f9dbaeeb675c5f758d616.png"
+  }
+}

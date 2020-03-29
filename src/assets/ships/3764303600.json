@@ -1,0 +1,43 @@
+{
+  "name": "Duca d'Aosta",
+  "tier": 6,
+  "description": "A light cruiser, Duca d'Aosta was a good ship for her time. Among her competitive advantages were high speed and generally well-balanced parameters.",
+  "profile": {
+    "health": 29700,
+    "artillery": {
+      "reload": 7,
+      "range": 14,
+      "traverseTime": 25.71,
+      "shells": {
+        "he": {
+          "damage": 2100,
+          "velocity": 950,
+          "mass": 44,
+          "fireChance": 7
+        },
+        "sap": null,
+        "ap": {
+          "damage": 3200,
+          "velocity": 1000,
+          "mass": 50
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 12,
+      "reload": 71,
+      "visibility": 1
+    },
+    "concealment": 12.1,
+    "airConcealment": 5.9,
+    "speed": 36.5,
+    "rudderTime": 6.7,
+    "turnRadius": 710
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC506_8f54e2f7c9084821c2f84bb70dd6191a3fb5afcfe2b3b8becab9546ad4b114e7.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PISC506_f22e9a9c8d1fc6f1dcfc490317c2983b08ae2352799b9a19fd9cf6eeb7a7e7a8.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PISC506_bcb863b525587d2b624230ba69cd0b85adb60ac2c156a904c748977f9810a9bb.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PISC506_d655104e483e42a7eb16a26efeceb121255c25cf6a9c3466e6d0a29ec055a178.png"
+  }
+}

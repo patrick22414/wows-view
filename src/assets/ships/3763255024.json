@@ -1,0 +1,43 @@
+{
+  "name": "Duca degli Abruzzi",
+  "tier": 7,
+  "description": "The top and most powerful ship in a series of Italian Condottieri-class light cruisers. Unlike her predecessors, she boasted more powerful armament and significantly improved protection, but couldn't travel as fast.",
+  "profile": {
+    "health": 32500,
+    "artillery": {
+      "reload": 7,
+      "range": 15.1,
+      "traverseTime": 24,
+      "shells": {
+        "he": {
+          "damage": 2100,
+          "velocity": 995,
+          "mass": 44,
+          "fireChance": 7
+        },
+        "sap": null,
+        "ap": {
+          "damage": 3100,
+          "velocity": 910,
+          "mass": 50
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 12,
+      "reload": 71,
+      "visibility": 1
+    },
+    "concealment": 11.2,
+    "airConcealment": 6.1,
+    "speed": 35,
+    "rudderTime": 8.9,
+    "turnRadius": 680
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC507_c087484aa63c5c8cb5351c06b2afbff94a8c7a90a26a381b4c48b316d600f105.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PISC507_6e9c99f789d8de3a81d1d844eda767667338dfbef1ef1898afb46854958adf34.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PISC507_ffff3d65d4392842090cccc66747a1c976e2fe7e75454dc57d94f91c63c4be59.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PISC507_90a38cd7a73a6727db041462775e1d79730a457094983c4151d25d2ff8740948.png"
+  }
+}

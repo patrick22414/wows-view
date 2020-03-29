@@ -1,13 +1,27 @@
 {
   "status": "ok",
   "meta": {
-    "count": 14,
+    "count": 17,
     "page_total": 1,
-    "total": 14,
+    "total": 17,
     "limit": 100,
     "page": 1
   },
   "data": [
+    {
+      "id": "3751720144",
+      "name": "Wukong",
+      "type": "Cruiser",
+      "tier": 8,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSC518_f7bacab970b078f07e1e372e770ae27cd3a70dd3b48bd42f47acc906e11ed607.png"
+    },
+    {
+      "id": "3761190096",
+      "name": "Bajie",
+      "type": "Battleship",
+      "tier": 9,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSB509_8b3e5000d6bd41e940806ceae5c72b7e16ea54f6a439dabf8041bbb424db98ae.png"
+    },
     {
       "id": "3762173136",
       "name": "Loyang",
@@ -35,6 +49,13 @@
       "type": "Cruiser",
       "tier": 6,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSC506_b25a8e7a3e744f47f3ae216378f3dc038883737dd91cadb0f22a741668651a54.png"
+    },
+    {
+      "id": "4076745936",
+      "name": "Siliwangi",
+      "type": "Destroyer",
+      "tier": 8,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSD208_d7b9f7f1cf99a5ce0b17c5b3987ed872df39c7fc5cd4d6bbcfdd00bc34efd6fd.png"
     },
     {
       "id": "4179506384",

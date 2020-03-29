@@ -1,0 +1,43 @@
+{
+  "name": "Leningrad",
+  "tier": 7,
+  "description": "The first major warship completely designed and built in the USSR. The ship was notable for her powerful artillery and very high speed. During World War II, her AA defenses were reinforced.",
+  "profile": {
+    "health": 15200,
+    "artillery": {
+      "reload": 5,
+      "range": 11.6,
+      "traverseTime": 27.69,
+      "shells": {
+        "he": {
+          "damage": 1900,
+          "velocity": 870,
+          "mass": 33,
+          "fireChance": 8
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2500,
+          "velocity": 870,
+          "mass": 34
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 8,
+      "reload": 92,
+      "visibility": 1.2
+    },
+    "concealment": 7.6,
+    "airConcealment": 3.5,
+    "speed": 43,
+    "rudderTime": 3.7,
+    "turnRadius": 690
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSD507_8808c7278f56399687c91a005933056f8312d078503f2c6b6bcb7bba732e8c88.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSD507_8e6c6f40e4e406f56f8cebeb0dc1dad98bf969029bd6a611a71297ce60a67b1a.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSD507_8d0ca47f11325f1938ce9f32212c404db7d6ddd67ed795484eba37d7e703df3c.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSD507_9e6aba640ee7aba8fb181adab3aa57fcba388bc6c4da542e1e8ece49fdfd2e5b.png"
+  }
+}

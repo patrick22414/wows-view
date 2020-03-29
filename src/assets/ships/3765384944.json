@@ -1,0 +1,39 @@
+{
+  "name": "Giulio Cesare",
+  "tier": 5,
+  "description": "The lead ship in the first series of Italian dreadnoughts. In the 1930s, the ship was rebuilt with more powerful and longer-firing guns, additional torpedo protection and considerably more speed than before, making her a formidable opponent for the majority of battleships at that time.",
+  "profile": {
+    "health": 45500,
+    "artillery": {
+      "reload": 30,
+      "range": 16.4,
+      "traverseTime": 36,
+      "shells": {
+        "he": {
+          "damage": 4800,
+          "velocity": 830,
+          "mass": 485,
+          "fireChance": 35
+        },
+        "sap": null,
+        "ap": {
+          "damage": 9700,
+          "velocity": 830,
+          "mass": 525
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 13.7,
+    "airConcealment": 7.5,
+    "speed": 27,
+    "rudderTime": 13,
+    "turnRadius": 640
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISB505_e886c50dba9c6453eab1d69b9bafb409082034ee3a12bf2e519538436679bae1.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PISB505_1f3da5ac9af291843f0eb118b64af529a72a6cc7977896c6abba52ed65f71d9a.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PISB505_739f318e87766f23d8707e71d072fbd671f7971b5a126cc2b4b9a14a615c05ac.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PISB505_428276ca204e98dcf0e165e284fa9b209494b4669961ebdbaf20a117329fde62.png"
+  }
+}

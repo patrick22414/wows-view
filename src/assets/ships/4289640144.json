@@ -1,0 +1,43 @@
+{
+  "name": "Furutaka",
+  "tier": 5,
+  "description": "A powerful scout cruiser employed to carry out reconnaissance operations and to protect battleship fleets from enemy light naval forces. Furutaka's primary distinction, from her predecessors, was an enhanced artillery armament featuring a pyramid arrangement of turret mounts.",
+  "profile": {
+    "health": 28300,
+    "artillery": {
+      "reload": 22,
+      "range": 12.6,
+      "traverseTime": 36,
+      "shells": {
+        "he": {
+          "damage": 3300,
+          "velocity": 870,
+          "mass": 110,
+          "fireChance": 17
+        },
+        "sap": null,
+        "ap": {
+          "damage": 4500,
+          "velocity": 870,
+          "mass": 110
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 6,
+      "reload": 73,
+      "visibility": 1.6
+    },
+    "concealment": 12.2,
+    "airConcealment": 5.8,
+    "speed": 34.5,
+    "rudderTime": 9.2,
+    "turnRadius": 750
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC005_47ad5b79b8925372bf7a4c19383cb3fe5ea2c0f3baa8ac1d394c56f4d6b1790a.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSC005_9dbb16d5279fee46395e6ad9c6ff66735599c18786fdedf7ea621902aea05407.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSC005_4aa1c5ce22faab1b56924f7f5209c5b537482556d445843907105b51577c3314.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSC005_6950852f02659d816b943da0fccf0420b4d40104ed2b6395709e39aff789e917.png"
+  }
+}

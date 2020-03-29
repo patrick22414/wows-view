@@ -1,0 +1,43 @@
+{
+  "name": "Tenryū",
+  "tier": 3,
+  "description": "Tenryū was a high-speed light cruiser designed as a destroyer flotilla leader. She relied on a scarce yet rapid-firing artillery. The ship also carried a sufficiently powerful torpedo armament. Tenryū was the first in the Imperial Japanese Navy to be equipped with triple torpedo tubes.",
+  "profile": {
+    "health": 15100,
+    "artillery": {
+      "reload": 6,
+      "range": 11.2,
+      "traverseTime": 21.18,
+      "shells": {
+        "he": {
+          "damage": 2400,
+          "velocity": 850,
+          "mass": 38,
+          "fireChance": 10
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2700,
+          "velocity": 850,
+          "mass": 38
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 7,
+      "reload": 58,
+      "visibility": 1.2
+    },
+    "concealment": 8.3,
+    "airConcealment": 3.8,
+    "speed": 32.5,
+    "rudderTime": 5.2,
+    "turnRadius": 560
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC015_f8fc92f790d19c7292753b60e47c195e3864b7748da34d08d7f28bcd4a4a798d.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSC015_ffa69f5169bce6cabb874ae4f8f507211707b03ec0a2b4a08feea3c9fc0877be.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSC015_9e263b9c55e6599eea13e8a0edb83dbe20c376e76e0d545ae82c004cd1f0fb2c.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSC015_56541e38e6225c8d151397d10e9fd9f8eea43b72ec5552f0e908252de8073e2b.png"
+  }
+}

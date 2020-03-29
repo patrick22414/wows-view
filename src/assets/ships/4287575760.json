@@ -1,0 +1,39 @@
+{
+  "name": "Kongō",
+  "tier": 5,
+  "description": "When she was commissioned, Kongō was the most advanced battlecruiser in the world. She was the first among battlecruisers and battleships to be equipped with 356 mm main battery guns. Unlike previous Japanese dreadnoughts, Kongō received a thinner armor belt while her deck armor and torpedo protection were reinforced.",
+  "profile": {
+    "health": 49500,
+    "artillery": {
+      "reload": 31,
+      "range": 19.3,
+      "traverseTime": 60,
+      "shells": {
+        "he": {
+          "damage": 5700,
+          "velocity": 805,
+          "mass": 625,
+          "fireChance": 25
+        },
+        "sap": null,
+        "ap": {
+          "damage": 10000,
+          "velocity": 790,
+          "mass": 636
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 16.2,
+    "airConcealment": 9.4,
+    "speed": 24.9,
+    "rudderTime": 17.2,
+    "turnRadius": 770
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB007_0a29784ee43dfb5cb28b371e4714fb8babfda90d266a17c49ae01284a7a87350.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSB007_b1b3738a51eab2fc33ef72ac830d713901f55263931eb2d496710da773928c26.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSB007_34fb891ed411d5317914ee1387371796eefa3dda97f56b53559eaeaf6b8c03fe.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSB007_a3a93a430bd15d1c213b3dee00380b36bf190b4d53fda8ddcc6ec77067f04004.png"
+  }
+}

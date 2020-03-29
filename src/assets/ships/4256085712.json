@@ -1,0 +1,35 @@
+{
+  "name": "Hashidate",
+  "tier": 1,
+  "description": "A light patrol gunboat designed for coastal operations. This gunboat was well-armed for her dimensions, including AA artillery. She was not armored and had low speed.",
+  "profile": {
+    "health": 5150,
+    "artillery": {
+      "reload": 4,
+      "range": 9.1,
+      "traverseTime": 18,
+      "shells": {
+        "he": {
+          "damage": 900,
+          "velocity": 825,
+          "mass": 20,
+          "fireChance": 9
+        },
+        "sap": null,
+        "ap": null
+      }
+    },
+    "torpedoes": null,
+    "concealment": 7.7,
+    "airConcealment": 5.8,
+    "speed": 19.5,
+    "rudderTime": 3,
+    "turnRadius": 270
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC037_2070cb19579c77e4fb7586891286347b81eb9f30cd809d10dc3eaf802c546267.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSC037_de8ad57ff36698e1588271c30f1212057010294cbbf25296b929acf6703d5825.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSC037_7089639be88e6b26952fe9aac95dcd2515308d05ff1fd11f9307a832820a2ad6.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSC037_10811389a1a4eb45b8dc510d5c6b27a77b5b1eef188c0d169bf12ed78d37d018.png"
+  }
+}

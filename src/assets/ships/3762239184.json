@@ -1,0 +1,43 @@
+{
+  "name": "Kii",
+  "tier": 8,
+  "description": "This high-speed battleship was designed under the 1920 Shipbuilding Program. The ship was a further development of the Amagi-class battleship design. Compared with her predecessor, she had heavier armor protection. The Kii-class battleships were canceled as a result of the Washington Naval Treaty.",
+  "profile": {
+    "health": 68200,
+    "artillery": {
+      "reload": 30,
+      "range": 19.4,
+      "traverseTime": 45,
+      "shells": {
+        "he": {
+          "damage": 6500,
+          "velocity": 805,
+          "mass": 939,
+          "fireChance": 30
+        },
+        "sap": null,
+        "ap": {
+          "damage": 12600,
+          "velocity": 806,
+          "mass": 1020
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 10,
+      "reload": 90,
+      "visibility": 1.6
+    },
+    "concealment": 17.8,
+    "airConcealment": 11,
+    "speed": 29.5,
+    "rudderTime": 15.9,
+    "turnRadius": 880
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB508_469caa40a5c2e0cf689eb4fbecd0505c0770622ad22c926a9ef66d97cba05931.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSB508_307893dc183bd80a7e9c1ab5c33d4ddcaea1d1ef994e4145ec1b876f60b0d1a8.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSB508_4c0029bf3d0053b8daf18d55e2c798e6da3868b255c26ebb7048de5fbf35d986.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSB508_40bac77a07c96f32e31befee8581925e9bb9839d3a74f7fc0fe7da58371f59a4.png"
+  }
+}

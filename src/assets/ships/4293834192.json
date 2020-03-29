@@ -1,0 +1,39 @@
+{
+  "name": "Aurora",
+  "tier": 3,
+  "description": "The last ship in the Pallada class of protected cruisers, Aurora was surpassed in speed by other ships of her type and time. The ship was modernized to receive significantly enhanced armament. As a result, she became superior in artillery firepower to World War I cruisers with similar displacement.",
+  "profile": {
+    "health": 22500,
+    "artillery": {
+      "reload": 8,
+      "range": 11.2,
+      "traverseTime": 35.29,
+      "shells": {
+        "he": {
+          "damage": 2100,
+          "velocity": 753,
+          "mass": 50,
+          "fireChance": 8
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2700,
+          "velocity": 793,
+          "mass": 41
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 10.6,
+    "airConcealment": 4.4,
+    "speed": 19,
+    "rudderTime": 6.4,
+    "turnRadius": 410
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC001_de2772478db9915d4700ac8941a346a881e793a50cbcdfa4249dd0cf15e3d668.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC001_ca906a0980743c8d58f255a02bee0948e4a713a31a5e3804bccde90cc14f9819.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC001_6a7b82679f8aa5650dd2eb449b6787a1d21bd9e00fc7402a569bf8e8f7cf2861.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC001_9f5d54edcef698edac1a99f9fa5c62aa94da9c30b8cd5183ee763c2d47d61110.png"
+  }
+}

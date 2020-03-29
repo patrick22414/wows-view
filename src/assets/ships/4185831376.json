@@ -1,0 +1,38 @@
+{
+  "name": "Danae",
+  "tier": 4,
+  "description": "Developed from the preceding Caledon-class cruiser ships. In contrast to her predecessors, she was bigger in size and had more powerful torpedoes. Apart from that, Danae featured reinforced artillery.",
+  "profile": {
+    "health": 18400,
+    "artillery": {
+      "reload": 7,
+      "range": 11.3,
+      "traverseTime": 18,
+      "shells": {
+        "he": null,
+        "sap": null,
+        "ap": {
+          "damage": 2900,
+          "velocity": 853,
+          "mass": 45
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 6,
+      "reload": 62,
+      "visibility": 1.1
+    },
+    "concealment": 10.4,
+    "airConcealment": 4.3,
+    "speed": 30,
+    "rudderTime": 8.5,
+    "turnRadius": 540
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSC104_d4477307bd6c1fb11ac346db66187eb02465a98c39b439b56beeba66d7752cf5.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PBSC104_50c2fd3a3ec7347d70d45a4522e1a24d2a241b9ec070179e76659234308f0b8c.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PBSC104_7168c7749f598ea3457554975d7cd769ceb49c3b4b671e18f9924b9bf46c1951.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PBSC104_8b5730c69cce4957275bb63e47cb7008f734a3a7ce7e6ac54470329a680d6f1f.png"
+  }
+}

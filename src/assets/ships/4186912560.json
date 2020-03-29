@@ -1,0 +1,39 @@
+{
+  "name": "Nassau",
+  "tier": 3,
+  "description": "The lead ship in the first series of dreadnought battleships of the Imperial German Navy. This battleship was notable for reliable armor, good torpedo protection, and a powerful secondary battery. She carried 283 mm guns that in many aspects almost matched larger-caliber gun systems adopted by other navies of the world.",
+  "profile": {
+    "health": 33100,
+    "artillery": {
+      "reload": 26,
+      "range": 10.8,
+      "traverseTime": 51.43,
+      "shells": {
+        "he": {
+          "damage": 3200,
+          "velocity": 855,
+          "mass": 302,
+          "fireChance": 19
+        },
+        "sap": null,
+        "ap": {
+          "damage": 7200,
+          "velocity": 855,
+          "mass": 302
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 10.4,
+    "airConcealment": 6.7,
+    "speed": 18.8,
+    "rudderTime": 15.7,
+    "turnRadius": 510
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB103_73dcd3cc1f269a765bc5300e3c9cfbff9a98b6178149152428e513b99243a2f2.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSB103_990ebec9e0c080205a649b750d1ba864c31df8323fe0c56042cc90f3e9fdd2dc.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSB103_f46c29a59d702becaaf20a7c0d21e249ded24c76e65646b0e15736da24143393.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSB103_ca693d6ecbc033d18053225906db12b271a8fbbfa5f3769fa0af1b0d5ae9768f.png"
+  }
+}

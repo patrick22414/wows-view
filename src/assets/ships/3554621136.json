@@ -1,0 +1,39 @@
+{
+  "name": "ARP Kirishima",
+  "tier": 5,
+  "description": "A Battleship of the \"Fleet of Fog\". Modelled after the Imperial Japanese Navy's 4th Kongō-class battleship, Kirishima. She was first seen engaging I-401, along with Haruna, at the battle in Yokosuka Bay. She was eventually defeated by I-401 due to her \"trump card\" backfiring under her rival's tactics.\nThis warship has been specially designed for World of Warships, and is modelled after Kirishima as she appears in \"ARPEGGIO OF BLUE STEEL -ARS NOVA-\".",
+  "profile": {
+    "health": 54100,
+    "artillery": {
+      "reload": 30,
+      "range": 21.2,
+      "traverseTime": 54.55,
+      "shells": {
+        "he": {
+          "damage": 5700,
+          "velocity": 805,
+          "mass": 625,
+          "fireChance": 25
+        },
+        "sap": null,
+        "ap": {
+          "damage": 10200,
+          "velocity": 775,
+          "mass": 674
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 16.2,
+    "airConcealment": 9.4,
+    "speed": 30,
+    "rudderTime": 14.9,
+    "turnRadius": 770
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB706_11cb909a60e1cce16449c0309326e3686c69ba9f131c80a9da2d52cc11c4b0d9.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSB706_1b0428506fc498169e67f6099e374c7964db70518bf648f1ffd0d6ca501f1ebf.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSB706_8a19f643d77bf5c553256c242e38edc525acd721eae72edf9723dce4c829e251.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSB706_a3a93a430bd15d1c213b3dee00380b36bf190b4d53fda8ddcc6ec77067f04004.png"
+  }
+}

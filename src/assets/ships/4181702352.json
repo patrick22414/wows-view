@@ -1,0 +1,21 @@
+{
+  "name": "Shōkaku",
+  "tier": 8,
+  "description": "This heavy aircraft carrier was designed on the basis of the Hiryū class using the experience gained in building ships of the same type. Compared to her predecessor, she was larger and boasted superior armor and AA armament. During World War II, the ship's AA capabilities were significantly enhanced.",
+  "profile": {
+    "health": 50100,
+    "artillery": null,
+    "torpedoes": null,
+    "concealment": 12.4,
+    "airConcealment": 9.6,
+    "speed": 34,
+    "rudderTime": 18.3,
+    "turnRadius": 1130
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSA108_fa0b8145aaed9d39cbe0ffab87bd6b044d7bf1e8397d60584a5ad961409dc49d.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSA108_ef4e7478706430f42fe0a2e6d934760c86cbb204ad3f1012affbccfe86c84c55.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSA108_b014f903635e150475c3cc521c3e60aefe2fe0998f4e57b1a36274dfbc875619.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSA108_04a1f3f4ff076291026b02370fb34c283b5e466d16e18bd902487e1290ecc8a1.png"
+  }
+}

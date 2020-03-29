@@ -1,0 +1,43 @@
+{
+  "name": "ARP Ashigara",
+  "tier": 7,
+  "description": "A Heavy Cruiser of the \"Fleet of Fog\". Modelled after the Imperial Japanese Navy's 3rd Myōkō-class cruiser, Ashigara. She is equipped with a specialized harpoon-cannon, replacing the Super-Graviton Cannon unit. Her Mental Model \"Ashigara\" has a warlike personality and does not think matters over carefully. Ashigara acts as one of the \"Secretaries\" in the \"Student Council of the Fog\", along with Haguro.\nThis warship has been specially designed for World of Warships, and is modelled after Ashigara as she appears in \"ARPEGGIO OF BLUE STEEL -ARS NOVA- Cadenza\".",
+  "profile": {
+    "health": 39200,
+    "artillery": {
+      "reload": 14,
+      "range": 15.6,
+      "traverseTime": 36,
+      "shells": {
+        "he": {
+          "damage": 3300,
+          "velocity": 840,
+          "mass": 126,
+          "fireChance": 17
+        },
+        "sap": null,
+        "ap": {
+          "damage": 4700,
+          "velocity": 840,
+          "mass": 126
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 10,
+      "reload": 76,
+      "visibility": 1.6
+    },
+    "concealment": 13.1,
+    "airConcealment": 6.5,
+    "speed": 35,
+    "rudderTime": 7.1,
+    "turnRadius": 780
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC707_213faafb421e9bb32f65f5fadfb25196728b379f80f8d6f90152507707fc9d52.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSC707_c1a213a28942e6e314322b6b90e90494917579abd5dfeaba3301b6818f043403.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSC707_5efd73288cb60ccc804c3dc82bb519a482ad2a52faa4480f5418ed61f521f61d.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSC707_817027e3df84c28a88d865e296f0f8babd26087c957784dff36b01b8db28c86a.png"
+  }
+}

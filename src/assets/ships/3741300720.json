@@ -1,0 +1,21 @@
+{
+  "name": "Saipan",
+  "tier": 8,
+  "description": "A high-speed light aircraft carrier based on the Baltimore-class cruiser. Despite relatively small dimensions, the ship carried a rather powerful air group and was armed with numerous AA artillery. The ship boasted very good armor compared to the protection of far larger strike aircraft carriers.",
+  "profile": {
+    "health": 47900,
+    "artillery": null,
+    "torpedoes": null,
+    "concealment": 12.2,
+    "airConcealment": 10.2,
+    "speed": 33,
+    "rudderTime": 15.9,
+    "turnRadius": 920
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASA528_916e92731e2b592523a82077d1c8c7124e1f7edc4ac7114b6cbc3fa3d60fbad6.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PASA528_647187d68c75c061853fb7819af66202df4aee4a0c153df3b2b41f9edca2cbb9.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PASA528_1199324e29bfffe15a28aba1c3e3002272a764490bacbf5706013d8a9d986dcf.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PASA528_d440ec48d16b406f7e5edb61231ebed4fca413debb0cec1127ec159d4eabb527.png"
+  }
+}

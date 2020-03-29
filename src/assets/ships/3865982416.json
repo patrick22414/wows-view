@@ -1,0 +1,43 @@
+{
+  "name": "Tashkent",
+  "tier": 9,
+  "description": "A destroyer flotilla leader intended to perform long-range reconnaissance duties within squadrons and support destroyers' torpedo attacks. She was built in Italy for the U.S.S.R. Navy (Project 20I). During World War II, she was one of the fastest warships in the world and the largest ship of this type.",
+  "profile": {
+    "health": 16700,
+    "artillery": {
+      "reload": 5,
+      "range": 11.5,
+      "traverseTime": 18.56,
+      "shells": {
+        "he": {
+          "damage": 1900,
+          "velocity": 870,
+          "mass": 33,
+          "fireChance": 8
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2500,
+          "velocity": 870,
+          "mass": 34
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 8,
+      "reload": 70,
+      "visibility": 1.1
+    },
+    "concealment": 9.4,
+    "airConcealment": 4,
+    "speed": 42.5,
+    "rudderTime": 8.5,
+    "turnRadius": 730
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSD409_43fe2b0655c4eb04a9f25f0f8084053d7a6d589f3cdf0f995b30ddc8861b5a3d.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSD409_0f37faebf4a7716c614ced9de73f8c2eacf8681f4002449df55e3af7b4d1a738.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSD409_f5e54bc6e81d5cc972a84519245e15d13796f556e74210067e783d235e93a4f1.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSD409_38713d912b51129db692838aeb2adfb212f9dff3936fe31dd26b4a69cf717659.png"
+  }
+}

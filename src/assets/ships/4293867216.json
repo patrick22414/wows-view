@@ -1,0 +1,39 @@
+{
+  "name": "Kawachi",
+  "tier": 3,
+  "description": "The first dreadnought of the Imperial Japanese Navy. Boasted a sufficiently powerful armor belt. Kawachi's fire control capabilities were strongly affected by the diversity of calibers of her numerous guns. Similar to other warships of her time, Kawachi had insufficient horizontal armor protection and weak torpedo protection.",
+  "profile": {
+    "health": 35800,
+    "artillery": {
+      "reload": 30,
+      "range": 9.9,
+      "traverseTime": 45,
+      "shells": {
+        "he": {
+          "damage": 5100,
+          "velocity": 810,
+          "mass": 386,
+          "fireChance": 28
+        },
+        "sap": null,
+        "ap": {
+          "damage": 7900,
+          "velocity": 810,
+          "mass": 386
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 9.5,
+    "airConcealment": 6.6,
+    "speed": 18.4,
+    "rudderTime": 13.4,
+    "turnRadius": 560
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB001_f99d4a487e2eeda442edfb3eeed0feb5cd260d088d2af632f3a804d9a052fdd3.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSB001_70dbceb855c1ca9a83097e77e31715e824963b25840e1191349de3cbbf09ccad.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSB001_6e9a16f4ff49255dd49044e1d88006ac08825055aca4b10469e9044f8b9aea50.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSB001_156b75bb9f69043f14292dfa64f983e915603f9568374cfa5723a0adc3d318fe.png"
+  }
+}

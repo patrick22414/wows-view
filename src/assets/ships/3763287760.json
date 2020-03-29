@@ -1,0 +1,39 @@
+{
+  "name": "Ashitaka",
+  "tier": 7,
+  "description": "An Amagi-class battlecruiser. Like the lead ship in the series, her construction was not completed. Boasted a very high speed and carried ten 410 mm guns.",
+  "profile": {
+    "health": 59400,
+    "artillery": {
+      "reload": 31,
+      "range": 19.9,
+      "traverseTime": 45,
+      "shells": {
+        "he": {
+          "damage": 6500,
+          "velocity": 805,
+          "mass": 939,
+          "fireChance": 30
+        },
+        "sap": null,
+        "ap": {
+          "damage": 12600,
+          "velocity": 806,
+          "mass": 1020
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 17.3,
+    "airConcealment": 11,
+    "speed": 30,
+    "rudderTime": 14.9,
+    "turnRadius": 870
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB507_c640e33d5943ad652be03dcc03457a53312d3af4390c5cf39c1b0c3933ed9fc6.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSB507_781dd9d83a29254bd14bfe2d1ff27ea356771cb4749f152e4473e9210b014e37.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSB507_d402d95a99ecf25995659c396fe1ccb1578c6bfb1dc9af5dc139a2390da6c191.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSB507_8486fa1484fe8f9f261f7a6cd0856531637aaff7861326ee431b85ff8f11dbc9.png"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Mutsuki",
+  "tier": 5,
+  "description": "Developed from the Minekaze class, equipped with a reinforced torpedo armament. This class inherited high speed and sufficiently powerful artillery from its predecessors. Greater dimensions made it possible to equip these destroyers with 610 mm torpedoes.",
+  "profile": {
+    "health": 9500,
+    "artillery": {
+      "reload": 12,
+      "range": 8.1,
+      "traverseTime": 25.71,
+      "shells": {
+        "he": {
+          "damage": 1700,
+          "velocity": 825,
+          "mass": 20,
+          "fireChance": 7
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2000,
+          "velocity": 825,
+          "mass": 20
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 8,
+      "reload": 73,
+      "visibility": 1.6
+    },
+    "concealment": 6.2,
+    "airConcealment": 2.5,
+    "speed": 37.5,
+    "rudderTime": 3.2,
+    "turnRadius": 550
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD105_bef8581dbc86b80baeacc78b0154e52cde072f2cfcb42eae68229c2b0254172e.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSD105_f7911ee4fc00a46ed56cb9b6fd44b9cd3af7072641ff48e8cf46c488487f7df9.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSD105_36186a99d76844c2279c0f32524165157898154e8451f8161310d79e9320e440.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSD105_14d782eb3fe8a5f7796885e7ac26aa2eeec7185dfe0396dd79655fa267ff50c4.png"
+  }
+}

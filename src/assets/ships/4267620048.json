@@ -1,0 +1,43 @@
+{
+  "name": "Iwaki Alpha",
+  "tier": 4,
+  "description": "An advanced design of the Tenryū-class cruiser. The ship's displacement exceeded that of her predecessor, which allowed for a reinforced artillery armament and more powerful propulsion. At the project design stage, the cruiser was faster than all existing cruisers and many destroyers.",
+  "profile": {
+    "health": 18600,
+    "artillery": {
+      "reload": 6,
+      "range": 10.7,
+      "traverseTime": 21.18,
+      "shells": {
+        "he": {
+          "damage": 2400,
+          "velocity": 850,
+          "mass": 38,
+          "fireChance": 10
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2700,
+          "velocity": 850,
+          "mass": 38
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 10,
+      "reload": 76,
+      "visibility": 1.5
+    },
+    "concealment": 10.1,
+    "airConcealment": 3.8,
+    "speed": 35,
+    "rudderTime": 3.8,
+    "turnRadius": 580
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC026_1ea7159a86da92fc638dfff8b0de17702ad8a301d8747a6ec5aec3ff5e3e344b.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSC026_dc37d5ee10cbfc3526830e899541adcd570096569bf3328551cc5391bbc4b966.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSC026_a2714282d5ced79fd3056ed094ac78ae1bb82248249e0f1b02287a037e5278f1.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSC026_2f7d4178e08743cdc1f3617d63e0d252a8c2e2e8629b06c73e68964c2a9d6665.png"
+  }
+}

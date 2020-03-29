@@ -1,9 +1,9 @@
 {
   "status": "ok",
   "meta": {
-    "count": 46,
+    "count": 54,
     "page_total": 1,
-    "total": 46,
+    "total": 54,
     "limit": 100,
     "page": 1
   },
@@ -37,11 +37,25 @@
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSB517_9a17345d760bb6f7e1ac44f67f04e412098b784b8d9fbcebfd0713d6b1d21d65.png"
     },
     {
+      "id": "3753818064",
+      "name": "London",
+      "type": "Cruiser",
+      "tier": 6,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSC516_6f8fabab607b96c5851372a74fc10a0ff7be0cb954bf681d5f914d949887108f.png"
+    },
+    {
       "id": "3760142288",
       "name": "Thunderer",
       "type": "Battleship",
       "tier": 10,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSB510_1baf2a945cc5fad4b043ad329100f0be830090c78d9fde069e084c7bc38dbe0b.png"
+    },
+    {
+      "id": "3762206672",
+      "name": "Cheshire",
+      "type": "Cruiser",
+      "tier": 8,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSC508_8eaf2351b364cb286a2331a516997461507267c9b01f641785b0dcd55c55fc85.png"
     },
     {
       "id": "3762239440",
@@ -100,11 +114,53 @@
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSB503_f295a50d0bfe59256c0c8e9a704b0c159cb53f56c4bcfca3b3eba4630541a1e1.png"
     },
     {
+      "id": "4074682320",
+      "name": "Goliath",
+      "type": "Cruiser",
+      "tier": 10,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSC210_d457a870fa7e7cd70e09c94664f474e8a00b8602bfb3e798d1a27d036ae70d1c.png"
+    },
+    {
       "id": "4074747856",
       "name": "Audacious",
       "type": "AirCarrier",
       "tier": 10,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSA210_f5d7acb803490a2cf8ca59704d483f3b61f0e5a58ecd19e30ae1b882e200ba4d.png"
+    },
+    {
+      "id": "4075730896",
+      "name": "Drake",
+      "type": "Cruiser",
+      "tier": 9,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSC209_ee32e8172319e2eda9c12e1941f95492642b4288950960a988d00f1e483656f9.png"
+    },
+    {
+      "id": "4076779472",
+      "name": "Albemarle",
+      "type": "Cruiser",
+      "tier": 8,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSC208_8becd45b73e337a7a8c99fc1e73710f1d28bb93b0b1bd2440fd0a2c64d9c4963.png"
+    },
+    {
+      "id": "4077828048",
+      "name": "Surrey",
+      "type": "Cruiser",
+      "tier": 7,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSC207_d8c6fdd04b9b363a1aef2c21225236065855595b65ffcc564a0f2faf11985856.png"
+    },
+    {
+      "id": "4078876624",
+      "name": "Devonshire",
+      "type": "Cruiser",
+      "tier": 6,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSC206_2ea986e31d25fa71bd52da9112af84c2c135bd4b89b73cebcaed239bd8b1f57f.png"
+    },
+    {
+      "id": "4079925200",
+      "name": "Hawkins",
+      "type": "Cruiser",
+      "tier": 5,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSC205_e108d9aeb789b5af16cd982a76e23c35ab20b25ff79fbe9b46d886f4ddd14ef1.png"
     },
     {
       "id": "4081039312",

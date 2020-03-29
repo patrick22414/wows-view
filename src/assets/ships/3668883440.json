@@ -1,0 +1,39 @@
+{
+  "name": "Boise",
+  "tier": 7,
+  "description": "A Brooklyn-class light cruiser. Her main battery consisted of fifteen rapid-fire 152 mm guns. In the 1940s, the cruiser carried numerous automatic AA guns.",
+  "profile": {
+    "health": 33300,
+    "artillery": {
+      "reload": 10,
+      "range": 13.6,
+      "traverseTime": 18,
+      "shells": {
+        "he": {
+          "damage": 2200,
+          "velocity": 812,
+          "mass": 48,
+          "fireChance": 12
+        },
+        "sap": null,
+        "ap": {
+          "damage": 3200,
+          "velocity": 762,
+          "mass": 59
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 11.9,
+    "airConcealment": 6,
+    "speed": 30,
+    "rudderTime": 9.1,
+    "turnRadius": 690
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC597_f157c4b6aa57582cb9336671d6838731b072756d5cc6cb64e54d12598fd16d2d.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PASC597_a15257eb12238493146d4377055171c252bd5dea10005888c505a04d0bdc96ef.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PASC597_120b7c271ca0a9f8e641d9c125f8133a02b4a80be84990af67c691848a6ae303.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PASC597_c0ce8e4b3dbd3c6b41d0a82fdd2b4aa6a0a5865e6293ef0d0c48b393b046dab9.png"
+  }
+}

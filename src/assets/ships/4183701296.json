@@ -1,0 +1,43 @@
+{
+  "name": "Ernst Gaede",
+  "tier": 6,
+  "description": "One of the designs for the \"1934 type\" destroyer. The ship was designed to be relatively large for her type and featured very powerful artillery armament of 150 mm cruiser caliber guns. This caliber was very unusual for destroyers.",
+  "profile": {
+    "health": 15700,
+    "artillery": {
+      "reload": 5,
+      "range": 9.9,
+      "traverseTime": 22.5,
+      "shells": {
+        "he": {
+          "damage": 1500,
+          "velocity": 830,
+          "mass": 28,
+          "fireChance": 6
+        },
+        "sap": null,
+        "ap": {
+          "damage": 3000,
+          "velocity": 830,
+          "mass": 28
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 7.5,
+      "reload": 90,
+      "visibility": 1.3
+    },
+    "concealment": 7.6,
+    "airConcealment": 3.4,
+    "speed": 36,
+    "rudderTime": 5.6,
+    "turnRadius": 690
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSD106_e6af2fb755c921e56af3dbe8759ff96ff9a06af0c74ffdc73c3ce163b51c67c1.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSD106_df054321ae1751c1d95fc566a66b214849299200d2df1e10e540fd45d0db939b.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSD106_d9d970cfce4daaaa13198a23802f277e159348edb37e5048e1c3c2c2ab13f217.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSD106_9c6e251590bae147a7cca0eee01af2083315bfb46bcd3135cb7baa0183003480.png"
+  }
+}

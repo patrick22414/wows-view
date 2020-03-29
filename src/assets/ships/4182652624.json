@@ -1,0 +1,43 @@
+{
+  "name": "Akatsuki",
+  "tier": 7,
+  "description": "This ship belonged to the \"special type\" series of destroyers. In contrast to Fubuki-class ships, she had more efficient propulsion and boasted a substantially higher speed.",
+  "profile": {
+    "health": 11600,
+    "artillery": {
+      "reload": 7,
+      "range": 9.4,
+      "traverseTime": 26.09,
+      "shells": {
+        "he": {
+          "damage": 2150,
+          "velocity": 915,
+          "mass": 23,
+          "fireChance": 9
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2200,
+          "velocity": 915,
+          "mass": 23
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 10,
+      "reload": 70,
+      "visibility": 1.5
+    },
+    "concealment": 7.4,
+    "airConcealment": 3,
+    "speed": 38,
+    "rudderTime": 4.5,
+    "turnRadius": 640
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD107_405b2e05bc1ac626e6ea7aedd92140e9d1aab95c025a3b3d289aade037e41494.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSD107_743744af7fcde3cbcdce14de41766fc07cb2669a904f912422788046d488b5f9.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSD107_7ea024f7ba6aa8925b6b4e17a69eb381a6622a9eea36336ea9925e1c8f4cfc14.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSD107_c4ca834bb4af159b85d48fb1a936658a0e06e8fd4459482e4fd2284ffd4f7c31.png"
+  }
+}

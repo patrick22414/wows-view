@@ -1,0 +1,43 @@
+{
+  "name": "Flint",
+  "tier": 7,
+  "description": "This ship belonged to a series of cruisers with very powerful dual-purpose guns. The major difference from the lead ship was her short-range AA armament, which had been improved at the expense of fewer main guns.",
+  "profile": {
+    "health": 26600,
+    "artillery": {
+      "reload": 4,
+      "range": 11.1,
+      "traverseTime": 7.2,
+      "shells": {
+        "he": {
+          "damage": 1800,
+          "velocity": 792,
+          "mass": 25,
+          "fireChance": 5
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2100,
+          "velocity": 792,
+          "mass": 25
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 9.2,
+      "reload": 98,
+      "visibility": 1.1
+    },
+    "concealment": 11,
+    "airConcealment": 6.4,
+    "speed": 32.5,
+    "rudderTime": 8.4,
+    "turnRadius": 610
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC707_9a53bf9f926e7f9199ed84b19e8ab76ac7dd0559502728123fa9908c7d8b0343.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PASC707_2f41d3a3ac6e2c0411113ca77dfd34fb851aae57fdb36c30ff2aa3bc9104c7c9.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PASC707_12e09216a843ed9f2b5fe6cd9a389fd5f975fb0574b81d627444e2e8429b7f54.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PASC707_6daa329f2b9e3e99f23105b9bc740c6b08efd3be0dcd9f78dfdfcc8801e5e409.png"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Yūgumo",
+  "tier": 9,
+  "description": "Developed from the preceding Kagerō-class destroyers, she carried more advanced main gun mounts and reinforced AA defenses.",
+  "profile": {
+    "health": 13900,
+    "artillery": {
+      "reload": 5,
+      "range": 10.9,
+      "traverseTime": 22.78,
+      "shells": {
+        "he": {
+          "damage": 2150,
+          "velocity": 915,
+          "mass": 23,
+          "fireChance": 9
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2200,
+          "velocity": 915,
+          "mass": 23
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 10,
+      "reload": 112,
+      "visibility": 1.7
+    },
+    "concealment": 7,
+    "airConcealment": 3.1,
+    "speed": 35.5,
+    "rudderTime": 5.1,
+    "turnRadius": 640
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD209_29f2671a92e1ccfcc9943ff46985e373b28a6be6be8381ecd46f3f5e00f2dca7.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSD209_00b61e040d279a7fc49d78df08a1a621b25676c8061b21fa2c703749eb46dd15.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSD209_ec49037a39f92309b728e12261ec04252559990f3a41d6bf4e4c2b8b48b7e64d.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSD209_8ec098ec2cc09143861625ef05471def458368c2619c759ab03b9b6bf4b7594b.png"
+  }
+}

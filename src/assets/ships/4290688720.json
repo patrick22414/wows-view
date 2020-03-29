@@ -1,0 +1,43 @@
+{
+  "name": "Yūbari",
+  "tier": 4,
+  "description": "An experimental light cruiser based on an idea to create a fast warship carrying the most powerful armament available while having minimum displacement. She was the first in the Imperial Japanese Navy to be equipped with 610 mm torpedo tubes. By the end of her time in service, Yūbari was reinforced with numerous AA guns.",
+  "profile": {
+    "health": 18700,
+    "artillery": {
+      "reload": 6,
+      "range": 12.8,
+      "traverseTime": 24,
+      "shells": {
+        "he": {
+          "damage": 2400,
+          "velocity": 850,
+          "mass": 38,
+          "fireChance": 10
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2700,
+          "velocity": 850,
+          "mass": 38
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 6,
+      "reload": 49,
+      "visibility": 1.6
+    },
+    "concealment": 9.9,
+    "airConcealment": 5.8,
+    "speed": 34.5,
+    "rudderTime": 3.8,
+    "turnRadius": 560
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC004_6b130f0c0d7114d79c688d7d582a64145c5e3c017b2287b3e8ac8296ae1fb1e6.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSC004_5852058e2336b0bde534cea015afd70441ab29891b0406d2938d4f45dafd4010.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSC004_d65a7a5fe78ccd18a28d565d8f84f3db37762dfd81800d110497a8f2f6c996d3.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSC004_419d633bb9ca32d4e643a004db0ffced94829f537edb92219bc0217a828f14d9.png"
+  }
+}

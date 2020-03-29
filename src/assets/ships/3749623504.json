@@ -1,0 +1,43 @@
+{
+  "name": "Yoshino",
+  "tier": 10,
+  "description": "A fast-moving ship armed with 310 mm artillery for her main battery, intended to counter enemy heavy cruisers (Project B-65). This version of the design also featured torpedo armament.",
+  "profile": {
+    "health": 61800,
+    "artillery": {
+      "reload": 18,
+      "range": 21.3,
+      "traverseTime": 36,
+      "shells": {
+        "he": {
+          "damage": 5100,
+          "velocity": 836,
+          "mass": 449,
+          "fireChance": 27
+        },
+        "sap": null,
+        "ap": {
+          "damage": 8650,
+          "velocity": 836,
+          "mass": 449
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 12,
+      "reload": 171,
+      "visibility": 1.7
+    },
+    "concealment": 15.1,
+    "airConcealment": 10.7,
+    "speed": 34,
+    "rudderTime": 13.9,
+    "turnRadius": 920
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC520_017e55976eb6658f2f5cb763e38bc3d80bae966336caecc66a5b0117054032b1.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSC520_6865d42ba640bd0c3f737dd92b68432227b75fb0d8410a438bec4e8d8b9a9b22.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSC520_b4cc3aef89464aa6f6b79db1eb33d8ea3e224ec40f0700b2a82cf8714f798322.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSC520_e49872394a85791751da17f6b2fae7bd59de5545f237e7868c6afa3a51fceef7.png"
+  }
+}

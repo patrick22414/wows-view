@@ -1,13 +1,20 @@
 {
   "status": "ok",
   "meta": {
-    "count": 78,
+    "count": 80,
     "page_total": 1,
-    "total": 78,
+    "total": 80,
     "limit": 100,
     "page": 1
   },
   "data": [
+    {
+      "id": "3248371408",
+      "name": "Arashi",
+      "type": "Destroyer",
+      "tier": 8,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD998_c5f897b76cf14b57c9995b24eb39706a5e8147d00b100b96f2ba1c4564587971.png"
+    },
     {
       "id": "3522082512",
       "name": "ARP Nachi",
@@ -107,20 +114,6 @@
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB705_72bc7d64bc57d7eb578c04cde318f641085b81042b74de3f0eec7070487b15ea.png"
     },
     {
-      "id": "3667801808",
-      "name": "Asashio B",
-      "type": "Destroyer",
-      "tier": 8,
-      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD598_37f1b2ae434f9be06c6d355c59df63abf6658a144b5a74ed95799b6026fe61df.png"
-    },
-    {
-      "id": "3667834576",
-      "name": "Atago B",
-      "type": "Cruiser",
-      "tier": 8,
-      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC598_bba0e960fd4bbfdad4394c90ad97ab39fe714b2b23c7e01402b9843c238779ef.png"
-    },
-    {
       "id": "3749623504",
       "name": "Yoshino",
       "type": "Cruiser",
@@ -154,6 +147,13 @@
       "type": "Cruiser",
       "tier": 9,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC510_886ef945c0c4bf7eb13c2bbe9fcec363931c50e65bd5bdbf7eda10fe2f8d94b3.png"
+    },
+    {
+      "id": "3760142032",
+      "name": "Shikishima",
+      "type": "Battleship",
+      "tier": 10,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB510_b538072996470b044aef7763b5e579f613b8ad8a1bf699f209de8f4a437d475b.png"
     },
     {
       "id": "3761190608",

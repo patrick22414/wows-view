@@ -1,0 +1,39 @@
+{
+  "name": "Musashi",
+  "tier": 9,
+  "description": "A Yamato-class battleship, Yamato's only sister ship to be commissioned. Just like Yamato, Musashi was the biggest warship of World War II. Upon completion, and in contrast to her subsequently modernized sister ship, she had more powerful secondary battery guns, but weaker AA defenses.",
+  "profile": {
+    "health": 97300,
+    "artillery": {
+      "reload": 30,
+      "range": 26.5,
+      "traverseTime": 72,
+      "shells": {
+        "he": {
+          "damage": 7300,
+          "velocity": 805,
+          "mass": 1360,
+          "fireChance": 35
+        },
+        "sap": null,
+        "ap": {
+          "damage": 14800,
+          "velocity": 780,
+          "mass": 1460
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 18,
+    "airConcealment": 12.8,
+    "speed": 27,
+    "rudderTime": 18.7,
+    "turnRadius": 900
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB509_51ef2df4e97193eec7ae82a5a4068f4a3618e7494343100c29966675264fc93e.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSB509_3786532ab064c1daece5ae31f32acf22c10a1b32a993706c15dc1d4921e19c9b.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSB509_2afadc8cb3f93b87dd81d9a84af61bb555c0d62e9f5b3769b677813419a10d29.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSB509_bd0b29fd86f3e8686b99ecabb656fb1403174f4479c995922c612bd193eceb29.png"
+  }
+}

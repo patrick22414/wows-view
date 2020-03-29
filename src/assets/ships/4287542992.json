@@ -1,0 +1,43 @@
+{
+  "name": "Aoba",
+  "tier": 6,
+  "description": "Represented a further development of Furutaka with main battery guns placed in twin turrets to achieve a longer gun range. Moreover, she outstripped her predecessor in torpedo armament power and AA defense capabilities.",
+  "profile": {
+    "health": 30500,
+    "artillery": {
+      "reload": 11,
+      "range": 13.6,
+      "traverseTime": 36,
+      "shells": {
+        "he": {
+          "damage": 3300,
+          "velocity": 840,
+          "mass": 126,
+          "fireChance": 17
+        },
+        "sap": null,
+        "ap": {
+          "damage": 4700,
+          "velocity": 840,
+          "mass": 126
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 10,
+      "reload": 102,
+      "visibility": 1.5
+    },
+    "concealment": 12.1,
+    "airConcealment": 5.8,
+    "speed": 35,
+    "rudderTime": 8.4,
+    "turnRadius": 710
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC007_cf448b87cb7dc3c5c66a56feda5608286d7a7ad5980811a844612b239f80f5b8.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSC007_944cc0acd7997154f60a06c5f21065446c8f07519847d4729396cb52d15de8e8.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSC007_537bcf8a01d212f4564c9061946a5fa1c6f44e88b63ff412c723a80ddb755df9.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSC007_0a522e2b0a088768da6e75aef9b199131b7aa8857b51ef2299b71f536ac16ab2.png"
+  }
+}

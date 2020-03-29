@@ -1,0 +1,38 @@
+{
+  "name": "Alberto di Giussano",
+  "tier": 4,
+  "description": "A light cruiser built as part of the first series of Condottieri-class ships. Giussano was built to counter the French large contre-torpilleurs. The ship boasted a high speed and a good set of armament for her size, which came at the expense of poor armor protection.",
+  "profile": {
+    "health": 19300,
+    "artillery": {
+      "reload": 15,
+      "range": 12.6,
+      "traverseTime": 36,
+      "shells": {
+        "he": null,
+        "sap": null,
+        "ap": {
+          "damage": 3000,
+          "velocity": 850,
+          "mass": 48
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 8,
+      "reload": 47,
+      "visibility": 1
+    },
+    "concealment": 11.1,
+    "airConcealment": 5.1,
+    "speed": 36.5,
+    "rudderTime": 9.8,
+    "turnRadius": 580
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC104_fcd1ef9903eeedd1f40fba22744b31825a217fdb794fd5c20579d675924fa796.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PISC104_7eb04ad0767c91bba22e16d2e67e26594f73ef66a825e8e5d84dbf724d5d8586.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PISC104_4f9ed619327920f98eab2c63ed966b73e15be1b5869d2f69b6bb7c61ecc0944a.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PISC104_208d91845aeac337f360039914572d2efadcacc6d141ec28411e35711a492000.png"
+  }
+}

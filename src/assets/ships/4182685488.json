@@ -1,0 +1,43 @@
+{
+  "name": "Yorck",
+  "tier": 7,
+  "description": "Owing to her well-balanced characteristics, the ship surpassed the first generation cruisers of her time that were subject to the Washington Naval Treaty in terms of armor protection, and light cruisers in terms of artillery power.",
+  "profile": {
+    "health": 27200,
+    "artillery": {
+      "reload": 12,
+      "range": 15.7,
+      "traverseTime": 34.62,
+      "shells": {
+        "he": {
+          "damage": 2900,
+          "velocity": 900,
+          "mass": 114,
+          "fireChance": 12
+        },
+        "sap": null,
+        "ap": {
+          "damage": 5600,
+          "velocity": 900,
+          "mass": 114
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 6,
+      "reload": 68,
+      "visibility": 1.3
+    },
+    "concealment": 13.9,
+    "airConcealment": 5.9,
+    "speed": 32,
+    "rudderTime": 11.3,
+    "turnRadius": 650
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC107_66822a0b94d76dc69a836a4dde6d4851f873d6a5003fc1dc002fa3e85ba0afc1.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSC107_e48cd31fd3d333a2ca9d8c85401522870298b4d052f7f0b820dce10f29c2612b.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSC107_079b038c971c3089700fb11dbab7b2881e1ad8c0233ab44b22c4c1d57d9de42f.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSC107_d6442219a3d72be166cfc32bb4d5a1507d7b36c5a9c96f10d9492e7234643a40.png"
+  }
+}

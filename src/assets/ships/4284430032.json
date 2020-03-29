@@ -1,0 +1,39 @@
+{
+  "name": "Nagato",
+  "tier": 7,
+  "description": "Nagato had long remained the most powerful warship in the Imperial Japanese Navy. She had good armor and carried 410 mm main battery guns. In the 1930s, the ship was modernized to receive more powerful torpedo protection.",
+  "profile": {
+    "health": 49000,
+    "artillery": {
+      "reload": 30,
+      "range": 20.5,
+      "traverseTime": 47.37,
+      "shells": {
+        "he": {
+          "damage": 6500,
+          "velocity": 805,
+          "mass": 939,
+          "fireChance": 30
+        },
+        "sap": null,
+        "ap": {
+          "damage": 12600,
+          "velocity": 806,
+          "mass": 1020
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 17.1,
+    "airConcealment": 10.6,
+    "speed": 22.3,
+    "rudderTime": 15.2,
+    "turnRadius": 770
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB010_ff3e7bb339d23360a083bd0da2586e2046561ab58616b89d8ce3c44e392897b3.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSB010_075c89ad7a208885f4bc3aa3d8aee88eacc4d2892869e91cead26cdb37040acc.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSB010_3380bdb7d6c60cc24049fe143ad795d9fb7ccf0ebdec57edd2112c07efd9778d.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSB010_4731100e349b0514e46d6ce2dbac7a0ce1d9661c8a6702fa25e8ffd3d94afff7.png"
+  }
+}

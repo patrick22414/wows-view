@@ -1,0 +1,43 @@
+{
+  "name": "G-101",
+  "tier": 3,
+  "description": "This destroyer was built in Germany for the Argentine Navy. However, she was commissioned into the Imperial German Navy at the outbreak of World War I. Compared to V-25-class destroyers, she was larger in size and had more guns, but was slower.",
+  "profile": {
+    "health": 8300,
+    "artillery": {
+      "reload": 4,
+      "range": 8.2,
+      "traverseTime": 18,
+      "shells": {
+        "he": {
+          "damage": 1200,
+          "velocity": 715,
+          "mass": 18,
+          "fireChance": 5
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2300,
+          "velocity": 715,
+          "mass": 18
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 6,
+      "reload": 38,
+      "visibility": 0.9
+    },
+    "concealment": 6.7,
+    "airConcealment": 2.4,
+    "speed": 33.5,
+    "rudderTime": 4.1,
+    "turnRadius": 520
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSD103_c7128beea81bb83db391af8a6ab9ed7ce65629cb05d468420ded858816556eaf.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSD103_eb28ed5034e69bef72c8b9a9fbe76b51a825f4155b667d05b929166e7e2a9d07.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSD103_0790eb9a668db0c581f89787f6ff3ecd062c1096f96c481c63de2c6db779c23d.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSD103_0c2a1d7e36f0abce2fbdc69ba8fba41f22141c512fe86b9a75953a152bfba080.png"
+  }
+}

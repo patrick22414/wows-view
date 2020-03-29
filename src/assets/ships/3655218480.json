@@ -1,0 +1,43 @@
+{
+  "name": "Småland",
+  "tier": 10,
+  "description": "One of the largest and most powerful destroyers in the Swedish Royal Navy, armed with highly effective 120 mm main guns that boasted a high rate of fire. The ship's distinctive feature was her torpedo launchers with different numbers of tubes.",
+  "profile": {
+    "health": 19200,
+    "artillery": {
+      "reload": 1,
+      "range": 11.4,
+      "traverseTime": 7.2,
+      "shells": {
+        "he": {
+          "damage": 1750,
+          "velocity": 825,
+          "mass": 24,
+          "fireChance": 8
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2100,
+          "velocity": 825,
+          "mass": 24
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 12,
+      "reload": 100,
+      "visibility": 1.6
+    },
+    "concealment": 7.8,
+    "airConcealment": 3.5,
+    "speed": 35,
+    "rudderTime": 4.3,
+    "turnRadius": 660
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PWSD610_7b05921780b6ff275a670453947fe6ee783dc981a4e20528a20bf62d0bb358b9.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PWSD610_b45d68d4bc94a5abe0fff2df9933b087029ec6fb0cbe59f4001c542758a5bd65.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PWSD610_c2a02ed4d7b1d73fc26383cd909aba5fb032cae7e149a404bb95673f65da1f5b.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PWSD610_bb63aff278d4ff94d67656a0835b803427167999daf79aafee3aeccf4a41ac17.png"
+  }
+}

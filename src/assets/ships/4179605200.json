@@ -1,0 +1,21 @@
+{
+  "name": "Hakuryū",
+  "tier": 10,
+  "description": "An aircraft carrier designed to be an enlarged and enhanced version of the Taihō class. Hakuryū was superior to her predecessor in size, armor and artillery power. Owing to an increased hangar, she could carry the largest air group among all Japanese aircraft carriers.",
+  "profile": {
+    "health": 63100,
+    "artillery": null,
+    "torpedoes": null,
+    "concealment": 15.7,
+    "airConcealment": 11.4,
+    "speed": 34.5,
+    "rudderTime": 17.1,
+    "turnRadius": 1250
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSA110_00695fda2927f4e847c390fef1fc00a72ecb9eeebb7cfa439fdb696dea539764.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSA110_d66f258f3b1c80a5b922f7432c9c510c47e1cdd229ab80ce292b17aea2ecc559.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSA110_f756e805fd3ef280d7eaa9d55b199abc1ed782f254373391cc792139b2f4f629.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSA110_73bb8fb1f36a9c378d115898a74862a4537d78da7b6e6dce193d252927469b04.png"
+  }
+}

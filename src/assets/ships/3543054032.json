@@ -1,0 +1,41 @@
+{
+  "name": "Southern Dragon",
+  "tier": 7,
+  "description": " ",
+  "profile": {
+    "health": 39200,
+    "artillery": {
+      "reload": 14,
+      "range": 15.6,
+      "traverseTime": 36,
+      "shells": {
+        "he": {
+          "damage": 3300,
+          "fireChance": 17,
+          "mass": 126
+        },
+        "sap": null,
+        "ap": {
+          "damage": 4700,
+          "mass": 126
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 10,
+      "reload": 76,
+      "visibility": 1.6
+    },
+    "concealment": 13.1,
+    "airConcealment": 6.5,
+    "speed": 35,
+    "rudderTime": 7.1,
+    "turnRadius": 780
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC717_ca2d68d62f1560db2fd711fb1ea8d93d05457c51d4a9212900758c7a9697e023.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSC717_346e47788fef3d625c1aa08aa5e1146f6e4bed6fe090ee260418175556a5e1bf.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSC717_efabdae81d4af3b7e2d1a652795a470e941b10179c0ddc5ffbbe36fe016e04ed.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSC717_817027e3df84c28a88d865e296f0f8babd26087c957784dff36b01b8db28c86a.png"
+  }
+}

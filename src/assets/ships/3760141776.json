@@ -1,0 +1,39 @@
+{
+  "name": "Slava",
+  "tier": 10,
+  "description": "A battleship design developed after the end of World War II (Project 24). The ship constituted a further development of the Sovetsky Soyuz class, intended to counter US battleships of the Iowa and Montana classes.",
+  "profile": {
+    "health": 91800,
+    "artillery": {
+      "reload": 32,
+      "range": 24.7,
+      "traverseTime": 45,
+      "shells": {
+        "he": {
+          "damage": 5800,
+          "velocity": 870,
+          "mass": 1108,
+          "fireChance": 40
+        },
+        "sap": null,
+        "ap": {
+          "damage": 13450,
+          "velocity": 870,
+          "mass": 1108
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 16.7,
+    "airConcealment": 13.7,
+    "speed": 29.5,
+    "rudderTime": 16.3,
+    "turnRadius": 1090
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSB510_3a61ded4a2a0b7775db68b22bc915d343c9190b28c9c15ae0683f6063a8c64db.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSB510_ba2e88afd649a612f65e1dd14ab336c35a6cbc58f125a55669902b385126ea1e.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSB510_3b8c6053e96ab5c3a2aa2a54cd7ab7dc6c91e538d238b8122eb999913fba19e5.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSB510_9bde6d9c4da05b830be8875d54bb1cd48e5cfa91a55cfe79c52772b87bd2837b.png"
+  }
+}

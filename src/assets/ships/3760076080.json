@@ -1,0 +1,39 @@
+{
+  "name": "Friesland",
+  "tier": 9,
+  "description": "The lead ship in a series of \"submarine hunters\" used by the Dutch Navy. The ship carried various anti-submarine weapons as well as 120 mm Bofors dual purpose naval guns, one of the most effective pieces of armament during the post-war period.",
+  "profile": {
+    "health": 17600,
+    "artillery": {
+      "reload": 1,
+      "range": 12.3,
+      "traverseTime": 7.2,
+      "shells": {
+        "he": {
+          "damage": 1750,
+          "velocity": 825,
+          "mass": 24,
+          "fireChance": 8
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2100,
+          "velocity": 825,
+          "mass": 24
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 8.2,
+    "airConcealment": 2.9,
+    "speed": 36,
+    "rudderTime": 4,
+    "turnRadius": 620
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PWSD510_590c7a4fc8b1c5ff9c1c5bea106c9e76d10dc5c27d1abd837368808d40fc0520.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PWSD510_de7a25d5ee1bf67b7c40873f6d5ff32698e378a97741ebad74d0964d94806b0f.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PWSD510_9ed5ccc2bb9f64c223dc103e1be2085e6755a7e24edbf37714fe7713beaf6ca3.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PWSD510_332b29ef0899386dbb4828468c7f9bdd545292e4ba905abe463f14a2bef7f58e.png"
+  }
+}

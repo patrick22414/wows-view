@@ -1,0 +1,43 @@
+{
+  "name": "Kiev",
+  "tier": 8,
+  "description": "A design for a destroyer flotilla leader, built under the \"Big Fleet\" program (Project 48). This ship was developed from the destroyer leader Tashkent. She inherited the high speed and powerful armament of her predecessor, while smaller dimensions provided for better concealment and maneuverability.",
+  "profile": {
+    "health": 14500,
+    "artillery": {
+      "reload": 5,
+      "range": 11.1,
+      "traverseTime": 18.56,
+      "shells": {
+        "he": {
+          "damage": 1900,
+          "velocity": 870,
+          "mass": 33,
+          "fireChance": 8
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2500,
+          "velocity": 870,
+          "mass": 34
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 4,
+      "reload": 123,
+      "visibility": 1.3
+    },
+    "concealment": 9,
+    "airConcealment": 3.5,
+    "speed": 42.5,
+    "rudderTime": 6.7,
+    "turnRadius": 690
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSD308_325186da73a2bcb00040aa3c922695372b4c6d416847ca561d5a4298ef422aa5.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSD308_bade8a95e14773dc6b73e798447891c4ed8bf200bfe1ee812554616f25bf2dd8.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSD308_5dffed0aa5ac5906377a0989a30e05accba3434f81886132c0198f7cbcb15a89.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSD308_9b217fa5da5a765cd1c37efa595d4a92bac1b3c31ce20e035a67c3a940befcd7.png"
+  }
+}

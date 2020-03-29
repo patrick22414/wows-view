@@ -1,0 +1,43 @@
+{
+  "name": "Aigle",
+  "tier": 6,
+  "description": "The lead ship in a series of large destroyers (\"contre-torpilleurs\"), a typical type of ship in the French Navy, designed specifically to hunt down enemy destroyers. The ship was large in size and had a high speed. She was on par with contemporary destroyers by the strength of her torpedo armament yet considerably outclassed them in terms of artillery power owing to her five 139-mm guns.",
+  "profile": {
+    "health": 17000,
+    "artillery": {
+      "reload": 4,
+      "range": 12.8,
+      "traverseTime": 27.69,
+      "shells": {
+        "he": {
+          "damage": 2000,
+          "velocity": 700,
+          "mass": 40,
+          "fireChance": 9
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2600,
+          "velocity": 700,
+          "mass": 40
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 8,
+      "reload": 77,
+      "visibility": 1.2
+    },
+    "concealment": 7.7,
+    "airConcealment": 3.5,
+    "speed": 36,
+    "rudderTime": 4.1,
+    "turnRadius": 680
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSD506_fb43fa1f9fe16d7f4db30c203624b7057b3198ccfbde3fe9f30b4cb25b05e382.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSD506_4f5104c2de504116277ebf6aef57b424fe70c2bafb692be69c99f6551c03e1a2.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSD506_2cf6d83065083aa7be2e5c469b23220826f72adbeec05d8a8d90c778c7872490.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSD506_0abd50840d7fe222cc08896d4db8c6a493d14c24ef441c65ef70ad998c55538b.png"
+  }
+}

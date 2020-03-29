@@ -1,0 +1,43 @@
+{
+  "name": "Tátra",
+  "tier": 2,
+  "description": "A series of the best destroyers of the Austro-Hungarian Navy that were built as part of the naval program and intended to equip the navy with more advanced ships. The artillery for the destroyers was supplied by the Czech company Škoda.",
+  "profile": {
+    "health": 7100,
+    "artillery": {
+      "reload": 4,
+      "range": 8.3,
+      "traverseTime": 18,
+      "shells": {
+        "he": {
+          "damage": 1450,
+          "velocity": 880,
+          "mass": 14,
+          "fireChance": 6
+        },
+        "sap": null,
+        "ap": {
+          "damage": 1650,
+          "velocity": 880,
+          "mass": 14
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 8,
+      "reload": 30,
+      "visibility": 1.2
+    },
+    "concealment": 6.2,
+    "airConcealment": 2.4,
+    "speed": 32.5,
+    "rudderTime": 3,
+    "turnRadius": 460
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PWSD102_d1ea0b735cf9238ed0f264a6c7c8a71926563e2d699093ead2f6fdd2e052c82e.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PWSD102_ddcd817db80d4214bfebdb3cd7b7cf5b971bfa2c9d1d6fd2c8cd740aa740b895.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PWSD102_b6c32c7a3afe609a8575261ad9e71443a10e4db0983c0059166cb6fc90b33008.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PWSD102_a2a7989f40d021f23736e40f1066c633e18f2f8479af84d40655984fd8cdb54d.png"
+  }
+}

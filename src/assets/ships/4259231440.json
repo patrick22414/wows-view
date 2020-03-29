@@ -1,0 +1,43 @@
+{
+  "name": "Zaō",
+  "tier": 10,
+  "description": "A very powerful cruiser in all respects. Compared with the preceding classes of heavy cruisers, Zaō had a greater number of main battery and AA guns, thick armor and a reinforced torpedo armament.",
+  "profile": {
+    "health": 40800,
+    "artillery": {
+      "reload": 13,
+      "range": 16.2,
+      "traverseTime": 36,
+      "shells": {
+        "he": {
+          "damage": 3400,
+          "velocity": 920,
+          "mass": 155,
+          "fireChance": 19
+        },
+        "sap": null,
+        "ap": {
+          "damage": 5400,
+          "velocity": 920,
+          "mass": 155
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 8,
+      "reload": 104,
+      "visibility": 1.8
+    },
+    "concealment": 12.6,
+    "airConcealment": 7.5,
+    "speed": 34.5,
+    "rudderTime": 7.7,
+    "turnRadius": 840
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC034_4ff33cd01dbf1be2998e56d24f0ebd229f96b0f45183925996660da926b0bb2b.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSC034_afc0e6050cb8667ccbbdec78d2d3ae469cb2b6fa36273b5b1ffe61ab73a4b0e0.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSC034_2c2bb6e0774ca0edd0eca62b7184eda48055b39327536d56d0ea63b4cd5055d9.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSC034_5070da5680566c406dcc0d184bbad896259d2884e1f1ae90a267b221ec792261.png"
+  }
+}

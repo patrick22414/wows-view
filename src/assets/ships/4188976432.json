@@ -1,0 +1,35 @@
+{
+  "name": "Gryf",
+  "tier": 1,
+  "description": "A minelayer ship that was also designed to serve as a training ship. Built in France for the Polish Navy; armed with artillery made in Sweden.",
+  "profile": {
+    "health": 7550,
+    "artillery": {
+      "reload": 3,
+      "range": 10.7,
+      "traverseTime": 18,
+      "shells": {
+        "he": {
+          "damage": 425,
+          "velocity": 900,
+          "mass": 24,
+          "fireChance": 8
+        },
+        "sap": null,
+        "ap": null
+      }
+    },
+    "torpedoes": null,
+    "concealment": 7.4,
+    "airConcealment": 5.4,
+    "speed": 20,
+    "rudderTime": 3.8,
+    "turnRadius": 360
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PWSC101_6d8f152ce3295383f78027aa8c53833e32879d64088cac87938ea83a682c2e3c.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PWSC101_556b02f53923858c04c9c63cc2d5333b69e4b80326baebc525c550c935076032.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PWSC101_4758253b0e76d113aa8a3e2364a5702b8d2f4cf807b7026140936797748df7e4.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PWSC101_d3ea2f5a2eb3fb49c4b8c44c3f057c7246ad70b2aad52e000ca1ce9ad95f9e21.png"
+  }
+}

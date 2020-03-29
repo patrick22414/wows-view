@@ -1,0 +1,38 @@
+{
+  "name": "Paolo Emilio",
+  "tier": 10,
+  "description": "The project of a relatively large and a very high-speed \"armored reconnaissance ship\" with a powerful main battery, developed by the Ansaldo company under Project UP 39. Paolo Emilio was the predecessor of the Capitani Romani-class light cruisers.",
+  "profile": {
+    "health": 24700,
+    "artillery": {
+      "reload": 7,
+      "range": 13.8,
+      "traverseTime": 18,
+      "shells": {
+        "he": null,
+        "sap": null,
+        "ap": {
+          "damage": 2500,
+          "velocity": 825,
+          "mass": 33
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 12,
+      "reload": 71,
+      "visibility": 1
+    },
+    "concealment": 9.1,
+    "airConcealment": 3.7,
+    "speed": 43.5,
+    "rudderTime": 5.3,
+    "turnRadius": 810
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISD510_6624831a92d15e3a7cae37d8ff287705cd226984cccad16886c572cbfe453809.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PISD510_1232b82c252d5f6673cae589cf5034cbf8bef33aa817f3f0c5b43bc780629631.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PISD510_e79d1c7bd82319af660d56aaa941ecb4a888513dc223c3c4cf2f2324f95859c6.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PISD510_9e884f9a8f5e0661c5f65de74fed68d256b09b316b7f698545c6e978959d0af6.png"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Implacable",
+  "tier": 8,
+  "description": "The most advanced British aircraft carrier of World War II. She was inferior to her foreign counterparts of comparable dimensions in terms of the number of aircraft her air group comprised, but boasted a conceptual advantage that enhanced the ship's survivability—an armored flight deck.",
+  "profile": {
+    "health": 49300,
+    "artillery": null,
+    "torpedoes": null,
+    "concealment": 15,
+    "airConcealment": 11.5,
+    "speed": 32,
+    "rudderTime": 18.8,
+    "turnRadius": 950
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSA108_4a287b382934dace4eada22f78f2530be5403bf8e49ca245e1ff3d4e7fcfef2b.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PBSA108_6f492c29f4cf2498daf8925e47fb198fb32ab8b61e7a9435807c407e86468346.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PBSA108_20244e81c100aec79de3a4fa1b01caff4185650752de12abecf12880715e8047.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PBSA108_22a92aae7d6e880a53e6cd728870ab2cf57c6f392aa882421e44d02f8026a829.png"
+  }
+}

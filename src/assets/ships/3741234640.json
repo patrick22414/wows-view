@@ -1,0 +1,43 @@
+{
+  "name": "Ochakov",
+  "tier": 8,
+  "description": "One of the versions of a project of a small light cruiser (MLK-8-152). Her main battery artillery consisted of dual-purpose 152 mm mounts developed in the U.S.S.R. in the mid-1940s.",
+  "profile": {
+    "health": 30200,
+    "artillery": {
+      "reload": 6,
+      "range": 15.2,
+      "traverseTime": 13.85,
+      "shells": {
+        "he": {
+          "damage": 2200,
+          "velocity": 950,
+          "mass": 55,
+          "fireChance": 12
+        },
+        "sap": null,
+        "ap": {
+          "damage": 3300,
+          "velocity": 950,
+          "mass": 55
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 10,
+      "reload": 131,
+      "visibility": 1.1
+    },
+    "concealment": 11.5,
+    "airConcealment": 7.2,
+    "speed": 35,
+    "rudderTime": 8.2,
+    "turnRadius": 750
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC528_3af1645d2772ab315efe19affa1cf879685d8b470577a56d1f726fd233dd213f.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC528_820b73e24dfe7448f2266ffd9d2ac5b7ba3d520ba5471b99b0b4eae4957cd1ba.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC528_dde334da4fecb73bd08eb00895e0631ef6f671e81566187d524a78b362ca28b8.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC528_2e985207ed65b5cb644155b350adbf499b1f4eece708b2534c280f2292ed9457.png"
+  }
+}

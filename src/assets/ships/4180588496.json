@@ -1,0 +1,38 @@
+{
+  "name": "Neptune",
+  "tier": 9,
+  "description": "A light cruiser design created on the basis of experience obtained during World War II. In comparison to previous classes of Royal Navy ships, she had greater dimensions, dual-purpose main guns, and reinforced anti-aircraft and torpedo armament.",
+  "profile": {
+    "health": 39900,
+    "artillery": {
+      "reload": 4,
+      "range": 15,
+      "traverseTime": 18,
+      "shells": {
+        "he": null,
+        "sap": null,
+        "ap": {
+          "damage": 3200,
+          "velocity": 768,
+          "mass": 59
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 10,
+      "reload": 96,
+      "visibility": 1.3
+    },
+    "concealment": 13.1,
+    "airConcealment": 8.5,
+    "speed": 33.5,
+    "rudderTime": 15.1,
+    "turnRadius": 710
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSC109_68f4d8117a230d7e27ad8c6d5d8442fb225a426b3dc2d2883e1d6ca5522f2612.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PBSC109_29c0c2ca299646633eeaec41763f7098906f48e397067d2dd9991358a0fc89d6.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PBSC109_60c205d8a871235226ed986ef9c7a83a45c3bb7aa808d017fb2afcfb88179adc.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PBSC109_04fbac20bc964d84287bec9c51840ec629ae2855f46522f48277fa3cb1aba534.png"
+  }
+}

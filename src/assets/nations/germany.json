@@ -1,9 +1,9 @@
 {
   "status": "ok",
   "meta": {
-    "count": 43,
+    "count": 47,
     "page_total": 1,
-    "total": 43,
+    "total": 47,
     "limit": 100,
     "page": 1
   },
@@ -16,11 +16,11 @@
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC706_b3c99f5ac9380a04b653d4f05cdab282c0b6ef2679969e9509ff202e46f7a957.png"
     },
     {
-      "id": "3667867440",
-      "name": "Tirpitz B",
-      "type": "Battleship",
-      "tier": 8,
-      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB598_38cafa84763ff00a5ac34e17d885785f994e37deee48725316fc4a9c2bbdbdbb.png"
+      "id": "3750672176",
+      "name": "Ägir",
+      "type": "Cruiser",
+      "tier": 9,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC519_7e70a173146ffeea7e969f1987ca3decb88d42ee1e95f7516bd89633fceeb2ee.png"
     },
     {
       "id": "3751720752",
@@ -56,6 +56,13 @@
       "type": "Cruiser",
       "tier": 8,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC508_f1aeb94a477976b1dc3a487804f06ef16688b53c9c3b6a796007e2f439815193.png"
+    },
+    {
+      "id": "3762239280",
+      "name": "Odin",
+      "type": "Battleship",
+      "tier": 8,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB508_c7864bdffcf071f467929b4a96615c4eca8a232c7ef96cb15d4d28a597cf7b90.png"
     },
     {
       "id": "3763287856",

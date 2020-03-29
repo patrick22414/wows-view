@@ -1,0 +1,43 @@
+{
+  "name": "Benham",
+  "tier": 9,
+  "description": "The lead ship of a series of destroyers whose main armament comprised four quadruple torpedo tubes placed along the both sides of the ship, in addition to dual-purpose 127 mm guns.",
+  "profile": {
+    "health": 14500,
+    "artillery": {
+      "reload": 3,
+      "range": 12.6,
+      "traverseTime": 6,
+      "shells": {
+        "he": {
+          "damage": 1800,
+          "velocity": 792,
+          "mass": 25,
+          "fireChance": 5
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2100,
+          "velocity": 792,
+          "mass": 25
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 10.5,
+      "reload": 85,
+      "visibility": 1.4
+    },
+    "concealment": 7.6,
+    "airConcealment": 2.9,
+    "speed": 36.5,
+    "rudderTime": 3.4,
+    "turnRadius": 560
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASD509_59560092e7d0faedac105e858a15f778f753bc66afe428ea6f391f3ceb456c6d.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PASD509_0c6e04e9c3ec32cd902703db73280416926982b0946b584ae978746d770a04d7.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PASD509_d6789d546fc642b074e3383010089926194fc14682822227e64ef029c6e4402d.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PASD509_7aea54ce11f6fb79e67a269a10ef1ac00dd3bdcbb844274dd98769a4cb1c390a.png"
+  }
+}

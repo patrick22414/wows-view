@@ -1,0 +1,39 @@
+{
+  "name": "Lenin",
+  "tier": 8,
+  "description": "One of the variants of a high-speed battleship with a 406 mm battery (Project 21), developed under the \"Big Fleet\" program. A distinctive feature of the Project was the concentration of the main battery turrets in the ship's bow.",
+  "profile": {
+    "health": 63200,
+    "artillery": {
+      "reload": 33,
+      "range": 18.4,
+      "traverseTime": 30,
+      "shells": {
+        "he": {
+          "damage": 5850,
+          "velocity": 793,
+          "mass": 1116,
+          "fireChance": 41
+        },
+        "sap": null,
+        "ap": {
+          "damage": 13100,
+          "velocity": 793,
+          "mass": 1116
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 16.6,
+    "airConcealment": 11,
+    "speed": 28.5,
+    "rudderTime": 13.5,
+    "turnRadius": 840
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSB518_03952270b37c005edd521e04e59bfd489c052a9ee68824716d01f158c71f72a9.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSB518_9d611dffa2c2776932b1f2b7114d6826d394400e8f04963609f4a0228450767f.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSB518_ffa140fee15ea5467f4bacc8e2f8bd0bfef31b2ee7ac0637cb416d59a812bdf6.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSB518_b58997ff310c6ac0d7b20a499510962ee27db5aa2984c0f7b89b844cb665387d.png"
+  }
+}

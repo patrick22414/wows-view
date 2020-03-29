@@ -1,0 +1,43 @@
+{
+  "name": "Mogami",
+  "tier": 8,
+  "description": "Mogami was built as a light cruiser whose characteristics would largely exceed those of her contemporary counterparts. She had good armor along with a powerful artillery and torpedo armament. During the course of her service she was transformed into a heavy cruiser, as intended by the original design.",
+  "profile": {
+    "health": 35500,
+    "artillery": {
+      "reload": 10,
+      "range": 14.2,
+      "traverseTime": 36,
+      "shells": {
+        "he": {
+          "damage": 2600,
+          "velocity": 925,
+          "mass": 56,
+          "fireChance": 10
+        },
+        "sap": null,
+        "ap": {
+          "damage": 3300,
+          "velocity": 925,
+          "mass": 56
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 10,
+      "reload": 101,
+      "visibility": 1.6
+    },
+    "concealment": 12.1,
+    "airConcealment": 7.2,
+    "speed": 34.5,
+    "rudderTime": 9.3,
+    "turnRadius": 750
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSC009_33e71e78734f0619b10f8c02cbcf7028c774fcf2fda26a6a1a5be811ad036a9a.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSC009_82d00c62550e2bc3543d89718cb96a66340162aedd1f062b28070e7b6f2835bf.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSC009_d9b40e178766b0d6735de7e56f843746f4eba44d47e5310d4549364e8859771a.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSC009_ffebda402eb6517b771dc7384f33bd913d1adb4b2c271d4edca8f1c01e91902b.png"
+  }
+}

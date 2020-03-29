@@ -1,0 +1,38 @@
+{
+  "name": "Trento",
+  "tier": 6,
+  "description": "Trento belonged to the first series of Italian cruisers that were built under the restrictions of the Washington Naval Treaty. The ship carried 203 mm main battery guns. She was faster than her foreign counterparts and outmatched them in armor protection, though to a smaller extent.",
+  "profile": {
+    "health": 29700,
+    "artillery": {
+      "reload": 15,
+      "range": 14.7,
+      "traverseTime": 25.71,
+      "shells": {
+        "he": null,
+        "sap": null,
+        "ap": {
+          "damage": 4700,
+          "velocity": 840,
+          "mass": 125
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 12,
+      "reload": 47,
+      "visibility": 1
+    },
+    "concealment": 14.5,
+    "airConcealment": 7.3,
+    "speed": 35,
+    "rudderTime": 13.3,
+    "turnRadius": 630
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC106_b6f07d7928c76bbfa5c8b86bb0c884cff63528362b81eb2409f4c27115c910b5.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PISC106_b541b005840ef319ed0218cac758340b8eb925f4ccee107b414562682963ed64.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PISC106_0bf3c6f8673992ba90f5fd0fdef4037bca1e6e56973467b975ac74397197c181.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PISC106_f4f3e47bf8cabe0c0c73544be075827ccf6e3b497353741120a7ae432d2c5d72.png"
+  }
+}

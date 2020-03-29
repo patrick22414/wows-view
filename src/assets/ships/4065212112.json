@@ -1,0 +1,43 @@
+{
+  "name": "Kitakaze",
+  "tier": 9,
+  "description": "A V7 project destroyer. This ship was a further development of the Akizuki-class destroyers. Compared to her prototype, she had a higher speed and carried more powerful torpedo armament.",
+  "profile": {
+    "health": 16200,
+    "artillery": {
+      "reload": 3,
+      "range": 11.3,
+      "traverseTime": 11.25,
+      "shells": {
+        "he": {
+          "damage": 1200,
+          "velocity": 1000,
+          "mass": 13,
+          "fireChance": 5
+        },
+        "sap": null,
+        "ap": {
+          "damage": 1700,
+          "velocity": 1000,
+          "mass": 13
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 10,
+      "reload": 167,
+      "visibility": 1.7
+    },
+    "concealment": 7.6,
+    "airConcealment": 3.5,
+    "speed": 36,
+    "rudderTime": 6.5,
+    "turnRadius": 730
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD219_ec616c3e3fb1a52df1ce2fceb69b42b319b21348217973e52fb703914ade1e99.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSD219_04002464afe9a322484c273ceeb4666110c60fca19284351e04e30165fcedfa6.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSD219_29014cf9b5be802edb3ec77dff48b74676da388ded47e2f571e4b7331c20a120.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSD219_28db64bc5ce3efaba6ad0d37328faab85f2d62207a752f2e3ee0f68f71b025aa.png"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Amalfi",
+  "tier": 8,
+  "description": "The project of a fast and well-protected heavy cruiser with nine 203 mm guns, designed by the Ansaldo company shortly before Italy entered World War II.",
+  "profile": {
+    "health": 38500,
+    "artillery": {
+      "reload": 16,
+      "range": 14.7,
+      "traverseTime": 25.71,
+      "shells": {
+        "he": null,
+        "sap": null,
+        "ap": {
+          "damage": 4800,
+          "velocity": 910,
+          "mass": 125
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 12,
+      "reload": 95,
+      "visibility": 1
+    },
+    "concealment": 14.4,
+    "airConcealment": 8.7,
+    "speed": 37,
+    "rudderTime": 15.3,
+    "turnRadius": 680
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC108_cfbcefc56001806febabf1fd507fb6ba7af4d2e335534ee14278a288aad642de.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PISC108_a79d05f1a25123e3d372e917c9269b406ab8cfc9c2c4f26d666d163ec6050ac2.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PISC108_0e0705bd0b83989627be282df48820a1477e29e064fa00aedef3f19045c7e953.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PISC108_316188919ab48ed227e80698eafb41aab3e5cb66d91097504a49d26215d1293a.png"
+  }
+}

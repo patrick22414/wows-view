@@ -1,0 +1,34 @@
+{
+  "name": "Weymouth",
+  "tier": 2,
+  "description": "This medium-size cruiser had weak armor protection, but boasted powerful artillery and quite a high speed. She was conceived as a \"trade protection\" cruiser and was designated for countering lightly armed enemy ships of the same type.",
+  "profile": {
+    "health": 19100,
+    "artillery": {
+      "reload": 8,
+      "range": 10.6,
+      "traverseTime": 25.71,
+      "shells": {
+        "he": null,
+        "sap": null,
+        "ap": {
+          "damage": 2800,
+          "velocity": 773,
+          "mass": 45
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 10.3,
+    "airConcealment": 4.3,
+    "speed": 26,
+    "rudderTime": 8.2,
+    "turnRadius": 500
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PBSC102_ccfe569721fe8d8b6486183341847271a152378c2ba29b9ee86acdc9a03df6d0.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PBSC102_73aede58056a759aefd576e737660c97686ca8c299aba735d200524ad0d33808.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PBSC102_374424441846ea5eca59e374f62907b7fdc4224bd9f36e99fba3bbb06e1e3a56.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PBSC102_c06ea204a4a5ea5830ec2e878da488b2d6c1102183f7536745acbcf17e3343ed.png"
+  }
+}

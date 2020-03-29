@@ -1,9 +1,9 @@
 {
   "status": "ok",
   "meta": {
-    "count": 73,
+    "count": 75,
     "page_total": 1,
-    "total": 73,
+    "total": 75,
     "limit": 100,
     "page": 1
   },
@@ -63,13 +63,6 @@
       "type": "Cruiser",
       "tier": 10,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC610_7b1e57f36e152fffef30f09831850ee95a27bc2d28047027708d5ad7f23589f7.png"
-    },
-    {
-      "id": "3667867632",
-      "name": "Massachusetts B",
-      "type": "Battleship",
-      "tier": 8,
-      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB598_6cb6911be640259ad4e0f8685a59a523200fc08831b2aa17ccc307b4cec6cee9.png"
     },
     {
       "id": "3668883440",

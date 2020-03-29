@@ -1,0 +1,43 @@
+{
+  "name": "Kagerō",
+  "tier": 8,
+  "description": "Due to a good balance of her main characteristics, Kagerō was the most successful destroyer design in the Imperial Japanese Navy. She had extremely long-range, high-speed, oxygen-fueled torpedoes that made her considerably superior to all ships of her type in terms of torpedo armament power.",
+  "profile": {
+    "health": 13300,
+    "artillery": {
+      "reload": 7,
+      "range": 8.6,
+      "traverseTime": 26.09,
+      "shells": {
+        "he": {
+          "damage": 2150,
+          "velocity": 915,
+          "mass": 23,
+          "fireChance": 9
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2200,
+          "velocity": 915,
+          "mass": 23
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 10,
+      "reload": 101,
+      "visibility": 1.6
+    },
+    "concealment": 6.8,
+    "airConcealment": 3.1,
+    "speed": 35,
+    "rudderTime": 4,
+    "turnRadius": 640
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD208_878edebc5f022d83d994a8d75ef49b6de18814267ccc0c4a13d4cbcca9143c1e.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSD208_1b89cceda1975af8e2e4a9120b148d90146227da112ba24bfbe65c34a19d2e5c.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSD208_937db63dc8ade74da01728e1eb11b9be3c0155e755892b9c13a97856134815c6.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSD208_15219abe894c797d8312ef178d4b5d65840c29b9ea884e8390aa87db2f056210.png"
+  }
+}

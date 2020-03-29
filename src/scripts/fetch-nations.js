@@ -51,6 +51,8 @@ SHIP_NATIONS.forEach(nation => {
             console.log(`${nation}:`);
             console.error(err.errno);
         });
+
+    new Promise(r => setTimeout(r, 100)).then();
 });
 
 function transformShipData(data) {
@@ -65,15 +67,17 @@ function transformShipData(data) {
 
     for (const id in data) {
         const ship = data[id];
-        if (!(ship.name.startsWith("[") || excludedShips.some(name => ship.name === name))) {
-            newData.push({
-                id: id,
-                name: ship.name,
-                type: ship.type,
-                tier: ship.tier,
-                image: ship.images.small,
-            });
+        if (ship.name.startsWith("[") || ship.name.endsWith(" B") || excludedShips.some(name => ship.name === name)) {
+            continue
         }
+
+        newData.push({
+            id: id,
+            name: ship.name,
+            type: ship.type,
+            tier: ship.tier,
+            image: ship.images.small,
+        });
     }
 
     return newData;

@@ -1,0 +1,39 @@
+{
+  "name": "Diana",
+  "tier": 2,
+  "description": "Being a protected cruiser, whose design was typical between the end of the 19th and the beginning of the 20th century, she had a reasonably good main battery for her time. The ship was also armed with numerous secondary battery guns. Her vital parts were protected by the inclined deck armor.",
+  "profile": {
+    "health": 22100,
+    "artillery": {
+      "reload": 8,
+      "range": 11.8,
+      "traverseTime": 36,
+      "shells": {
+        "he": {
+          "damage": 2100,
+          "velocity": 753,
+          "mass": 50,
+          "fireChance": 8
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2700,
+          "velocity": 793,
+          "mass": 41
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 10.8,
+    "airConcealment": 4.4,
+    "speed": 19,
+    "rudderTime": 6.4,
+    "turnRadius": 430
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC002_dd0b07a17617dbed3939446044392489849812497f829017158886130206bb1d.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC002_03d5d31394805097be40af85c1fb030c2f3511e19376ba5c02db2bec73e608fc.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC002_6cfe378ecbe9f321f6994b458225cfd33e857826aed194e13ff6f663b8b3faab.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC002_ad68623ac18ea0b50b2a0b49b41558a04533725090b46c43e082826c75ff7306.png"
+  }
+}

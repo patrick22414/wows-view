@@ -1,0 +1,43 @@
+{
+  "name": "Hayate",
+  "tier": 10,
+  "description": "A destroyer design that was equipped with perfectly dual-purpose 127 mm Type 1/5 guns designed for the needs of the Japanese Navy during World War II.",
+  "profile": {
+    "health": 20800,
+    "artillery": {
+      "reload": 4,
+      "range": 11.6,
+      "traverseTime": 10,
+      "shells": {
+        "he": {
+          "damage": 2150,
+          "velocity": 915,
+          "mass": 23,
+          "fireChance": 9
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2200,
+          "velocity": 915,
+          "mass": 23
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 12,
+      "reload": 153,
+      "visibility": 1.7
+    },
+    "concealment": 7.7,
+    "airConcealment": 3.8,
+    "speed": 37,
+    "rudderTime": 4.6,
+    "turnRadius": 750
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD510_930c7a46da5b3a621ef97b583cbf5b3eecdc7f064f622ca5882b8859228c26da.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSD510_661ed15f9226c9eaf0f2555755752233e8e22a840da4eec03c1877d0431ca132.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSD510_113f11eaed3fca394f05b3d00d0b43af1c7992558788e8acc59acb4de6c7985a.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSD510_83979ea303582e4a23b9610d3ae2ec365e5d38e369d1532199f9ef988de8be02.png"
+  }
+}

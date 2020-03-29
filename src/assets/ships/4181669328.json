@@ -1,0 +1,39 @@
+{
+  "name": "Vladivostok",
+  "tier": 8,
+  "description": "One of the variants of the \"battleship A\" project intended for construction in accordance with the Great Ocean Fleet concept creation. She had heavy armor, high speed, and aviation equipment.",
+  "profile": {
+    "health": 67500,
+    "artillery": {
+      "reload": 33,
+      "range": 16.3,
+      "traverseTime": 45,
+      "shells": {
+        "he": {
+          "damage": 5850,
+          "velocity": 793,
+          "mass": 1116,
+          "fireChance": 41
+        },
+        "sap": null,
+        "ap": {
+          "damage": 13100,
+          "velocity": 793,
+          "mass": 1116
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 15.5,
+    "airConcealment": 11.1,
+    "speed": 29,
+    "rudderTime": 19.2,
+    "turnRadius": 950
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSB108_1cbde9121cc80de369459bef0bd5e1b4c8670633c83557b90b8df5e19b582d1e.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSB108_80880fb1062086f5697fd8e65c96e89d78d7be6d5baa91dca9d15d5fb4a5764b.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSB108_83c5c8dacfcb377f2e810ba332c3bdd29b10998a46182a532862e9392b51185f.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSB108_5628b057a62b74c115f340816177765a5967a4f5c52df7d0eed26ac0f1b32acb.png"
+  }
+}

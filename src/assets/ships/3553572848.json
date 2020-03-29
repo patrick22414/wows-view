@@ -1,0 +1,39 @@
+{
+  "name": "California",
+  "tier": 7,
+  "description": "A Tennessee-class battleship armed with twelve 356 mm guns and possessing quite modest speed characteristics. After Pearl Harbor, she underwent thorough refurbishment, which significantly changed the ship's design and greatly enhanced her AA defenses.",
+  "profile": {
+    "health": 58300,
+    "artillery": {
+      "reload": 30,
+      "range": 19.1,
+      "traverseTime": 60,
+      "shells": {
+        "he": {
+          "damage": 5000,
+          "velocity": 861,
+          "mass": 578,
+          "fireChance": 30
+        },
+        "sap": null,
+        "ap": {
+          "damage": 10500,
+          "velocity": 823,
+          "mass": 680
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 13.5,
+    "airConcealment": 9.7,
+    "speed": 20.5,
+    "rudderTime": 14.7,
+    "turnRadius": 640
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASB707_5adb831f57bb58011aec94abb7e54ede1cd75c46df3cd092550c165981c6a797.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PASB707_5d904e15710a21435baabc408792d7ac1e62b6eab2529d9f7902102bb8a7b133.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PASB707_5bc1fc222f0c6545ee1d5e31a3a870614b3193d692ab48b7e8bd8227e3e78413.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PASB707_5a40cba61005cb1279375ed976fd1321061e8835bb4599276545af01ff20ace1.png"
+  }
+}

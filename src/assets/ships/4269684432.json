@@ -1,0 +1,43 @@
+{
+  "name": "Wakatake",
+  "tier": 3,
+  "description": "A small yet well-armed and very fast destroyer. She carried 533 mm torpedoes with better range than similar munitions used by potential rivals. An unconventional placement of torpedo launchers allowed her to fire from the bow sectors.",
+  "profile": {
+    "health": 7300,
+    "artillery": {
+      "reload": 12,
+      "range": 9.4,
+      "traverseTime": 30,
+      "shells": {
+        "he": {
+          "damage": 1700,
+          "velocity": 825,
+          "mass": 20,
+          "fireChance": 7
+        },
+        "sap": null,
+        "ap": {
+          "damage": 2000,
+          "velocity": 825,
+          "mass": 20
+        }
+      }
+    },
+    "torpedoes": {
+      "range": 7,
+      "reload": 39,
+      "visibility": 1.2
+    },
+    "concealment": 6.1,
+    "airConcealment": 2,
+    "speed": 35.5,
+    "rudderTime": 4,
+    "turnRadius": 470
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSD024_419ac86e38917bb8f20e13308e989197d5d4605bd33d51a4e7bfe3dfe91a58a8.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSD024_9368a4ca7767d87cf7534dd9383a9512a16d8c24dff091c2480429a8aadeede4.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSD024_481cb21dcca693dd4bd197f622951d0a2f52f1263bb77779ec0167deee17e7f2.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSD024_8e545126eb01a0938194a3a73b537b5b0ca2246bf280aaaffb0d804436c677f9.png"
+  }
+}

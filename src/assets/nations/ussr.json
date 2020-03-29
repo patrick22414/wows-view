@@ -1,9 +1,9 @@
 {
   "status": "ok",
   "meta": {
-    "count": 56,
+    "count": 64,
     "page_total": 1,
-    "total": 56,
+    "total": 64,
     "limit": 100,
     "page": 1
   },
@@ -28,6 +28,34 @@
       "type": "Cruiser",
       "tier": 6,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC606_acaf2bf7566c6fefc4a83e85b1f9b67163e42a5fc14dc34da4449f7505de5eee.png"
+    },
+    {
+      "id": "3730748880",
+      "name": "Pyotr Bagration",
+      "type": "Cruiser",
+      "tier": 8,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC538_93703bb59bc5530910da4b75f50186230cb51ed469a5d1f4fe8015404573c054.png"
+    },
+    {
+      "id": "3741234640",
+      "name": "Ochakov",
+      "type": "Cruiser",
+      "tier": 8,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC528_3af1645d2772ab315efe19affa1cf879685d8b470577a56d1f726fd233dd213f.png"
+    },
+    {
+      "id": "3741267408",
+      "name": "Borodino",
+      "type": "Battleship",
+      "tier": 8,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSB528_13dcb026b088630e1170a114c49cab705a2d0b282edc477e957e2b9c0ba7df44.png"
+    },
+    {
+      "id": "3744380368",
+      "name": "Voroshilov",
+      "type": "Cruiser",
+      "tier": 5,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC525_f00aa6745c46192ac362918178a8feb685d76863f284255c0148911d741112a0.png"
     },
     {
       "id": "3751720400",
@@ -135,6 +163,13 @@
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSD409_43fe2b0655c4eb04a9f25f0f8084053d7a6d589f3cdf0f995b30ddc8861b5a3d.png"
     },
     {
+      "id": "3969824208",
+      "name": "Petropavlovsk",
+      "type": "Cruiser",
+      "tier": 10,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC310_7bc76fe61713b0d3c69a4ecce93af3da4aa63b7536f64a6a24210ecea25642b9.png"
+    },
+    {
       "id": "3971888592",
       "name": "Kiev",
       "type": "Destroyer",
@@ -149,11 +184,32 @@
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSD210_feb6e779076ba64a93a2f295111228b4689bbc47d48c11eac2b31ef13e86b775.png"
     },
     {
+      "id": "4074681808",
+      "name": "Alexander Nevsky",
+      "type": "Cruiser",
+      "tier": 10,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC210_017c41dcdd60a1daaf377c213fb32ff1a3d2c237200fed1e6e38af02edf45ced.png"
+    },
+    {
+      "id": "4075730384",
+      "name": "Riga",
+      "type": "Cruiser",
+      "tier": 9,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC209_77fbc44f6e1ed93c7ead5e8baa27603a241caa7d03b60775bac188420567496b.png"
+    },
+    {
       "id": "4076746192",
       "name": "Ognevoi",
       "type": "Destroyer",
       "tier": 8,
       "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSD208_41357039a466e92f7cda55a6d53866c3913d9575733573df2c0dc603d5e90873.png"
+    },
+    {
+      "id": "4076778960",
+      "name": "Tallinn",
+      "type": "Cruiser",
+      "tier": 8,
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC208_cee67f48dbc758e481d2b33e3dff20a1c9cbeb7987bb5b30d39fcac402674ff6.png"
     },
     {
       "id": "4077794768",
@@ -202,7 +258,7 @@
       "name": "Dmitri Donskoi",
       "type": "Cruiser",
       "tier": 9,
-      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC109_c30e9c72516f0c432abcfea8b17cf89ba2475ec644c3c003411d5b71d4e0ea96.png"
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC109_08f7a8bc0b651e4a75048fa9bffb4487759438bb26244759ea08d8966d6febcc.png"
     },
     {
       "id": "4180620752",
@@ -237,7 +293,7 @@
       "name": "Shchors",
       "type": "Cruiser",
       "tier": 7,
-      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC107_f702ceeae56c5dacb2af64ed644decb484cfa487ea2f6e7bb34099bfc2225f78.png"
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC107_a42181e939d1415cc88c3f3f75270339b79c7310b70feec7d22b62340599d8cc.png"
     },
     {
       "id": "4182717904",
@@ -251,7 +307,7 @@
       "name": "Budyonny",
       "type": "Cruiser",
       "tier": 6,
-      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC106_5bafdd024b254aeb4f17084478978a79312f4c689e149f5e2b05a77690e595bc.png"
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC106_0cbe8a2209234e31c34d28827b0be14465da45600cd78a5b00997ba0e5e17136.png"
     },
     {
       "id": "4183766480",
@@ -265,7 +321,7 @@
       "name": "Kirov",
       "type": "Cruiser",
       "tier": 5,
-      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC105_c8bf50d70c19f066260dd2be305662dcab1fcb7b7138039fa9980412f2f294d7.png"
+      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC105_f00aa6745c46192ac362918178a8feb685d76863f284255c0148911d741112a0.png"
     },
     {
       "id": "4184815056",

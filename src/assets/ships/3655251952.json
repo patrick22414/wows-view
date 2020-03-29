@@ -1,0 +1,39 @@
+{
+  "name": "Puerto Rico",
+  "tier": 10,
+  "description": "The project that preceded the creation of the \"large Alaska-class cruisers\". The CA2-D variant was designed with twelve 305 mm main battery guns.",
+  "profile": {
+    "health": 71650,
+    "artillery": {
+      "reload": 22,
+      "range": 18.8,
+      "traverseTime": 30,
+      "shells": {
+        "he": {
+          "damage": 4300,
+          "velocity": 808,
+          "mass": 462,
+          "fireChance": 27
+        },
+        "sap": null,
+        "ap": {
+          "damage": 8900,
+          "velocity": 762,
+          "mass": 517
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 16.6,
+    "airConcealment": 11.2,
+    "speed": 33.5,
+    "rudderTime": 15.9,
+    "turnRadius": 910
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PASC610_7b1e57f36e152fffef30f09831850ee95a27bc2d28047027708d5ad7f23589f7.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PASC610_cff997335f6e0b36513e38e939162aaf7f3b476a18d553d5739dd5c8b20db95a.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PASC610_8aae7554eea6319c2fd33e43fe3935b0e44793b89db0fcc554ce7c3fc9991e97.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PASC610_6241009aac0f30adc9aa847c10e8bd531eea2f4a0f522ca449cbd99e2d656d3c.png"
+  }
+}

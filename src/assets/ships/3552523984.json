@@ -1,0 +1,39 @@
+{
+  "name": "ARP Hiei",
+  "tier": 5,
+  "description": "A Battleship of the \"Fleet of Fog\". Modelled after the Imperial Japanese Navy's 2nd Kongō-class battleship, Hiei. Equipped with the \"Mirroring System\" bestowed by Musashi, she acts as the new flagship of the \"First Oriental Fleet\" after Kongō's departure. Repurposing the Fleet as the \"Student Council of the Fog\", she maintains strict order within the Fleet of Fog as the \"Student Council President\".\nThis warship has been specially designed for World of Warships, and is modelled after Hiei as she appears in \"ARPEGGIO OF BLUE STEEL -ARS NOVA- DC\".",
+  "profile": {
+    "health": 54100,
+    "artillery": {
+      "reload": 30,
+      "range": 21.2,
+      "traverseTime": 54.55,
+      "shells": {
+        "he": {
+          "damage": 5700,
+          "velocity": 805,
+          "mass": 625,
+          "fireChance": 25
+        },
+        "sap": null,
+        "ap": {
+          "damage": 10200,
+          "velocity": 775,
+          "mass": 674
+        }
+      }
+    },
+    "torpedoes": null,
+    "concealment": 16.2,
+    "airConcealment": 9.4,
+    "speed": 30,
+    "rudderTime": 14.9,
+    "turnRadius": 770
+  },
+  "images": {
+    "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PJSB708_570188fd8cd03c7a4a8a56d66a22b1968112039e7b474bff33a79570c38522a8.png",
+    "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PJSB708_ffc7d1269ce920d7b2550ed833698a5f8aeef78eb5f98f8fc23f863e138879e6.png",
+    "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PJSB708_f0ba31b92d0dda17865f52c103c655f03c79bdeaaa7e9790cf061adbddd60a3b.png",
+    "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PJSB708_a3a93a430bd15d1c213b3dee00380b36bf190b4d53fda8ddcc6ec77067f04004.png"
+  }
+}
