@@ -28,23 +28,23 @@ export default {
 
   .illuminant {
     grid-row: 1 / span 2;
-    grid-column: 1 / span 1;
+    grid-column: 1;
 
-    background: linear-gradient(skyblue, white);
+    background: linear-gradient(grey, white);
     opacity: 0;
     transition: all 0.4s ease;
   }
 
   img {
     grid-row: 1 / span 2;
-    grid-column: 1 / span 1;
+    grid-column: 1;
 
     z-index: 98;
   }
 
   figcaption {
-    grid-row: 1 / span 1;
-    grid-column: 1 / span 1;
+    grid-row: 1;
+    grid-column: 1;
 
     z-index: 99;
 
@@ -75,7 +75,7 @@ export default {
 
 .ship-tag-special {
   .illuminant {
-    background: linear-gradient(peachpuff, white);
+    background: linear-gradient(pink, white);
   }
 }
 

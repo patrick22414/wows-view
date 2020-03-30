@@ -9,16 +9,6 @@
   },
   "data": [
     {
-      "id": "3340645680",
-      "id_str": "PWSD910",
-      "name": "Lappland",
-      "type": "Destroyer",
-      "tier": 10,
-      "is_premium": false,
-      "is_special": true,
-      "image": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PWSD910_7308033011232024e532502422297e9d469c73017a88307e53e64c13bfe4e97e.png"
-    },
-    {
       "id": "3655218480",
       "id_str": "PWSD610",
       "name": "Småland",

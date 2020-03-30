@@ -50,7 +50,7 @@ NATIONS.forEach((nation) => {
 });
 
 function transformNationData(data) {
-  const excluded_ships = ["STALINGRAD #2", "Brennus", "L'Effronté", "Alabama ST", "Giunio Bruto"];
+  const excluded_ships = ["STALINGRAD #2", "Brennus", "L'Effronté", "Alabama ST", "Giunio Bruto", "Lappland"];
 
   var new_data = [];
 

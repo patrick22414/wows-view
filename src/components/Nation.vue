@@ -24,26 +24,35 @@ export default {
   background: rgba(255, 255, 255, 0.3);
 
   display: grid;
-  grid-template-areas: "a";
+  grid-template-rows: auto;
+  grid-template-columns: auto;
   justify-items: center;
   align-items: center;
 
   &.router-link-exact-active {
+    font-weight: bold;
     color: whitesmoke;
   }
 
   .nation-title {
-    grid-area: a;
+    grid-row: 1;
+    grid-column: 1;
     font-size: 16pt;
-    text-shadow: 0 0 12px rgba(0, 0, 0, 0.8);
+    text-shadow: 0 0 12px rgba(0, 0, 0, 1);
+    z-index: 99;
+
+    transition: all 0.4s ease;
   }
 
   .illuminant {
-    grid-area: a;
+    grid-row: 1;
+    grid-column: 1;
     width: 100%;
     height: 100%;
 
-    background: rgba(255, 255, 255, 0.3);
+    z-index: 98;
+
+    background: rgba(255, 255, 255, 0.4);
 
     filter: blur(4px);
     opacity: 0;

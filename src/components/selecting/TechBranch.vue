@@ -63,8 +63,9 @@ export default {
 
   h2 {
     height: 2em;
-    margin: 30px 40px;
+    margin: 30px;
     background: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(10px);
 
     font-size: 20pt;
     font-weight: 400;
@@ -94,6 +95,7 @@ export default {
 
     &:hover {
       background: rgba(0, 0, 0, 0.6);
+      backdrop-filter: blur(10px);
 
       h3 {
         text-shadow: white 0 0 12px;
