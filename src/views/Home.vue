@@ -7,9 +7,9 @@
 <script>
 export default {
   name: "Home",
-  beforeCreate: function() {
+  beforeCreate: function () {
     this.$store.dispatch("changeSiteTitle", "WoWs View");
-  }
+  },
 };
 </script>
 

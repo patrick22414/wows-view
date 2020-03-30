@@ -1,12 +1,9 @@
 <template>
   <router-link :to="`/building/${ship.name}`">
-    <figure
-      class="ship-tag"
-      :class="{'ship-tag-premium': ship.is_premium, 'ship-tag-special': ship.is_special}"
-    >
+    <figure class="ship-tag" :class="{ 'ship-tag-premium': ship.is_premium, 'ship-tag-special': ship.is_special }">
       <div class="illuminant"></div>
       <img :src="ship.image" width="120" height="72" />
-      <figcaption>{{ship.name}}</figcaption>
+      <figcaption>{{ ship.name }}</figcaption>
     </figure>
   </router-link>
 </template>
@@ -14,7 +11,7 @@
 <script>
 export default {
   name: "ShipTag",
-  props: ["ship"]
+  props: ["ship"],
 };
 </script>
 

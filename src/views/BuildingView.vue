@@ -16,11 +16,11 @@ export default {
   components: {
     Sidebar,
     Profile,
-    Config
+    Config,
   },
-  beforeCreate: function() {
+  beforeCreate: function () {
     this.$store.dispatch("selectShip", this.$route.params.name);
-  }
+  },
 };
 </script>
 

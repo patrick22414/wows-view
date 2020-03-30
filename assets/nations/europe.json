@@ -10,6 +10,7 @@
   "data": [
     {
       "id": "3340645680",
+      "id_str": "PWSD910",
       "name": "Lappland",
       "type": "Destroyer",
       "tier": 10,
@@ -19,6 +20,7 @@
     },
     {
       "id": "3655218480",
+      "id_str": "PWSD610",
       "name": "Småland",
       "type": "Destroyer",
       "tier": 10,
@@ -28,6 +30,7 @@
     },
     {
       "id": "3760076080",
+      "id_str": "PWSD510",
       "name": "Friesland",
       "type": "Destroyer",
       "tier": 9,
@@ -37,6 +40,7 @@
     },
     {
       "id": "3762173232",
+      "id_str": "PWSD508",
       "name": "Orkan",
       "type": "Destroyer",
       "tier": 8,
@@ -46,6 +50,7 @@
     },
     {
       "id": "3766433072",
+      "id_str": "PWSB504",
       "name": "Viribus Unitis",
       "type": "Battleship",
       "tier": 5,
@@ -55,6 +60,7 @@
     },
     {
       "id": "3769513264",
+      "id_str": "PWSD501",
       "name": "Błyskawica",
       "type": "Destroyer",
       "tier": 7,
@@ -64,6 +70,7 @@
     },
     {
       "id": "4179506480",
+      "id_str": "PWSD110",
       "name": "Halland",
       "type": "Destroyer",
       "tier": 10,
@@ -73,6 +80,7 @@
     },
     {
       "id": "4180555056",
+      "id_str": "PWSD109",
       "name": "Östergötland",
       "type": "Destroyer",
       "tier": 9,
@@ -82,6 +90,7 @@
     },
     {
       "id": "4181603632",
+      "id_str": "PWSD108",
       "name": "Öland",
       "type": "Destroyer",
       "tier": 8,
@@ -91,6 +100,7 @@
     },
     {
       "id": "4182652208",
+      "id_str": "PWSD107",
       "name": "Skåne",
       "type": "Destroyer",
       "tier": 7,
@@ -100,6 +110,7 @@
     },
     {
       "id": "4183700784",
+      "id_str": "PWSD106",
       "name": "Västerås",
       "type": "Destroyer",
       "tier": 6,
@@ -109,6 +120,7 @@
     },
     {
       "id": "4184749360",
+      "id_str": "PWSD105",
       "name": "Visby",
       "type": "Destroyer",
       "tier": 5,
@@ -118,6 +130,7 @@
     },
     {
       "id": "4185797936",
+      "id_str": "PWSD104",
       "name": "Klas Horn",
       "type": "Destroyer",
       "tier": 4,
@@ -127,6 +140,7 @@
     },
     {
       "id": "4186846512",
+      "id_str": "PWSD103",
       "name": "Romulus",
       "type": "Destroyer",
       "tier": 3,
@@ -136,6 +150,7 @@
     },
     {
       "id": "4187895088",
+      "id_str": "PWSD102",
       "name": "Tátra",
       "type": "Destroyer",
       "tier": 2,
@@ -145,6 +160,7 @@
     },
     {
       "id": "4188976432",
+      "id_str": "PWSC101",
       "name": "Gryf",
       "type": "Cruiser",
       "tier": 1,

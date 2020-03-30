@@ -10,15 +10,15 @@ import Sidebar from "../components/Sidebar";
 export default {
   name: "SelectingView",
   components: {
-    Sidebar
+    Sidebar,
   },
-  beforeCreate: function() {
+  beforeCreate: function () {
     this.$store.dispatch("changeSiteTitle", "WoWs View - Selecting");
   },
-  beforeRouteLeave: function(to, from, next) {
+  beforeRouteLeave: function (to, from, next) {
     this.$store.dispatch("resetSelecting");
     next();
-  }
+  },
 };
 </script>
 

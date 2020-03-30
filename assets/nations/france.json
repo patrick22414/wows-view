@@ -10,6 +10,7 @@
   "data": [
     {
       "id": "3751753552",
+      "id_str": "PFSB518",
       "name": "Jean Bart",
       "type": "Battleship",
       "tier": 9,
@@ -19,6 +20,7 @@
     },
     {
       "id": "3760109392",
+      "id_str": "PFSC510",
       "name": "Colbert",
       "type": "Cruiser",
       "tier": 10,
@@ -28,6 +30,7 @@
     },
     {
       "id": "3760142160",
+      "id_str": "PFSB510",
       "name": "Bourgogne",
       "type": "Battleship",
       "tier": 10,
@@ -37,6 +40,7 @@
     },
     {
       "id": "3762173776",
+      "id_str": "PFSD508",
       "name": "Le Terrible",
       "type": "Destroyer",
       "tier": 8,
@@ -46,6 +50,7 @@
     },
     {
       "id": "3762206544",
+      "id_str": "PFSC508",
       "name": "Bayard",
       "type": "Cruiser",
       "tier": 8,
@@ -55,6 +60,7 @@
     },
     {
       "id": "3762239312",
+      "id_str": "PFSB508",
       "name": "Gascogne",
       "type": "Battleship",
       "tier": 8,
@@ -64,6 +70,7 @@
     },
     {
       "id": "3764270928",
+      "id_str": "PFSD506",
       "name": "Aigle",
       "type": "Destroyer",
       "tier": 6,
@@ -73,6 +80,7 @@
     },
     {
       "id": "3764303696",
+      "id_str": "PFSC506",
       "name": "De Grasse",
       "type": "Cruiser",
       "tier": 6,
@@ -82,6 +90,7 @@
     },
     {
       "id": "3764336464",
+      "id_str": "PFSB506",
       "name": "Dunkerque",
       "type": "Battleship",
       "tier": 6,
@@ -91,6 +100,7 @@
     },
     {
       "id": "3766368080",
+      "id_str": "PFSD504",
       "name": "Siroco",
       "type": "Destroyer",
       "tier": 5,
@@ -100,6 +110,7 @@
     },
     {
       "id": "4074649424",
+      "id_str": "PFSD210",
       "name": "Marceau",
       "type": "Destroyer",
       "tier": 10,
@@ -109,6 +120,7 @@
     },
     {
       "id": "4179507024",
+      "id_str": "PFSD110",
       "name": "Kléber",
       "type": "Destroyer",
       "tier": 10,
@@ -118,6 +130,7 @@
     },
     {
       "id": "4179539792",
+      "id_str": "PFSC110",
       "name": "Henri IV",
       "type": "Cruiser",
       "tier": 10,
@@ -127,6 +140,7 @@
     },
     {
       "id": "4179572560",
+      "id_str": "PFSB110",
       "name": "République",
       "type": "Battleship",
       "tier": 10,
@@ -136,6 +150,7 @@
     },
     {
       "id": "4180555600",
+      "id_str": "PFSD109",
       "name": "Mogador",
       "type": "Destroyer",
       "tier": 9,
@@ -145,6 +160,7 @@
     },
     {
       "id": "4180588368",
+      "id_str": "PFSC109",
       "name": "Saint-Louis",
       "type": "Cruiser",
       "tier": 9,
@@ -154,6 +170,7 @@
     },
     {
       "id": "4180621136",
+      "id_str": "PFSB109",
       "name": "Alsace",
       "type": "Battleship",
       "tier": 9,
@@ -163,6 +180,7 @@
     },
     {
       "id": "4181604176",
+      "id_str": "PFSD108",
       "name": "Le Fantasque",
       "type": "Destroyer",
       "tier": 8,
@@ -172,6 +190,7 @@
     },
     {
       "id": "4181636944",
+      "id_str": "PFSC108",
       "name": "Charles Martel",
       "type": "Cruiser",
       "tier": 8,
@@ -181,6 +200,7 @@
     },
     {
       "id": "4181669712",
+      "id_str": "PFSB108",
       "name": "Richelieu",
       "type": "Battleship",
       "tier": 8,
@@ -190,6 +210,7 @@
     },
     {
       "id": "4182652752",
+      "id_str": "PFSD107",
       "name": "Vauquelin",
       "type": "Destroyer",
       "tier": 7,
@@ -199,6 +220,7 @@
     },
     {
       "id": "4182685520",
+      "id_str": "PFSC107",
       "name": "Algérie",
       "type": "Cruiser",
       "tier": 7,
@@ -208,6 +230,7 @@
     },
     {
       "id": "4182718288",
+      "id_str": "PFSB107",
       "name": "Lyon",
       "type": "Battleship",
       "tier": 7,
@@ -217,6 +240,7 @@
     },
     {
       "id": "4183701328",
+      "id_str": "PFSD106",
       "name": "Guépard",
       "type": "Destroyer",
       "tier": 6,
@@ -226,6 +250,7 @@
     },
     {
       "id": "4183734096",
+      "id_str": "PFSC106",
       "name": "La Galissonnière",
       "type": "Cruiser",
       "tier": 6,
@@ -235,6 +260,7 @@
     },
     {
       "id": "4183766864",
+      "id_str": "PFSB106",
       "name": "Normandie",
       "type": "Battleship",
       "tier": 6,
@@ -244,6 +270,7 @@
     },
     {
       "id": "4184749904",
+      "id_str": "PFSD105",
       "name": "Jaguar",
       "type": "Destroyer",
       "tier": 5,
@@ -253,6 +280,7 @@
     },
     {
       "id": "4184782672",
+      "id_str": "PFSC105",
       "name": "Émile Bertin",
       "type": "Cruiser",
       "tier": 5,
@@ -262,6 +290,7 @@
     },
     {
       "id": "4184815440",
+      "id_str": "PFSB105",
       "name": "Bretagne",
       "type": "Battleship",
       "tier": 5,
@@ -271,6 +300,7 @@
     },
     {
       "id": "4185798480",
+      "id_str": "PFSD104",
       "name": "Bourrasque",
       "type": "Destroyer",
       "tier": 4,
@@ -280,6 +310,7 @@
     },
     {
       "id": "4185831248",
+      "id_str": "PFSC104",
       "name": "Duguay-Trouin",
       "type": "Cruiser",
       "tier": 4,
@@ -289,6 +320,7 @@
     },
     {
       "id": "4185864016",
+      "id_str": "PFSB104",
       "name": "Courbet",
       "type": "Battleship",
       "tier": 4,
@@ -298,6 +330,7 @@
     },
     {
       "id": "4186847056",
+      "id_str": "PFSD103",
       "name": "Fusilier",
       "type": "Destroyer",
       "tier": 3,
@@ -307,6 +340,7 @@
     },
     {
       "id": "4186879824",
+      "id_str": "PFSC103",
       "name": "Friant",
       "type": "Cruiser",
       "tier": 3,
@@ -316,6 +350,7 @@
     },
     {
       "id": "4186912592",
+      "id_str": "PFSB103",
       "name": "Turenne",
       "type": "Battleship",
       "tier": 3,
@@ -325,6 +360,7 @@
     },
     {
       "id": "4187895632",
+      "id_str": "PFSD102",
       "name": "Enseigne Gabolde",
       "type": "Destroyer",
       "tier": 2,
@@ -334,6 +370,7 @@
     },
     {
       "id": "4187928400",
+      "id_str": "PFSC102",
       "name": "Jurien de la Gravière",
       "type": "Cruiser",
       "tier": 2,
@@ -343,6 +380,7 @@
     },
     {
       "id": "4188976976",
+      "id_str": "PFSC101",
       "name": "Bougainville",
       "type": "Cruiser",
       "tier": 1,

@@ -16,7 +16,7 @@ import TechBranch from "./TechBranch";
 export default {
   name: "TechTree",
   components: {
-    TechBranch
+    TechBranch,
   },
 };
 </script>

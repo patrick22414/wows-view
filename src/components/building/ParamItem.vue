@@ -1,14 +1,14 @@
 <template>
   <div class="param-item">
-    <span class="param-title">{{title}}</span>
-    <span class="param-value">{{value}}</span>
+    <span class="param-title">{{ title }}</span>
+    <span class="param-value">{{ value }}</span>
   </div>
 </template>
 
 <script>
 export default {
   name: "ParamItem",
-  props: ["title", "value"]
+  props: ["title", "value"],
 };
 </script>
 

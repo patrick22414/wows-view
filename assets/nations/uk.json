@@ -10,6 +10,7 @@
   "data": [
     {
       "id": "3742316496",
+      "id_str": "PBSB527",
       "name": "Duke of York",
       "type": "Battleship",
       "tier": 7,
@@ -19,6 +20,7 @@
     },
     {
       "id": "3751786448",
+      "id_str": "PBSA518",
       "name": "Ark Royal",
       "type": "AirCarrier",
       "tier": 6,
@@ -28,6 +30,7 @@
     },
     {
       "id": "3752736720",
+      "id_str": "PBSD517",
       "name": "Cossack",
       "type": "Destroyer",
       "tier": 8,
@@ -37,6 +40,7 @@
     },
     {
       "id": "3752802256",
+      "id_str": "PBSB517",
       "name": "Nelson",
       "type": "Battleship",
       "tier": 7,
@@ -46,6 +50,7 @@
     },
     {
       "id": "3753818064",
+      "id_str": "PBSC516",
       "name": "London",
       "type": "Cruiser",
       "tier": 6,
@@ -55,6 +60,7 @@
     },
     {
       "id": "3760142288",
+      "id_str": "PBSB510",
       "name": "Thunderer",
       "type": "Battleship",
       "tier": 10,
@@ -64,6 +70,7 @@
     },
     {
       "id": "3762206672",
+      "id_str": "PBSC508",
       "name": "Cheshire",
       "type": "Cruiser",
       "tier": 8,
@@ -73,6 +80,7 @@
     },
     {
       "id": "3762239440",
+      "id_str": "PBSB508",
       "name": "Vanguard",
       "type": "Battleship",
       "tier": 8,
@@ -82,6 +90,7 @@
     },
     {
       "id": "3762272208",
+      "id_str": "PBSA508",
       "name": "Indomitable",
       "type": "AirCarrier",
       "tier": 8,
@@ -91,6 +100,7 @@
     },
     {
       "id": "3763255248",
+      "id_str": "PBSC507",
       "name": "Belfast",
       "type": "Cruiser",
       "tier": 7,
@@ -100,6 +110,7 @@
     },
     {
       "id": "3763288016",
+      "id_str": "PBSB507",
       "name": "Hood",
       "type": "Battleship",
       "tier": 7,
@@ -109,6 +120,7 @@
     },
     {
       "id": "3764271056",
+      "id_str": "PBSD506",
       "name": "Gallant",
       "type": "Destroyer",
       "tier": 6,
@@ -118,6 +130,7 @@
     },
     {
       "id": "3765352400",
+      "id_str": "PBSC505",
       "name": "Exeter",
       "type": "Cruiser",
       "tier": 5,
@@ -127,6 +140,7 @@
     },
     {
       "id": "3767416784",
+      "id_str": "PBSD503",
       "name": "Campbeltown",
       "type": "Destroyer",
       "tier": 3,
@@ -136,6 +150,7 @@
     },
     {
       "id": "3767482320",
+      "id_str": "PBSB503",
       "name": "Dreadnought",
       "type": "Battleship",
       "tier": 3,
@@ -145,6 +160,7 @@
     },
     {
       "id": "4074682320",
+      "id_str": "PBSC210",
       "name": "Goliath",
       "type": "Cruiser",
       "tier": 10,
@@ -154,6 +170,7 @@
     },
     {
       "id": "4074747856",
+      "id_str": "PBSA210",
       "name": "Audacious",
       "type": "AirCarrier",
       "tier": 10,
@@ -163,6 +180,7 @@
     },
     {
       "id": "4075730896",
+      "id_str": "PBSC209",
       "name": "Drake",
       "type": "Cruiser",
       "tier": 9,
@@ -172,6 +190,7 @@
     },
     {
       "id": "4076779472",
+      "id_str": "PBSC208",
       "name": "Albemarle",
       "type": "Cruiser",
       "tier": 8,
@@ -181,6 +200,7 @@
     },
     {
       "id": "4077828048",
+      "id_str": "PBSC207",
       "name": "Surrey",
       "type": "Cruiser",
       "tier": 7,
@@ -190,6 +210,7 @@
     },
     {
       "id": "4078876624",
+      "id_str": "PBSC206",
       "name": "Devonshire",
       "type": "Cruiser",
       "tier": 6,
@@ -199,6 +220,7 @@
     },
     {
       "id": "4079925200",
+      "id_str": "PBSC205",
       "name": "Hawkins",
       "type": "Cruiser",
       "tier": 5,
@@ -208,6 +230,7 @@
     },
     {
       "id": "4081039312",
+      "id_str": "PBSA204",
       "name": "Hermes",
       "type": "AirCarrier",
       "tier": 4,
@@ -217,6 +240,7 @@
     },
     {
       "id": "4179507152",
+      "id_str": "PBSD110",
       "name": "Daring",
       "type": "Destroyer",
       "tier": 10,
@@ -226,6 +250,7 @@
     },
     {
       "id": "4179539920",
+      "id_str": "PBSC110",
       "name": "Minotaur",
       "type": "Cruiser",
       "tier": 10,
@@ -235,6 +260,7 @@
     },
     {
       "id": "4179572688",
+      "id_str": "PBSB110",
       "name": "Conqueror",
       "type": "Battleship",
       "tier": 10,
@@ -244,6 +270,7 @@
     },
     {
       "id": "4180555728",
+      "id_str": "PBSD109",
       "name": "Jutland",
       "type": "Destroyer",
       "tier": 9,
@@ -253,6 +280,7 @@
     },
     {
       "id": "4180588496",
+      "id_str": "PBSC109",
       "name": "Neptune",
       "type": "Cruiser",
       "tier": 9,
@@ -262,6 +290,7 @@
     },
     {
       "id": "4180621264",
+      "id_str": "PBSB109",
       "name": "Lion",
       "type": "Battleship",
       "tier": 9,
@@ -271,6 +300,7 @@
     },
     {
       "id": "4181604304",
+      "id_str": "PBSD108",
       "name": "Lightning",
       "type": "Destroyer",
       "tier": 8,
@@ -280,6 +310,7 @@
     },
     {
       "id": "4181637072",
+      "id_str": "PBSC108",
       "name": "Edinburgh",
       "type": "Cruiser",
       "tier": 8,
@@ -289,6 +320,7 @@
     },
     {
       "id": "4181669840",
+      "id_str": "PBSB108",
       "name": "Monarch",
       "type": "Battleship",
       "tier": 8,
@@ -298,6 +330,7 @@
     },
     {
       "id": "4181702608",
+      "id_str": "PBSA108",
       "name": "Implacable",
       "type": "AirCarrier",
       "tier": 8,
@@ -307,6 +340,7 @@
     },
     {
       "id": "4182652880",
+      "id_str": "PBSD107",
       "name": "Jervis",
       "type": "Destroyer",
       "tier": 7,
@@ -316,6 +350,7 @@
     },
     {
       "id": "4182685648",
+      "id_str": "PBSC107",
       "name": "Fiji",
       "type": "Cruiser",
       "tier": 7,
@@ -325,6 +360,7 @@
     },
     {
       "id": "4182718416",
+      "id_str": "PBSB107",
       "name": "King George V",
       "type": "Battleship",
       "tier": 7,
@@ -334,6 +370,7 @@
     },
     {
       "id": "4183701456",
+      "id_str": "PBSD106",
       "name": "Icarus",
       "type": "Destroyer",
       "tier": 6,
@@ -343,6 +380,7 @@
     },
     {
       "id": "4183734224",
+      "id_str": "PBSC106",
       "name": "Leander",
       "type": "Cruiser",
       "tier": 6,
@@ -352,6 +390,7 @@
     },
     {
       "id": "4183766992",
+      "id_str": "PBSB106",
       "name": "Queen Elizabeth",
       "type": "Battleship",
       "tier": 6,
@@ -361,6 +400,7 @@
     },
     {
       "id": "4183799760",
+      "id_str": "PBSA106",
       "name": "Furious",
       "type": "AirCarrier",
       "tier": 6,
@@ -370,6 +410,7 @@
     },
     {
       "id": "4184750032",
+      "id_str": "PBSD105",
       "name": "Acasta",
       "type": "Destroyer",
       "tier": 5,
@@ -379,6 +420,7 @@
     },
     {
       "id": "4184782800",
+      "id_str": "PBSC105",
       "name": "Emerald",
       "type": "Cruiser",
       "tier": 5,
@@ -388,6 +430,7 @@
     },
     {
       "id": "4184815568",
+      "id_str": "PBSB105",
       "name": "Iron Duke",
       "type": "Battleship",
       "tier": 5,
@@ -397,6 +440,7 @@
     },
     {
       "id": "4185798608",
+      "id_str": "PBSD104",
       "name": "Wakeful",
       "type": "Destroyer",
       "tier": 4,
@@ -406,6 +450,7 @@
     },
     {
       "id": "4185831376",
+      "id_str": "PBSC104",
       "name": "Danae",
       "type": "Cruiser",
       "tier": 4,
@@ -415,6 +460,7 @@
     },
     {
       "id": "4185864144",
+      "id_str": "PBSB104",
       "name": "Orion",
       "type": "Battleship",
       "tier": 4,
@@ -424,6 +470,7 @@
     },
     {
       "id": "4186847184",
+      "id_str": "PBSD103",
       "name": "Valkyrie",
       "type": "Destroyer",
       "tier": 3,
@@ -433,6 +480,7 @@
     },
     {
       "id": "4186879952",
+      "id_str": "PBSC103",
       "name": "Caledon",
       "type": "Cruiser",
       "tier": 3,
@@ -442,6 +490,7 @@
     },
     {
       "id": "4186912720",
+      "id_str": "PBSB103",
       "name": "Bellerophon",
       "type": "Battleship",
       "tier": 3,
@@ -451,6 +500,7 @@
     },
     {
       "id": "4187895760",
+      "id_str": "PBSD102",
       "name": "Medea",
       "type": "Destroyer",
       "tier": 2,
@@ -460,6 +510,7 @@
     },
     {
       "id": "4187928528",
+      "id_str": "PBSC102",
       "name": "Weymouth",
       "type": "Cruiser",
       "tier": 2,
@@ -469,6 +520,7 @@
     },
     {
       "id": "4188977104",
+      "id_str": "PBSC101",
       "name": "Black Swan",
       "type": "Cruiser",
       "tier": 1,
@@ -478,6 +530,7 @@
     },
     {
       "id": "4292818896",
+      "id_str": "PBSB002",
       "name": "Warspite",
       "type": "Battleship",
       "tier": 6,

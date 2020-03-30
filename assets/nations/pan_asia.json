@@ -10,6 +10,7 @@
   "data": [
     {
       "id": "3751720144",
+      "id_str": "PZSC518",
       "name": "Wukong",
       "type": "Cruiser",
       "tier": 8,
@@ -19,6 +20,7 @@
     },
     {
       "id": "3761190096",
+      "id_str": "PZSB509",
       "name": "Bajie",
       "type": "Battleship",
       "tier": 9,
@@ -28,6 +30,7 @@
     },
     {
       "id": "3762173136",
+      "id_str": "PZSD508",
       "name": "Loyang",
       "type": "Destroyer",
       "tier": 8,
@@ -37,6 +40,7 @@
     },
     {
       "id": "3762205904",
+      "id_str": "PZSC508",
       "name": "Irian",
       "type": "Cruiser",
       "tier": 8,
@@ -46,6 +50,7 @@
     },
     {
       "id": "3764270288",
+      "id_str": "PZSD506",
       "name": "Anshan",
       "type": "Destroyer",
       "tier": 6,
@@ -55,6 +60,7 @@
     },
     {
       "id": "3764303056",
+      "id_str": "PZSC506",
       "name": "Huanghe",
       "type": "Cruiser",
       "tier": 6,
@@ -64,6 +70,7 @@
     },
     {
       "id": "4076745936",
+      "id_str": "PZSD208",
       "name": "Siliwangi",
       "type": "Destroyer",
       "tier": 8,
@@ -73,6 +80,7 @@
     },
     {
       "id": "4179506384",
+      "id_str": "PZSD110",
       "name": "Yueyang",
       "type": "Destroyer",
       "tier": 10,
@@ -82,6 +90,7 @@
     },
     {
       "id": "4180554960",
+      "id_str": "PZSD109",
       "name": "Chung Mu",
       "type": "Destroyer",
       "tier": 9,
@@ -91,6 +100,7 @@
     },
     {
       "id": "4181603536",
+      "id_str": "PZSD108",
       "name": "Hsienyang",
       "type": "Destroyer",
       "tier": 8,
@@ -100,6 +110,7 @@
     },
     {
       "id": "4182652112",
+      "id_str": "PZSD107",
       "name": "Gadjah Mada",
       "type": "Destroyer",
       "tier": 7,
@@ -109,6 +120,7 @@
     },
     {
       "id": "4183700688",
+      "id_str": "PZSD106",
       "name": "Fushun",
       "type": "Destroyer",
       "tier": 6,
@@ -118,6 +130,7 @@
     },
     {
       "id": "4184749264",
+      "id_str": "PZSD105",
       "name": "Jianwei",
       "type": "Destroyer",
       "tier": 5,
@@ -127,6 +140,7 @@
     },
     {
       "id": "4185797840",
+      "id_str": "PZSD104",
       "name": "Shenyang",
       "type": "Destroyer",
       "tier": 4,
@@ -136,6 +150,7 @@
     },
     {
       "id": "4186846416",
+      "id_str": "PZSD103",
       "name": "Phra Ruang",
       "type": "Destroyer",
       "tier": 3,
@@ -145,6 +160,7 @@
     },
     {
       "id": "4187894992",
+      "id_str": "PZSD102",
       "name": "Longjiang",
       "type": "Destroyer",
       "tier": 2,
@@ -154,6 +170,7 @@
     },
     {
       "id": "4188976336",
+      "id_str": "PZSC101",
       "name": "Chengan",
       "type": "Cruiser",
       "tier": 1,

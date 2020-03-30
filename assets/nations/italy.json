@@ -10,6 +10,7 @@
   "data": [
     {
       "id": "3658397424",
+      "id_str": "PISC607",
       "name": "Gorizia",
       "type": "Cruiser",
       "tier": 7,
@@ -19,6 +20,7 @@
     },
     {
       "id": "3760076528",
+      "id_str": "PISD510",
       "name": "Paolo Emilio",
       "type": "Destroyer",
       "tier": 10,
@@ -28,6 +30,7 @@
     },
     {
       "id": "3762239216",
+      "id_str": "PISB508",
       "name": "Roma",
       "type": "Battleship",
       "tier": 8,
@@ -37,6 +40,7 @@
     },
     {
       "id": "3763255024",
+      "id_str": "PISC507",
       "name": "Duca degli Abruzzi",
       "type": "Cruiser",
       "tier": 7,
@@ -46,6 +50,7 @@
     },
     {
       "id": "3764270832",
+      "id_str": "PISD506",
       "name": "Leone",
       "type": "Destroyer",
       "tier": 6,
@@ -55,6 +60,7 @@
     },
     {
       "id": "3764303600",
+      "id_str": "PISC506",
       "name": "Duca d'Aosta",
       "type": "Cruiser",
       "tier": 6,
@@ -64,6 +70,7 @@
     },
     {
       "id": "3765352176",
+      "id_str": "PISC505",
       "name": "Genova",
       "type": "Cruiser",
       "tier": 5,
@@ -73,6 +80,7 @@
     },
     {
       "id": "3765384944",
+      "id_str": "PISB505",
       "name": "Giulio Cesare",
       "type": "Battleship",
       "tier": 5,
@@ -82,6 +90,7 @@
     },
     {
       "id": "4179539696",
+      "id_str": "PISC110",
       "name": "Venezia",
       "type": "Cruiser",
       "tier": 10,
@@ -91,6 +100,7 @@
     },
     {
       "id": "4180588272",
+      "id_str": "PISC109",
       "name": "Brindisi",
       "type": "Cruiser",
       "tier": 9,
@@ -100,6 +110,7 @@
     },
     {
       "id": "4181636848",
+      "id_str": "PISC108",
       "name": "Amalfi",
       "type": "Cruiser",
       "tier": 8,
@@ -109,6 +120,7 @@
     },
     {
       "id": "4182685424",
+      "id_str": "PISC107",
       "name": "Zara",
       "type": "Cruiser",
       "tier": 7,
@@ -118,6 +130,7 @@
     },
     {
       "id": "4183734000",
+      "id_str": "PISC106",
       "name": "Trento",
       "type": "Cruiser",
       "tier": 6,
@@ -127,6 +140,7 @@
     },
     {
       "id": "4184782576",
+      "id_str": "PISC105",
       "name": "Raimondo Montecuccoli",
       "type": "Cruiser",
       "tier": 5,
@@ -136,6 +150,7 @@
     },
     {
       "id": "4185831152",
+      "id_str": "PISC104",
       "name": "Alberto di Giussano",
       "type": "Cruiser",
       "tier": 4,
@@ -145,6 +160,7 @@
     },
     {
       "id": "4186879728",
+      "id_str": "PISC103",
       "name": "Taranto",
       "type": "Cruiser",
       "tier": 3,
@@ -154,6 +170,7 @@
     },
     {
       "id": "4187928304",
+      "id_str": "PISC102",
       "name": "Nino Bixio",
       "type": "Cruiser",
       "tier": 2,
@@ -163,6 +180,7 @@
     },
     {
       "id": "4188976880",
+      "id_str": "PISC101",
       "name": "Eritrea",
       "type": "Cruiser",
       "tier": 1,

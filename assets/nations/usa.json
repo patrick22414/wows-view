@@ -10,6 +10,7 @@
   "data": [
     {
       "id": "3530504176",
+      "id_str": "PASB729",
       "name": "Georgia",
       "type": "Battleship",
       "tier": 9,
@@ -19,6 +20,7 @@
     },
     {
       "id": "3542005744",
+      "id_str": "PASC718",
       "name": "AL Montpelier",
       "type": "Cruiser",
       "tier": 8,
@@ -28,6 +30,7 @@
     },
     {
       "id": "3550394352",
+      "id_str": "PASC710",
       "name": "Salem",
       "type": "Cruiser",
       "tier": 10,
@@ -37,6 +40,7 @@
     },
     {
       "id": "3551410160",
+      "id_str": "PASD709",
       "name": "Black",
       "type": "Destroyer",
       "tier": 9,
@@ -46,6 +50,7 @@
     },
     {
       "id": "3553540080",
+      "id_str": "PASC707",
       "name": "Flint",
       "type": "Cruiser",
       "tier": 7,
@@ -55,6 +60,7 @@
     },
     {
       "id": "3553572848",
+      "id_str": "PASB707",
       "name": "California",
       "type": "Battleship",
       "tier": 7,
@@ -64,6 +70,7 @@
     },
     {
       "id": "3555670000",
+      "id_str": "PASB705",
       "name": "Texas",
       "type": "Battleship",
       "tier": 5,
@@ -73,6 +80,7 @@
     },
     {
       "id": "3655251952",
+      "id_str": "PASC610",
       "name": "Puerto Rico",
       "type": "Cruiser",
       "tier": 10,
@@ -82,6 +90,7 @@
     },
     {
       "id": "3668883440",
+      "id_str": "PASC597",
       "name": "Boise",
       "type": "Cruiser",
       "tier": 7,
@@ -91,6 +100,7 @@
     },
     {
       "id": "3741300720",
+      "id_str": "PASA528",
       "name": "Saipan",
       "type": "AirCarrier",
       "tier": 8,
@@ -100,6 +110,7 @@
     },
     {
       "id": "3751753712",
+      "id_str": "PASB518",
       "name": "Massachusetts",
       "type": "Battleship",
       "tier": 8,
@@ -109,6 +120,7 @@
     },
     {
       "id": "3751786480",
+      "id_str": "PASA518",
       "name": "Enterprise",
       "type": "AirCarrier",
       "tier": 8,
@@ -118,6 +130,7 @@
     },
     {
       "id": "3760076784",
+      "id_str": "PASD510",
       "name": "Somers",
       "type": "Destroyer",
       "tier": 10,
@@ -127,6 +140,7 @@
     },
     {
       "id": "3760109552",
+      "id_str": "PASC510",
       "name": "Alaska",
       "type": "Cruiser",
       "tier": 9,
@@ -136,6 +150,7 @@
     },
     {
       "id": "3760142320",
+      "id_str": "PASB510",
       "name": "Ohio",
       "type": "Battleship",
       "tier": 10,
@@ -145,6 +160,7 @@
     },
     {
       "id": "3761125360",
+      "id_str": "PASD509",
       "name": "Benham",
       "type": "Destroyer",
       "tier": 9,
@@ -154,6 +170,7 @@
     },
     {
       "id": "3761190896",
+      "id_str": "PASB509",
       "name": "Missouri",
       "type": "Battleship",
       "tier": 9,
@@ -163,6 +180,7 @@
     },
     {
       "id": "3762173936",
+      "id_str": "PASD508",
       "name": "Kidd",
       "type": "Destroyer",
       "tier": 8,
@@ -172,6 +190,7 @@
     },
     {
       "id": "3762206704",
+      "id_str": "PASC508",
       "name": "Wichita",
       "type": "Cruiser",
       "tier": 8,
@@ -181,6 +200,7 @@
     },
     {
       "id": "3762239472",
+      "id_str": "PASB508",
       "name": "Alabama",
       "type": "Battleship",
       "tier": 8,
@@ -190,6 +210,7 @@
     },
     {
       "id": "3763255280",
+      "id_str": "PASC507",
       "name": "Indianapolis",
       "type": "Cruiser",
       "tier": 7,
@@ -199,6 +220,7 @@
     },
     {
       "id": "3763288048",
+      "id_str": "PASB507",
       "name": "W. Virginia 1941",
       "type": "Battleship",
       "tier": 6,
@@ -208,6 +230,7 @@
     },
     {
       "id": "3764271088",
+      "id_str": "PASD506",
       "name": "Monaghan",
       "type": "Destroyer",
       "tier": 6,
@@ -217,6 +240,7 @@
     },
     {
       "id": "3764336624",
+      "id_str": "PASB506",
       "name": "Arizona",
       "type": "Battleship",
       "tier": 6,
@@ -226,6 +250,7 @@
     },
     {
       "id": "3765319664",
+      "id_str": "PASD505",
       "name": "Hill",
       "type": "Destroyer",
       "tier": 5,
@@ -235,6 +260,7 @@
     },
     {
       "id": "3767449584",
+      "id_str": "PASC503",
       "name": "Charleston",
       "type": "Cruiser",
       "tier": 3,
@@ -244,6 +270,7 @@
     },
     {
       "id": "3768465392",
+      "id_str": "PASD502",
       "name": "Smith",
       "type": "Destroyer",
       "tier": 2,
@@ -253,6 +280,7 @@
     },
     {
       "id": "4074682352",
+      "id_str": "PASC210",
       "name": "Worcester",
       "type": "Cruiser",
       "tier": 10,
@@ -262,6 +290,7 @@
     },
     {
       "id": "4075730928",
+      "id_str": "PASC209",
       "name": "Seattle",
       "type": "Cruiser",
       "tier": 9,
@@ -271,6 +300,7 @@
     },
     {
       "id": "4076779504",
+      "id_str": "PASC208",
       "name": "Cleveland",
       "type": "Cruiser",
       "tier": 8,
@@ -280,6 +310,7 @@
     },
     {
       "id": "4077828080",
+      "id_str": "PASC207",
       "name": "Helena",
       "type": "Cruiser",
       "tier": 7,
@@ -289,6 +320,7 @@
     },
     {
       "id": "4078876656",
+      "id_str": "PASC206",
       "name": "Dallas",
       "type": "Cruiser",
       "tier": 6,
@@ -298,6 +330,7 @@
     },
     {
       "id": "4179605488",
+      "id_str": "PASA110",
       "name": "Midway",
       "type": "AirCarrier",
       "tier": 10,
@@ -307,6 +340,7 @@
     },
     {
       "id": "4180588528",
+      "id_str": "PASC109",
       "name": "Buffalo",
       "type": "Cruiser",
       "tier": 9,
@@ -316,6 +350,7 @@
     },
     {
       "id": "4181637104",
+      "id_str": "PASC108",
       "name": "Baltimore",
       "type": "Cruiser",
       "tier": 8,
@@ -325,6 +360,7 @@
     },
     {
       "id": "4181702640",
+      "id_str": "PASA108",
       "name": "Lexington",
       "type": "AirCarrier",
       "tier": 8,
@@ -334,6 +370,7 @@
     },
     {
       "id": "4182685680",
+      "id_str": "PASC107",
       "name": "New Orleans",
       "type": "Cruiser",
       "tier": 7,
@@ -343,6 +380,7 @@
     },
     {
       "id": "4183734256",
+      "id_str": "PASC106",
       "name": "Pensacola",
       "type": "Cruiser",
       "tier": 6,
@@ -352,6 +390,7 @@
     },
     {
       "id": "4183799792",
+      "id_str": "PASA106",
       "name": "Ranger",
       "type": "AirCarrier",
       "tier": 6,
@@ -361,6 +400,7 @@
     },
     {
       "id": "4185896944",
+      "id_str": "PASA104",
       "name": "Langley",
       "type": "AirCarrier",
       "tier": 4,
@@ -370,6 +410,7 @@
     },
     {
       "id": "4247697392",
+      "id_str": "PASC045",
       "name": "Marblehead Lima",
       "type": "Cruiser",
       "tier": 5,
@@ -379,6 +420,7 @@
     },
     {
       "id": "4248745968",
+      "id_str": "PASC044",
       "name": "Marblehead",
       "type": "Cruiser",
       "tier": 5,
@@ -388,6 +430,7 @@
     },
     {
       "id": "4259264496",
+      "id_str": "PASB034",
       "name": "New Mexico",
       "type": "Battleship",
       "tier": 6,
@@ -397,6 +440,7 @@
     },
     {
       "id": "4264441840",
+      "id_str": "PASD029",
       "name": "Sims",
       "type": "Destroyer",
       "tier": 7,
@@ -406,6 +450,7 @@
     },
     {
       "id": "4266538992",
+      "id_str": "PASD027",
       "name": "Wickes",
       "type": "Destroyer",
       "tier": 3,
@@ -415,6 +460,7 @@
     },
     {
       "id": "4269717488",
+      "id_str": "PASC024",
       "name": "Phoenix",
       "type": "Cruiser",
       "tier": 4,
@@ -424,6 +470,7 @@
     },
     {
       "id": "4272830448",
+      "id_str": "PASD021",
       "name": "Fletcher",
       "type": "Destroyer",
       "tier": 9,
@@ -433,6 +480,7 @@
     },
     {
       "id": "4273911792",
+      "id_str": "PASC020",
       "name": "Des Moines",
       "type": "Cruiser",
       "tier": 10,
@@ -442,6 +490,7 @@
     },
     {
       "id": "4274927600",
+      "id_str": "PASD019",
       "name": "Clemson",
       "type": "Destroyer",
       "tier": 4,
@@ -451,6 +500,7 @@
     },
     {
       "id": "4276041712",
+      "id_str": "PASB018",
       "name": "Iowa",
       "type": "Battleship",
       "tier": 9,
@@ -460,6 +510,7 @@
     },
     {
       "id": "4277090288",
+      "id_str": "PASB017",
       "name": "Montana",
       "type": "Battleship",
       "tier": 10,
@@ -469,6 +520,7 @@
     },
     {
       "id": "4280170480",
+      "id_str": "PASD014",
       "name": "Nicholas",
       "type": "Destroyer",
       "tier": 5,
@@ -478,6 +530,7 @@
     },
     {
       "id": "4281219056",
+      "id_str": "PASD013",
       "name": "Gearing",
       "type": "Destroyer",
       "tier": 10,
@@ -487,6 +540,7 @@
     },
     {
       "id": "4281284592",
+      "id_str": "PASB013",
       "name": "Arkansas Beta",
       "type": "Battleship",
       "tier": 4,
@@ -496,6 +550,7 @@
     },
     {
       "id": "4282333168",
+      "id_str": "PASB012",
       "name": "North Carolina",
       "type": "Battleship",
       "tier": 8,
@@ -505,6 +560,7 @@
     },
     {
       "id": "4286461936",
+      "id_str": "PASD008",
       "name": "Benson",
       "type": "Destroyer",
       "tier": 8,
@@ -514,6 +570,7 @@
     },
     {
       "id": "4286527472",
+      "id_str": "PASB008",
       "name": "Colorado",
       "type": "Battleship",
       "tier": 7,
@@ -523,6 +580,7 @@
     },
     {
       "id": "4288559088",
+      "id_str": "PASD006",
       "name": "Mahan",
       "type": "Destroyer",
       "tier": 7,
@@ -532,6 +590,7 @@
     },
     {
       "id": "4288591856",
+      "id_str": "PASC006",
       "name": "Atlanta",
       "type": "Cruiser",
       "tier": 7,
@@ -541,6 +600,7 @@
     },
     {
       "id": "4288624624",
+      "id_str": "PASB006",
       "name": "New York",
       "type": "Battleship",
       "tier": 5,
@@ -550,6 +610,7 @@
     },
     {
       "id": "4289607664",
+      "id_str": "PASD005",
       "name": "Farragut",
       "type": "Destroyer",
       "tier": 6,
@@ -559,6 +620,7 @@
     },
     {
       "id": "4289640432",
+      "id_str": "PASC005",
       "name": "Omaha",
       "type": "Cruiser",
       "tier": 5,
@@ -568,6 +630,7 @@
     },
     {
       "id": "4290689008",
+      "id_str": "PASC004",
       "name": "St. Louis",
       "type": "Cruiser",
       "tier": 3,
@@ -577,6 +640,7 @@
     },
     {
       "id": "4290721776",
+      "id_str": "PASB004",
       "name": "Wyoming",
       "type": "Battleship",
       "tier": 4,
@@ -586,6 +650,7 @@
     },
     {
       "id": "4291737584",
+      "id_str": "PASC003",
       "name": "Albany",
       "type": "Cruiser",
       "tier": 2,
@@ -595,6 +660,7 @@
     },
     {
       "id": "4292753392",
+      "id_str": "PASD002",
       "name": "Sampson",
       "type": "Destroyer",
       "tier": 2,
@@ -604,6 +670,7 @@
     },
     {
       "id": "4292786160",
+      "id_str": "PASC002",
       "name": "Chester",
       "type": "Cruiser",
       "tier": 2,
@@ -613,6 +680,7 @@
     },
     {
       "id": "4293834736",
+      "id_str": "PASC001",
       "name": "Erie",
       "type": "Cruiser",
       "tier": 1,
@@ -622,6 +690,7 @@
     },
     {
       "id": "4293867504",
+      "id_str": "PASB001",
       "name": "South Carolina",
       "type": "Battleship",
       "tier": 3,

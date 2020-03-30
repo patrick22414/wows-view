@@ -1,8 +1,8 @@
 <template>
   <div class="tech-branch">
-    <h2>{{title}}</h2>
-    <div v-for="tier in tiers.filter(tier => hasShip(type, tier))" class="tier-tag" :key="tier">
-      <h3>{{tierToRoman(tier)}}</h3>
+    <h2>{{ title }}</h2>
+    <div v-for="tier in tiers.filter((tier) => hasShip(type, tier))" class="tier-tag" :key="tier">
+      <h3>{{ tierToRoman(tier) }}</h3>
       <ShipTag v-for="ship in getShips(type, tier)" :key="ship.id" :ship="ship" />
     </div>
   </div>
@@ -16,16 +16,16 @@ export default {
   name: "TechBranch",
   props: ["title", "type"],
   components: {
-    ShipTag
+    ShipTag,
   },
-  data: function() {
+  data: function () {
     return {
-      tiers: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+      tiers: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1],
     };
   },
   computed: mapGetters(["getShips", "hasShip"]),
   methods: {
-    tierToRoman: function(tier) {
+    tierToRoman: function (tier) {
       switch (tier) {
         case 10:
           return "X";
@@ -51,8 +51,8 @@ export default {
         default:
           break;
       }
-    }
-  }
+    },
+  },
 };
 </script>
 

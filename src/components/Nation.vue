@@ -1,14 +1,14 @@
 <template>
   <router-link class="nation" :to="`/selecting/${nation.id}`">
-    <div class="illuminant" :style="nation.selected ? {opacity: 1} : {}"></div>
-    <p class="nation-title">{{nation.title}}</p>
+    <div class="illuminant" :style="nation.selected ? { opacity: 1 } : {}"></div>
+    <p class="nation-title">{{ nation.title }}</p>
   </router-link>
 </template>
 
 <script>
 export default {
   name: "Nation",
-  props: ["nation"]
+  props: ["nation"],
 };
 </script>
 

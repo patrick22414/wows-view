@@ -13,19 +13,19 @@ export default {
   name: "SelectingWithNationView",
   components: {
     Sidebar,
-    TechTree
+    TechTree,
   },
-  beforeCreate: function() {
+  beforeCreate: function () {
     this.$store.dispatch("selectNation", this.$route.params.nationId);
   },
-  beforeRouteUpdate: function(to, from, next) {
+  beforeRouteUpdate: function (to, from, next) {
     this.$store.dispatch("selectNation", to.params.nationId);
     next();
   },
-  beforeRouteLeave: function(to, from, next) {
+  beforeRouteLeave: function (to, from, next) {
     this.$store.dispatch("resetSelecting");
     next();
-  }
+  },
 };
 </script>
 

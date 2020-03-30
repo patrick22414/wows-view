@@ -10,6 +10,7 @@
   "data": [
     {
       "id": "3248371408",
+      "id_str": "PJSD998",
       "name": "Arashi",
       "type": "Destroyer",
       "tier": 8,
@@ -19,6 +20,7 @@
     },
     {
       "id": "3522082512",
+      "id_str": "PJSC737",
       "name": "ARP Nachi",
       "type": "Cruiser",
       "tier": 7,
@@ -28,6 +30,7 @@
     },
     {
       "id": "3532568272",
+      "id_str": "PJSC727",
       "name": "Eastern Dragon",
       "type": "Cruiser",
       "tier": 7,
@@ -37,6 +40,7 @@
     },
     {
       "id": "3541972688",
+      "id_str": "PJSD718",
       "name": "AL Yukikaze",
       "type": "Destroyer",
       "tier": 8,
@@ -46,6 +50,7 @@
     },
     {
       "id": "3543054032",
+      "id_str": "PJSC717",
       "name": "Southern Dragon",
       "type": "Cruiser",
       "tier": 7,
@@ -55,6 +60,7 @@
     },
     {
       "id": "3551442640",
+      "id_str": "PJSC709",
       "name": "ARP Haguro",
       "type": "Cruiser",
       "tier": 7,
@@ -64,6 +70,7 @@
     },
     {
       "id": "3552458448",
+      "id_str": "PJSD708",
       "name": "HSF Harekaze",
       "type": "Destroyer",
       "tier": 8,
@@ -73,6 +80,7 @@
     },
     {
       "id": "3552491216",
+      "id_str": "PJSC708",
       "name": "ARP Takao",
       "type": "Cruiser",
       "tier": 8,
@@ -82,6 +90,7 @@
     },
     {
       "id": "3552523984",
+      "id_str": "PJSB708",
       "name": "ARP Hiei",
       "type": "Battleship",
       "tier": 5,
@@ -91,6 +100,7 @@
     },
     {
       "id": "3553539792",
+      "id_str": "PJSC707",
       "name": "ARP Ashigara",
       "type": "Cruiser",
       "tier": 7,
@@ -100,6 +110,7 @@
     },
     {
       "id": "3553572560",
+      "id_str": "PJSB707",
       "name": "ARP Haruna",
       "type": "Battleship",
       "tier": 5,
@@ -109,6 +120,7 @@
     },
     {
       "id": "3554555600",
+      "id_str": "PJSD706",
       "name": "Shinonome",
       "type": "Destroyer",
       "tier": 6,
@@ -118,6 +130,7 @@
     },
     {
       "id": "3554621136",
+      "id_str": "PJSB706",
       "name": "ARP Kirishima",
       "type": "Battleship",
       "tier": 5,
@@ -127,6 +140,7 @@
     },
     {
       "id": "3555636944",
+      "id_str": "PJSC705",
       "name": "ARP Myōkō",
       "type": "Cruiser",
       "tier": 7,
@@ -136,6 +150,7 @@
     },
     {
       "id": "3555669712",
+      "id_str": "PJSB705",
       "name": "ARP Kongō",
       "type": "Battleship",
       "tier": 5,
@@ -145,6 +160,7 @@
     },
     {
       "id": "3749623504",
+      "id_str": "PJSC520",
       "name": "Yoshino",
       "type": "Cruiser",
       "tier": 10,
@@ -154,6 +170,7 @@
     },
     {
       "id": "3751687888",
+      "id_str": "PJSD518",
       "name": "Asashio",
       "type": "Destroyer",
       "tier": 8,
@@ -163,6 +180,7 @@
     },
     {
       "id": "3751786192",
+      "id_str": "PJSA518",
       "name": "Kaga",
       "type": "AirCarrier",
       "tier": 8,
@@ -172,6 +190,7 @@
     },
     {
       "id": "3760076496",
+      "id_str": "PJSD510",
       "name": "Hayate",
       "type": "Destroyer",
       "tier": 10,
@@ -181,6 +200,7 @@
     },
     {
       "id": "3760109264",
+      "id_str": "PJSC510",
       "name": "Azuma",
       "type": "Cruiser",
       "tier": 9,
@@ -190,6 +210,7 @@
     },
     {
       "id": "3760142032",
+      "id_str": "PJSB510",
       "name": "Shikishima",
       "type": "Battleship",
       "tier": 10,
@@ -199,6 +220,7 @@
     },
     {
       "id": "3761190608",
+      "id_str": "PJSB509",
       "name": "Musashi",
       "type": "Battleship",
       "tier": 9,
@@ -208,6 +230,7 @@
     },
     {
       "id": "3762239184",
+      "id_str": "PJSB508",
       "name": "Kii",
       "type": "Battleship",
       "tier": 8,
@@ -217,6 +240,7 @@
     },
     {
       "id": "3763222224",
+      "id_str": "PJSD507",
       "name": "Yūdachi",
       "type": "Destroyer",
       "tier": 7,
@@ -226,6 +250,7 @@
     },
     {
       "id": "3763287760",
+      "id_str": "PJSB507",
       "name": "Ashitaka",
       "type": "Battleship",
       "tier": 7,
@@ -235,6 +260,7 @@
     },
     {
       "id": "3764336336",
+      "id_str": "PJSB506",
       "name": "Mutsu",
       "type": "Battleship",
       "tier": 6,
@@ -244,6 +270,7 @@
     },
     {
       "id": "3765352144",
+      "id_str": "PJSC505",
       "name": "Yahagi",
       "type": "Cruiser",
       "tier": 5,
@@ -253,6 +280,7 @@
     },
     {
       "id": "3767449296",
+      "id_str": "PJSC503",
       "name": "Katori",
       "type": "Cruiser",
       "tier": 3,
@@ -262,6 +290,7 @@
     },
     {
       "id": "4065212112",
+      "id_str": "PJSD219",
       "name": "Kitakaze",
       "type": "Destroyer",
       "tier": 9,
@@ -271,6 +300,7 @@
     },
     {
       "id": "4074649296",
+      "id_str": "PJSD210",
       "name": "Harugumo",
       "type": "Destroyer",
       "tier": 10,
@@ -280,6 +310,7 @@
     },
     {
       "id": "4075697872",
+      "id_str": "PJSD209",
       "name": "Yūgumo",
       "type": "Destroyer",
       "tier": 9,
@@ -289,6 +320,7 @@
     },
     {
       "id": "4076746448",
+      "id_str": "PJSD208",
       "name": "Kagerō",
       "type": "Destroyer",
       "tier": 8,
@@ -298,6 +330,7 @@
     },
     {
       "id": "4077795024",
+      "id_str": "PJSD207",
       "name": "Shiratsuyu",
       "type": "Destroyer",
       "tier": 7,
@@ -307,6 +340,7 @@
     },
     {
       "id": "4078843600",
+      "id_str": "PJSD206",
       "name": "Hatsuharu",
       "type": "Destroyer",
       "tier": 6,
@@ -316,6 +350,7 @@
     },
     {
       "id": "4179605200",
+      "id_str": "PJSA110",
       "name": "Hakuryū",
       "type": "AirCarrier",
       "tier": 10,
@@ -325,6 +360,7 @@
     },
     {
       "id": "4181604048",
+      "id_str": "PJSD108",
       "name": "Akizuki",
       "type": "Destroyer",
       "tier": 8,
@@ -334,6 +370,7 @@
     },
     {
       "id": "4181702352",
+      "id_str": "PJSA108",
       "name": "Shōkaku",
       "type": "AirCarrier",
       "tier": 8,
@@ -343,6 +380,7 @@
     },
     {
       "id": "4182652624",
+      "id_str": "PJSD107",
       "name": "Akatsuki",
       "type": "Destroyer",
       "tier": 7,
@@ -352,6 +390,7 @@
     },
     {
       "id": "4183701200",
+      "id_str": "PJSD106",
       "name": "Fubuki",
       "type": "Destroyer",
       "tier": 6,
@@ -361,6 +400,7 @@
     },
     {
       "id": "4183799504",
+      "id_str": "PJSA106",
       "name": "Ryūjō",
       "type": "AirCarrier",
       "tier": 6,
@@ -370,6 +410,7 @@
     },
     {
       "id": "4184749776",
+      "id_str": "PJSD105",
       "name": "Mutsuki",
       "type": "Destroyer",
       "tier": 5,
@@ -379,6 +420,7 @@
     },
     {
       "id": "4185896656",
+      "id_str": "PJSA104",
       "name": "Hōshō",
       "type": "AirCarrier",
       "tier": 4,
@@ -388,6 +430,7 @@
     },
     {
       "id": "4255037136",
+      "id_str": "PJSC038",
       "name": "Atago",
       "type": "Cruiser",
       "tier": 8,
@@ -397,6 +440,7 @@
     },
     {
       "id": "4256085712",
+      "id_str": "PJSC037",
       "name": "Hashidate",
       "type": "Cruiser",
       "tier": 1,
@@ -406,6 +450,7 @@
     },
     {
       "id": "4258182864",
+      "id_str": "PJSC035",
       "name": "Chikuma",
       "type": "Cruiser",
       "tier": 2,
@@ -415,6 +460,7 @@
     },
     {
       "id": "4259231440",
+      "id_str": "PJSC034",
       "name": "Zaō",
       "type": "Cruiser",
       "tier": 10,
@@ -424,6 +470,7 @@
     },
     {
       "id": "4267587280",
+      "id_str": "PJSD026",
       "name": "Kamikaze R",
       "type": "Destroyer",
       "tier": 5,
@@ -433,6 +480,7 @@
     },
     {
       "id": "4267620048",
+      "id_str": "PJSC026",
       "name": "Iwaki Alpha",
       "type": "Cruiser",
       "tier": 4,
@@ -442,6 +490,7 @@
     },
     {
       "id": "4268635856",
+      "id_str": "PJSD025",
       "name": "Kamikaze",
       "type": "Destroyer",
       "tier": 5,
@@ -451,6 +500,7 @@
     },
     {
       "id": "4269684432",
+      "id_str": "PJSD024",
       "name": "Wakatake",
       "type": "Destroyer",
       "tier": 3,
@@ -460,6 +510,7 @@
     },
     {
       "id": "4272895696",
+      "id_str": "PJSB021",
       "name": "Izumo",
       "type": "Battleship",
       "tier": 9,
@@ -469,6 +520,7 @@
     },
     {
       "id": "4276041424",
+      "id_str": "PJSB018",
       "name": "Yamato",
       "type": "Battleship",
       "tier": 10,
@@ -478,6 +530,7 @@
     },
     {
       "id": "4277024464",
+      "id_str": "PJSD017",
       "name": "Fūjin",
       "type": "Destroyer",
       "tier": 5,
@@ -487,6 +540,7 @@
     },
     {
       "id": "4279154384",
+      "id_str": "PJSC015",
       "name": "Tenryū",
       "type": "Cruiser",
       "tier": 3,
@@ -496,6 +550,7 @@
     },
     {
       "id": "4280170192",
+      "id_str": "PJSD014",
       "name": "Tachibana Lima",
       "type": "Destroyer",
       "tier": 2,
@@ -505,6 +560,7 @@
     },
     {
       "id": "4281251536",
+      "id_str": "PJSC013",
       "name": "Kuma",
       "type": "Cruiser",
       "tier": 4,
@@ -514,6 +570,7 @@
     },
     {
       "id": "4281284304",
+      "id_str": "PJSB013",
       "name": "Amagi",
       "type": "Battleship",
       "tier": 8,
@@ -523,6 +580,7 @@
     },
     {
       "id": "4282267344",
+      "id_str": "PJSD012",
       "name": "Shimakaze",
       "type": "Destroyer",
       "tier": 10,
@@ -532,6 +590,7 @@
     },
     {
       "id": "4282300112",
+      "id_str": "PJSC012",
       "name": "Ibuki",
       "type": "Cruiser",
       "tier": 9,
@@ -541,6 +600,7 @@
     },
     {
       "id": "4283381456",
+      "id_str": "PJSB011",
       "name": "Mikasa",
       "type": "Battleship",
       "tier": 2,
@@ -550,6 +610,7 @@
     },
     {
       "id": "4284430032",
+      "id_str": "PJSB010",
       "name": "Nagato",
       "type": "Battleship",
       "tier": 7,
@@ -559,6 +620,7 @@
     },
     {
       "id": "4285445840",
+      "id_str": "PJSC009",
       "name": "Mogami",
       "type": "Cruiser",
       "tier": 8,
@@ -568,6 +630,7 @@
     },
     {
       "id": "4286494416",
+      "id_str": "PJSC008",
       "name": "Myōkō",
       "type": "Cruiser",
       "tier": 7,
@@ -577,6 +640,7 @@
     },
     {
       "id": "4286527184",
+      "id_str": "PJSB008",
       "name": "Ishizuchi",
       "type": "Battleship",
       "tier": 4,
@@ -586,6 +650,7 @@
     },
     {
       "id": "4287542992",
+      "id_str": "PJSC007",
       "name": "Aoba",
       "type": "Cruiser",
       "tier": 6,
@@ -595,6 +660,7 @@
     },
     {
       "id": "4287575760",
+      "id_str": "PJSB007",
       "name": "Kongō",
       "type": "Battleship",
       "tier": 5,
@@ -604,6 +670,7 @@
     },
     {
       "id": "4288624336",
+      "id_str": "PJSB006",
       "name": "Fusō",
       "type": "Battleship",
       "tier": 6,
@@ -613,6 +680,7 @@
     },
     {
       "id": "4289640144",
+      "id_str": "PJSC005",
       "name": "Furutaka",
       "type": "Cruiser",
       "tier": 5,
@@ -622,6 +690,7 @@
     },
     {
       "id": "4290655952",
+      "id_str": "PJSD004",
       "name": "Minekaze",
       "type": "Destroyer",
       "tier": 5,
@@ -631,6 +700,7 @@
     },
     {
       "id": "4290688720",
+      "id_str": "PJSC004",
       "name": "Yūbari",
       "type": "Cruiser",
       "tier": 4,
@@ -640,6 +710,7 @@
     },
     {
       "id": "4291704528",
+      "id_str": "PJSD003",
       "name": "Isokaze",
       "type": "Destroyer",
       "tier": 4,
@@ -649,6 +720,7 @@
     },
     {
       "id": "4291770064",
+      "id_str": "PJSB003",
       "name": "Myōgi",
       "type": "Battleship",
       "tier": 4,
@@ -658,6 +730,7 @@
     },
     {
       "id": "4292753104",
+      "id_str": "PJSD002",
       "name": "Umikaze",
       "type": "Destroyer",
       "tier": 2,
@@ -667,6 +740,7 @@
     },
     {
       "id": "4293801680",
+      "id_str": "PJSD001",
       "name": "Tachibana",
       "type": "Destroyer",
       "tier": 2,
@@ -676,6 +750,7 @@
     },
     {
       "id": "4293867216",
+      "id_str": "PJSB001",
       "name": "Kawachi",
       "type": "Battleship",
       "tier": 3,

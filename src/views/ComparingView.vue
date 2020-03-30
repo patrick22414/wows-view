@@ -15,9 +15,9 @@
 <script>
 export default {
   name: "ComparingView",
-  created: function() {
+  created: function () {
     this.$store.dispatch("changeSiteTitle", "WoWs View - Comparing");
-  }
+  },
 };
 </script>
 

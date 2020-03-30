@@ -10,6 +10,7 @@
   "data": [
     {
       "id": "3763221872",
+      "id_str": "PUSD507",
       "name": "Haida",
       "type": "Destroyer",
       "tier": 7,
@@ -19,6 +20,7 @@
     },
     {
       "id": "3764303216",
+      "id_str": "PUSC506",
       "name": "Perth",
       "type": "Cruiser",
       "tier": 6,
@@ -28,6 +30,7 @@
     },
     {
       "id": "3767416176",
+      "id_str": "PUSD503",
       "name": "Vampire",
       "type": "Destroyer",
       "tier": 3,

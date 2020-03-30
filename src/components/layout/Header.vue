@@ -1,6 +1,6 @@
 <template>
   <header>
-    <h1>{{getSiteTitle}}</h1>
+    <h1>{{ getSiteTitle }}</h1>
     <Nav />
   </header>
 </template>
@@ -12,9 +12,9 @@ import { mapGetters } from "vuex";
 export default {
   name: "Header",
   components: {
-    Nav
+    Nav,
   },
-  computed: mapGetters(["getSiteTitle"])
+  computed: mapGetters(["getSiteTitle"]),
 };
 </script>
 

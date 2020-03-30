@@ -11,9 +11,9 @@ import { mapGetters } from "vuex";
 export default {
   name: "Sidebar",
   components: {
-    Nation
+    Nation,
   },
-  computed: mapGetters(["getNations"])
+  computed: mapGetters(["getNations"]),
 };
 </script>
 
