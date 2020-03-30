@@ -8,7 +8,7 @@ SHIP_NATIONS = [
     // "commonwealth",
     // "europe",
     // "france",
-    // "germany",
+    "germany",
     // "italy",
     // "japan",
     // "pan_america",
@@ -19,32 +19,39 @@ SHIP_NATIONS = [
 ]
 
 SHIP_NATIONS.forEach(nation => {
-    const ships = require(`../assets/nations/${nation}.json`).data;
+    const nationJson = require(`../assets/nations/${nation}.json`);
+    console.log(nationJson.meta)
+
+    const ships = nationJson.data;
 
     ships.forEach(ship => {
-        axios.get(URL, {
-            params: {
-                application_id: APPID,
-                ship_id: ship.id,
-                language: "en",
-            }
-        })
-            .then(resp => {
-                console.log(`${nation} - ${ship.name}:`);
-                if (resp.data.status === "ok") {
-                    console.log("\tOK");
+        const filename = `./assets/ships/${ship.name}.json`
 
-                    const content = transformRawData(resp.data.data[ship.id]);
-                    const contentStr = JSON.stringify(content, null, 2);
-
-                    fs.writeFileSync(`./assets/ships/${ship.id}.json`, contentStr);
-                } else if (resp.data.status === "error") {
-                    console.log("\t", resp.data.error.message);
+        if (!fs.existsSync(filename)) {
+            axios.get(URL, {
+                params: {
+                    application_id: APPID,
+                    ship_id: ship.id,
+                    language: "en",
                 }
             })
-            .catch(err => {
-                console.error("\t", err.errno);
-            });
+                .then(resp => {
+                    console.log(`${nation} - ${ship.name}:`);
+                    if (resp.data.status === "ok") {
+                        console.log("\tOK");
+
+                        const content = resp.data.data[ship.id];
+                        const json = JSON.stringify(content, null, 2);
+
+                        fs.writeFileSync(filename, json);
+                    } else if (resp.data.status === "error") {
+                        console.log("\t", resp.data.error.message);
+                    }
+                })
+                .catch(err => {
+                    console.error("\t", err.errno);
+                });
+        }
 
         new Promise(r => setTimeout(r, 100)).then();
     })

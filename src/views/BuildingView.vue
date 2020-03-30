@@ -19,7 +19,7 @@ export default {
     Config
   },
   beforeCreate: function() {
-    this.$store.dispatch("selectShip", this.$route.params.id);
+    this.$store.dispatch("selectShip", this.$route.params.name);
   }
 };
 </script>

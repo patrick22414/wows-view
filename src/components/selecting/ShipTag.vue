@@ -1,5 +1,5 @@
 <template>
-  <router-link :to="`/building/${ship.id}`">
+  <router-link :to="`/building/${ship.name}`">
     <figure
       class="ship-tag"
       :class="{'ship-tag-premium': ship.is_premium, 'ship-tag-special': ship.is_special}"
@@ -66,7 +66,6 @@ export default {
 
     figcaption {
       background: rgba(0, 0, 0, 0.25);
-      z-index: 97;
     }
   }
 }

@@ -16,13 +16,13 @@ const getters = {
 }
 
 const actions = {
-    selectShip: function ({ commit }, id) {
-        const ship = require(`../../../assets/ships/${id}`)
+    selectShip: function ({ commit }, name) {
+        const ship = require(`../../../assets/ships/${name}`)
 
-        console.log(`select ship #${id} ${ship.name}`)
+        console.log(`select ship #${ship.ship_id} ${name}`)
 
         commit("setShip", ship)
-        commit("setSiteTitle", `WoWs View - Building - ${ship.name}`)
+        commit("setSiteTitle", `WoWs View - Building - ${name}`)
     }
 }
 

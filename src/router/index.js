@@ -27,7 +27,7 @@ const router = new VueRouter({
             component: SelectingWithNationView,
         },
         {
-            path: '/building/:id',
+            path: '/building/:name',
             name: 'building',
             component: BuildingView,
         },

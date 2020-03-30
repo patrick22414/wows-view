@@ -1,6 +1,5 @@
 <template>
   <div class="profile">
-    Building - Profile
     <div class="avatar">Profile Avatar</div>
     <div class="params">Profile Params</div>
   </div>
