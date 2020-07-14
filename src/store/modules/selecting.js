@@ -38,7 +38,7 @@ const actions = {
   selectNation: function ({ commit, state }, nationId) {
     console.log(`select nation ${nationId}`);
 
-    const ships = require(`../../../assets/nations/${nationId}`).data;
+    const ships = require(`../../assets/nations/${nationId}`).data;
 
     commit("setShips", ships);
     commit("setSelectedNation", nationId);

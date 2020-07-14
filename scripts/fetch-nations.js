@@ -36,7 +36,7 @@ NATIONS.forEach((nation) => {
         var content = resp.data;
         content.data = transformNationData(content.data);
 
-        fs.writeFileSync(`./assets/nations/${nation}.json`, JSON.stringify(content, null, 2));
+        fs.writeFileSync(`../src/assets/nations/${nation}.json`, JSON.stringify(content, null, 2));
       } else if (resp.data.status === "error") {
         console.log(resp.data.error.message);
       }
@@ -68,7 +68,8 @@ function transformNationData(data) {
       tier: ship.tier,
       is_premium: ship.is_premium,
       is_special: ship.is_special,
-      image: ship.images.small,
+      images: ship.images,
+      modules_tree: ship.modules_tree,
     });
   }
 

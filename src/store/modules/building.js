@@ -18,7 +18,7 @@ const getters = {
 
 const actions = {
   selectShip: function ({ commit }, name) {
-    const ship = require(`../../../assets/ships/${name}`);
+    const ship = require(`../../assets/ships/${name}`);
 
     console.log(`select ship #${ship.ship_id} ${name}`);
 

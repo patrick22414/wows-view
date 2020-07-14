@@ -2,7 +2,7 @@
   <router-link :to="`/building/${ship.name}`">
     <figure class="ship-tag" :class="{ 'ship-tag-premium': ship.is_premium, 'ship-tag-special': ship.is_special }">
       <div class="illuminant"></div>
-      <img :src="ship.image" width="120" height="72" />
+      <img :src="ship.images.small" width="107" />
       <figcaption>{{ ship.name }}</figcaption>
     </figure>
   </router-link>
@@ -26,6 +26,8 @@ export default {
   grid-template-rows: auto auto;
   grid-template-columns: auto;
 
+  overflow: hidden;
+
   .illuminant {
     grid-row: 1 / span 2;
     grid-column: 1;
@@ -39,6 +41,9 @@ export default {
     grid-row: 1 / span 2;
     grid-column: 1;
 
+    align-self: end;
+    justify-self: center;
+
     z-index: 98;
   }
 
@@ -46,17 +51,16 @@ export default {
     grid-row: 1;
     grid-column: 1;
 
+    align-self: start;
+
     z-index: 99;
 
     background: rgba(0, 0, 0, 0.75);
-    box-shadow: 0 0 4px rgba(0, 0, 0, 0.3);
 
     transition: all 0.4s ease;
   }
 
   &:hover {
-    // background: linear-gradient(skyblue, white);
-
     .illuminant {
       opacity: 1;
     }

@@ -14,7 +14,7 @@ axios
   .then((resp) => {
     if (resp.data.status === "ok") {
       const json = JSON.stringify(resp.data.data, null, 2);
-      fs.writeFileSync("./assets/encyclopedia.json", json);
+      fs.writeFileSync("../src/assets/encyclopedia.json", json);
     } else if (resp.data.status === "error") {
       console.log(resp.data.error.message);
     }

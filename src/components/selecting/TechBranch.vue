@@ -1,8 +1,8 @@
 <template>
   <div class="tech-branch">
     <h2>{{ title }}</h2>
-    <div v-for="tier in tiers.filter((tier) => hasShip(type, tier))" class="tier-tag" :key="tier">
-      <h3>{{ tierToRoman(tier) }}</h3>
+    <div v-for="tier in tiersWithShip" class="tier-tag" :key="tier">
+      <h3>{{ romanTiers[tier] }}</h3>
       <ShipTag v-for="ship in getShips(type, tier)" :key="ship.id" :ship="ship" />
     </div>
   </div>
@@ -21,37 +21,25 @@ export default {
   data: function () {
     return {
       tiers: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1],
+      romanTiers: {
+        "10": "X",
+        "9": "IX",
+        "8": "VIII",
+        "7": "VII",
+        "6": "VI",
+        "5": "V",
+        "4": "IV",
+        "3": "III",
+        "2": "II",
+        "1": "I",
+      },
     };
   },
-  computed: mapGetters(["getShips", "hasShip"]),
-  methods: {
-    tierToRoman: function (tier) {
-      switch (tier) {
-        case 10:
-          return "X";
-        case 9:
-          return "IX";
-        case 8:
-          return "VIII";
-        case 7:
-          return "VII";
-        case 6:
-          return "VI";
-        case 5:
-          return "V";
-        case 4:
-          return "IV";
-        case 3:
-          return "III";
-        case 2:
-          return "II";
-        case 1:
-          return "I";
-
-        default:
-          break;
-      }
+  computed: {
+    tiersWithShip: function () {
+      return this.tiers.filter((tier) => this.hasShip(this.type, tier));
     },
+    ...mapGetters(["getShips", "hasShip"]),
   },
 };
 </script>

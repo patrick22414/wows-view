@@ -29,6 +29,7 @@ export default {
   height: 100vh;
 
   min-width: 900px;
+  min-height: 600px;
 
   font-family: "Oswald", -apple-system, "Segoe UI", Roboto, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -36,7 +37,7 @@ export default {
 
   text-align: center;
   color: whitesmoke;
-  background-image: url(../assets/background.jpg);
+  background-image: url(./assets/background.jpg);
   background-size: cover;
 
   overflow: hidden;

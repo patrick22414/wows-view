@@ -1,0 +1,1544 @@
+{
+  "status": "ok",
+  "meta": {
+    "count": 17,
+    "page_total": 1,
+    "total": 17,
+    "limit": 100,
+    "page": 1
+  },
+  "data": [
+    {
+      "id": "3751720144",
+      "id_str": "PZSC518",
+      "name": "Wukong",
+      "type": "Cruiser",
+      "tier": 8,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSC518_f7bacab970b078f07e1e372e770ae27cd3a70dd3b48bd42f47acc906e11ed607.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PZSC518_31ded06162cb2dc758e7554ef02d6f239ae9176d302a427e446cb244e82af9a2.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PZSC518_50f8161817ce8ce179073ea51325616b362706c901694839476d477b4ffbf684.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PZSC518_9d33ec8211dc0130ea43e0bf3ed4c58c050d12962308c2063556679b6756b0ae.png"
+      },
+      "modules_tree": {
+        "3552980176": {
+          "name": "550 mm 23DT",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3552980176,
+          "type": "Torpedoes",
+          "module_id_str": "PZUT707"
+        },
+        "3554061520": {
+          "name": "PCA n° 8 Mle 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3554061520,
+          "type": "Suo",
+          "module_id_str": "PZUS706"
+        },
+        "3554421968": {
+          "name": "Wukong",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3554421968,
+          "type": "Hull",
+          "module_id_str": "PZUH706"
+        },
+        "3555568848": {
+          "name": "Propulsion: 100,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3555568848,
+          "type": "Engine",
+          "module_id_str": "PZUE705"
+        },
+        "3555699920": {
+          "name": "203 mm/55 Mle 1934",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3555699920,
+          "type": "Artillery",
+          "module_id_str": "PZUA705"
+        }
+      }
+    },
+    {
+      "id": "3761190096",
+      "id_str": "PZSB509",
+      "name": "Bajie",
+      "type": "Battleship",
+      "tier": 9,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSB509_8b3e5000d6bd41e940806ceae5c72b7e16ea54f6a439dabf8041bbb424db98ae.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PZSB509_4e17ce79ab994d69792af766baad12771867567e3fb0f5f07f5e7dd075b05d32.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PZSB509_80e65cb919d4cdd7f2ea85ad58a3f8e33797a2e79ad2d1f7a005689c6bd137af.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PZSB509_b27ed37b97cd2ab02e7a9be458972e8d0a5e41754bc404bfe82c39edeb9e8d0d.png"
+      },
+      "modules_tree": {
+        "3452349648": {
+          "name": "Type9 mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3452349648,
+          "type": "Suo",
+          "module_id_str": "PZUS803"
+        },
+        "3452710096": {
+          "name": "Bajie",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3452710096,
+          "type": "Hull",
+          "module_id_str": "PZUH803"
+        },
+        "3453856976": {
+          "name": "Propulsion: 135,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3453856976,
+          "type": "Engine",
+          "module_id_str": "PZUE802"
+        },
+        "3453988048": {
+          "name": "410 mm/50 10th Year Type",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3453988048,
+          "type": "Artillery",
+          "module_id_str": "PZUA802"
+        }
+      }
+    },
+    {
+      "id": "3762173136",
+      "id_str": "PZSD508",
+      "name": "Loyang",
+      "type": "Destroyer",
+      "tier": 8,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSD508_e24bc8a7bc321dd877414d2223334d7037572eea68655535bf05a977e8608eb0.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PZSD508_b5861257d66fb918edd83b5f141674be5ba1e17697c1d7c2b09934a4ef82eceb.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PZSD508_ea39180b0e17692444a8745eacc3e10cc52c3b5ba81e9c1dfbacabb1993d6ce6.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PZSD508_ec083709a7cae9582e32209aad42ac2c60df0974ed3d969602ac71805e595a38.png"
+      },
+      "modules_tree": {
+        "3557174480": {
+          "name": "533 mm Mk15 mod. 0",
+          "next_modules": [
+            3558223056
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3557174480,
+          "type": "Torpedoes",
+          "module_id_str": "PZUT703"
+        },
+        "3558223056": {
+          "name": "533 mm Mk31",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3558223056,
+          "type": "Torpedoes",
+          "module_id_str": "PZUT702"
+        },
+        "3559304400": {
+          "name": "Mk8 mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3559304400,
+          "type": "Suo",
+          "module_id_str": "PZUS701"
+        },
+        "3559664848": {
+          "name": "Loyang",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3559664848,
+          "type": "Hull",
+          "module_id_str": "PZUH701"
+        },
+        "3559763152": {
+          "name": "Propulsion: 50,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3559763152,
+          "type": "Engine",
+          "module_id_str": "PZUE701"
+        },
+        "3559894224": {
+          "name": "127 mm/38 Mk30",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3559894224,
+          "type": "Artillery",
+          "module_id_str": "PZUA701"
+        }
+      }
+    },
+    {
+      "id": "3762205904",
+      "id_str": "PZSC508",
+      "name": "Irian",
+      "type": "Cruiser",
+      "tier": 8,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSC508_0605d18babad08c2fdacbee009d61c6492033ac5d47d6d71cd38c59cf4e26ce2.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PZSC508_c7cfd31985c0fc348706c36ea82b04d445bbbecceae8eddfe7ca25b1e627660f.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PZSC508_fd51c9ca67f5ef164fd5f84843fcb7363c3e3f9ae57f093b05e21b1d5c789cd9.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PZSC508_f8a09440ff0b7067d465a4c2b825d16b1443e85bff9297f2209a567cd33d2a17.png"
+      },
+      "modules_tree": {
+        "3555077328": {
+          "name": "Mark 17",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3555077328,
+          "type": "Torpedoes",
+          "module_id_str": "PZUT705"
+        },
+        "3556158672": {
+          "name": "GFCS VIII mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3556158672,
+          "type": "Suo",
+          "module_id_str": "PZUS704"
+        },
+        "3556519120": {
+          "name": "Irian",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3556519120,
+          "type": "Hull",
+          "module_id_str": "PZUH704"
+        },
+        "3557666000": {
+          "name": "Propulsion: 121,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3557666000,
+          "type": "Engine",
+          "module_id_str": "PZUE703"
+        },
+        "3557797072": {
+          "name": "152 mm/57 MK-5-bis",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3557797072,
+          "type": "Artillery",
+          "module_id_str": "PZUA703"
+        }
+      }
+    },
+    {
+      "id": "3764270288",
+      "id_str": "PZSD506",
+      "name": "Anshan",
+      "type": "Destroyer",
+      "tier": 6,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSD506_c15e19bdc93bcccd33d8329062a460b4f886f657d9db057cae6717140a281155.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PZSD506_97501931a59f44d7199506780905b6301eaaec6c465dbf0e982e505eb45867fe.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PZSD506_26ad47fcd2e745443f0bb9a943ee067e34f75b613f397fd1472ce51a8a466a61.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PZSD506_1a55ee377e91e64f5628e0a5f4600ea764b9234a6aafc07b9757dcf0717dcc9c.png"
+      },
+      "modules_tree": {
+        "3767938256": {
+          "name": "533 mm 53-51",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3767938256,
+          "type": "Torpedoes",
+          "module_id_str": "PZUT502"
+        },
+        "3768986832": {
+          "name": "533 mm 53-38",
+          "next_modules": [
+            3767938256
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3768986832,
+          "type": "Torpedoes",
+          "module_id_str": "PZUT501"
+        },
+        "3769019600": {
+          "name": "Shèjī Kòngzhì Xìtǒng 6 Shì",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3769019600,
+          "type": "Suo",
+          "module_id_str": "PZUS501"
+        },
+        "3769380048": {
+          "name": "Anshan",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3769380048,
+          "type": "Hull",
+          "module_id_str": "PZUH501"
+        },
+        "3769478352": {
+          "name": "Propulsion: 48,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3769478352,
+          "type": "Engine",
+          "module_id_str": "PZUE501"
+        },
+        "3769609424": {
+          "name": "130 mm/50 M1936 shì",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3769609424,
+          "type": "Artillery",
+          "module_id_str": "PZUA501"
+        }
+      }
+    },
+    {
+      "id": "3764303056",
+      "id_str": "PZSC506",
+      "name": "Huanghe",
+      "type": "Cruiser",
+      "tier": 6,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSC506_b25a8e7a3e744f47f3ae216378f3dc038883737dd91cadb0f22a741668651a54.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PZSC506_2d187ee9001fea952648916de1c0cf9f607de723fdb8f0d51b2623b94f248e75.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PZSC506_3cac3566a3db6374be6eb7e84cb63ab883330005c983965d46c886476237d9c9.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PZSC506_e63f09fd0617be90192b7e473ec3726007d2ae8d317fab24333a4c6ad66e6c0c.png"
+      },
+      "modules_tree": {
+        "3764792528": {
+          "name": "533 mm 53-51",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3764792528,
+          "type": "Torpedoes",
+          "module_id_str": "PZUT505"
+        },
+        "3765873872": {
+          "name": "GFCS VI mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3765873872,
+          "type": "Suo",
+          "module_id_str": "PZUS504"
+        },
+        "3766234320": {
+          "name": "Huanghe",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3766234320,
+          "type": "Hull",
+          "module_id_str": "PZUH504"
+        },
+        "3767381200": {
+          "name": "Propulsion: 64,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3767381200,
+          "type": "Engine",
+          "module_id_str": "PZUE503"
+        },
+        "3767512272": {
+          "name": "152 mm/57 MK-4",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3767512272,
+          "type": "Artillery",
+          "module_id_str": "PZUA503"
+        }
+      }
+    },
+    {
+      "id": "4076745936",
+      "id_str": "PZSD208",
+      "name": "Siliwangi",
+      "type": "Destroyer",
+      "tier": 8,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSD208_d7b9f7f1cf99a5ce0b17c5b3987ed872df39c7fc5cd4d6bbcfdd00bc34efd6fd.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PZSD208_9255dc5566eea83e78fc4ce15a301112f9afe187ca2e945dffcd25bbeedc4781.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PZSD208_26f3b4b88f9a9bc818d91c5538d30abfc39a4a4ee9d25ef5bba5abf9d42996eb.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PZSD208_7c4f125f56310d2c54b81524b8338fa2a17618c922627345e22cc9b7665c949e.png"
+      },
+      "modules_tree": {
+        "3554028752": {
+          "name": "533 mm 53-56",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3554028752,
+          "type": "Torpedoes",
+          "module_id_str": "PZUT706"
+        },
+        "3555110096": {
+          "name": "GFCS VIII mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3555110096,
+          "type": "Suo",
+          "module_id_str": "PZUS705"
+        },
+        "3555470544": {
+          "name": "Siliwangi",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3555470544,
+          "type": "Hull",
+          "module_id_str": "PZUH705"
+        },
+        "3556617424": {
+          "name": "Propulsion: 62,100 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3556617424,
+          "type": "Engine",
+          "module_id_str": "PZUE704"
+        },
+        "3556748496": {
+          "name": "130 mm/50 B-2LM",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3556748496,
+          "type": "Artillery",
+          "module_id_str": "PZUA704"
+        }
+      }
+    },
+    {
+      "id": "4179506384",
+      "id_str": "PZSD110",
+      "name": "Yueyang",
+      "type": "Destroyer",
+      "tier": 10,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSD110_c87b452aed8b57078d48466e7919467e3f6aaaefbd8f0da7b24b4a085669e7c9.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PZSD110_c6fe2f8e5e8177ec0c5c93f25e4109f36b838b998b8c3fdfc65f94cf1eb71e28.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PZSD110_ca02aba7fa54b998c66d2d0157b85391b4400d39e5f59e72f9f37609b8b19f25.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PZSD110_6fecbbb386b6bd47ef3fcf7c3ae30f00a956c3bb8763536900b058af49465a39.png"
+      },
+      "modules_tree": {
+        "3349556432": {
+          "name": "Mark 17",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1500000,
+          "next_ships": null,
+          "module_id": 3349556432,
+          "type": "Torpedoes",
+          "module_id_str": "PZUT901"
+        },
+        "3349589200": {
+          "name": "Mk10 mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1700000,
+          "next_ships": null,
+          "module_id": 3349589200,
+          "type": "Suo",
+          "module_id_str": "PZUS901"
+        },
+        "3349949648": {
+          "name": "Yueyang (A)",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2350000,
+          "next_ships": null,
+          "module_id": 3349949648,
+          "type": "Hull",
+          "module_id_str": "PZUH901"
+        },
+        "3350047952": {
+          "name": "Propulsion: 60,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1800000,
+          "next_ships": null,
+          "module_id": 3350047952,
+          "type": "Engine",
+          "module_id_str": "PZUE901"
+        },
+        "3350179024": {
+          "name": "127 mm/38 Mk38",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2000000,
+          "next_ships": null,
+          "module_id": 3350179024,
+          "type": "Artillery",
+          "module_id_str": "PZUA901"
+        }
+      }
+    },
+    {
+      "id": "4180554960",
+      "id_str": "PZSD109",
+      "name": "Chung Mu",
+      "type": "Destroyer",
+      "tier": 9,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSD109_01c2cd5db13b8d1dc93d3b9d289e5a47be6d36e3f39da11253e5f8c2ab335ae3.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PZSD109_a5e8072d8eab48b199a9c8a980113e8504e617717dfba4c86d00126d8c1b1a77.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PZSD109_bd2ad9cafab44e1a989d9834b19961ab0574797bcf6d681113c422562548b4d8.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PZSD109_1de2dcbaca915bff1cb709f5ad2eb389528018799944c40346931958648516d1.png"
+      },
+      "modules_tree": {
+        "3453365456": {
+          "name": "Mk16 mod. 1",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 25000,
+          "price_credit": 1900000,
+          "next_ships": null,
+          "module_id": 3453365456,
+          "type": "Torpedoes",
+          "module_id_str": "PZUT802"
+        },
+        "3453398224": {
+          "name": "Mk9 mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 20000,
+          "price_credit": 1500000,
+          "next_ships": null,
+          "module_id": 3453398224,
+          "type": "Suo",
+          "module_id_str": "PZUS802"
+        },
+        "3453758672": {
+          "name": "Chung Mu (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 40000,
+          "price_credit": 3200000,
+          "next_ships": [
+            4179506384
+          ],
+          "module_id": 3453758672,
+          "type": "Hull",
+          "module_id_str": "PZUH802"
+        },
+        "3454414032": {
+          "name": "Mk15 mod. 3",
+          "next_modules": [
+            3453365456
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1300000,
+          "next_ships": null,
+          "module_id": 3454414032,
+          "type": "Torpedoes",
+          "module_id_str": "PZUT801"
+        },
+        "3454446800": {
+          "name": "Mk9 mod. 1",
+          "next_modules": [
+            3453398224
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 900000,
+          "next_ships": null,
+          "module_id": 3454446800,
+          "type": "Suo",
+          "module_id_str": "PZUS801"
+        },
+        "3454807248": {
+          "name": "Chung Mu (A)",
+          "next_modules": [
+            3453758672
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1400000,
+          "next_ships": null,
+          "module_id": 3454807248,
+          "type": "Hull",
+          "module_id_str": "PZUH801"
+        },
+        "3454905552": {
+          "name": "Propulsion: 60,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1100000,
+          "next_ships": null,
+          "module_id": 3454905552,
+          "type": "Engine",
+          "module_id_str": "PZUE801"
+        },
+        "3455036624": {
+          "name": "127 mm/38 Mk30",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1000000,
+          "next_ships": null,
+          "module_id": 3455036624,
+          "type": "Artillery",
+          "module_id_str": "PZUA801"
+        }
+      }
+    },
+    {
+      "id": "4181603536",
+      "id_str": "PZSD108",
+      "name": "Hsienyang",
+      "type": "Destroyer",
+      "tier": 8,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSD108_3cf1a30e667e581e46b0764f3dcc3725fad3dd64af4a2f85d817c43235e425a4.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PZSD108_4d4b1dc569168f2b0ca324fec11cadd5d5365da328acba05af008a1a4d416899.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PZSD108_bcedc1d0d93ce5f5f6c5dd2244e95bdb58c4e87f4d78f15e22934e6480f94ed1.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PZSD108_01f68ac50a1206da5c09ad5dbe4ebe12a8aeee9e6cdda002ed7ab5492d801ddb.png"
+      },
+      "modules_tree": {
+        "3556125904": {
+          "name": "Mk15 mod. 3",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 20000,
+          "price_credit": 1500000,
+          "next_ships": null,
+          "module_id": 3556125904,
+          "type": "Torpedoes",
+          "module_id_str": "PZUT704"
+        },
+        "3557207248": {
+          "name": "Mk8 mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 14000,
+          "price_credit": 1400000,
+          "next_ships": null,
+          "module_id": 3557207248,
+          "type": "Suo",
+          "module_id_str": "PZUS703"
+        },
+        "3557567696": {
+          "name": "Hsienyang (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 30000,
+          "price_credit": 2500000,
+          "next_ships": [
+            4180554960
+          ],
+          "module_id": 3557567696,
+          "type": "Hull",
+          "module_id_str": "PZUH703"
+        },
+        "3558255824": {
+          "name": "Mk8 mod. 1",
+          "next_modules": [
+            3557207248
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 400000,
+          "next_ships": null,
+          "module_id": 3558255824,
+          "type": "Suo",
+          "module_id_str": "PZUS702"
+        },
+        "3558616272": {
+          "name": "Hsienyang (A)",
+          "next_modules": [
+            3557567696
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 850000,
+          "next_ships": null,
+          "module_id": 3558616272,
+          "type": "Hull",
+          "module_id_str": "PZUH702"
+        },
+        "3558714576": {
+          "name": "Propulsion: 50,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 700000,
+          "next_ships": null,
+          "module_id": 3558714576,
+          "type": "Engine",
+          "module_id_str": "PZUE702"
+        },
+        "3558845648": {
+          "name": "127 mm/38 Mk30",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 650000,
+          "next_ships": null,
+          "module_id": 3558845648,
+          "type": "Artillery",
+          "module_id_str": "PZUA702"
+        },
+        "3559271632": {
+          "name": "533 mm Mk IX*",
+          "next_modules": [
+            3556125904
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 800000,
+          "next_ships": null,
+          "module_id": 3559271632,
+          "type": "Torpedoes",
+          "module_id_str": "PZUT701"
+        }
+      }
+    },
+    {
+      "id": "4182652112",
+      "id_str": "PZSD107",
+      "name": "Gadjah Mada",
+      "type": "Destroyer",
+      "tier": 7,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSD107_6a303812ba4d1ed539eaa5a5442f16196c371c3b528fcc888df00ddaa48f563d.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PZSD107_957c172a82640d7d12dcfbb1ddec2f8fa19b953a80c78a4f8eba818c78061918.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PZSD107_9b194f6d7164498e11f79a32787c47c235ce90144f96d24b3028723abe4ba0dc.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PZSD107_1306c1d6eed46d0ab747c4ff964e9493fbdde464e6050b9e8909d11f9570a5d4.png"
+      },
+      "modules_tree": {
+        "3663080656": {
+          "name": "533 mm Mk IX*",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 11000,
+          "price_credit": 800000,
+          "next_ships": null,
+          "module_id": 3663080656,
+          "type": "Torpedoes",
+          "module_id_str": "PZUT602"
+        },
+        "3663113424": {
+          "name": "Mk VII mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 12000,
+          "price_credit": 1000000,
+          "next_ships": null,
+          "module_id": 3663113424,
+          "type": "Suo",
+          "module_id_str": "PZUS602"
+        },
+        "3663473872": {
+          "name": "Gadjah Mada (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 17500,
+          "price_credit": 1400000,
+          "next_ships": [
+            4181603536
+          ],
+          "module_id": 3663473872,
+          "type": "Hull",
+          "module_id_str": "PZUH602"
+        },
+        "3664129232": {
+          "name": "533 mm 53-51",
+          "next_modules": [
+            3663080656
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 430000,
+          "next_ships": null,
+          "module_id": 3664129232,
+          "type": "Torpedoes",
+          "module_id_str": "PZUT601"
+        },
+        "3664162000": {
+          "name": "Mk VII mod. 1",
+          "next_modules": [
+            3663113424
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 350000,
+          "next_ships": null,
+          "module_id": 3664162000,
+          "type": "Suo",
+          "module_id_str": "PZUS601"
+        },
+        "3664522448": {
+          "name": "Gadjah Mada (A)",
+          "next_modules": [
+            3663473872
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 600000,
+          "next_ships": null,
+          "module_id": 3664522448,
+          "type": "Hull",
+          "module_id_str": "PZUH601"
+        },
+        "3664620752": {
+          "name": "Propulsion: 44,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 405000,
+          "next_ships": null,
+          "module_id": 3664620752,
+          "type": "Engine",
+          "module_id_str": "PZUE601"
+        },
+        "3664751824": {
+          "name": "120 mm/45 CPXIX",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 420000,
+          "next_ships": null,
+          "module_id": 3664751824,
+          "type": "Artillery",
+          "module_id_str": "PZUA601"
+        }
+      }
+    },
+    {
+      "id": "4183700688",
+      "id_str": "PZSD106",
+      "name": "Fushun",
+      "type": "Destroyer",
+      "tier": 6,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSD106_9c86ed26df83e8a946fde426545d0869d3a9f49df9cd6e60360b3c8ede3ecb7c.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PZSD106_11a2d7ee02a0d15ef8e957dee05349f1f37b40b9b57195249d3fac095de3727f.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PZSD106_1867bff63be8108382e59da0e2250917ccfc3fe6ec9d78f9c65639c625bda1b5.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PZSD106_ede45f353ffc495ff22ec31318ba3c4f57c10d8e1a4eb961c433b31558ba17b0.png"
+      },
+      "modules_tree": {
+        "3765841104": {
+          "name": "533 mm 53-51",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 6000,
+          "price_credit": 480000,
+          "next_ships": null,
+          "module_id": 3765841104,
+          "type": "Torpedoes",
+          "module_id_str": "PZUT504"
+        },
+        "3766889680": {
+          "name": "533 mm Mk VIII",
+          "next_modules": [
+            3765841104
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 250000,
+          "next_ships": null,
+          "module_id": 3766889680,
+          "type": "Torpedoes",
+          "module_id_str": "PZUT503"
+        },
+        "3766922448": {
+          "name": "GFCS VI mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 7000,
+          "price_credit": 580000,
+          "next_ships": null,
+          "module_id": 3766922448,
+          "type": "Suo",
+          "module_id_str": "PZUS503"
+        },
+        "3767282896": {
+          "name": "Fushun (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 11000,
+          "price_credit": 860000,
+          "next_ships": [
+            4182652112
+          ],
+          "module_id": 3767282896,
+          "type": "Hull",
+          "module_id_str": "PZUH503"
+        },
+        "3767971024": {
+          "name": "GFCS VI mod. 1",
+          "next_modules": [
+            3766922448
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 180000,
+          "next_ships": null,
+          "module_id": 3767971024,
+          "type": "Suo",
+          "module_id_str": "PZUS502"
+        },
+        "3768331472": {
+          "name": "Fushun (A)",
+          "next_modules": [
+            3767282896
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 380000,
+          "next_ships": null,
+          "module_id": 3768331472,
+          "type": "Hull",
+          "module_id_str": "PZUH502"
+        },
+        "3768429776": {
+          "name": "Propulsion: 48,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 150000,
+          "next_ships": null,
+          "module_id": 3768429776,
+          "type": "Engine",
+          "module_id_str": "PZUE502"
+        },
+        "3768560848": {
+          "name": "130 mm/50 M1936 shì",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 170000,
+          "next_ships": null,
+          "module_id": 3768560848,
+          "type": "Artillery",
+          "module_id_str": "PZUA502"
+        }
+      }
+    },
+    {
+      "id": "4184749264",
+      "id_str": "PZSD105",
+      "name": "Jianwei",
+      "type": "Destroyer",
+      "tier": 5,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSD105_51993ca1acf2972ced63f23980395e1bd678b23f161f2e209bfd9367ee98331d.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PZSD105_2bd100578d431c4a3dde82fb4d096139c312b8115125a7278c40ca5ef22421fa.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PZSD105_dc1dfa1e5c95b3d557e86876613d2697bbdfacb123ae0bc941d8f8cdc515b762.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PZSD105_f39f3a2727c25a5b1351d4b544bc0a937fd8f7d7ec55cd3e11828805506c7c3c.png"
+      },
+      "modules_tree": {
+        "3872795856": {
+          "name": "533 mm Mk VIII",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 2800,
+          "price_credit": 260000,
+          "next_ships": null,
+          "module_id": 3872795856,
+          "type": "Torpedoes",
+          "module_id_str": "PZUT402"
+        },
+        "3872828624": {
+          "name": "Mk V mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 3400,
+          "price_credit": 310000,
+          "next_ships": null,
+          "module_id": 3872828624,
+          "type": "Suo",
+          "module_id_str": "PZUS402"
+        },
+        "3873189072": {
+          "name": "Jianwei (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 5000,
+          "price_credit": 470000,
+          "next_ships": [
+            4183700688
+          ],
+          "module_id": 3873189072,
+          "type": "Hull",
+          "module_id_str": "PZUH402"
+        },
+        "3873844432": {
+          "name": "Mark 11",
+          "next_modules": [
+            3872795856
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 100000,
+          "next_ships": null,
+          "module_id": 3873844432,
+          "type": "Torpedoes",
+          "module_id_str": "PZUT401"
+        },
+        "3873877200": {
+          "name": "Mk V mod. 1",
+          "next_modules": [
+            3872828624
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 110000,
+          "next_ships": null,
+          "module_id": 3873877200,
+          "type": "Suo",
+          "module_id_str": "PZUS401"
+        },
+        "3874237648": {
+          "name": "Jianwei (A)",
+          "next_modules": [
+            3873189072
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 160000,
+          "next_ships": null,
+          "module_id": 3874237648,
+          "type": "Hull",
+          "module_id_str": "PZUH401"
+        },
+        "3874335952": {
+          "name": "Propulsion: 40,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 125000,
+          "next_ships": null,
+          "module_id": 3874335952,
+          "type": "Engine",
+          "module_id_str": "PZUE401"
+        },
+        "3874467024": {
+          "name": "120 mm/45 BL Mk I",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 100000,
+          "next_ships": null,
+          "module_id": 3874467024,
+          "type": "Artillery",
+          "module_id_str": "PZUA401"
+        }
+      }
+    },
+    {
+      "id": "4185797840",
+      "id_str": "PZSD104",
+      "name": "Shenyang",
+      "type": "Destroyer",
+      "tier": 4,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSD104_4f1f5b3ad225402e9a29f7c0b31f32f2adf436e6aff2283045399ec7ca246d30.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PZSD104_0b92bb834b27527dcc05e091c718ffa70e195132a3b43985c0cbea92a526a28f.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PZSD104_e888521e40cecd8d4e1d258a56cbe1f74cc74d02966f6e57d8c9b380fef16b41.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PZSD104_dbed21e1e70ab1f26b78e4c4d67cca3e2755b9138607c5552f80c619d404a8a9.png"
+      },
+      "modules_tree": {
+        "3977653456": {
+          "name": "Mark 11",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 1350,
+          "price_credit": 200000,
+          "next_ships": null,
+          "module_id": 3977653456,
+          "type": "Torpedoes",
+          "module_id_str": "PZUT302"
+        },
+        "3977686224": {
+          "name": "Mk4 mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 850,
+          "price_credit": 80000,
+          "next_ships": null,
+          "module_id": 3977686224,
+          "type": "Suo",
+          "module_id_str": "PZUS302"
+        },
+        "3978046672": {
+          "name": "Shenyang (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 1100,
+          "price_credit": 150000,
+          "next_ships": [
+            4184749264
+          ],
+          "module_id": 3978046672,
+          "type": "Hull",
+          "module_id_str": "PZUH302"
+        },
+        "3978702032": {
+          "name": "533 mm Mk II",
+          "next_modules": [
+            3977653456
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 88000,
+          "next_ships": null,
+          "module_id": 3978702032,
+          "type": "Torpedoes",
+          "module_id_str": "PZUT301"
+        },
+        "3978734800": {
+          "name": "Mk4 mod. 1",
+          "next_modules": [
+            3977686224
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 38000,
+          "next_ships": null,
+          "module_id": 3978734800,
+          "type": "Suo",
+          "module_id_str": "PZUS301"
+        },
+        "3979095248": {
+          "name": "Shenyang (A)",
+          "next_modules": [
+            3978046672
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 65000,
+          "next_ships": null,
+          "module_id": 3979095248,
+          "type": "Hull",
+          "module_id_str": "PZUH301"
+        },
+        "3979193552": {
+          "name": "Propulsion: 38,500 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 43000,
+          "next_ships": null,
+          "module_id": 3979193552,
+          "type": "Engine",
+          "module_id_str": "PZUE301"
+        },
+        "3979324624": {
+          "name": "127 mm/51 Mark 7",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 45000,
+          "next_ships": null,
+          "module_id": 3979324624,
+          "type": "Artillery",
+          "module_id_str": "PZUA301"
+        }
+      }
+    },
+    {
+      "id": "4186846416",
+      "id_str": "PZSD103",
+      "name": "Phra Ruang",
+      "type": "Destroyer",
+      "tier": 3,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSD103_4a7c0a61010701df997f7ab2aba4d7484fbdc797fd700af94443c54db4cd08d2.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PZSD103_6dcf9d37aa2ab1ce6ea96a4f3f5c1da5a959b11173c69792a411587354c61349.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PZSD103_774840e2e8d818df504e0b8ff7e52df9dc431991d5c1b1e77b6995a6e30e4828.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PZSD103_50500cab22fecd8c09d919bcb9b8eef561448177d7b17dd48e36840fb30fa080.png"
+      },
+      "modules_tree": {
+        "4082543824": {
+          "name": "Mk III mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 400,
+          "price_credit": 52000,
+          "next_ships": null,
+          "module_id": 4082543824,
+          "type": "Suo",
+          "module_id_str": "PZUS202"
+        },
+        "4082904272": {
+          "name": "Phra Ruang (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 800,
+          "price_credit": 96000,
+          "next_ships": [
+            4185797840
+          ],
+          "module_id": 4082904272,
+          "type": "Hull",
+          "module_id_str": "PZUH202"
+        },
+        "4083559632": {
+          "name": "533 mm Mk II",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 21000,
+          "next_ships": null,
+          "module_id": 4083559632,
+          "type": "Torpedoes",
+          "module_id_str": "PZUT201"
+        },
+        "4083592400": {
+          "name": "Mk III mod. 1",
+          "next_modules": [
+            4082543824
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 20500,
+          "next_ships": null,
+          "module_id": 4083592400,
+          "type": "Suo",
+          "module_id_str": "PZUS201"
+        },
+        "4083952848": {
+          "name": "Phra Ruang (A)",
+          "next_modules": [
+            4082904272
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 38000,
+          "next_ships": null,
+          "module_id": 4083952848,
+          "type": "Hull",
+          "module_id_str": "PZUH201"
+        },
+        "4084051152": {
+          "name": "Propulsion: 27,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 21000,
+          "next_ships": null,
+          "module_id": 4084051152,
+          "type": "Engine",
+          "module_id_str": "PZUE201"
+        },
+        "4084182224": {
+          "name": "102 mm/40 PIX",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 25000,
+          "next_ships": null,
+          "module_id": 4084182224,
+          "type": "Artillery",
+          "module_id_str": "PZUA201"
+        }
+      }
+    },
+    {
+      "id": "4187894992",
+      "id_str": "PZSD102",
+      "name": "Longjiang",
+      "type": "Destroyer",
+      "tier": 2,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSD102_56803877da32e7f15061c4b29f51d31fa5afd90dd6f1a3ce341f17846fb235db.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PZSD102_76b906d0dd552bf64da4db36e520e3e14a8a944d6b9a4dc567a600e256dec284.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PZSD102_256b6c1c05e9527a7fb278d5ec376c00f80c059aae6b72090a21a4fcd18f09b0.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PZSD102_be04312016fefc4c9e693d5a0c23b7a99643838776fbf1c042bc2a474b687d7e.png"
+      },
+      "modules_tree": {
+        "4187401424": {
+          "name": "FKS Typ 2 Mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 230,
+          "price_credit": 16000,
+          "next_ships": null,
+          "module_id": 4187401424,
+          "type": "Suo",
+          "module_id_str": "PZUS102"
+        },
+        "4187761872": {
+          "name": "Longjiang (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 270,
+          "price_credit": 28000,
+          "next_ships": [
+            4186846416
+          ],
+          "module_id": 4187761872,
+          "type": "Hull",
+          "module_id_str": "PZUH102"
+        },
+        "4188417232": {
+          "name": "G/6 D",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 9500,
+          "next_ships": null,
+          "module_id": 4188417232,
+          "type": "Torpedoes",
+          "module_id_str": "PZUT101"
+        },
+        "4188450000": {
+          "name": "FKS Typ 2 Mod. 1",
+          "next_modules": [
+            4187401424
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 4500,
+          "next_ships": null,
+          "module_id": 4188450000,
+          "type": "Suo",
+          "module_id_str": "PZUS101"
+        },
+        "4188810448": {
+          "name": "Longjiang (A)",
+          "next_modules": [
+            4187761872
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 10000,
+          "next_ships": null,
+          "module_id": 4188810448,
+          "type": "Hull",
+          "module_id_str": "PZUH101"
+        },
+        "4188908752": {
+          "name": "Propulsion: 24,800 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 5000,
+          "next_ships": null,
+          "module_id": 4188908752,
+          "type": "Engine",
+          "module_id_str": "PZUE101"
+        },
+        "4189039824": {
+          "name": "105 mm L/45 Tbts LC/16",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 7500,
+          "next_ships": null,
+          "module_id": 4189039824,
+          "type": "Artillery",
+          "module_id_str": "PZUA101"
+        }
+      }
+    },
+    {
+      "id": "4188976336",
+      "id_str": "PZSC101",
+      "name": "Chengan",
+      "type": "Cruiser",
+      "tier": 1,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PZSC101_e2d9c4c1fee42333b79ccb39822709e0784eeda19fd291e6ddf577f600173394.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PZSC101_f3a480a741fa5dd67a73405070f37fd388e91eb57e2f7fb32c4d63ffbcee1bd3.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PZSC101_e03c73a2287a637bca8c3c9dc4764fc129bc68c5f7cb96635512d1194b8b248a.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PZSC101_75b2461c3f36d7bcb14b727260d2a8d0b084ba2c2707bbafd582dd2fd3fab3ae.png"
+      },
+      "modules_tree": {
+        "4293307600": {
+          "name": "Type1 mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4293307600,
+          "type": "Suo",
+          "module_id_str": "PZUS001"
+        },
+        "4293668048": {
+          "name": "Chengan (A)",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": [
+            4187894992
+          ],
+          "module_id": 4293668048,
+          "type": "Hull",
+          "module_id_str": "PZUH001"
+        },
+        "4293766352": {
+          "name": "Propulsion: 2,500 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4293766352,
+          "type": "Engine",
+          "module_id_str": "PZUE001"
+        },
+        "4293897424": {
+          "name": "127 mm/40 Type89",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4293897424,
+          "type": "Artillery",
+          "module_id_str": "PZUA001"
+        }
+      }
+    }
+  ]
+}

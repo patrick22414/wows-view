@@ -1,5 +1,5 @@
 <template>
-  <router-link class="nation" :to="`/selecting/${nation.id}`">
+  <router-link class="nation-tag" :to="`/selecting/${nation.id}`">
     <div class="illuminant" :style="nation.selected ? { opacity: 1 } : {}"></div>
     <p class="nation-title">{{ nation.title }}</p>
   </router-link>
@@ -7,13 +7,13 @@
 
 <script>
 export default {
-  name: "Nation",
+  name: "NationTag",
   props: ["nation"],
 };
 </script>
 
 <style lang="less" scoped>
-.nation {
+.nation-tag {
   width: 100%;
   height: 40pt;
   margin: 5px 0;

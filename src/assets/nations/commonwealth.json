@@ -1,0 +1,228 @@
+{
+  "status": "ok",
+  "meta": {
+    "count": 3,
+    "page_total": 1,
+    "total": 3,
+    "limit": 100,
+    "page": 1
+  },
+  "data": [
+    {
+      "id": "3763221872",
+      "id_str": "PUSD507",
+      "name": "Haida",
+      "type": "Destroyer",
+      "tier": 7,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PUSD507_001ecb2e9c8eafa05dd9aca63569dc50e4cb1f5a2dbb130d2bdfd5ad1155cbee.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PUSD507_632b4a1fb24c47260d1dceea0fdbd561411e532925e4fb327453770044aad13b.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PUSD507_18f5d48fb40a6b5e747873a406d880dec67edbb4745e753522657b263038e120.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PUSD507_704000c780fc9f868655cb197b92aaf45da7e57529ea544475e74ef9c1ee21d1.png"
+      },
+      "modules_tree": {
+        "3636899184": {
+          "name": "Mk VII mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3636899184,
+          "type": "Suo",
+          "module_id_str": "PUUS627"
+        },
+        "3637259632": {
+          "name": "Haida",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3637259632,
+          "type": "Hull",
+          "module_id_str": "PUUH627"
+        },
+        "3639455088": {
+          "name": "Propulsion: 44,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3639455088,
+          "type": "Engine",
+          "module_id_str": "PUUE625"
+        },
+        "3640634736": {
+          "name": "120 mm/45 CPXIX",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3640634736,
+          "type": "Artillery",
+          "module_id_str": "PUUA624"
+        },
+        "3662032240": {
+          "name": "533 mm Mk IXM",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3662032240,
+          "type": "Torpedoes",
+          "module_id_str": "PUUT603"
+        }
+      }
+    },
+    {
+      "id": "3764303216",
+      "id_str": "PUSC506",
+      "name": "Perth",
+      "type": "Cruiser",
+      "tier": 6,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PUSC506_54f91c7a238b88fb88417e4ad3671f34f61be755a1e100363acb661b199a63d4.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PUSC506_306eb5341bf9d33252e0e1a9fc043ac89a1b9b844c2ec9f443709e81eb23a534.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PUSC506_8ecdc0f06a0aff2da03a67d24c17c13b8e93b8537541aafb8f786ad9a15ae8ae.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PUSC506_11a608903f0f591b0c1851c463958c403bff52f86d6635b815a8bbf9ce1cd42e.png"
+      },
+      "modules_tree": {
+        "3768986992": {
+          "name": "533 mm Mk IX",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3768986992,
+          "type": "Torpedoes",
+          "module_id_str": "PUUT501"
+        },
+        "3769019760": {
+          "name": "Mk VI mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3769019760,
+          "type": "Suo",
+          "module_id_str": "PUUS501"
+        },
+        "3769380208": {
+          "name": "Perth",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3769380208,
+          "type": "Hull",
+          "module_id_str": "PUUH501"
+        },
+        "3769478512": {
+          "name": "Propulsion: 72,500 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3769478512,
+          "type": "Engine",
+          "module_id_str": "PUUE501"
+        },
+        "3769609584": {
+          "name": "152 mm/50 Mk XXI",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3769609584,
+          "type": "Artillery",
+          "module_id_str": "PUUA501"
+        }
+      }
+    },
+    {
+      "id": "3767416176",
+      "id_str": "PUSD503",
+      "name": "Vampire",
+      "type": "Destroyer",
+      "tier": 3,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PUSD503_b5e6657efeca92e6d36bf56e7bb8288f417aefc4f5a99ecb102bf3781df9d776.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PUSD503_322b547f6afd6de3d04973972dc1bcda52ec3476e7c6447db5057943d3450d4a.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PUSD503_4036a1a337a65804b54afd40c5389511d577b1c1ce8e953b7e3d44c54909486a.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PUSD503_0b2cdb9fc0d59b3be9dff84a4aa59db390881ccbeab8c26be8f5a858a7a50cee.png"
+      },
+      "modules_tree": {
+        "3766889840": {
+          "name": "533 mm Mk II",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3766889840,
+          "type": "Torpedoes",
+          "module_id_str": "PUUT503"
+        },
+        "3766922608": {
+          "name": "Mk III",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3766922608,
+          "type": "Suo",
+          "module_id_str": "PUUS503"
+        },
+        "3767283056": {
+          "name": "Vampire",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3767283056,
+          "type": "Hull",
+          "module_id_str": "PUUH503"
+        },
+        "3767381360": {
+          "name": "Propulsion: 27,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3767381360,
+          "type": "Engine",
+          "module_id_str": "PUUE503"
+        },
+        "3767512432": {
+          "name": "102 mm/45 QF Mark V",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3767512432,
+          "type": "Artillery",
+          "module_id_str": "PUUA503"
+        }
+      }
+    }
+  ]
+}

@@ -1,17 +1,17 @@
 <template>
   <div class="sidebar">
-    <Nation v-for="nation in getNations" :key="nation.id" :nation="nation" />
+    <NationTag v-for="nation in getNations" :key="nation.id" :nation="nation" />
   </div>
 </template>
 
 <script>
-import Nation from "./Nation";
+import NationTag from "./NationTag";
 import { mapGetters } from "vuex";
 
 export default {
   name: "Sidebar",
   components: {
-    Nation,
+    NationTag,
   },
   computed: mapGetters(["getNations"]),
 };

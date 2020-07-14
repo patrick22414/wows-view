@@ -1,0 +1,1479 @@
+{
+  "status": "ok",
+  "meta": {
+    "count": 19,
+    "page_total": 1,
+    "total": 19,
+    "limit": 100,
+    "page": 1
+  },
+  "data": [
+    {
+      "id": "3658397424",
+      "id_str": "PISC607",
+      "name": "Gorizia",
+      "type": "Cruiser",
+      "tier": 7,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC607_e334db632788e12588a05709b2cb78df0def5bc4ff443b97a39914d6399b9fee.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PISC607_c3242de3df2a89452da0313271acaa28f837b44f3f8ee31197f12da2bf9f6ee9.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PISC607_5e436fa2095d60612197cafc7b5d16b15848572c779111294a90e8484768fd46.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PISC607_824613e01bae5d854d1ef40980facc4fc502e40fdeebac1901d7707fb8dfd8c8.png"
+      },
+      "modules_tree": {
+        "3556159216": {
+          "name": "SDT 7 mod.1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3556159216,
+          "type": "Suo",
+          "module_id_str": "PIUS704"
+        },
+        "3556519664": {
+          "name": "Gorizia",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3556519664,
+          "type": "Hull",
+          "module_id_str": "PIUH704"
+        },
+        "3557666544": {
+          "name": "Propulsion: 95,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3557666544,
+          "type": "Engine",
+          "module_id_str": "PIUE703"
+        },
+        "3557797616": {
+          "name": "203 mm/53 Ansaldo 1927",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3557797616,
+          "type": "Artillery",
+          "module_id_str": "PIUA703"
+        }
+      }
+    },
+    {
+      "id": "3760076528",
+      "id_str": "PISD510",
+      "name": "Paolo Emilio",
+      "type": "Destroyer",
+      "tier": 10,
+      "is_premium": false,
+      "is_special": true,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISD510_6624831a92d15e3a7cae37d8ff287705cd226984cccad16886c572cbfe453809.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PISD510_1232b82c252d5f6673cae589cf5034cbf8bef33aa817f3f0c5b43bc780629631.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PISD510_e79d1c7bd82319af660d56aaa941ecb4a888513dc223c3c4cf2f2324f95859c6.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PISD510_9e884f9a8f5e0661c5f65de74fed68d256b09b316b7f698545c6e978959d0af6.png"
+      },
+      "modules_tree": {
+        "3349556976": {
+          "name": "533 mm Si 270",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3349556976,
+          "type": "Torpedoes",
+          "module_id_str": "PIUT901"
+        },
+        "3349589744": {
+          "name": "SDT 10",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3349589744,
+          "type": "Suo",
+          "module_id_str": "PIUS901"
+        },
+        "3349950192": {
+          "name": "Paolo Emilio",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3349950192,
+          "type": "Hull",
+          "module_id_str": "PIUH901"
+        },
+        "3350048496": {
+          "name": "Propulsion: 135,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3350048496,
+          "type": "Engine",
+          "module_id_str": "PIUE901"
+        },
+        "3350179568": {
+          "name": "135 mm/45 OTO 1938",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3350179568,
+          "type": "Artillery",
+          "module_id_str": "PIUA901"
+        }
+      }
+    },
+    {
+      "id": "3762239216",
+      "id_str": "PISB508",
+      "name": "Roma",
+      "type": "Battleship",
+      "tier": 8,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISB508_53c45c0e3ec38f1b909069d9b7402909b3551ff9d0a40da8f199beb1450c23e3.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PISB508_2901d6feba8b9678e1401ceb111f7265eb1c3b968d1ca98f8cec92d8900b5599.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PISB508_9f94062aea188d0fcc82855c8347e2b7417d52f3a3310abdf7aefa00b584f135.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PISB508_e1e08c17ff36331f2bcbad887d7073b3f021c3d39d18991b91ac9a09f3d258f7.png"
+      },
+      "modules_tree": {
+        "3559304944": {
+          "name": "SDT 8",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3559304944,
+          "type": "Suo",
+          "module_id_str": "PIUS701"
+        },
+        "3559665392": {
+          "name": "Roma",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3559665392,
+          "type": "Hull",
+          "module_id_str": "PIUH701"
+        },
+        "3559763696": {
+          "name": "Propulsion: 128,200 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3559763696,
+          "type": "Engine",
+          "module_id_str": "PIUE701"
+        },
+        "3559894768": {
+          "name": "381 mm/50 OTO 1934",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3559894768,
+          "type": "Artillery",
+          "module_id_str": "PIUA701"
+        }
+      }
+    },
+    {
+      "id": "3763255024",
+      "id_str": "PISC507",
+      "name": "Duca degli Abruzzi",
+      "type": "Cruiser",
+      "tier": 7,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC507_c087484aa63c5c8cb5351c06b2afbff94a8c7a90a26a381b4c48b316d600f105.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PISC507_6e9c99f789d8de3a81d1d844eda767667338dfbef1ef1898afb46854958adf34.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PISC507_ffff3d65d4392842090cccc66747a1c976e2fe7e75454dc57d94f91c63c4be59.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PISC507_90a38cd7a73a6727db041462775e1d79730a457094983c4151d25d2ff8740948.png"
+      },
+      "modules_tree": {
+        "3664129776": {
+          "name": "533 mm Si 270",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3664129776,
+          "type": "Torpedoes",
+          "module_id_str": "PIUT601"
+        },
+        "3664162544": {
+          "name": "SDT 7",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3664162544,
+          "type": "Suo",
+          "module_id_str": "PIUS601"
+        },
+        "3664522992": {
+          "name": "Duca degli Abruzzi",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3664522992,
+          "type": "Hull",
+          "module_id_str": "PIUH601"
+        },
+        "3664621296": {
+          "name": "Propulsion: 101,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3664621296,
+          "type": "Engine",
+          "module_id_str": "PIUE601"
+        },
+        "3664752368": {
+          "name": "152 mm/55 OTO 1934",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3664752368,
+          "type": "Artillery",
+          "module_id_str": "PIUA601"
+        }
+      }
+    },
+    {
+      "id": "3764270832",
+      "id_str": "PISD506",
+      "name": "Leone",
+      "type": "Destroyer",
+      "tier": 6,
+      "is_premium": false,
+      "is_special": true,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISD506_bdbc7333f7c1744f5415f52cb7f6bc6b137831544f6c2338511c9ab44029dd1d.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PISD506_8c669703bf8db4a86ef9870aa539fed05d990086d75052750fc169e1995e3fea.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PISD506_0e6faff72f7a051789255bcff7d2d4fb074243e2d5eb70dc28eb0b57c854a18d.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PISD506_01f4ec7cded10be987a603e3eee290091ffb6323605f5977e367d0a5e35a3354.png"
+      },
+      "modules_tree": {
+        "3663081200": {
+          "name": "533 mm Si 270",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3663081200,
+          "type": "Torpedoes",
+          "module_id_str": "PIUT602"
+        },
+        "3663113968": {
+          "name": "SDT 6",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3663113968,
+          "type": "Suo",
+          "module_id_str": "PIUS602"
+        },
+        "3663474416": {
+          "name": "Leone",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3663474416,
+          "type": "Hull",
+          "module_id_str": "PIUH602"
+        },
+        "3663572720": {
+          "name": "Propulsion: 42,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3663572720,
+          "type": "Engine",
+          "module_id_str": "PIUE602"
+        },
+        "3663703792": {
+          "name": "120 mm/45 Vickers-Terni",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3663703792,
+          "type": "Artillery",
+          "module_id_str": "PIUA602"
+        }
+      }
+    },
+    {
+      "id": "3764303600",
+      "id_str": "PISC506",
+      "name": "Duca d'Aosta",
+      "type": "Cruiser",
+      "tier": 6,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC506_8f54e2f7c9084821c2f84bb70dd6191a3fb5afcfe2b3b8becab9546ad4b114e7.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PISC506_f22e9a9c8d1fc6f1dcfc490317c2983b08ae2352799b9a19fd9cf6eeb7a7e7a8.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PISC506_bcb863b525587d2b624230ba69cd0b85adb60ac2c156a904c748977f9810a9bb.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PISC506_d655104e483e42a7eb16a26efeceb121255c25cf6a9c3466e6d0a29ec055a178.png"
+      },
+      "modules_tree": {
+        "3768987376": {
+          "name": "533 mm Si 270",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3768987376,
+          "type": "Torpedoes",
+          "module_id_str": "PIUT501"
+        },
+        "3769020144": {
+          "name": "SDT 6",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3769020144,
+          "type": "Suo",
+          "module_id_str": "PIUS501"
+        },
+        "3769380592": {
+          "name": "Duca d'Aosta",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3769380592,
+          "type": "Hull",
+          "module_id_str": "PIUH501"
+        },
+        "3769478896": {
+          "name": "Propulsion: 110,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3769478896,
+          "type": "Engine",
+          "module_id_str": "PIUE501"
+        },
+        "3769609968": {
+          "name": "152 mm/53 OTO 1929",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3769609968,
+          "type": "Artillery",
+          "module_id_str": "PIUA501"
+        }
+      }
+    },
+    {
+      "id": "3765352176",
+      "id_str": "PISC505",
+      "name": "Genova",
+      "type": "Cruiser",
+      "tier": 5,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC505_44e3f059fbb05a4904c7169e23eebbc19830a369f6fbb2740f7261f6a161e62f.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PISC505_1c45f4d768d68c03b39f9dbc3756a7eef2bcd990eed1f5a04a5972dde1640caa.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PISC505_727fce86e1d61256d6aff483220c730c03bd031c4aa2f5c25ad35afe0214e93d.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PISC505_1bd4a751c1886b53b2e1909fa97fc8b73c52100db3b5d5db22c56274ee1b816c.png"
+      },
+      "modules_tree": {
+        "3871780592": {
+          "name": "SDT 5",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3871780592,
+          "type": "Suo",
+          "module_id_str": "PIUS403"
+        },
+        "3872141040": {
+          "name": "Genova",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3872141040,
+          "type": "Hull",
+          "module_id_str": "PIUH403"
+        },
+        "3872796400": {
+          "name": "533 mm Si 270 G",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3872796400,
+          "type": "Torpedoes",
+          "module_id_str": "PIUT402"
+        },
+        "3873287920": {
+          "name": "Propulsion: 150,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3873287920,
+          "type": "Engine",
+          "module_id_str": "PIUE402"
+        },
+        "3873418992": {
+          "name": "203 mm/50 Ansaldo 1924",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3873418992,
+          "type": "Artillery",
+          "module_id_str": "PIUA402"
+        }
+      }
+    },
+    {
+      "id": "3765384944",
+      "id_str": "PISB505",
+      "name": "Giulio Cesare",
+      "type": "Battleship",
+      "tier": 5,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISB505_e886c50dba9c6453eab1d69b9bafb409082034ee3a12bf2e519538436679bae1.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PISB505_1f3da5ac9af291843f0eb118b64af529a72a6cc7977896c6abba52ed65f71d9a.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PISB505_739f318e87766f23d8707e71d072fbd671f7971b5a126cc2b4b9a14a615c05ac.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PISB505_428276ca204e98dcf0e165e284fa9b209494b4669961ebdbaf20a117329fde62.png"
+      },
+      "modules_tree": {
+        "3767971568": {
+          "name": "SDT 5",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3767971568,
+          "type": "Suo",
+          "module_id_str": "PIUS502"
+        },
+        "3768332016": {
+          "name": "Giulio Cesare",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3768332016,
+          "type": "Hull",
+          "module_id_str": "PIUH502"
+        },
+        "3768430320": {
+          "name": "Propulsion: 75,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3768430320,
+          "type": "Engine",
+          "module_id_str": "PIUE502"
+        },
+        "3768561392": {
+          "name": "320 mm/44 1934",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3768561392,
+          "type": "Artillery",
+          "module_id_str": "PIUA502"
+        }
+      }
+    },
+    {
+      "id": "4179539696",
+      "id_str": "PISC110",
+      "name": "Venezia",
+      "type": "Cruiser",
+      "tier": 10,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC110_e394d76a275b9434b48210aa7bec4662b0f8ea3b90873e8a359a20e6d6e53bc5.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PISC110_21411228d45f2c912b19c733df010de768004e741b1e3775c6c9e24d5fadd451.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PISC110_ec598f064d9313daeaa9eed84bfef93505d13ec1a1c03f704960b554bb01bf57.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PISC110_e769df3ab80f1e3e0b210f6df790042142a1b9d6ef871f48c64329970ac78947.png"
+      },
+      "modules_tree": {
+        "3348508400": {
+          "name": "533 mm Si 270 N",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1600000,
+          "next_ships": null,
+          "module_id": 3348508400,
+          "type": "Torpedoes",
+          "module_id_str": "PIUT902"
+        },
+        "3348541168": {
+          "name": "SDT 10 mod.1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1800000,
+          "next_ships": null,
+          "module_id": 3348541168,
+          "type": "Suo",
+          "module_id_str": "PIUS902"
+        },
+        "3348901616": {
+          "name": "Venezia",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2900000,
+          "next_ships": null,
+          "module_id": 3348901616,
+          "type": "Hull",
+          "module_id_str": "PIUH902"
+        },
+        "3348999920": {
+          "name": "Propulsion: 240,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1600000,
+          "next_ships": null,
+          "module_id": 3348999920,
+          "type": "Engine",
+          "module_id_str": "PIUE902"
+        },
+        "3349130992": {
+          "name": "203 mm/55 model 1934",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2000000,
+          "next_ships": null,
+          "module_id": 3349130992,
+          "type": "Artillery",
+          "module_id_str": "PIUA902"
+        }
+      }
+    },
+    {
+      "id": "4180588272",
+      "id_str": "PISC109",
+      "name": "Brindisi",
+      "type": "Cruiser",
+      "tier": 9,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC109_c7ad8b7667d6a9d16c69f709ef1281dd56c079b6377066bb013779a1a3494b00.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PISC109_8a7381e3710acdef1c8dbd47cbd23f934400afd4af54b9d635978621cbb0cba3.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PISC109_f850bf644b3a3c8ad3bf1ea69bf35374d2e6259fc489f42dc4479ceb60905af3.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PISC109_9f29119ab1e0519189b213d1c2c5ce0950678b895c5cb09f36c8ce78eb6daf33.png"
+      },
+      "modules_tree": {
+        "3453398768": {
+          "name": "SDT 9 mod.2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 27000,
+          "price_credit": 1750000,
+          "next_ships": null,
+          "module_id": 3453398768,
+          "type": "Suo",
+          "module_id_str": "PIUS802"
+        },
+        "3453759216": {
+          "name": "Brindisi (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 43000,
+          "price_credit": 2900000,
+          "next_ships": [
+            4179539696
+          ],
+          "module_id": 3453759216,
+          "type": "Hull",
+          "module_id_str": "PIUH802"
+        },
+        "3454414576": {
+          "name": "533 mm Si 270 N",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 800000,
+          "next_ships": null,
+          "module_id": 3454414576,
+          "type": "Torpedoes",
+          "module_id_str": "PIUT801"
+        },
+        "3454447344": {
+          "name": "SDT 9 mod.1",
+          "next_modules": [
+            3453398768
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 980000,
+          "next_ships": null,
+          "module_id": 3454447344,
+          "type": "Suo",
+          "module_id_str": "PIUS801"
+        },
+        "3454807792": {
+          "name": "Brindisi (A)",
+          "next_modules": [
+            3453759216
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1450000,
+          "next_ships": null,
+          "module_id": 3454807792,
+          "type": "Hull",
+          "module_id_str": "PIUH801"
+        },
+        "3454906096": {
+          "name": "Propulsion: 220,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 900000,
+          "next_ships": null,
+          "module_id": 3454906096,
+          "type": "Engine",
+          "module_id_str": "PIUE801"
+        },
+        "3455037168": {
+          "name": "203 mm/55 model 1934",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1100000,
+          "next_ships": null,
+          "module_id": 3455037168,
+          "type": "Artillery",
+          "module_id_str": "PIUA801"
+        }
+      }
+    },
+    {
+      "id": "4181636848",
+      "id_str": "PISC108",
+      "name": "Amalfi",
+      "type": "Cruiser",
+      "tier": 8,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC108_cfbcefc56001806febabf1fd507fb6ba7af4d2e335534ee14278a288aad642de.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PISC108_a79d05f1a25123e3d372e917c9269b406ab8cfc9c2c4f26d666d163ec6050ac2.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PISC108_0e0705bd0b83989627be282df48820a1477e29e064fa00aedef3f19045c7e953.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PISC108_316188919ab48ed227e80698eafb41aab3e5cb66d91097504a49d26215d1293a.png"
+      },
+      "modules_tree": {
+        "3557207792": {
+          "name": "SDT 8 mod.2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 18000,
+          "price_credit": 1100000,
+          "next_ships": null,
+          "module_id": 3557207792,
+          "type": "Suo",
+          "module_id_str": "PIUS703"
+        },
+        "3557568240": {
+          "name": "Amalfi (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 30000,
+          "price_credit": 2000000,
+          "next_ships": [
+            4180588272
+          ],
+          "module_id": 3557568240,
+          "type": "Hull",
+          "module_id_str": "PIUH703"
+        },
+        "3558256368": {
+          "name": "SDT 8 mod.1",
+          "next_modules": [
+            3557207792
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 550000,
+          "next_ships": null,
+          "module_id": 3558256368,
+          "type": "Suo",
+          "module_id_str": "PIUS702"
+        },
+        "3558616816": {
+          "name": "Amalfi (A)",
+          "next_modules": [
+            3557568240
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1000000,
+          "next_ships": null,
+          "module_id": 3558616816,
+          "type": "Hull",
+          "module_id_str": "PIUH702"
+        },
+        "3558715120": {
+          "name": "Propulsion: 192,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 620000,
+          "next_ships": null,
+          "module_id": 3558715120,
+          "type": "Engine",
+          "module_id_str": "PIUE702"
+        },
+        "3558846192": {
+          "name": "203 mm/55 model 1934",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 730000,
+          "next_ships": null,
+          "module_id": 3558846192,
+          "type": "Artillery",
+          "module_id_str": "PIUA702"
+        },
+        "3559272176": {
+          "name": "533 mm Si 270 M",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 620000,
+          "next_ships": null,
+          "module_id": 3559272176,
+          "type": "Torpedoes",
+          "module_id_str": "PIUT701"
+        }
+      }
+    },
+    {
+      "id": "4182685424",
+      "id_str": "PISC107",
+      "name": "Zara",
+      "type": "Cruiser",
+      "tier": 7,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC107_a0591fbc3a90c7513f4365f26b076780bb006fc84497f7a0d06cb777d54e3773.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PISC107_93e472a3396afbd2948fb7f10a161e758fcdc5d5fa8677a4f79dbedeeeb27ba7.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PISC107_41bd4e4dba82839653dd90f6236600bd65815ea5895a1d2ffd3997650db4a615.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PISC107_aef5f3bead3cf2a14befb163afb4d18eb442183a390bf59e39dc76141f6174ba.png"
+      },
+      "modules_tree": {
+        "3661016816": {
+          "name": "SDT 7 mod.2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 11500,
+          "price_credit": 770000,
+          "next_ships": null,
+          "module_id": 3661016816,
+          "type": "Suo",
+          "module_id_str": "PIUS604"
+        },
+        "3661377264": {
+          "name": "Zara (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 19500,
+          "price_credit": 1250000,
+          "next_ships": [
+            4181636848
+          ],
+          "module_id": 3661377264,
+          "type": "Hull",
+          "module_id_str": "PIUH604"
+        },
+        "3662032624": {
+          "name": "533 mm Si 270 M",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 400000,
+          "next_ships": null,
+          "module_id": 3662032624,
+          "type": "Torpedoes",
+          "module_id_str": "PIUT603"
+        },
+        "3662065392": {
+          "name": "SDT 7 mod.1",
+          "next_modules": [
+            3661016816
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 400000,
+          "next_ships": null,
+          "module_id": 3662065392,
+          "type": "Suo",
+          "module_id_str": "PIUS603"
+        },
+        "3662425840": {
+          "name": "Zara (A)",
+          "next_modules": [
+            3661377264
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 610000,
+          "next_ships": null,
+          "module_id": 3662425840,
+          "type": "Hull",
+          "module_id_str": "PIUH603"
+        },
+        "3662524144": {
+          "name": "Propulsion: 95,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 390000,
+          "next_ships": null,
+          "module_id": 3662524144,
+          "type": "Engine",
+          "module_id_str": "PIUE603"
+        },
+        "3662655216": {
+          "name": "203 mm/53 Ansaldo 1927",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 440000,
+          "next_ships": null,
+          "module_id": 3662655216,
+          "type": "Artillery",
+          "module_id_str": "PIUA603"
+        }
+      }
+    },
+    {
+      "id": "4183734000",
+      "id_str": "PISC106",
+      "name": "Trento",
+      "type": "Cruiser",
+      "tier": 6,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC106_b6f07d7928c76bbfa5c8b86bb0c884cff63528362b81eb2409f4c27115c910b5.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PISC106_b541b005840ef319ed0218cac758340b8eb925f4ccee107b414562682963ed64.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PISC106_0bf3c6f8673992ba90f5fd0fdef4037bca1e6e56973467b975ac74397197c181.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PISC106_f4f3e47bf8cabe0c0c73544be075827ccf6e3b497353741120a7ae432d2c5d72.png"
+      },
+      "modules_tree": {
+        "3764825840": {
+          "name": "SDT 6 mod.2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 6000,
+          "price_credit": 460000,
+          "next_ships": null,
+          "module_id": 3764825840,
+          "type": "Suo",
+          "module_id_str": "PIUS505"
+        },
+        "3765186288": {
+          "name": "Trento (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 10250,
+          "price_credit": 810000,
+          "next_ships": [
+            4182685424
+          ],
+          "module_id": 3765186288,
+          "type": "Hull",
+          "module_id_str": "PIUH505"
+        },
+        "3765874416": {
+          "name": "SDT 6 mod.1",
+          "next_modules": [
+            3764825840
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 200000,
+          "next_ships": null,
+          "module_id": 3765874416,
+          "type": "Suo",
+          "module_id_str": "PIUS504"
+        },
+        "3766234864": {
+          "name": "Trento (A)",
+          "next_modules": [
+            3765186288
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 375000,
+          "next_ships": null,
+          "module_id": 3766234864,
+          "type": "Hull",
+          "module_id_str": "PIUH504"
+        },
+        "3766333168": {
+          "name": "Propulsion: 150,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 190000,
+          "next_ships": null,
+          "module_id": 3766333168,
+          "type": "Engine",
+          "module_id_str": "PIUE504"
+        },
+        "3766464240": {
+          "name": "203 mm/50 Ansaldo 1924",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 225000,
+          "next_ships": null,
+          "module_id": 3766464240,
+          "type": "Artillery",
+          "module_id_str": "PIUA504"
+        },
+        "3767938800": {
+          "name": "533 mm Si 270 M",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 200000,
+          "next_ships": null,
+          "module_id": 3767938800,
+          "type": "Torpedoes",
+          "module_id_str": "PIUT502"
+        }
+      }
+    },
+    {
+      "id": "4184782576",
+      "id_str": "PISC105",
+      "name": "Raimondo Montecuccoli",
+      "type": "Cruiser",
+      "tier": 5,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC105_57ddbbf60589cd67a7b5d2e10edf7b560d47f6f9149bc1542e60d98b8284b3e9.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PISC105_1c4cb0f8f51c352b997e1946d777d5a3aa5b25b254c0d2fcf73a57fcf0a94d43.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PISC105_af8e6110ebd95b69f6b732692243ca13907c5cb3bda88eb8de2c8c27e81fade0.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PISC105_f5e3afd9dea2f929216968c5bf1332795ba15609ab8a55051fb1b30b16543205.png"
+      },
+      "modules_tree": {
+        "3872829168": {
+          "name": "SDT 5 mod.2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 2200,
+          "price_credit": 200000,
+          "next_ships": null,
+          "module_id": 3872829168,
+          "type": "Suo",
+          "module_id_str": "PIUS402"
+        },
+        "3873189616": {
+          "name": "Raimondo Montecuccoli (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 5900,
+          "price_credit": 420000,
+          "next_ships": [
+            4183734000
+          ],
+          "module_id": 3873189616,
+          "type": "Hull",
+          "module_id_str": "PIUH402"
+        },
+        "3873844976": {
+          "name": "533 mm Si 270 H",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 80000,
+          "next_ships": null,
+          "module_id": 3873844976,
+          "type": "Torpedoes",
+          "module_id_str": "PIUT401"
+        },
+        "3873877744": {
+          "name": "SDT 5 mod.1",
+          "next_modules": [
+            3872829168
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 90000,
+          "next_ships": null,
+          "module_id": 3873877744,
+          "type": "Suo",
+          "module_id_str": "PIUS401"
+        },
+        "3874238192": {
+          "name": "Raimondo Montecuccoli (A)",
+          "next_modules": [
+            3873189616
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 145000,
+          "next_ships": null,
+          "module_id": 3874238192,
+          "type": "Hull",
+          "module_id_str": "PIUH401"
+        },
+        "3874336496": {
+          "name": "Propulsion: 106,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 84000,
+          "next_ships": null,
+          "module_id": 3874336496,
+          "type": "Engine",
+          "module_id_str": "PIUE401"
+        },
+        "3874467568": {
+          "name": "152 mm/53 OTO 1929",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 110000,
+          "next_ships": null,
+          "module_id": 3874467568,
+          "type": "Artillery",
+          "module_id_str": "PIUA401"
+        }
+      }
+    },
+    {
+      "id": "4185831152",
+      "id_str": "PISC104",
+      "name": "Alberto di Giussano",
+      "type": "Cruiser",
+      "tier": 4,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC104_fcd1ef9903eeedd1f40fba22744b31825a217fdb794fd5c20579d675924fa796.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PISC104_7eb04ad0767c91bba22e16d2e67e26594f73ef66a825e8e5d84dbf724d5d8586.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PISC104_4f9ed619327920f98eab2c63ed966b73e15be1b5869d2f69b6bb7c61ecc0944a.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PISC104_208d91845aeac337f360039914572d2efadcacc6d141ec28411e35711a492000.png"
+      },
+      "modules_tree": {
+        "3977686768": {
+          "name": "SDT 4 mod.2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 700,
+          "price_credit": 100000,
+          "next_ships": null,
+          "module_id": 3977686768,
+          "type": "Suo",
+          "module_id_str": "PIUS302"
+        },
+        "3978047216": {
+          "name": "Alberto di Giussano (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 1650,
+          "price_credit": 220000,
+          "next_ships": [
+            4184782576
+          ],
+          "module_id": 3978047216,
+          "type": "Hull",
+          "module_id_str": "PIUH302"
+        },
+        "3978702576": {
+          "name": "533 mm Si 270 G",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 40000,
+          "next_ships": null,
+          "module_id": 3978702576,
+          "type": "Torpedoes",
+          "module_id_str": "PIUT301"
+        },
+        "3978735344": {
+          "name": "SDT 4 mod.1",
+          "next_modules": [
+            3977686768
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 44000,
+          "next_ships": null,
+          "module_id": 3978735344,
+          "type": "Suo",
+          "module_id_str": "PIUS301"
+        },
+        "3979095792": {
+          "name": "Alberto di Giussano (A)",
+          "next_modules": [
+            3978047216
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 78000,
+          "next_ships": null,
+          "module_id": 3979095792,
+          "type": "Hull",
+          "module_id_str": "PIUH301"
+        },
+        "3979194096": {
+          "name": "Propulsion: 100,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 40000,
+          "next_ships": null,
+          "module_id": 3979194096,
+          "type": "Engine",
+          "module_id_str": "PIUE301"
+        },
+        "3979325168": {
+          "name": "152 mm/53 Ansaldo 1926",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 56000,
+          "next_ships": null,
+          "module_id": 3979325168,
+          "type": "Artillery",
+          "module_id_str": "PIUA301"
+        }
+      }
+    },
+    {
+      "id": "4186879728",
+      "id_str": "PISC103",
+      "name": "Taranto",
+      "type": "Cruiser",
+      "tier": 3,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC103_6a770d0f6274ca10230bd26cdb8c10955a6253ab0c8354953c6b39de4e811d12.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PISC103_05ebdcec44d6ebf53d2a2cac23cf25744306053a3bd6f46e1267100c21c93a7c.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PISC103_3f3e2cab88c41e56b64f085eed41a4bc7d3caec89a7aff974f391c68ab147b34.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PISC103_49105fb782e2606ef88bb2fd73ece7618b472df588781a2c8febc9fbd18ab280.png"
+      },
+      "modules_tree": {
+        "4082544368": {
+          "name": "SDT 3 mod.2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 450,
+          "price_credit": 40000,
+          "next_ships": null,
+          "module_id": 4082544368,
+          "type": "Suo",
+          "module_id_str": "PIUS202"
+        },
+        "4082904816": {
+          "name": "Taranto (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 900,
+          "price_credit": 90000,
+          "next_ships": [
+            4185831152
+          ],
+          "module_id": 4082904816,
+          "type": "Hull",
+          "module_id_str": "PIUH202"
+        },
+        "4083560176": {
+          "name": "500 mm G7/533 mm Si 270 G",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 22000,
+          "next_ships": null,
+          "module_id": 4083560176,
+          "type": "Torpedoes",
+          "module_id_str": "PIUT201"
+        },
+        "4083592944": {
+          "name": "SDT 3 mod.1",
+          "next_modules": [
+            4082544368
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 21000,
+          "next_ships": null,
+          "module_id": 4083592944,
+          "type": "Suo",
+          "module_id_str": "PIUS201"
+        },
+        "4083953392": {
+          "name": "Taranto (A)",
+          "next_modules": [
+            4082904816
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 40000,
+          "next_ships": null,
+          "module_id": 4083953392,
+          "type": "Hull",
+          "module_id_str": "PIUH201"
+        },
+        "4084051696": {
+          "name": "Propulsion: 33,742 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 18000,
+          "next_ships": null,
+          "module_id": 4084051696,
+          "type": "Engine",
+          "module_id_str": "PIUE201"
+        },
+        "4084182768": {
+          "name": "150 mm/45 SK L/45",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 28000,
+          "next_ships": null,
+          "module_id": 4084182768,
+          "type": "Artillery",
+          "module_id_str": "PIUA201"
+        }
+      }
+    },
+    {
+      "id": "4187928304",
+      "id_str": "PISC102",
+      "name": "Nino Bixio",
+      "type": "Cruiser",
+      "tier": 2,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC102_898785875a70f400c96acd9e7e8d100448968281c24f2a102058b79c7d076c51.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PISC102_d4607d23f89bde1c6f2fc169837843695df4e5b554f2bf162c8dd98bd278fe64.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PISC102_3ece6064b6d06148b285b5c89f6fc8f9e5789437288ede575450c05a5ea9ddf6.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PISC102_f3b5472d730f1b7d66f59049f4edbb93396c8130782216984af31f61600ee483.png"
+      },
+      "modules_tree": {
+        "4187401968": {
+          "name": "SDT 2 mod.2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 180,
+          "price_credit": 15000,
+          "next_ships": null,
+          "module_id": 4187401968,
+          "type": "Suo",
+          "module_id_str": "PIUS102"
+        },
+        "4187762416": {
+          "name": "Nino Bixio (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 300,
+          "price_credit": 25000,
+          "next_ships": [
+            4186879728
+          ],
+          "module_id": 4187762416,
+          "type": "Hull",
+          "module_id_str": "PIUH102"
+        },
+        "4188450544": {
+          "name": "SDT 2 mod.1",
+          "next_modules": [
+            4187401968
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 5000,
+          "next_ships": null,
+          "module_id": 4188450544,
+          "type": "Suo",
+          "module_id_str": "PIUS101"
+        },
+        "4188810992": {
+          "name": "Nino Bixio (A)",
+          "next_modules": [
+            4187762416
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 10500,
+          "next_ships": null,
+          "module_id": 4188810992,
+          "type": "Hull",
+          "module_id_str": "PIUH101"
+        },
+        "4188909296": {
+          "name": "Propulsion: 23,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 4000,
+          "next_ships": null,
+          "module_id": 4188909296,
+          "type": "Engine",
+          "module_id_str": "PIUE101"
+        },
+        "4189040368": {
+          "name": "120 mm/50 Ansaldo 1909",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 8500,
+          "next_ships": null,
+          "module_id": 4189040368,
+          "type": "Artillery",
+          "module_id_str": "PIUA101"
+        }
+      }
+    },
+    {
+      "id": "4188976880",
+      "id_str": "PISC101",
+      "name": "Eritrea",
+      "type": "Cruiser",
+      "tier": 1,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PISC101_450c29f6caedbfc0c5309917d1d7179ad78a6cb879e907e4d82df8d3f662820f.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PISC101_f3153bda8eca823742affff414cf61fdb09f51e8abc82f3d9a8879f450fd8e50.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PISC101_d5c7e5882768e18217335daf51df02a81857175d5d4109ef2b9144f324abc364.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PISC101_1879527bd826f9817b175aaa2498e34534d6fd895202e7e8006b6ef606f4d5d5.png"
+      },
+      "modules_tree": {
+        "4293308144": {
+          "name": "SDT 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4293308144,
+          "type": "Suo",
+          "module_id_str": "PIUS001"
+        },
+        "4293668592": {
+          "name": "Eritrea",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": [
+            4187928304
+          ],
+          "module_id": 4293668592,
+          "type": "Hull",
+          "module_id_str": "PIUH001"
+        },
+        "4293766896": {
+          "name": "Propulsion:7,800 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4293766896,
+          "type": "Engine",
+          "module_id_str": "PIUE001"
+        },
+        "4293897968": {
+          "name": "120 mm/45 Armstrong 1919",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4293897968,
+          "type": "Artillery",
+          "module_id_str": "PIUA001"
+        }
+      }
+    }
+  ]
+}

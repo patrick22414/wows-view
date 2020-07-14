@@ -1,0 +1,3324 @@
+{
+  "status": "ok",
+  "meta": {
+    "count": 40,
+    "page_total": 1,
+    "total": 40,
+    "limit": 100,
+    "page": 1
+  },
+  "data": [
+    {
+      "id": "3751753552",
+      "id_str": "PFSB518",
+      "name": "Jean Bart",
+      "type": "Battleship",
+      "tier": 9,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSB518_e98a1b58fe899c6c0f69cc9973ed0e55c42e68de1eee1fc58ef2513f9fa36da3.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSB518_eb139cc52fa2d0fa969c958fd8ff5ba0f6c833e0f9b5e9729a4673941e692d52.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSB518_96746fa1296691cc0d39f6f7ba18a4482bdba8d28ce0b57f7ad18854de4a2009.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSB518_8f60327ffdc91ada23fdeea1d5e51109fd2e9e8828cca92dbbad841400997040.png"
+      },
+      "modules_tree": {
+        "3545673552": {
+          "name": "PCA n° 9 Mle 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3545673552,
+          "type": "Suo",
+          "module_id_str": "PFUS714"
+        },
+        "3546034000": {
+          "name": "Jean Bart",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3546034000,
+          "type": "Hull",
+          "module_id_str": "PFUH714"
+        },
+        "3547180880": {
+          "name": "Propulsion: 150,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3547180880,
+          "type": "Engine",
+          "module_id_str": "PFUE713"
+        },
+        "3548360528": {
+          "name": "380 mm/45 Mle 1935",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3548360528,
+          "type": "Artillery",
+          "module_id_str": "PFUA712"
+        }
+      }
+    },
+    {
+      "id": "3760109392",
+      "id_str": "PFSC510",
+      "name": "Colbert",
+      "type": "Cruiser",
+      "tier": 10,
+      "is_premium": false,
+      "is_special": true,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSC510_5ee9a0797f12dfcc05df9b68b53b854b75af21b7827cac1b16ef4765666124c5.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSC510_43b9aa936c57da947baac7a12798b1aac63998f62d889c1e6da821007b2df00b.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSC510_364f96cda3630509a92fdb38e89a133f61d59de08e3657766ba8890985d29f47.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSC510_09a869951d591e7951afb216bb95373f839d599ae37799cefd9828f21ef6654b.png"
+      },
+      "modules_tree": {
+        "3347033936": {
+          "name": "127 mm/54 Mle 1948",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3347033936,
+          "type": "Artillery",
+          "module_id_str": "PFUA904"
+        },
+        "3347492688": {
+          "name": "PCA n° 10 Mle 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3347492688,
+          "type": "Suo",
+          "module_id_str": "PFUS903"
+        },
+        "3347853136": {
+          "name": "Colbert",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3347853136,
+          "type": "Hull",
+          "module_id_str": "PFUH903"
+        },
+        "3347951440": {
+          "name": "Propulsion: 87,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3347951440,
+          "type": "Engine",
+          "module_id_str": "PFUE903"
+        }
+      }
+    },
+    {
+      "id": "3760142160",
+      "id_str": "PFSB510",
+      "name": "Bourgogne",
+      "type": "Battleship",
+      "tier": 10,
+      "is_premium": false,
+      "is_special": true,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSB510_2ec82c44ef680c0cf483f973bdc8fedbb4157e8500eea1e7df4889b3a7bc7781.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSB510_07ea54166daf8b8b16781f43817068317cb873e9eaaa9f2d2c7c1c67154dc8e9.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSB510_ac474e368d5a916a14803ec89a36227fafe0685f447cdfe7b507fab6c369abe8.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSB510_3b8b8f436e904ef7b3bd034b51d6c14f1248d16d3286334c2b833efe3298a1ff.png"
+      },
+      "modules_tree": {
+        "3338055504": {
+          "name": "PCA n° 10 Mle 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3338055504,
+          "type": "Suo",
+          "module_id_str": "PFUS912"
+        },
+        "3338415952": {
+          "name": "Bourgogne",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3338415952,
+          "type": "Hull",
+          "module_id_str": "PFUH912"
+        },
+        "3339562832": {
+          "name": "Propulsion: 192,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3339562832,
+          "type": "Engine",
+          "module_id_str": "PFUE911"
+        },
+        "3339693904": {
+          "name": "380 mm/45 Mle 1935",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3339693904,
+          "type": "Artillery",
+          "module_id_str": "PFUA911"
+        }
+      }
+    },
+    {
+      "id": "3762173776",
+      "id_str": "PFSD508",
+      "name": "Le Terrible",
+      "type": "Destroyer",
+      "tier": 8,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSD508_9a0ca2691d3a7397c345e821e140cc20dc763682b13218faaf9a8b8882889dd0.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSD508_d9e5f145ce2ba271a3ff6b54de07b0d2e143efa7ae6d42ecc2d093b3ff0080c1.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSD508_20fc6bd5276bbb5d8c28d10af34d139395f859817f29f277ae33d91bda44df55.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSD508_9cf6d8d4673a8a7a7e70a6ddecf9ffbb67dd636eacb1ef877b5d78465a795d6b.png"
+      },
+      "modules_tree": {
+        "3544624976": {
+          "name": "PCA n° 8 Mle 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3544624976,
+          "type": "Suo",
+          "module_id_str": "PFUS715"
+        },
+        "3544985424": {
+          "name": "Le Terrible",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3544985424,
+          "type": "Hull",
+          "module_id_str": "PFUH715"
+        },
+        "3546132304": {
+          "name": "Propulsion: 86,433 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3546132304,
+          "type": "Engine",
+          "module_id_str": "PFUE714"
+        },
+        "3547311952": {
+          "name": "139 mm/50 Mle 1929",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3547311952,
+          "type": "Artillery",
+          "module_id_str": "PFUA713"
+        },
+        "3549835088": {
+          "name": "550 mm 24V",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3549835088,
+          "type": "Torpedoes",
+          "module_id_str": "PFUT710"
+        }
+      }
+    },
+    {
+      "id": "3762206544",
+      "id_str": "PFSC508",
+      "name": "Bayard",
+      "type": "Cruiser",
+      "tier": 8,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSC508_c97a4bb1cbcefbb654d54b623dae976b4cf9b2496f8a8813227e616e0fcc50ab.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSC508_46b3aaed25cbd161b55ea70e654094667b3aa5b538c1eabc28b209c740900a85.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSC508_366a0651b28d2a8cb430024a5ee59269a72a5dbfcb2b5ac17b1054ddf818707d.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSC508_669f57bdc22dc9d66e95f1aadb2c669f60cf901088612346a2a6f966a0c93336.png"
+      },
+      "modules_tree": {
+        "3555110736": {
+          "name": "PCA n° 8 Mle 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3555110736,
+          "type": "Suo",
+          "module_id_str": "PFUS705"
+        },
+        "3555471184": {
+          "name": "Bayard",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3555471184,
+          "type": "Hull",
+          "module_id_str": "PFUH705"
+        },
+        "3556749136": {
+          "name": "152 mm/55 Mle 1930",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3556749136,
+          "type": "Artillery",
+          "module_id_str": "PFUA704"
+        },
+        "3557175120": {
+          "name": "550 mm 23DT",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3557175120,
+          "type": "Torpedoes",
+          "module_id_str": "PFUT703"
+        },
+        "3557666640": {
+          "name": "Propulsion: 120,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3557666640,
+          "type": "Engine",
+          "module_id_str": "PFUE703"
+        }
+      }
+    },
+    {
+      "id": "3762239312",
+      "id_str": "PFSB508",
+      "name": "Gascogne",
+      "type": "Battleship",
+      "tier": 8,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSB508_9dae06fe7e9eae2f1b88123fb8e9dd08a219fb9c43e8d60519a338501dc894f8.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSB508_f524e732674f12d3bb52648d8bc73a5b5c268f934a9fefc921cf26a92dae3d23.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSB508_416c469627e905e8103ff9c6e121740046def899e89f9eead66845caeb1c8c9c.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSB508_a89b509d73dc4045e71ac7b280bc5cc8cfc70822fc738d7eb4f54f9bd7e7f3ba.png"
+      },
+      "modules_tree": {
+        "3546722128": {
+          "name": "PCA n° 8 Mle 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3546722128,
+          "type": "Suo",
+          "module_id_str": "PFUS713"
+        },
+        "3547082576": {
+          "name": "Gascogne",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3547082576,
+          "type": "Hull",
+          "module_id_str": "PFUH713"
+        },
+        "3548229456": {
+          "name": "Propulsion: 155,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3548229456,
+          "type": "Engine",
+          "module_id_str": "PFUE712"
+        },
+        "3549409104": {
+          "name": "380 mm/45 Mle 1935",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3549409104,
+          "type": "Artillery",
+          "module_id_str": "PFUA711"
+        }
+      }
+    },
+    {
+      "id": "3764270928",
+      "id_str": "PFSD506",
+      "name": "Aigle",
+      "type": "Destroyer",
+      "tier": 6,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSD506_fb43fa1f9fe16d7f4db30c203624b7057b3198ccfbde3fe9f30b4cb25b05e382.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSD506_4f5104c2de504116277ebf6aef57b424fe70c2bafb692be69c99f6551c03e1a2.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSD506_2cf6d83065083aa7be2e5c469b23220826f72adbeec05d8a8d90c778c7872490.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSD506_0abd50840d7fe222cc08896d4db8c6a493d14c24ef441c65ef70ad998c55538b.png"
+      },
+      "modules_tree": {
+        "3747458896": {
+          "name": "Propulsion: 68,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3747458896,
+          "type": "Engine",
+          "module_id_str": "PFUE522"
+        },
+        "3747589968": {
+          "name": "139 mm/40 Mle 1927",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3747589968,
+          "type": "Artillery",
+          "module_id_str": "PFUA522"
+        },
+        "3766890320": {
+          "name": "550 mm 24V",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3766890320,
+          "type": "Torpedoes",
+          "module_id_str": "PFUT503"
+        },
+        "3766923088": {
+          "name": "PCA n° 6 Mle 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3766923088,
+          "type": "Suo",
+          "module_id_str": "PFUS503"
+        },
+        "3767283536": {
+          "name": "Aigle",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3767283536,
+          "type": "Hull",
+          "module_id_str": "PFUH503"
+        }
+      }
+    },
+    {
+      "id": "3764303696",
+      "id_str": "PFSC506",
+      "name": "De Grasse",
+      "type": "Cruiser",
+      "tier": 6,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSC506_5a3b39c8b79ab063acd8125d7117e7e1a53e992e0640ccbf856d94cf336634b7.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSC506_427298ed3f7627cdba1ed840aa54e52d777c0f639d9d37a5483a717920117dbe.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSC506_398906bbb40aa06c4cf2b67533a7815916456a8d2a4ac8272c5f636478250897.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSC506_9d768205f34c33123a004251a60920058d6969c45924fb95d52bb8e5a1339b25.png"
+      },
+      "modules_tree": {
+        "3748507472": {
+          "name": "Propulsion: 110,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3748507472,
+          "type": "Engine",
+          "module_id_str": "PFUE521"
+        },
+        "3748638544": {
+          "name": "152 mm/55 Mle 1936",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3748638544,
+          "type": "Artillery",
+          "module_id_str": "PFUA521"
+        },
+        "3767938896": {
+          "name": "550 mm 23DT",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3767938896,
+          "type": "Torpedoes",
+          "module_id_str": "PFUT502"
+        },
+        "3767971664": {
+          "name": "PCA n° 6 Mle 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3767971664,
+          "type": "Suo",
+          "module_id_str": "PFUS502"
+        },
+        "3768332112": {
+          "name": "De Grasse",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3768332112,
+          "type": "Hull",
+          "module_id_str": "PFUH502"
+        }
+      }
+    },
+    {
+      "id": "3764336464",
+      "id_str": "PFSB506",
+      "name": "Dunkerque",
+      "type": "Battleship",
+      "tier": 6,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSB506_6906e740759c67685cbb799de19eaea97793a41c1e632cb381237ee3c4592fa2.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSB506_5d7011d47db732687353b3be39197d2db39bed380e71b4d77f5e20b95746f782.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSB506_20419ed1fcea8ddd9df09ba9b60d92980e053604ccfbbd0529151dcc74a17742.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSB506_50aebd69b56142bd85a7553126a8c0a8de9c2e11fc2c085740f74ef0bf44f263.png"
+      },
+      "modules_tree": {
+        "3769020240": {
+          "name": "PCA Mle 1940",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3769020240,
+          "type": "Suo",
+          "module_id_str": "PFUS501"
+        },
+        "3769380688": {
+          "name": "Dunkerque",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3769380688,
+          "type": "Hull",
+          "module_id_str": "PFUH501"
+        },
+        "3769478992": {
+          "name": "Propulsion: 107,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3769478992,
+          "type": "Engine",
+          "module_id_str": "PFUE501"
+        },
+        "3769610064": {
+          "name": "330 mm/52\nSt. Chamond Mle\n1932",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3769610064,
+          "type": "Artillery",
+          "module_id_str": "PFUA501"
+        }
+      }
+    },
+    {
+      "id": "3766368080",
+      "id_str": "PFSD504",
+      "name": "Siroco",
+      "type": "Destroyer",
+      "tier": 5,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSD504_43faa8702ad45dfc8594dcab89ca497c6c985a2e83280c4267d5db01a27324fc.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSD504_dad302a1430b0c03da29f789dff48048f5fb0ae4d5dc344052f0f21898772d06.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSD504_7ec652e53033a7868d5e91c19dfb126caf261bb6e8af4ab86ea783e8be852612.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSD504_24109d07e0d02e693e04cce79e8ccd8ed5f5a258d23657649539ffb45bc23cd9.png"
+      },
+      "modules_tree": {
+        "3966152528": {
+          "name": "PCA n° 4 Mle 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3966152528,
+          "type": "Suo",
+          "module_id_str": "PFUS313"
+        },
+        "3966512976": {
+          "name": "Siroco",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3966512976,
+          "type": "Hull",
+          "module_id_str": "PFUH313"
+        },
+        "3967659856": {
+          "name": "Propulsion: 33,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3967659856,
+          "type": "Engine",
+          "module_id_str": "PFUE312"
+        },
+        "3968839504": {
+          "name": "130 mm/40 Mle 1919",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3968839504,
+          "type": "Artillery",
+          "module_id_str": "PFUA311"
+        },
+        "3975556944": {
+          "name": "550 mm 19D Mle 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3975556944,
+          "type": "Torpedoes",
+          "module_id_str": "PFUT304"
+        }
+      }
+    },
+    {
+      "id": "4074649424",
+      "id_str": "PFSD210",
+      "name": "Marceau",
+      "type": "Destroyer",
+      "tier": 10,
+      "is_premium": false,
+      "is_special": true,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSD210_bb964181515626f679872f4a65926ac87ee77b3966f35e573d63cc50329b955d.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSD210_98d35c10b7f58dfa1598b9d0216e0ceae3c90eeddcbdac1926ab184d17886400.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSD210_57a347aee17e2bbdf623aaca488378ac3061849d7a38480776ac76e59fa7a240.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSD210_f6ff7bcd798b0ccbc620b38b8f6bf3d85866a9b7be7af39585fc95a6aa587db7.png"
+      },
+      "modules_tree": {
+        "3345985360": {
+          "name": "127 mm/54 Mle 1948",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3345985360,
+          "type": "Artillery",
+          "module_id_str": "PFUA905"
+        },
+        "3346444112": {
+          "name": "PCA n° 10 Mle 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3346444112,
+          "type": "Suo",
+          "module_id_str": "PFUS904"
+        },
+        "3346804560": {
+          "name": "Marceau",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3346804560,
+          "type": "Hull",
+          "module_id_str": "PFUH904"
+        },
+        "3346902864": {
+          "name": "Propulsion: 96,842 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3346902864,
+          "type": "Engine",
+          "module_id_str": "PFUE904"
+        },
+        "3347459920": {
+          "name": "550 mm 23DT",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3347459920,
+          "type": "Torpedoes",
+          "module_id_str": "PFUT903"
+        }
+      }
+    },
+    {
+      "id": "4179507024",
+      "id_str": "PFSD110",
+      "name": "Kléber",
+      "type": "Destroyer",
+      "tier": 10,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSD110_e77e7fd8d8b7d39c587780f6a5ff5fd7ae56401f4d5d618d2878565fa031380e.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSD110_607274d0b639680c5d22053ed10193df8356b73bdb464371a9046d36a4361f73.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSD110_ffd1d2d04ade7e806d010c874986157451357fa25d611554e27efc70e405f4d4.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSD110_2596fea30ecf6cb8d5135faffea0d30cd72526c09632fe63826e074f1c087c79.png"
+      },
+      "modules_tree": {
+        "3348508496": {
+          "name": "550 mm 24V Mle 2",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1500000,
+          "next_ships": null,
+          "module_id": 3348508496,
+          "type": "Torpedoes",
+          "module_id_str": "PFUT902"
+        },
+        "3348541264": {
+          "name": "PCA n° 10 Mle 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1700000,
+          "next_ships": null,
+          "module_id": 3348541264,
+          "type": "Suo",
+          "module_id_str": "PFUS902"
+        },
+        "3348901712": {
+          "name": "Kléber",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2350000,
+          "next_ships": null,
+          "module_id": 3348901712,
+          "type": "Hull",
+          "module_id_str": "PFUH902"
+        },
+        "3349000016": {
+          "name": "Propulsion: 96,842 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1800000,
+          "next_ships": null,
+          "module_id": 3349000016,
+          "type": "Engine",
+          "module_id_str": "PFUE902"
+        },
+        "3349131088": {
+          "name": "139 mm/50 Mle 1934",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2000000,
+          "next_ships": null,
+          "module_id": 3349131088,
+          "type": "Artillery",
+          "module_id_str": "PFUA902"
+        }
+      }
+    },
+    {
+      "id": "4179539792",
+      "id_str": "PFSC110",
+      "name": "Henri IV",
+      "type": "Cruiser",
+      "tier": 10,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSC110_80d6751b4a7232cb1c3c30c33baeffc7e8195a244d7e249298ee737cc12ee3e1.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSC110_a9a0998bbe3d135598e84d44962e67c7bd54029e216bef96803f260cdae7478e.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSC110_da3f9b66a071dba319f68cc6ecc0d411c88363137d33f3e97bf380172a465d6c.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSC110_48a2929846a8d6fdd0a4ab97f4315d6af0b062c46466cb2e3e90bb64d76ecb40.png"
+      },
+      "modules_tree": {
+        "3349557072": {
+          "name": "550 mm 23DT",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1600000,
+          "next_ships": null,
+          "module_id": 3349557072,
+          "type": "Torpedoes",
+          "module_id_str": "PFUT901"
+        },
+        "3349589840": {
+          "name": "PCA n° 10 Mle 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1800000,
+          "next_ships": null,
+          "module_id": 3349589840,
+          "type": "Suo",
+          "module_id_str": "PFUS901"
+        },
+        "3349950288": {
+          "name": "Henri IV (A)",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2900000,
+          "next_ships": null,
+          "module_id": 3349950288,
+          "type": "Hull",
+          "module_id_str": "PFUH901"
+        },
+        "3350048592": {
+          "name": "Propulsion: 220,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1600000,
+          "next_ships": null,
+          "module_id": 3350048592,
+          "type": "Engine",
+          "module_id_str": "PFUE901"
+        },
+        "3350179664": {
+          "name": "240 mm/55 Mle 1939",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2000000,
+          "next_ships": null,
+          "module_id": 3350179664,
+          "type": "Artillery",
+          "module_id_str": "PFUA901"
+        }
+      }
+    },
+    {
+      "id": "4179572560",
+      "id_str": "PFSB110",
+      "name": "République",
+      "type": "Battleship",
+      "tier": 10,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSB110_9c674073cd4e0c582f6dcd59a24f36352306730731035e035e5e6e63a68f68f2.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSB110_4cd3703396cfea8b277aad3338e5be30a5fd3343ce4f46bc99845919ed1898c1.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSB110_62e7df825eb79f02cf9623ab9d83dcde83a98ebd9eafcdf83b537087aa50ac85.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSB110_bdd3c1f2df3bd7b3032e98b49b988ee0f88cb2e99c3a295788630db495ad7e1e.png"
+      },
+      "modules_tree": {
+        "3339104080": {
+          "name": "PCA n° 10 Mle 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2100000,
+          "next_ships": null,
+          "module_id": 3339104080,
+          "type": "Suo",
+          "module_id_str": "PFUS911"
+        },
+        "3339464528": {
+          "name": "République (A)",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 3400000,
+          "next_ships": null,
+          "module_id": 3339464528,
+          "type": "Hull",
+          "module_id_str": "PFUH911"
+        },
+        "3340611408": {
+          "name": "Propulsion: 220,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 600000,
+          "next_ships": null,
+          "module_id": 3340611408,
+          "type": "Engine",
+          "module_id_str": "PFUE910"
+        },
+        "3340742480": {
+          "name": "431 mm/50 Mle 1940",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2200000,
+          "next_ships": null,
+          "module_id": 3340742480,
+          "type": "Artillery",
+          "module_id_str": "PFUA910"
+        }
+      }
+    },
+    {
+      "id": "4180555600",
+      "id_str": "PFSD109",
+      "name": "Mogador",
+      "type": "Destroyer",
+      "tier": 9,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSD109_703c85d668d0dafbad6da7c950a69050f249fcb6f104d4717e374887264604ed.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSD109_e6651f94942e4859b9f979ac1040bd818ea6511066b6ae90db5d8f7ef69d7230.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSD109_89f3edcb3e17769349c12c62b624ed58639eb4e3494a73cff801ca375ef4b40e.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSD109_ff0fea678f55067640846078f173ce6c724f56059f996457cd0b7b5e0600c800.png"
+      },
+      "modules_tree": {
+        "3451301712": {
+          "name": "PCA n° 9 Mle 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 35000,
+          "price_credit": 1700000,
+          "next_ships": null,
+          "module_id": 3451301712,
+          "type": "Suo",
+          "module_id_str": "PFUS804"
+        },
+        "3451662160": {
+          "name": "Mogador (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 55000,
+          "price_credit": 3400000,
+          "next_ships": [
+            4179507024
+          ],
+          "module_id": 3451662160,
+          "type": "Hull",
+          "module_id_str": "PFUH804"
+        },
+        "3452350288": {
+          "name": "PCA n° 9 Mle 1",
+          "next_modules": [
+            3451301712
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 900000,
+          "next_ships": null,
+          "module_id": 3452350288,
+          "type": "Suo",
+          "module_id_str": "PFUS803"
+        },
+        "3452710736": {
+          "name": "Mogador (A)",
+          "next_modules": [
+            3451662160
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1400000,
+          "next_ships": null,
+          "module_id": 3452710736,
+          "type": "Hull",
+          "module_id_str": "PFUH803"
+        },
+        "3453366096": {
+          "name": "550 mm 24V Mle 2",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1300000,
+          "next_ships": null,
+          "module_id": 3453366096,
+          "type": "Torpedoes",
+          "module_id_str": "PFUT802"
+        },
+        "3453857616": {
+          "name": "Propulsion: 92,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1100000,
+          "next_ships": null,
+          "module_id": 3453857616,
+          "type": "Engine",
+          "module_id_str": "PFUE802"
+        },
+        "3453988688": {
+          "name": "139 mm/55 Mle 1934",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1000000,
+          "next_ships": null,
+          "module_id": 3453988688,
+          "type": "Artillery",
+          "module_id_str": "PFUA802"
+        }
+      }
+    },
+    {
+      "id": "4180588368",
+      "id_str": "PFSC109",
+      "name": "Saint-Louis",
+      "type": "Cruiser",
+      "tier": 9,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSC109_9e5adab0696dcd00aad2a001c0044031c2f2fde15102bd97957c9de934681ed2.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSC109_c2e923440a46361227cdb943e530aa8276e49d15c9ca05f5c184e39033369cf5.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSC109_e9dd73066201dff6546b51de03cadc99d7891ba11e1cfa5530a92c315dd6b8c5.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSC109_bbdacb4b598ec932b78c038bf07cc7ce10b2fb00170a6abb799a19af1a865ca4.png"
+      },
+      "modules_tree": {
+        "3453398864": {
+          "name": "PCA n° 9 Mle 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 24000,
+          "price_credit": 2000000,
+          "next_ships": null,
+          "module_id": 3453398864,
+          "type": "Suo",
+          "module_id_str": "PFUS802"
+        },
+        "3453759312": {
+          "name": "Saint-Louis (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 40500,
+          "price_credit": 3020000,
+          "next_ships": [
+            4179539792
+          ],
+          "module_id": 3453759312,
+          "type": "Hull",
+          "module_id_str": "PFUH802"
+        },
+        "3454414672": {
+          "name": "550 mm 23DT",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 800000,
+          "next_ships": null,
+          "module_id": 3454414672,
+          "type": "Torpedoes",
+          "module_id_str": "PFUT801"
+        },
+        "3454447440": {
+          "name": "PCA n° 9 Mle 1",
+          "next_modules": [
+            3453398864
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 980000,
+          "next_ships": null,
+          "module_id": 3454447440,
+          "type": "Suo",
+          "module_id_str": "PFUS801"
+        },
+        "3454807888": {
+          "name": "Saint-Louis (A)",
+          "next_modules": [
+            3453759312
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1450000,
+          "next_ships": null,
+          "module_id": 3454807888,
+          "type": "Hull",
+          "module_id_str": "PFUH801"
+        },
+        "3454906192": {
+          "name": "Propulsion: 120,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 900000,
+          "next_ships": null,
+          "module_id": 3454906192,
+          "type": "Engine",
+          "module_id_str": "PFUE801"
+        },
+        "3455037264": {
+          "name": "203 mm/55 Mle 1934",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1100000,
+          "next_ships": null,
+          "module_id": 3455037264,
+          "type": "Artillery",
+          "module_id_str": "PFUA801"
+        }
+      }
+    },
+    {
+      "id": "4180621136",
+      "id_str": "PFSB109",
+      "name": "Alsace",
+      "type": "Battleship",
+      "tier": 9,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSB109_7b9f824315b047ce1ffd80b118a241de0f013c73a5dc0584433ef1548cfc4c8f.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSB109_743de7995cbeec6ed38e26ba1ae9fbcafbf54c44ac5a71a748828758b2ffe783.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSB109_d486e3112bde7f4290b45984fc3ff49757a13a32acd917ba84a73237ff51d46b.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSB109_ada54f59160d58604c975125cfa5ddce52068ab9f9128d5a1c9e538833145dd3.png"
+      },
+      "modules_tree": {
+        "3442913104": {
+          "name": "PCA n° 9 Mle 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 28000,
+          "price_credit": 2600000,
+          "next_ships": null,
+          "module_id": 3442913104,
+          "type": "Suo",
+          "module_id_str": "PFUS812"
+        },
+        "3443273552": {
+          "name": "Alsace (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 64000,
+          "price_credit": 5500000,
+          "next_ships": [
+            4179572560
+          ],
+          "module_id": 3443273552,
+          "type": "Hull",
+          "module_id_str": "PFUH812"
+        },
+        "3443961680": {
+          "name": "PCA n° 9 Mle 1",
+          "next_modules": [
+            3442913104
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1000000,
+          "next_ships": null,
+          "module_id": 3443961680,
+          "type": "Suo",
+          "module_id_str": "PFUS811"
+        },
+        "3444322128": {
+          "name": "Alsace (A)",
+          "next_modules": [
+            3443273552
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2400000,
+          "next_ships": null,
+          "module_id": 3444322128,
+          "type": "Hull",
+          "module_id_str": "PFUH811"
+        },
+        "3444420432": {
+          "name": "Propulsion: 192,000 hp",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 25000,
+          "price_credit": 2000000,
+          "next_ships": null,
+          "module_id": 3444420432,
+          "type": "Engine",
+          "module_id_str": "PFUE811"
+        },
+        "3445469008": {
+          "name": "Propulsion: 180,000 hp",
+          "next_modules": [
+            3444420432
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 600000,
+          "next_ships": null,
+          "module_id": 3445469008,
+          "type": "Engine",
+          "module_id_str": "PFUE810"
+        },
+        "3445600080": {
+          "name": "380 mm/45 Mle 1935",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2000000,
+          "next_ships": null,
+          "module_id": 3445600080,
+          "type": "Artillery",
+          "module_id_str": "PFUA810"
+        }
+      }
+    },
+    {
+      "id": "4181604176",
+      "id_str": "PFSD108",
+      "name": "Le Fantasque",
+      "type": "Destroyer",
+      "tier": 8,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSD108_9e9532d846e10c8265bdbb3481de69aa899ba2a525377d227dada6c08cb0b5b5.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSD108_5d4868a55d166e713d34503ead114c1e920e701cfe56cc02843e7a6a5d5b3c79.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSD108_8b97dfd73507518616df5b921d28e6575d35a0c14c2dc67d486163e1cd130a12.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSD108_b1629a10b1d6a411f15230aa1114ab7eb443cea6dd7cacfbdf00f1a7657bf871.png"
+      },
+      "modules_tree": {
+        "3556159312": {
+          "name": "PCA n° 8 Mle 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 25000,
+          "price_credit": 1550000,
+          "next_ships": null,
+          "module_id": 3556159312,
+          "type": "Suo",
+          "module_id_str": "PFUS704"
+        },
+        "3556519760": {
+          "name": "Le Fantasque (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 38000,
+          "price_credit": 2750000,
+          "next_ships": [
+            4180555600
+          ],
+          "module_id": 3556519760,
+          "type": "Hull",
+          "module_id_str": "PFUH704"
+        },
+        "3557207888": {
+          "name": "PCA n° 8 Mle 1",
+          "next_modules": [
+            3556159312
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 400000,
+          "next_ships": null,
+          "module_id": 3557207888,
+          "type": "Suo",
+          "module_id_str": "PFUS703"
+        },
+        "3557568336": {
+          "name": "Le Fantasque (A)",
+          "next_modules": [
+            3556519760
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 850000,
+          "next_ships": null,
+          "module_id": 3557568336,
+          "type": "Hull",
+          "module_id_str": "PFUH703"
+        },
+        "3557797712": {
+          "name": "139 mm/50 Mle 1929",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 650000,
+          "next_ships": null,
+          "module_id": 3557797712,
+          "type": "Artillery",
+          "module_id_str": "PFUA703"
+        },
+        "3558223696": {
+          "name": "550 mm 24V Mle 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 800000,
+          "next_ships": null,
+          "module_id": 3558223696,
+          "type": "Torpedoes",
+          "module_id_str": "PFUT702"
+        },
+        "3558715216": {
+          "name": "Propulsion: 74,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 700000,
+          "next_ships": null,
+          "module_id": 3558715216,
+          "type": "Engine",
+          "module_id_str": "PFUE702"
+        }
+      }
+    },
+    {
+      "id": "4181636944",
+      "id_str": "PFSC108",
+      "name": "Charles Martel",
+      "type": "Cruiser",
+      "tier": 8,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSC108_adebf90c6764bb009435f003175cf287355caa7716322d88a7c1c3bbbe87d116.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSC108_06e88512d9a740935f445701cbd3718d5a634beb3cbc30df98cb217151dd532f.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSC108_95c5fb40152037840c0c068303954ea12e81565b9ae1b0fcbca79ae0dcc34c8d.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSC108_67b5a47e44398e39fe77790bdbd36a0a34ffde77bb71d9e4b40490ac88f958fa.png"
+      },
+      "modules_tree": {
+        "3558256464": {
+          "name": "PCA n° 8 Mle 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 15000,
+          "price_credit": 1200000,
+          "next_ships": null,
+          "module_id": 3558256464,
+          "type": "Suo",
+          "module_id_str": "PFUS702"
+        },
+        "3558616912": {
+          "name": "Charles Martel (B)",
+          "next_modules": [
+            3558846288
+          ],
+          "is_default": false,
+          "price_xp": 28000,
+          "price_credit": 2100000,
+          "next_ships": null,
+          "module_id": 3558616912,
+          "type": "Hull",
+          "module_id_str": "PFUH702"
+        },
+        "3558846288": {
+          "name": "203 mm/55 Mle 1934",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 20000,
+          "price_credit": 1550000,
+          "next_ships": [
+            4180588368
+          ],
+          "module_id": 3558846288,
+          "type": "Artillery",
+          "module_id_str": "PFUA702"
+        },
+        "3559272272": {
+          "name": "550 mm 23DT",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 620000,
+          "next_ships": null,
+          "module_id": 3559272272,
+          "type": "Torpedoes",
+          "module_id_str": "PFUT701"
+        },
+        "3559305040": {
+          "name": "PCA n° 8 Mle 1",
+          "next_modules": [
+            3558256464
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 550000,
+          "next_ships": null,
+          "module_id": 3559305040,
+          "type": "Suo",
+          "module_id_str": "PFUS701"
+        },
+        "3559665488": {
+          "name": "Charles Martel (A)",
+          "next_modules": [
+            3558616912
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1000000,
+          "next_ships": null,
+          "module_id": 3559665488,
+          "type": "Hull",
+          "module_id_str": "PFUH701"
+        },
+        "3559763792": {
+          "name": "Propulsion: 100,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 620000,
+          "next_ships": null,
+          "module_id": 3559763792,
+          "type": "Engine",
+          "module_id_str": "PFUE701"
+        },
+        "3559894864": {
+          "name": "203 mm/50 Mle 1931",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 730000,
+          "next_ships": null,
+          "module_id": 3559894864,
+          "type": "Artillery",
+          "module_id_str": "PFUA701"
+        }
+      }
+    },
+    {
+      "id": "4181669712",
+      "id_str": "PFSB108",
+      "name": "Richelieu",
+      "type": "Battleship",
+      "tier": 8,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSB108_78bc8e2ed7c1807528505626a885df1353db145214de80d177c4d9138702d7a8.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSB108_809c527322c3b0f93371b3ef7d4abe493b56b25f2f0c08cd68ea43b8da14ed3d.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSB108_dcd9ad077c669b2f358a00aedd943084646be5bbb442d64666def130225cce80.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSB108_55f28c4000872ac4471e47187f82642fc0a35ef3957156ff14c341cb10888e6f.png"
+      },
+      "modules_tree": {
+        "3547770704": {
+          "name": "PCA n° 8 Mle 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 22500,
+          "price_credit": 1300000,
+          "next_ships": null,
+          "module_id": 3547770704,
+          "type": "Suo",
+          "module_id_str": "PFUS712"
+        },
+        "3548131152": {
+          "name": "Richelieu (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 39000,
+          "price_credit": 2300000,
+          "next_ships": [
+            4180621136
+          ],
+          "module_id": 3548131152,
+          "type": "Hull",
+          "module_id_str": "PFUH712"
+        },
+        "3548819280": {
+          "name": "PCA n° 8 Mle 1",
+          "next_modules": [
+            3547770704
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 640000,
+          "next_ships": null,
+          "module_id": 3548819280,
+          "type": "Suo",
+          "module_id_str": "PFUS711"
+        },
+        "3549179728": {
+          "name": "Richelieu (A)",
+          "next_modules": [
+            3548131152
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1100000,
+          "next_ships": null,
+          "module_id": 3549179728,
+          "type": "Hull",
+          "module_id_str": "PFUH711"
+        },
+        "3549278032": {
+          "name": "Propulsion: 155,000 hp",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 12500,
+          "price_credit": 900000,
+          "next_ships": null,
+          "module_id": 3549278032,
+          "type": "Engine",
+          "module_id_str": "PFUE711"
+        },
+        "3550326608": {
+          "name": "Propulsion: 140,000 hp",
+          "next_modules": [
+            3549278032
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 440000,
+          "next_ships": null,
+          "module_id": 3550326608,
+          "type": "Engine",
+          "module_id_str": "PFUE710"
+        },
+        "3550457680": {
+          "name": "380 mm/45 Mle 1935",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1300000,
+          "next_ships": null,
+          "module_id": 3550457680,
+          "type": "Artillery",
+          "module_id_str": "PFUA710"
+        }
+      }
+    },
+    {
+      "id": "4182652752",
+      "id_str": "PFSD107",
+      "name": "Vauquelin",
+      "type": "Destroyer",
+      "tier": 7,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSD107_04b53646ea290619d44b54a527b9f206d06bfbae7123f4968db778e22655384a.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSD107_d02eb7fdb114c92f6df86ca91123ce055b2850b5846a3d8238ef74d59c9b9d5f.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSD107_a76d25f291dd2b25b5176be06292494d95c5c4dfcacd5358140eab37ea3a0573.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSD107_faabe09bdb25b5016ba81495254ef6697be0e9e64f03a875865f47b6fa3cfead.png"
+      },
+      "modules_tree": {
+        "3661016912": {
+          "name": "PCA n° 7 Mle 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 17000,
+          "price_credit": 1100000,
+          "next_ships": null,
+          "module_id": 3661016912,
+          "type": "Suo",
+          "module_id_str": "PFUS604"
+        },
+        "3661377360": {
+          "name": "Vauquelin (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 25500,
+          "price_credit": 1500000,
+          "next_ships": [
+            4181604176
+          ],
+          "module_id": 3661377360,
+          "type": "Hull",
+          "module_id_str": "PFUH604"
+        },
+        "3662065488": {
+          "name": "PCA n° 7 Mle 1",
+          "next_modules": [
+            3661016912
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 350000,
+          "next_ships": null,
+          "module_id": 3662065488,
+          "type": "Suo",
+          "module_id_str": "PFUS603"
+        },
+        "3662425936": {
+          "name": "Vauquelin (A)",
+          "next_modules": [
+            3661377360
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 600000,
+          "next_ships": null,
+          "module_id": 3662425936,
+          "type": "Hull",
+          "module_id_str": "PFUH603"
+        },
+        "3663081296": {
+          "name": "550 mm 23DT Mle 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 430000,
+          "next_ships": null,
+          "module_id": 3663081296,
+          "type": "Torpedoes",
+          "module_id_str": "PFUT602"
+        },
+        "3663572816": {
+          "name": "Propulsion: 64,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 405000,
+          "next_ships": null,
+          "module_id": 3663572816,
+          "type": "Engine",
+          "module_id_str": "PFUE602"
+        },
+        "3663703888": {
+          "name": "139 mm/40 Mle 1927",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 420000,
+          "next_ships": null,
+          "module_id": 3663703888,
+          "type": "Artillery",
+          "module_id_str": "PFUA602"
+        }
+      }
+    },
+    {
+      "id": "4182685520",
+      "id_str": "PFSC107",
+      "name": "Algérie",
+      "type": "Cruiser",
+      "tier": 7,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSC107_4418cdb14fe0786127b50ad58bc6bd8b3582556461a0fd83dd36c1bcac4038a7.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSC107_fae0d9252027e8638843365352e98bf18f462874a2f8ba0641e9c1182a773e70.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSC107_167154e534e94a443c44801455d4427f9e50cab10500130b8fc19d62a20dc1f2.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSC107_b1831664f6e21f9302a2ad8e1a4a4c4dfd1039d05dc1a0e393f9d6f27a8cb916.png"
+      },
+      "modules_tree": {
+        "3663114064": {
+          "name": "PCA n° 7 Mle 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 10200,
+          "price_credit": 820000,
+          "next_ships": null,
+          "module_id": 3663114064,
+          "type": "Suo",
+          "module_id_str": "PFUS602"
+        },
+        "3663474512": {
+          "name": "Algérie (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 17800,
+          "price_credit": 1300000,
+          "next_ships": [
+            4181636944
+          ],
+          "module_id": 3663474512,
+          "type": "Hull",
+          "module_id_str": "PFUH602"
+        },
+        "3664129872": {
+          "name": "550 mm 23DT",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 400000,
+          "next_ships": null,
+          "module_id": 3664129872,
+          "type": "Torpedoes",
+          "module_id_str": "PFUT601"
+        },
+        "3664162640": {
+          "name": "PCA n° 7 Mle 1",
+          "next_modules": [
+            3663114064
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 400000,
+          "next_ships": null,
+          "module_id": 3664162640,
+          "type": "Suo",
+          "module_id_str": "PFUS601"
+        },
+        "3664523088": {
+          "name": "Algérie (A)",
+          "next_modules": [
+            3663474512
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 610000,
+          "next_ships": null,
+          "module_id": 3664523088,
+          "type": "Hull",
+          "module_id_str": "PFUH601"
+        },
+        "3664621392": {
+          "name": "Propulsion: 84,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 390000,
+          "next_ships": null,
+          "module_id": 3664621392,
+          "type": "Engine",
+          "module_id_str": "PFUE601"
+        },
+        "3664752464": {
+          "name": "203 mm/50 Mle 1931",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 440000,
+          "next_ships": null,
+          "module_id": 3664752464,
+          "type": "Artillery",
+          "module_id_str": "PFUA601"
+        }
+      }
+    },
+    {
+      "id": "4182718288",
+      "id_str": "PFSB107",
+      "name": "Lyon",
+      "type": "Battleship",
+      "tier": 7,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSB107_f3cc0af62c017cd98163d214f01219018078bd1ad736ef5c582fb5e6f912c355.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSB107_b7a06dac4cfdf2c8b7368b08144a3b990df75c284f19912354ec37065b346f37.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSB107_69cdddb6093cbc93a02cc97015afa89e14c1c260276fd6f5d6ba06abe92bfccc.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSB107_218282c728188300c7df8f5c6bd3d1bc46fdf00b0f784f0a5c15121b68c53c35.png"
+      },
+      "modules_tree": {
+        "3652628304": {
+          "name": "PCA n° 7 Mle 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 8000,
+          "price_credit": 700000,
+          "next_ships": null,
+          "module_id": 3652628304,
+          "type": "Suo",
+          "module_id_str": "PFUS612"
+        },
+        "3652988752": {
+          "name": "Lyon (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 25000,
+          "price_credit": 1900000,
+          "next_ships": [
+            4181669712
+          ],
+          "module_id": 3652988752,
+          "type": "Hull",
+          "module_id_str": "PFUH612"
+        },
+        "3653676880": {
+          "name": "PCA n° 7 Mle 1",
+          "next_modules": [
+            3652628304
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 330000,
+          "next_ships": null,
+          "module_id": 3653676880,
+          "type": "Suo",
+          "module_id_str": "PFUS611"
+        },
+        "3654037328": {
+          "name": "Lyon (A)",
+          "next_modules": [
+            3652988752
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 680000,
+          "next_ships": null,
+          "module_id": 3654037328,
+          "type": "Hull",
+          "module_id_str": "PFUH611"
+        },
+        "3654135632": {
+          "name": "Propulsion: 112,000 hp",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 7000,
+          "price_credit": 400000,
+          "next_ships": null,
+          "module_id": 3654135632,
+          "type": "Engine",
+          "module_id_str": "PFUE611"
+        },
+        "3655184208": {
+          "name": "Propulsion: 107,000 hp",
+          "next_modules": [
+            3654135632
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 180000,
+          "next_ships": null,
+          "module_id": 3655184208,
+          "type": "Engine",
+          "module_id_str": "PFUE610"
+        },
+        "3655315280": {
+          "name": "340 mm/45 Mle 1912",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 560000,
+          "next_ships": null,
+          "module_id": 3655315280,
+          "type": "Artillery",
+          "module_id_str": "PFUA610"
+        }
+      }
+    },
+    {
+      "id": "4183701328",
+      "id_str": "PFSD106",
+      "name": "Guépard",
+      "type": "Destroyer",
+      "tier": 6,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSD106_5e85bd24f0d0900a7389d0dd11c65b2234df9ef49421e68099d64f796fc0587f.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSD106_08ecf5297f4a0874bfaf21e7b4a81b7e04f69ef6531404a5a351e5432a233ae1.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSD106_c65ee8f7907f548c5470c2e5adbdd684073a6ee1f0bdbe7854a3448a795dce47.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSD106_17e7c7b432a612107c065726e5e006d7a4f3876dafffd074242ec6d6449af77c.png"
+      },
+      "modules_tree": {
+        "3764825936": {
+          "name": "PCA n° 6 Mle 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 6500,
+          "price_credit": 510000,
+          "next_ships": null,
+          "module_id": 3764825936,
+          "type": "Suo",
+          "module_id_str": "PFUS505"
+        },
+        "3765186384": {
+          "name": "Guépard (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 12500,
+          "price_credit": 840000,
+          "next_ships": [
+            4182652752
+          ],
+          "module_id": 3765186384,
+          "type": "Hull",
+          "module_id_str": "PFUH505"
+        },
+        "3765841744": {
+          "name": "550 mm 23DT Mle 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 250000,
+          "next_ships": null,
+          "module_id": 3765841744,
+          "type": "Torpedoes",
+          "module_id_str": "PFUT504"
+        },
+        "3765874512": {
+          "name": "PCA n° 6 Mle 1",
+          "next_modules": [
+            3764825936
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 180000,
+          "next_ships": null,
+          "module_id": 3765874512,
+          "type": "Suo",
+          "module_id_str": "PFUS504"
+        },
+        "3766234960": {
+          "name": "Guépard (A)",
+          "next_modules": [
+            3765186384
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 380000,
+          "next_ships": null,
+          "module_id": 3766234960,
+          "type": "Hull",
+          "module_id_str": "PFUH504"
+        },
+        "3768430416": {
+          "name": "Propulsion: 64,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 150000,
+          "next_ships": null,
+          "module_id": 3768430416,
+          "type": "Engine",
+          "module_id_str": "PFUE502"
+        },
+        "3768561488": {
+          "name": "139 mm/40 Mle 1923",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 170000,
+          "next_ships": null,
+          "module_id": 3768561488,
+          "type": "Artillery",
+          "module_id_str": "PFUA502"
+        }
+      }
+    },
+    {
+      "id": "4183734096",
+      "id_str": "PFSC106",
+      "name": "La Galissonnière",
+      "type": "Cruiser",
+      "tier": 6,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSC106_e5565e1a912cf19bd5bea73c75a60a6a5d58962cba56462e2a8ec849199b1004.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSC106_51918ae230dfc92be41cb95702a875c5496c6524306e5cd9d1800c5c634e39a9.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSC106_1f0bc9ea0f3dd38df53b0ca6caf72d66f20bc9120a744011819c264bafc65ecf.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSC106_f89639dc36c8fbc56c3bf63025b56bd576c5296c94d3edd6f5180b8e0d9b4357.png"
+      },
+      "modules_tree": {
+        "3757485904": {
+          "name": "PCA n° 6 Mle 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 5500,
+          "price_credit": 440000,
+          "next_ships": null,
+          "module_id": 3757485904,
+          "type": "Suo",
+          "module_id_str": "PFUS512"
+        },
+        "3757846352": {
+          "name": "La Galissonnière (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 9800,
+          "price_credit": 780000,
+          "next_ships": [
+            4182685520
+          ],
+          "module_id": 3757846352,
+          "type": "Hull",
+          "module_id_str": "PFUH512"
+        },
+        "3758534480": {
+          "name": "PCA n° 6 Mle 1",
+          "next_modules": [
+            3757485904
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 200000,
+          "next_ships": null,
+          "module_id": 3758534480,
+          "type": "Suo",
+          "module_id_str": "PFUS511"
+        },
+        "3758894928": {
+          "name": "La Galissonnière (A)",
+          "next_modules": [
+            3757846352
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 375000,
+          "next_ships": null,
+          "module_id": 3758894928,
+          "type": "Hull",
+          "module_id_str": "PFUH511"
+        },
+        "3758993232": {
+          "name": "Propulsion: 84,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 190000,
+          "next_ships": null,
+          "module_id": 3758993232,
+          "type": "Engine",
+          "module_id_str": "PFUE511"
+        },
+        "3759124304": {
+          "name": "152 mm/55 Mle 1930",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 225000,
+          "next_ships": null,
+          "module_id": 3759124304,
+          "type": "Artillery",
+          "module_id_str": "PFUA511"
+        },
+        "3768987472": {
+          "name": "550 mm 23DT",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 200000,
+          "next_ships": null,
+          "module_id": 3768987472,
+          "type": "Torpedoes",
+          "module_id_str": "PFUT501"
+        }
+      }
+    },
+    {
+      "id": "4183766864",
+      "id_str": "PFSB106",
+      "name": "Normandie",
+      "type": "Battleship",
+      "tier": 6,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSB106_3ba372f12637b3ca6c4243787f128cdc619a2e9281e187b05632269b712d9c4b.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSB106_c5de4c71cae9e7ade195df5b13ad760c3f8f108aa8df305eb4968bff5dba340a.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSB106_aff29ea632c22ac8b47b54d7b20006f749dc53c17f1cd97654c1dd1f05c9853d.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSB106_d209673452c59e29960661255ba07066a4ba06ef2fd7f8756a14c832d7ec7365.png"
+      },
+      "modules_tree": {
+        "3747000144": {
+          "name": "PCA n° 6 Mle 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 6500,
+          "price_credit": 640000,
+          "next_ships": null,
+          "module_id": 3747000144,
+          "type": "Suo",
+          "module_id_str": "PFUS522"
+        },
+        "3747360592": {
+          "name": "Normandie (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 12500,
+          "price_credit": 900000,
+          "next_ships": [
+            4182718288
+          ],
+          "module_id": 3747360592,
+          "type": "Hull",
+          "module_id_str": "PFUH522"
+        },
+        "3748048720": {
+          "name": "PCA n° 6 Mle 1",
+          "next_modules": [
+            3747000144
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 260000,
+          "next_ships": null,
+          "module_id": 3748048720,
+          "type": "Suo",
+          "module_id_str": "PFUS521"
+        },
+        "3748409168": {
+          "name": "Normandie (A)",
+          "next_modules": [
+            3747360592
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 340000,
+          "next_ships": null,
+          "module_id": 3748409168,
+          "type": "Hull",
+          "module_id_str": "PFUH521"
+        },
+        "3760041808": {
+          "name": "Propulsion: 107,000 hp",
+          "next_modules": [
+            3761090384
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 140000,
+          "next_ships": null,
+          "module_id": 3760041808,
+          "type": "Engine",
+          "module_id_str": "PFUE510"
+        },
+        "3760172880": {
+          "name": "340 mm/45 Mle 1912",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 340000,
+          "next_ships": null,
+          "module_id": 3760172880,
+          "type": "Artillery",
+          "module_id_str": "PFUA510"
+        },
+        "3761090384": {
+          "name": "Propulsion: 112,000 hp",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 5500,
+          "price_credit": 300000,
+          "next_ships": null,
+          "module_id": 3761090384,
+          "type": "Engine",
+          "module_id_str": "PFUE509"
+        }
+      }
+    },
+    {
+      "id": "4184749904",
+      "id_str": "PFSD105",
+      "name": "Jaguar",
+      "type": "Destroyer",
+      "tier": 5,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSD105_ae646d547f4441840dda7d241c99f363642b6d682e93982894afd5788aa9fd87.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSD105_f9cbfd22d237c067df0d706aae37dff96c5fa8fc59ac7097f62c62568425d565.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSD105_7cbf6e643075c041be1b5371ee92e513f03eb3a42ec9a2bbbdd5da70c373416f.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSD105_b46f057eeba370d713fedb9cbe184be83ea1c6725a80b0d284beab96aa0e317c.png"
+      },
+      "modules_tree": {
+        "3870732112": {
+          "name": "PCA n° 5 Mle 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 2300,
+          "price_credit": 210000,
+          "next_ships": null,
+          "module_id": 3870732112,
+          "type": "Suo",
+          "module_id_str": "PFUS404"
+        },
+        "3871092560": {
+          "name": "Jaguar (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 3600,
+          "price_credit": 370000,
+          "next_ships": [
+            4183701328
+          ],
+          "module_id": 3871092560,
+          "type": "Hull",
+          "module_id_str": "PFUH404"
+        },
+        "3871780688": {
+          "name": "PCA n° 5 Mle 1",
+          "next_modules": [
+            3870732112
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 110000,
+          "next_ships": null,
+          "module_id": 3871780688,
+          "type": "Suo",
+          "module_id_str": "PFUS403"
+        },
+        "3872141136": {
+          "name": "Jaguar (A)",
+          "next_modules": [
+            3871092560
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 160000,
+          "next_ships": null,
+          "module_id": 3872141136,
+          "type": "Hull",
+          "module_id_str": "PFUH403"
+        },
+        "3872796496": {
+          "name": "550 mm 23DT Mle 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 100000,
+          "next_ships": null,
+          "module_id": 3872796496,
+          "type": "Torpedoes",
+          "module_id_str": "PFUT402"
+        },
+        "3873288016": {
+          "name": "Propulsion: 50,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 125000,
+          "next_ships": null,
+          "module_id": 3873288016,
+          "type": "Engine",
+          "module_id_str": "PFUE402"
+        },
+        "3873419088": {
+          "name": "130 mm/40 Mle 1919",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 100000,
+          "next_ships": null,
+          "module_id": 3873419088,
+          "type": "Artillery",
+          "module_id_str": "PFUA402"
+        }
+      }
+    },
+    {
+      "id": "4184782672",
+      "id_str": "PFSC105",
+      "name": "Émile Bertin",
+      "type": "Cruiser",
+      "tier": 5,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSC105_0a0171cb234f0eca0ed2c9bea7ca94e6273451ce9d4dff1c43695246f92d2349.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSC105_e0fa685dd59e99872858c5f7343f56eb2da20cd1c5ab9ef5b2c663e09c5740fd.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSC105_73df3c0e32ea8a987690ceb258f621bfccc664f92e7a0420b5687bb4eb30a047.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSC105_98665a07511945f74316983629369ac219ac35490a4b06dc74779360b24000e2.png"
+      },
+      "modules_tree": {
+        "3872829264": {
+          "name": "PCA n° 5 Mle 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 2200,
+          "price_credit": 210000,
+          "next_ships": null,
+          "module_id": 3872829264,
+          "type": "Suo",
+          "module_id_str": "PFUS402"
+        },
+        "3873189712": {
+          "name": "Émile Bertin (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 5900,
+          "price_credit": 450000,
+          "next_ships": [
+            4183734096
+          ],
+          "module_id": 3873189712,
+          "type": "Hull",
+          "module_id_str": "PFUH402"
+        },
+        "3873845072": {
+          "name": "550 mm 19D",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 80000,
+          "next_ships": null,
+          "module_id": 3873845072,
+          "type": "Torpedoes",
+          "module_id_str": "PFUT401"
+        },
+        "3873877840": {
+          "name": "PCA n° 5 Mle 1",
+          "next_modules": [
+            3872829264
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 90000,
+          "next_ships": null,
+          "module_id": 3873877840,
+          "type": "Suo",
+          "module_id_str": "PFUS401"
+        },
+        "3874238288": {
+          "name": "Émile Bertin (A)",
+          "next_modules": [
+            3873189712
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 145000,
+          "next_ships": null,
+          "module_id": 3874238288,
+          "type": "Hull",
+          "module_id_str": "PFUH401"
+        },
+        "3874336592": {
+          "name": "Propulsion: 102,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 84000,
+          "next_ships": null,
+          "module_id": 3874336592,
+          "type": "Engine",
+          "module_id_str": "PFUE401"
+        },
+        "3874467664": {
+          "name": "152 mm/55 Mle 1930",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 110000,
+          "next_ships": null,
+          "module_id": 3874467664,
+          "type": "Artillery",
+          "module_id_str": "PFUA401"
+        }
+      }
+    },
+    {
+      "id": "4184815440",
+      "id_str": "PFSB105",
+      "name": "Bretagne",
+      "type": "Battleship",
+      "tier": 5,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSB105_1095066e7833a8e5741e694be74003a48247143019d2eb5f367abd7183fe8694.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSB105_95b0d3586a647c41126979317c03f67cda6dfc65994d72e1dddbe2e5b15b0a70.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSB105_172201c2a6d6371d00f291fbcd89f50f92791c1c1638a1ecf54e0cab116c48b9.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSB105_87fa617d6161c5cfaa3b0382903960cac53d54f73f35221b03c64ef0b633907a.png"
+      },
+      "modules_tree": {
+        "3862343504": {
+          "name": "PCA n° 5 Mle 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 3600,
+          "price_credit": 310000,
+          "next_ships": null,
+          "module_id": 3862343504,
+          "type": "Suo",
+          "module_id_str": "PFUS412"
+        },
+        "3862703952": {
+          "name": "Bretagne (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 5000,
+          "price_credit": 500000,
+          "next_ships": [
+            4183766864
+          ],
+          "module_id": 3862703952,
+          "type": "Hull",
+          "module_id_str": "PFUH412"
+        },
+        "3863392080": {
+          "name": "PCA n° 5 Mle 1",
+          "next_modules": [
+            3862343504
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 64000,
+          "next_ships": null,
+          "module_id": 3863392080,
+          "type": "Suo",
+          "module_id_str": "PFUS411"
+        },
+        "3863752528": {
+          "name": "Bretagne (A)",
+          "next_modules": [
+            3862703952
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 190000,
+          "next_ships": null,
+          "module_id": 3863752528,
+          "type": "Hull",
+          "module_id_str": "PFUH411"
+        },
+        "3863850832": {
+          "name": "Propulsion: 31,000 hp",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 3600,
+          "price_credit": 220000,
+          "next_ships": null,
+          "module_id": 3863850832,
+          "type": "Engine",
+          "module_id_str": "PFUE411"
+        },
+        "3864899408": {
+          "name": "Propulsion: 29,000 hp",
+          "next_modules": [
+            3863850832
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 84000,
+          "next_ships": null,
+          "module_id": 3864899408,
+          "type": "Engine",
+          "module_id_str": "PFUE410"
+        },
+        "3865030480": {
+          "name": "340 mm/45 Mle 1912",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 178000,
+          "next_ships": null,
+          "module_id": 3865030480,
+          "type": "Artillery",
+          "module_id_str": "PFUA410"
+        }
+      }
+    },
+    {
+      "id": "4185798480",
+      "id_str": "PFSD104",
+      "name": "Bourrasque",
+      "type": "Destroyer",
+      "tier": 4,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSD104_e3f2d4006a0cc10ed8899ebf892bfe59de499475f189c1047fa1d3501d30a33f.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSD104_e2e3ed9b4db52023d256d17b8d1a33d077a89d56cbb40fde71751e4633e949fe.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSD104_d38c7ff720b2694c0752f8cc911875d62a84359c5d769edf5c363e5dfcccd744.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSD104_dd6ab9db910144cd79a996b13e2638807253a9705677d9e49b99513706009254.png"
+      },
+      "modules_tree": {
+        "3974541136": {
+          "name": "PCA n° 4 Mle 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 1400,
+          "price_credit": 165000,
+          "next_ships": null,
+          "module_id": 3974541136,
+          "type": "Suo",
+          "module_id_str": "PFUS305"
+        },
+        "3974901584": {
+          "name": "Bourrasque (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 1900,
+          "price_credit": 189000,
+          "next_ships": [
+            4184749904
+          ],
+          "module_id": 3974901584,
+          "type": "Hull",
+          "module_id_str": "PFUH305"
+        },
+        "3975589712": {
+          "name": "PCA n° 4 Mle 1",
+          "next_modules": [
+            3974541136
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 38000,
+          "next_ships": null,
+          "module_id": 3975589712,
+          "type": "Suo",
+          "module_id_str": "PFUS304"
+        },
+        "3975950160": {
+          "name": "Bourrasque (A)",
+          "next_modules": [
+            3974901584
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 65000,
+          "next_ships": null,
+          "module_id": 3975950160,
+          "type": "Hull",
+          "module_id_str": "PFUH304"
+        },
+        "3976605520": {
+          "name": "550 mm 19D Mle 0",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 88000,
+          "next_ships": null,
+          "module_id": 3976605520,
+          "type": "Torpedoes",
+          "module_id_str": "PFUT303"
+        },
+        "3977097040": {
+          "name": "Propulsion: 33,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 43000,
+          "next_ships": null,
+          "module_id": 3977097040,
+          "type": "Engine",
+          "module_id_str": "PFUE303"
+        },
+        "3977228112": {
+          "name": "130 mm/40 Mle 1919",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 45000,
+          "next_ships": null,
+          "module_id": 3977228112,
+          "type": "Artillery",
+          "module_id_str": "PFUA303"
+        }
+      }
+    },
+    {
+      "id": "4185831248",
+      "id_str": "PFSC104",
+      "name": "Duguay-Trouin",
+      "type": "Cruiser",
+      "tier": 4,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSC104_d50177c5c65715f0fca5be14385a3eb0eee7aa1023ed4d018d706454b741663a.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSC104_645e84f0ccf0a3ff194d0237a90b12114704150a6b2ab1a81b7e6e56b46c0048.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSC104_a0ca34f9acf65be656c71a63ecdff0e17e01851af605dc1621024a07dc8be7e6.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSC104_b9cd8c4448657684ff055f3f7d617f45ad864e32332f63d4a7d1573300ebfc1c.png"
+      },
+      "modules_tree": {
+        "3977686864": {
+          "name": "PCA n° 4 Mle 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 600,
+          "price_credit": 110000,
+          "next_ships": null,
+          "module_id": 3977686864,
+          "type": "Suo",
+          "module_id_str": "PFUS302"
+        },
+        "3978047312": {
+          "name": "Duguay-Trouin (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 1500,
+          "price_credit": 240000,
+          "next_ships": [
+            4184782672
+          ],
+          "module_id": 3978047312,
+          "type": "Hull",
+          "module_id_str": "PFUH302"
+        },
+        "3978702672": {
+          "name": "550 mm 19D",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 40000,
+          "next_ships": null,
+          "module_id": 3978702672,
+          "type": "Torpedoes",
+          "module_id_str": "PFUT301"
+        },
+        "3978735440": {
+          "name": "PCA n° 4 Mle 1",
+          "next_modules": [
+            3977686864
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 44000,
+          "next_ships": null,
+          "module_id": 3978735440,
+          "type": "Suo",
+          "module_id_str": "PFUS301"
+        },
+        "3979095888": {
+          "name": "Duguay-Trouin (A)",
+          "next_modules": [
+            3978047312
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 78000,
+          "next_ships": null,
+          "module_id": 3979095888,
+          "type": "Hull",
+          "module_id_str": "PFUH301"
+        },
+        "3979194192": {
+          "name": "Propulsion: 100,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 40000,
+          "next_ships": null,
+          "module_id": 3979194192,
+          "type": "Engine",
+          "module_id_str": "PFUE301"
+        },
+        "3979325264": {
+          "name": "155 mm/50 Mle 1921",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 56000,
+          "next_ships": null,
+          "module_id": 3979325264,
+          "type": "Artillery",
+          "module_id_str": "PFUA301"
+        }
+      }
+    },
+    {
+      "id": "4185864016",
+      "id_str": "PFSB104",
+      "name": "Courbet",
+      "type": "Battleship",
+      "tier": 4,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSB104_9469955256835a0194f8ac14f821a40624aacd1be87199c03a8c30b24550eb18.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSB104_e94278f687675e27f5904b5135213cb4341176afc6649c7773d49e9180d2d28c.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSB104_e31a62be013f4cd75c921c53684a03036e16ff8df721afdddbf98bbe533a8c85.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSB104_6b423ff301d5ddf5ad596abebc08da6221b7e22ee9f8da9a63ffee808d26b826.png"
+      },
+      "modules_tree": {
+        "3967201104": {
+          "name": "PCA n° 4 Mle 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 1350,
+          "price_credit": 190000,
+          "next_ships": null,
+          "module_id": 3967201104,
+          "type": "Suo",
+          "module_id_str": "PFUS312"
+        },
+        "3967561552": {
+          "name": "Courbet (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 2100,
+          "price_credit": 270000,
+          "next_ships": [
+            4184815440
+          ],
+          "module_id": 3967561552,
+          "type": "Hull",
+          "module_id_str": "PFUH312"
+        },
+        "3968249680": {
+          "name": "PCA n° 4 Mle 1",
+          "next_modules": [
+            3967201104
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 40000,
+          "next_ships": null,
+          "module_id": 3968249680,
+          "type": "Suo",
+          "module_id_str": "PFUS311"
+        },
+        "3968610128": {
+          "name": "Courbet (A)",
+          "next_modules": [
+            3967561552
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 128000,
+          "next_ships": null,
+          "module_id": 3968610128,
+          "type": "Hull",
+          "module_id_str": "PFUH311"
+        },
+        "3968708432": {
+          "name": "Propulsion: 30,000 hp",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 850,
+          "price_credit": 90000,
+          "next_ships": null,
+          "module_id": 3968708432,
+          "type": "Engine",
+          "module_id_str": "PFUE311"
+        },
+        "3969757008": {
+          "name": "Propulsion: 28,000 hp",
+          "next_modules": [
+            3968708432
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 30000,
+          "next_ships": null,
+          "module_id": 3969757008,
+          "type": "Engine",
+          "module_id_str": "PFUE310"
+        },
+        "3969888080": {
+          "name": "305 mm/45 Mle 1910",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 94000,
+          "next_ships": null,
+          "module_id": 3969888080,
+          "type": "Artillery",
+          "module_id_str": "PFUA310"
+        }
+      }
+    },
+    {
+      "id": "4186847056",
+      "id_str": "PFSD103",
+      "name": "Fusilier",
+      "type": "Destroyer",
+      "tier": 3,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSD103_f53dffeebd789f0e68893b4971dc521139f05fb3c10fddec9614229712569c76.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSD103_7c065e4eb18b825850abcc3a120d4a10b8ee02da8b8dfd4e0b498688fb776767.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSD103_d4f385f41e50322127e871248f5d9259fee981b869bdd9137c9b3ed5682ff8ce.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSD103_cbd31f064a15cf6e8df5362b0c270342570bdea1adddb7fedcfbe6a1c9a9a3e3.png"
+      },
+      "modules_tree": {
+        "4080807760": {
+          "name": "Fusilier (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 1500,
+          "price_credit": 140000,
+          "next_ships": [
+            4185798480
+          ],
+          "module_id": 4080807760,
+          "type": "Hull",
+          "module_id_str": "PFUH204"
+        },
+        "4081495888": {
+          "name": "PCA n° 3 Mle 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 20500,
+          "next_ships": null,
+          "module_id": 4081495888,
+          "type": "Suo",
+          "module_id_str": "PFUS203"
+        },
+        "4081856336": {
+          "name": "Fusilier (A)",
+          "next_modules": [
+            4080807760
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 30000,
+          "next_ships": null,
+          "module_id": 4081856336,
+          "type": "Hull",
+          "module_id_str": "PFUH203"
+        },
+        "4082511696": {
+          "name": "550 mm 19V Mle 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 21000,
+          "next_ships": null,
+          "module_id": 4082511696,
+          "type": "Torpedoes",
+          "module_id_str": "PFUT202"
+        },
+        "4083003216": {
+          "name": "Propulsion: 33,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 21000,
+          "next_ships": null,
+          "module_id": 4083003216,
+          "type": "Engine",
+          "module_id_str": "PFUE202"
+        },
+        "4083134288": {
+          "name": "100 mm/45 Mle 1921",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 25000,
+          "next_ships": null,
+          "module_id": 4083134288,
+          "type": "Artillery",
+          "module_id_str": "PFUA202"
+        }
+      }
+    },
+    {
+      "id": "4186879824",
+      "id_str": "PFSC103",
+      "name": "Friant",
+      "type": "Cruiser",
+      "tier": 3,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSC103_22a4ee8a89edceb8063e312a2ae915bf767ea9676a6673eae375656da4d10341.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSC103_4cb16b14ac7c4de57667fd0ad5d1a418b2c2010dd2b1e4124fd36171c50e6b68.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSC103_3a7016cc153e6a91529374406fff90a3934391b0e4b5bef621c2b3928bfee2a4.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSC103_ad370adfd8e48be66f0606cf532c90c3f34a1da28e7bc6fe9f378b829aa3bfed.png"
+      },
+      "modules_tree": {
+        "4082544464": {
+          "name": "PCA n° 3 Mle 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 400,
+          "price_credit": 53000,
+          "next_ships": null,
+          "module_id": 4082544464,
+          "type": "Suo",
+          "module_id_str": "PFUS202"
+        },
+        "4082904912": {
+          "name": "Friant (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 800,
+          "price_credit": 98000,
+          "next_ships": [
+            4185831248
+          ],
+          "module_id": 4082904912,
+          "type": "Hull",
+          "module_id_str": "PFUH202"
+        },
+        "4083560272": {
+          "name": "550 mm 19D",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 22000,
+          "next_ships": null,
+          "module_id": 4083560272,
+          "type": "Torpedoes",
+          "module_id_str": "PFUT201"
+        },
+        "4083593040": {
+          "name": "PCA n° 3 Mle 1",
+          "next_modules": [
+            4082544464
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 21000,
+          "next_ships": null,
+          "module_id": 4083593040,
+          "type": "Suo",
+          "module_id_str": "PFUS201"
+        },
+        "4083953488": {
+          "name": "Friant (A)",
+          "next_modules": [
+            4082904912
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 40000,
+          "next_ships": null,
+          "module_id": 4083953488,
+          "type": "Hull",
+          "module_id_str": "PFUH201"
+        },
+        "4084051792": {
+          "name": "Propulsion: 54,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 18000,
+          "next_ships": null,
+          "module_id": 4084051792,
+          "type": "Engine",
+          "module_id_str": "PFUE201"
+        },
+        "4084182864": {
+          "name": "139 mm/55 Mle 1921",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 28000,
+          "next_ships": [
+            4186912592
+          ],
+          "module_id": 4084182864,
+          "type": "Artillery",
+          "module_id_str": "PFUA201"
+        }
+      }
+    },
+    {
+      "id": "4186912592",
+      "id_str": "PFSB103",
+      "name": "Turenne",
+      "type": "Battleship",
+      "tier": 3,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSB103_b9b2039178fd0da43537f37600558a8731db46159c0a8cd14f29dd49aefbbb5d.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSB103_b42f0e4b137ea36e0488dc5ff04f14fe368d402d5e1211bf3b37580f6d97bbca.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSB103_2686db8511af5795a4b80fe0d1f6a434cbc2e9ef2f277af1f56e186a3df6ad75.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSB103_b76f0bcc74b4cb345d50b2ba1687249ee9d717f68f67d59f09ba4518e096b31b.png"
+      },
+      "modules_tree": {
+        "4072058704": {
+          "name": "PCA n° 3 Mle 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 650,
+          "price_credit": 76000,
+          "next_ships": null,
+          "module_id": 4072058704,
+          "type": "Suo",
+          "module_id_str": "PFUS212"
+        },
+        "4072419152": {
+          "name": "Turenne (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 1350,
+          "price_credit": 150000,
+          "next_ships": [
+            4185864016
+          ],
+          "module_id": 4072419152,
+          "type": "Hull",
+          "module_id_str": "PFUH212"
+        },
+        "4073107280": {
+          "name": "PCA n° 3 Mle 1",
+          "next_modules": [
+            4072058704
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 22000,
+          "next_ships": null,
+          "module_id": 4073107280,
+          "type": "Suo",
+          "module_id_str": "PFUS211"
+        },
+        "4073467728": {
+          "name": "Turenne (A)",
+          "next_modules": [
+            4072419152
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 70000,
+          "next_ships": null,
+          "module_id": 4073467728,
+          "type": "Hull",
+          "module_id_str": "PFUH211"
+        },
+        "4073566032": {
+          "name": "Propulsion: 26,000 hp",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 350,
+          "price_credit": 40000,
+          "next_ships": null,
+          "module_id": 4073566032,
+          "type": "Engine",
+          "module_id_str": "PFUE211"
+        },
+        "4074614608": {
+          "name": "Propulsion: 24,800 hp",
+          "next_modules": [
+            4073566032
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 17000,
+          "next_ships": null,
+          "module_id": 4074614608,
+          "type": "Engine",
+          "module_id_str": "PFUE210"
+        },
+        "4074745680": {
+          "name": "305 mm/45 Mle 1910",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 30000,
+          "next_ships": null,
+          "module_id": 4074745680,
+          "type": "Artillery",
+          "module_id_str": "PFUA210"
+        }
+      }
+    },
+    {
+      "id": "4187895632",
+      "id_str": "PFSD102",
+      "name": "Enseigne Gabolde",
+      "type": "Destroyer",
+      "tier": 2,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSD102_015c2fb0dba6e790ba621b67205c685ba8dc3c48149a39197a7a71ec1abf1034.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSD102_7fd33eec8d3c6c6dbc2db03176580e7485b73438129f76b64363663e9600488a.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSD102_d2feb4ec806cf645e28e6016ca2e1e7378ccebae922043d16de98c294cfdddb1.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSD102_ec49ac1a5005092e3c13f65482c035632c5a715f7f842bef2e7700d178aa7212.png"
+      },
+      "modules_tree": {
+        "4185304912": {
+          "name": "PCA n° 2 Mle 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 250,
+          "price_credit": 16000,
+          "next_ships": null,
+          "module_id": 4185304912,
+          "type": "Suo",
+          "module_id_str": "PFUS104"
+        },
+        "4185665360": {
+          "name": "En. Gabolde (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 350,
+          "price_credit": 28000,
+          "next_ships": [
+            4186847056
+          ],
+          "module_id": 4185665360,
+          "type": "Hull",
+          "module_id_str": "PFUH104"
+        },
+        "4186353488": {
+          "name": "PCA n° 2 Mle 1",
+          "next_modules": [
+            4185304912
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 4500,
+          "next_ships": null,
+          "module_id": 4186353488,
+          "type": "Suo",
+          "module_id_str": "PFUS103"
+        },
+        "4186713936": {
+          "name": "En. Gabolde (A)",
+          "next_modules": [
+            4185665360
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 10000,
+          "next_ships": null,
+          "module_id": 4186713936,
+          "type": "Hull",
+          "module_id_str": "PFUH103"
+        },
+        "4187860816": {
+          "name": "Propulsion: 20,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 5000,
+          "next_ships": null,
+          "module_id": 4187860816,
+          "type": "Engine",
+          "module_id_str": "PFUE102"
+        },
+        "4187991888": {
+          "name": "100 mm/45 Mle 1921",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 7500,
+          "next_ships": null,
+          "module_id": 4187991888,
+          "type": "Artillery",
+          "module_id_str": "PFUA102"
+        },
+        "4188417872": {
+          "name": "550 mm 19V",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 9500,
+          "next_ships": null,
+          "module_id": 4188417872,
+          "type": "Torpedoes",
+          "module_id_str": "PFUT101"
+        }
+      }
+    },
+    {
+      "id": "4187928400",
+      "id_str": "PFSC102",
+      "name": "Jurien de la Gravière",
+      "type": "Cruiser",
+      "tier": 2,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSC102_69d964787492674420892eadedd7b57d637f4e59db0293b24345263044f6592d.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSC102_74c269226cf1436de2472611bcc3fa15a985d0d0419f51275a0bd37f49f9d04f.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSC102_74c269226cf1436de2472611bcc3fa15a985d0d0419f51275a0bd37f49f9d04f.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSC102_91969ea91669927d2beefc0ad9c6a34c50711102d2191546c4997e369a73f428.png"
+      },
+      "modules_tree": {
+        "4187402064": {
+          "name": "PCA n° 2 Mle 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 160,
+          "price_credit": 17800,
+          "next_ships": [
+            4187895632
+          ],
+          "module_id": 4187402064,
+          "type": "Suo",
+          "module_id_str": "PFUS102"
+        },
+        "4187762512": {
+          "name": "Jurien (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 270,
+          "price_credit": 31000,
+          "next_ships": [
+            4186879824
+          ],
+          "module_id": 4187762512,
+          "type": "Hull",
+          "module_id_str": "PFUH102"
+        },
+        "4188450640": {
+          "name": "PCA n° 2 Mle 1",
+          "next_modules": [
+            4187402064
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 5000,
+          "next_ships": null,
+          "module_id": 4188450640,
+          "type": "Suo",
+          "module_id_str": "PFUS101"
+        },
+        "4188811088": {
+          "name": "Jurien (A)",
+          "next_modules": [
+            4187762512
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 10500,
+          "next_ships": null,
+          "module_id": 4188811088,
+          "type": "Hull",
+          "module_id_str": "PFUH101"
+        },
+        "4188909392": {
+          "name": "Propulsion: 17,400 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 4000,
+          "next_ships": null,
+          "module_id": 4188909392,
+          "type": "Engine",
+          "module_id_str": "PFUE101"
+        },
+        "4189040464": {
+          "name": "165 mm/45 Mle 1893",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 8500,
+          "next_ships": null,
+          "module_id": 4189040464,
+          "type": "Artillery",
+          "module_id_str": "PFUA101"
+        }
+      }
+    },
+    {
+      "id": "4188976976",
+      "id_str": "PFSC101",
+      "name": "Bougainville",
+      "type": "Cruiser",
+      "tier": 1,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PFSC101_00f353f266a6eb86cad66c3f2223dbbb6cb29ceec27436ebc648e3edaf7c1575.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PFSC101_75986185f34e9321fc813039d65777934eca3c852951c359a2fb56f61b5c1ab1.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PFSC101_dc3d9a367a736ee990797e5564eb455757f14581111428a48da99d5779fe220c.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PFSC101_2e8206a14c26ccac7fe71569052c8d6dfca5ca241b838df3d7dfb221836d7322.png"
+      },
+      "modules_tree": {
+        "4293308240": {
+          "name": "PCA n° 1 Mle 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4293308240,
+          "type": "Suo",
+          "module_id_str": "PFUS001"
+        },
+        "4293668688": {
+          "name": "Bougainville (A)",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": [
+            4187928400
+          ],
+          "module_id": 4293668688,
+          "type": "Hull",
+          "module_id_str": "PFUH001"
+        },
+        "4293766992": {
+          "name": "Propulsion: 3,200 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4293766992,
+          "type": "Engine",
+          "module_id_str": "PFUE001"
+        },
+        "4293898064": {
+          "name": "139 mm/40 Mle 1927",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4293898064,
+          "type": "Artillery",
+          "module_id_str": "PFUA001"
+        }
+      }
+    }
+  ]
+}

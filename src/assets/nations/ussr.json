@@ -1,0 +1,5023 @@
+{
+  "status": "ok",
+  "meta": {
+    "count": 64,
+    "page_total": 1,
+    "total": 64,
+    "limit": 100,
+    "page": 1
+  },
+  "data": [
+    {
+      "id": "3551409616",
+      "id_str": "PRSD709",
+      "name": "Neustrashimy",
+      "type": "Destroyer",
+      "tier": 9,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSD709_83852f75688cca539a7861743f2d499361a558155b1cf5a1bc31af012a880cac.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSD709_9f970239aeac0c684a951988f15d6e58f2bddb74b861fffc2c474ca888bbdfce.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSD709_a8c8e03f101d78fe35511dc7ded8497b6bf6052070663ab97c89da830d69636e.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSD709_8dffd921b7894c778c3881e7ee5cfc8b4921ee889ed404040381a286e084fec7.png"
+      },
+      "modules_tree": {
+        "3431968208": {
+          "name": "130 mm/58 SM-2-1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3431968208,
+          "type": "Artillery",
+          "module_id_str": "PRUA823"
+        },
+        "3434524112": {
+          "name": "GFCS IX mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3434524112,
+          "type": "Suo",
+          "module_id_str": "PRUS820"
+        },
+        "3440127440": {
+          "name": "Neustrashimy",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3440127440,
+          "type": "Hull",
+          "module_id_str": "PRUH815"
+        },
+        "3442322896": {
+          "name": "Propulsion: 64,200 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3442322896,
+          "type": "Engine",
+          "module_id_str": "PRUE813"
+        },
+        "3446025680": {
+          "name": "53-51",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3446025680,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT809"
+        }
+      }
+    },
+    {
+      "id": "3655251408",
+      "id_str": "PRSC610",
+      "name": "Smolensk",
+      "type": "Cruiser",
+      "tier": 10,
+      "is_premium": false,
+      "is_special": true,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC610_271b349db1bd8566a987804152ed2440f65754bc7170a1ba4cb72ce56bf8237b.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC610_0561688d2b26beb3eef91cdab7c3e900acc7146d0acfe63bb6845e5e5f7c4bed.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC610_e0fe73bb2545c53cc194f01d27612a05f7c8911d799a9e35e8b4d7dabaaf895f.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC610_993c72e53a2e70ba74eb599e4fbc76acbf6f548c38ad43d2c9cb5338a5b30fcb.png"
+      },
+      "modules_tree": {
+        "3343265232": {
+          "name": "53-51",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3343265232,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT907"
+        },
+        "3344346576": {
+          "name": "GFCS X mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3344346576,
+          "type": "Suo",
+          "module_id_str": "PRUS906"
+        },
+        "3344707024": {
+          "name": "Smolensk",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3344707024,
+          "type": "Hull",
+          "module_id_str": "PRUH906"
+        },
+        "3344805328": {
+          "name": "Propulsion: 108,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3344805328,
+          "type": "Engine",
+          "module_id_str": "PRUE906"
+        },
+        "3345984976": {
+          "name": "130 mm/57 BL-132",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3345984976,
+          "type": "Artillery",
+          "module_id_str": "PRUA905"
+        }
+      }
+    },
+    {
+      "id": "3659445712",
+      "id_str": "PRSC606",
+      "name": "Admiral Makarov",
+      "type": "Cruiser",
+      "tier": 6,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC606_acaf2bf7566c6fefc4a83e85b1f9b67163e42a5fc14dc34da4449f7505de5eee.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC606_bb5d8672fb9d57d96cc138f997e1f1c82be620c321d96a8f0b9199f43d037d0f.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC606_27b242ce56a9a6a7fbe69e2bd11d8ee55232ae1cde975d3d89d7c8adf5f670a7.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC606_34cfcd87a1815fe6fb64c9a242ffbd8488bb7c40f596c80ff55574cc9364425f.png"
+      },
+      "modules_tree": {
+        "3735432656": {
+          "name": "G7a T1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3735432656,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT533"
+        },
+        "3736514000": {
+          "name": "GFCS VI mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3736514000,
+          "type": "Suo",
+          "module_id_str": "PRUS532"
+        },
+        "3736874448": {
+          "name": "Admiral Makarov",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3736874448,
+          "type": "Hull",
+          "module_id_str": "PRUH532"
+        },
+        "3736972752": {
+          "name": "Propulsion: 60,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3736972752,
+          "type": "Engine",
+          "module_id_str": "PRUE532"
+        },
+        "3737103824": {
+          "name": "150 mm L/60 SK C/25",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3737103824,
+          "type": "Artillery",
+          "module_id_str": "PRUA532"
+        }
+      }
+    },
+    {
+      "id": "3730748880",
+      "id_str": "PRSC538",
+      "name": "Pyotr Bagration",
+      "type": "Cruiser",
+      "tier": 8,
+      "is_premium": false,
+      "is_special": true,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC538_93703bb59bc5530910da4b75f50186230cb51ed469a5d1f4fe8015404573c054.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC538_999feec2a72a4777b6f5e7a1e8df2f1d736eacbb2e8077fe4a3192c168715e37.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC538_28afeed3257a58a113bf8622046bab3b66b040ebab42156bd15a64be7c7bc094.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC538_5d7372cc3885f297ec32fe5cc16f4f278b4fde71f2d4a0a1895ae964e09a16e1.png"
+      },
+      "modules_tree": {
+        "3540430288": {
+          "name": "GFCS VIII mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3540430288,
+          "type": "Suo",
+          "module_id_str": "PRUS719"
+        },
+        "3541839312": {
+          "name": "Pyotr Bagration",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3541839312,
+          "type": "Hull",
+          "module_id_str": "PRUH718"
+        },
+        "3547180496": {
+          "name": "Propulsion: 132,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3547180496,
+          "type": "Engine",
+          "module_id_str": "PRUE713"
+        },
+        "3552554448": {
+          "name": "180 mm/57 MK-3-180M",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3552554448,
+          "type": "Artillery",
+          "module_id_str": "PRUA708"
+        },
+        "3554029008": {
+          "name": "53-36 mod. 2",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3554029008,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT706"
+        }
+      }
+    },
+    {
+      "id": "3741234640",
+      "id_str": "PRSC528",
+      "name": "Ochakov",
+      "type": "Cruiser",
+      "tier": 8,
+      "is_premium": false,
+      "is_special": true,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC528_3af1645d2772ab315efe19affa1cf879685d8b470577a56d1f726fd233dd213f.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC528_820b73e24dfe7448f2266ffd9d2ac5b7ba3d520ba5471b99b0b4eae4957cd1ba.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC528_dde334da4fecb73bd08eb00895e0631ef6f671e81566187d524a78b362ca28b8.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC528_2e985207ed65b5cb644155b350adbf499b1f4eece708b2534c280f2292ed9457.png"
+      },
+      "modules_tree": {
+        "3541478864": {
+          "name": "GFCS VIII mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3541478864,
+          "type": "Suo",
+          "module_id_str": "PRUS718"
+        },
+        "3544985040": {
+          "name": "Ochakov",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3544985040,
+          "type": "Hull",
+          "module_id_str": "PRUH715"
+        },
+        "3547737552": {
+          "name": "53-39 mod. 3",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3547737552,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT712"
+        },
+        "3550326224": {
+          "name": "Propulsion: 108,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3550326224,
+          "type": "Engine",
+          "module_id_str": "PRUE710"
+        },
+        "3553603024": {
+          "name": "152 mm/57 BL-115",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3553603024,
+          "type": "Artillery",
+          "module_id_str": "PRUA707"
+        }
+      }
+    },
+    {
+      "id": "3741267408",
+      "id_str": "PRSB528",
+      "name": "Borodino",
+      "type": "Battleship",
+      "tier": 8,
+      "is_premium": false,
+      "is_special": true,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSB528_13dcb026b088630e1170a114c49cab705a2d0b282edc477e957e2b9c0ba7df44.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSB528_637bd2e704abe9088ec527046fb19ec5b2e4fa631ce71b4a7c295c2aaa491359.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSB528_ec5a54b3c0e95afd0fc547d2c94163f0059747f58d9243f7b0cf05e208a76f71.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSB528_4bb23d251f9c416ab1ca52a60b0b2f281a664387cfed31e66afeecd600462b8e.png"
+      },
+      "modules_tree": {
+        "3424038352": {
+          "name": "GFCS VIII mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3424038352,
+          "type": "Suo",
+          "module_id_str": "PRUS830"
+        },
+        "3424398800": {
+          "name": "Borodino",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3424398800,
+          "type": "Hull",
+          "module_id_str": "PRUH830"
+        },
+        "3424497104": {
+          "name": "Propulsion: 210,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3424497104,
+          "type": "Engine",
+          "module_id_str": "PRUE830"
+        },
+        "3424628176": {
+          "name": "406 mm/50 MK-1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3424628176,
+          "type": "Artillery",
+          "module_id_str": "PRUA830"
+        }
+      }
+    },
+    {
+      "id": "3744380368",
+      "id_str": "PRSC525",
+      "name": "Voroshilov",
+      "type": "Cruiser",
+      "tier": 5,
+      "is_premium": false,
+      "is_special": true,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC525_f00aa6745c46192ac362918178a8feb685d76863f284255c0148911d741112a0.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC525_f063e84d4ea57c8e0e84c2f66f054d34c49b4a2b854c87e230ec7f852430560a.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC525_998a95631c442a52459032678a15835c8ac6137f49d831afd606d4537da543ac.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC525_6c62c54a33f1f2c717af5c11e1ad42d70368f408160e8de7cddc6208ac12a009.png"
+      },
+      "modules_tree": {
+        "3869650384": {
+          "name": "53-36 mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3869650384,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT405"
+        },
+        "3869683152": {
+          "name": "GFCS V mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3869683152,
+          "type": "Suo",
+          "module_id_str": "PRUS405"
+        },
+        "3870043600": {
+          "name": "Voroshilov",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3870043600,
+          "type": "Hull",
+          "module_id_str": "PRUH405"
+        },
+        "3870141904": {
+          "name": "Propulsion: 110,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3870141904,
+          "type": "Engine",
+          "module_id_str": "PRUE405"
+        },
+        "3870272976": {
+          "name": "180 mm/57 MK-3-180",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3870272976,
+          "type": "Artillery",
+          "module_id_str": "PRUA405"
+        }
+      }
+    },
+    {
+      "id": "3751720400",
+      "id_str": "PRSC518",
+      "name": "Lazo",
+      "type": "Cruiser",
+      "tier": 7,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC518_94fad851de7fbb94d01ed1915ebc0b1287cd5e2d947aef61d51aa6085b50ebc1.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC518_2fd6dc1cd11864a77958fabe9c51eef4f82e0278a6ee904a5897f8c3fa05094f.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC518_316243ba17f75beec39766d9d958259c2a15caf7b796739342dc8559bd56c52f.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC518_b08c5a54357f432cfe91963c2146da73b6a44c182bd85ff2f3a86e249eccc239.png"
+      },
+      "modules_tree": {
+        "3553373648": {
+          "name": "Lazo",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3553373648,
+          "type": "Hull",
+          "module_id_str": "PRUH707"
+        },
+        "3556617680": {
+          "name": "Propulsion: 124,600 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3556617680,
+          "type": "Engine",
+          "module_id_str": "PRUE704"
+        },
+        "3557207504": {
+          "name": "GFCS VII mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3557207504,
+          "type": "Suo",
+          "module_id_str": "PRUS703"
+        },
+        "3558223312": {
+          "name": "53-38U",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3558223312,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT702"
+        },
+        "3558845904": {
+          "name": "152 mm/57 MK-5-bis",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3558845904,
+          "type": "Artillery",
+          "module_id_str": "PRUA702"
+        }
+      }
+    },
+    {
+      "id": "3751753168",
+      "id_str": "PRSB518",
+      "name": "Lenin",
+      "type": "Battleship",
+      "tier": 8,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSB518_03952270b37c005edd521e04e59bfd489c052a9ee68824716d01f158c71f72a9.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSB518_9d611dffa2c2776932b1f2b7114d6826d394400e8f04963609f4a0228450767f.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSB518_ffa140fee15ea5467f4bacc8e2f8bd0bfef31b2ee7ac0637cb416d59a812bdf6.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSB518_b58997ff310c6ac0d7b20a499510962ee27db5aa2984c0f7b89b844cb665387d.png"
+      },
+      "modules_tree": {
+        "3550227920": {
+          "name": "Lenin",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3550227920,
+          "type": "Hull",
+          "module_id_str": "PRUH710"
+        },
+        "3554061776": {
+          "name": "GFCS VIII mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3554061776,
+          "type": "Suo",
+          "module_id_str": "PRUS706"
+        },
+        "3554520528": {
+          "name": "Propulsion: 201,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3554520528,
+          "type": "Engine",
+          "module_id_str": "PRUE706"
+        },
+        "3556748752": {
+          "name": "406 mm/45 Model 1915 OTZ",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3556748752,
+          "type": "Artillery",
+          "module_id_str": "PRUA704"
+        }
+      }
+    },
+    {
+      "id": "3756963280",
+      "id_str": "PRSC513",
+      "name": "Varyag",
+      "type": "Cruiser",
+      "tier": 3,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC513_4e3ce7c31b87f4d4f194cc1e9f65b8c47b61ff1a764baa25d296e0ebe36716cf.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC513_9f02ea4cfc618cad0295e8bde1d5493d263708c276ea83f28fda2b682f47d06c.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC513_8f7d1230b68ce967dc149dc35fbaaead4c9fb9e0a72921692b670b1cc78e6f54.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC513_83d154afa21b49a395023f89e21d88b8c3a4ba79b3d23183d5048b9bfa38f8e8.png"
+      },
+      "modules_tree": {
+        "4059475408": {
+          "name": "GFCS III mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4059475408,
+          "type": "Suo",
+          "module_id_str": "PRUS224"
+        },
+        "4059835856": {
+          "name": "Varyag",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4059835856,
+          "type": "Hull",
+          "module_id_str": "PRUH224"
+        },
+        "4071468496": {
+          "name": "Propulsion: 21,100 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4071468496,
+          "type": "Engine",
+          "module_id_str": "PRUE213"
+        },
+        "4081036752": {
+          "name": "152 mm/45 Model 1892",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4081036752,
+          "type": "Artillery",
+          "module_id_str": "PRUA204"
+        }
+      }
+    },
+    {
+      "id": "3760109008",
+      "id_str": "PRSC510",
+      "name": "Stalingrad",
+      "type": "Cruiser",
+      "tier": 10,
+      "is_premium": false,
+      "is_special": true,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC510_61b2d5bfa3e70ca626254c18e1ef0ebf005fa57b216926f053e9af60ebfa026b.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC510_41c3190ea71b749f37740426c1a7fbb8ce8ca1a2b25b4e75c92e840f93343e8d.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC510_37cf9c5d539c1b9aca43a9cd4bffd8e3e140a8d3c2661f63d884ee6787255a2f.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC510_74ec2b738043ff25d9206d88f8f916907e205da944fecfa81d0695eb39a180f6.png"
+      },
+      "modules_tree": {
+        "3270946256": {
+          "name": "GFCS X mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3270946256,
+          "type": "Suo",
+          "module_id_str": "PRUS976"
+        },
+        "3271306704": {
+          "name": "Stalingrad",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3271306704,
+          "type": "Hull",
+          "module_id_str": "PRUH976"
+        },
+        "3271405008": {
+          "name": "Propulsion: 280,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3271405008,
+          "type": "Engine",
+          "module_id_str": "PRUE976"
+        },
+        "3271536080": {
+          "name": "305 mm/61 SM-31",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3271536080,
+          "type": "Artillery",
+          "module_id_str": "PRUA976"
+        }
+      }
+    },
+    {
+      "id": "3760141776",
+      "id_str": "PRSB510",
+      "name": "Slava",
+      "type": "Battleship",
+      "tier": 10,
+      "is_premium": false,
+      "is_special": true,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSB510_3a61ded4a2a0b7775db68b22bc915d343c9190b28c9c15ae0683f6063a8c64db.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSB510_ba2e88afd649a612f65e1dd14ab336c35a6cbc58f125a55669902b385126ea1e.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSB510_3b8c6053e96ab5c3a2aa2a54cd7ab7dc6c91e538d238b8122eb999913fba19e5.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSB510_9bde6d9c4da05b830be8875d54bb1cd48e5cfa91a55cfe79c52772b87bd2837b.png"
+      },
+      "modules_tree": {
+        "3345755600": {
+          "name": "Slava",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3345755600,
+          "type": "Hull",
+          "module_id_str": "PRUH905"
+        },
+        "3345853904": {
+          "name": "Propulsion: 280,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3345853904,
+          "type": "Engine",
+          "module_id_str": "PRUE905"
+        },
+        "3347033552": {
+          "name": "406 mm/55 B-52",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3347033552,
+          "type": "Artillery",
+          "module_id_str": "PRUA904"
+        },
+        "3347492304": {
+          "name": "GFCS X mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3347492304,
+          "type": "Suo",
+          "module_id_str": "PRUS903"
+        }
+      }
+    },
+    {
+      "id": "3761157584",
+      "id_str": "PRSC509",
+      "name": "Kronshtadt",
+      "type": "Cruiser",
+      "tier": 9,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC509_0a7d064b3d3ff06ab395545519f271b541424cc542f35e9ea45ffb71ab61a64e.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC509_658dce9eea5dc891fb6b711262760ae4f05442ad1c044779731e2252e79298f8.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC509_5e1ad834b13ab701d2585692d7e18bd41b99b5abf656786efca69f10b0039551.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC509_07dbe6fa9833a605147e15b6815a9de444de490e6b4dec49610f251c2009689d.png"
+      },
+      "modules_tree": {
+        "3433016784": {
+          "name": "305 mm/54 MK-15",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3433016784,
+          "type": "Artillery",
+          "module_id_str": "PRUA822"
+        },
+        "3435572688": {
+          "name": "GFCS IX mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3435572688,
+          "type": "Suo",
+          "module_id_str": "PRUS819"
+        },
+        "3441176016": {
+          "name": "Kronshtadt",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3441176016,
+          "type": "Hull",
+          "module_id_str": "PRUH814"
+        },
+        "3443371472": {
+          "name": "Propulsion: 231,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3443371472,
+          "type": "Engine",
+          "module_id_str": "PRUE812"
+        }
+      }
+    },
+    {
+      "id": "3762206160",
+      "id_str": "PRSC508",
+      "name": "Mikhail Kutuzov",
+      "type": "Cruiser",
+      "tier": 8,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC508_361110fed389fa28390fabaa3c14f55236e6c345216aae49fbd41617e13ebc55.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC508_f80738f1690773fc56eca9e53b172c56749a69a6f8e126036f0dfdef1251e1d3.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC508_6926fdad6589c2d17da8efd8163e966fe9f2d4427b9a8c65678dfbe506f6a75a.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC508_eebe87a3cea87fd2b02e622f87872da0ca6a1da255b74c3ecad3d2e2c6ea3594.png"
+      },
+      "modules_tree": {
+        "3548818896": {
+          "name": "GFCS VIII mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3548818896,
+          "type": "Suo",
+          "module_id_str": "PRUS711"
+        },
+        "3549179344": {
+          "name": "Mikhail Kutuzov",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3549179344,
+          "type": "Hull",
+          "module_id_str": "PRUH711"
+        },
+        "3549277648": {
+          "name": "Propulsion: 121,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3549277648,
+          "type": "Engine",
+          "module_id_str": "PRUE711"
+        },
+        "3559271888": {
+          "name": "53-51",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3559271888,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT701"
+        },
+        "3559894480": {
+          "name": "152 mm/57 MK-5-bis",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3559894480,
+          "type": "Artillery",
+          "module_id_str": "PRUA701"
+        }
+      }
+    },
+    {
+      "id": "3762238928",
+      "id_str": "PRSB508",
+      "name": "Poltava",
+      "type": "Battleship",
+      "tier": 7,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSB508_9429494f29c8efd531106e16c91277f20ef9ce07435aaf3cda81844e8b9bcb1d.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSB508_cdc5078d2ff1852c08afa2d36c0a1382213d55158562c00eb395c37dbd33a1ba.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSB508_62ae9c83f48f802e593dbf785b5533c400b561392a139311ec3d7613cee29188.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSB508_9c4ff98250903434b5530f953acda860effbadf2a2558b28acd5d87b7d135410.png"
+      },
+      "modules_tree": {
+        "3548130768": {
+          "name": "Poltava",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3548130768,
+          "type": "Hull",
+          "module_id_str": "PRUH712"
+        },
+        "3553013200": {
+          "name": "GFCS VII mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3553013200,
+          "type": "Suo",
+          "module_id_str": "PRUS707"
+        },
+        "3553471952": {
+          "name": "Propulsion: 134,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3553471952,
+          "type": "Engine",
+          "module_id_str": "PRUE707"
+        },
+        "3555700176": {
+          "name": "356 mm/54 Model 1938 TP-1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3555700176,
+          "type": "Artillery",
+          "module_id_str": "PRUA705"
+        }
+      }
+    },
+    {
+      "id": "3763221968",
+      "id_str": "PRSD507",
+      "name": "Leningrad",
+      "type": "Destroyer",
+      "tier": 7,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSD507_8808c7278f56399687c91a005933056f8312d078503f2c6b6bcb7bba732e8c88.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSD507_8e6c6f40e4e406f56f8cebeb0dc1dad98bf969029bd6a611a71297ce60a67b1a.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSD507_8d0ca47f11325f1938ce9f32212c404db7d6ddd67ed795484eba37d7e703df3c.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSD507_9e6aba640ee7aba8fb181adab3aa57fcba388bc6c4da542e1e8ece49fdfd2e5b.png"
+      },
+      "modules_tree": {
+        "3736481232": {
+          "name": "53-39 mod. 2",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3736481232,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT532"
+        },
+        "3737562576": {
+          "name": "GFCS VII mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3737562576,
+          "type": "Suo",
+          "module_id_str": "PRUS531"
+        },
+        "3737923024": {
+          "name": "Leningrad",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3737923024,
+          "type": "Hull",
+          "module_id_str": "PRUH531"
+        },
+        "3738021328": {
+          "name": "Propulsion: 66,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3738021328,
+          "type": "Engine",
+          "module_id_str": "PRUE531"
+        },
+        "3738152400": {
+          "name": "130 mm/50 B-13-IIs",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3738152400,
+          "type": "Artillery",
+          "module_id_str": "PRUA531"
+        }
+      }
+    },
+    {
+      "id": "3764303312",
+      "id_str": "PRSC506",
+      "name": "Molotov",
+      "type": "Cruiser",
+      "tier": 6,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC506_35f98188dc9d6615d7064ae96bb913ae7c4416d24bc5b9daf3369b22b0187622.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC506_aed0e8360d62b5f7711815cb09b17771aa729feac38509ff67dd17c7e495ddfd.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC506_afc984b575702d9056774b04a44b636d400dcfa7bca11f57de8d78de9ac40baa.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC506_f5c0ac43f936c358fe1baef45b568a03d58547345a0dd73b1e6b68c7b86a7c56.png"
+      },
+      "modules_tree": {
+        "3748048336": {
+          "name": "GFCS VI mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3748048336,
+          "type": "Suo",
+          "module_id_str": "PRUS521"
+        },
+        "3748408784": {
+          "name": "Molotov",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3748408784,
+          "type": "Hull",
+          "module_id_str": "PRUH521"
+        },
+        "3748507088": {
+          "name": "Propulsion: 110,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3748507088,
+          "type": "Engine",
+          "module_id_str": "PRUE521"
+        },
+        "3759123920": {
+          "name": "180 mm/57 MK-3-180",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3759123920,
+          "type": "Artillery",
+          "module_id_str": "PRUA511"
+        },
+        "3768987088": {
+          "name": "53-38",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3768987088,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT501"
+        }
+      }
+    },
+    {
+      "id": "3765319120",
+      "id_str": "PRSD505",
+      "name": "Okhotnik",
+      "type": "Destroyer",
+      "tier": 5,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSD505_fb23e6dda9643f61e83082be2c990505e97f224fc31abe23a894bbd596900970.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSD505_3fdc2a017e975657f1f5d7ae4554c0a5e82b68fe67e280735c63d950464aaede.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSD505_2f8ee07b954f9a8f5dbc25da20c532fb5dd3f86c50977b36b04970b3608ce6d2.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSD505_6bd597895b15f735c1ce3681835e58c138899f1fe6dabafc94439ee6f8633bf4.png"
+      },
+      "modules_tree": {
+        "3852316112": {
+          "name": "Propulsion: 35,200 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3852316112,
+          "type": "Engine",
+          "module_id_str": "PRUE422"
+        },
+        "3852447184": {
+          "name": "130 mm/55 B-7",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3852447184,
+          "type": "Artillery",
+          "module_id_str": "PRUA422"
+        },
+        "3862310352": {
+          "name": "45-36NU",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3862310352,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT412"
+        },
+        "3862343120": {
+          "name": "GFCS V mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3862343120,
+          "type": "Suo",
+          "module_id_str": "PRUS412"
+        },
+        "3862703568": {
+          "name": "Okhotnik",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3862703568,
+          "type": "Hull",
+          "module_id_str": "PRUH412"
+        }
+      }
+    },
+    {
+      "id": "3765351888",
+      "id_str": "PRSC505",
+      "name": "Krasny Krym",
+      "type": "Cruiser",
+      "tier": 5,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC505_fd72a15acaf34823a84fcf131ff6be508c7b0ee5390109fdd3e710dd6af8b455.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC505_752516a1b74b3c2966eb1d92b49af84257f8bf43a9fe29a101bdfb331bba90fb.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC505_8f3ff00e7e4de277c70c7bc867597398a06ddaa4ae38059b0d10c2e2e00d2a0b.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC505_c9a5a59682f89e998465fa63897e63a3fda331845c2b089d7ae85c55e96f3f71.png"
+      },
+      "modules_tree": {
+        "3821448656": {
+          "name": "GFCS V mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3821448656,
+          "type": "Suo",
+          "module_id_str": "PRUS451"
+        },
+        "3821809104": {
+          "name": "Krasny Krym",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3821809104,
+          "type": "Hull",
+          "module_id_str": "PRUH451"
+        },
+        "3821907408": {
+          "name": "Propulsion: 50,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3821907408,
+          "type": "Engine",
+          "module_id_str": "PRUE451"
+        },
+        "3822038480": {
+          "name": "130 mm/55 B-7",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3822038480,
+          "type": "Artillery",
+          "module_id_str": "PRUA451"
+        },
+        "3842387408": {
+          "name": "53-27",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3842387408,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT431"
+        }
+      }
+    },
+    {
+      "id": "3765384656",
+      "id_str": "PRSB505",
+      "name": "Oktyabrskaya Revolutsiya",
+      "type": "Battleship",
+      "tier": 5,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSB505_6688f90b290439fdff02ff8dc734d98e36ef1f21ae1d04a9c1d7095970334e43.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSB505_b219dfb4ccbaa3061252d854fe391b94b08015b649fe24a441abd06cd931f9cb.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSB505_6f9e9b8b80cc02b107790f373da4c0cf7c92d95502a9ab63f10461de858f8edd.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSB505_637d57e6f330a622c264605bc3b0151b6156d7745ba2d8f5edb8f0366951d8f8.png"
+      },
+      "modules_tree": {
+        "3841371600": {
+          "name": "GFCS V mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3841371600,
+          "type": "Suo",
+          "module_id_str": "PRUS432"
+        },
+        "3841732048": {
+          "name": "Oktyabrskaya Revolutsiya",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3841732048,
+          "type": "Hull",
+          "module_id_str": "PRUH432"
+        },
+        "3841830352": {
+          "name": "Propulsion: 61,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3841830352,
+          "type": "Engine",
+          "module_id_str": "PRUE432"
+        },
+        "3841961424": {
+          "name": "305 mm/52 Model 1907",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3841961424,
+          "type": "Artillery",
+          "module_id_str": "PRUA432"
+        }
+      }
+    },
+    {
+      "id": "3767449040",
+      "id_str": "PRSC503",
+      "name": "Oleg",
+      "type": "Cruiser",
+      "tier": 3,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC503_223372889dbbd512f67666f118ce0b48a5925585f97e6aafaff7eb2801fca9ec.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC503_3aa3309d5b6948125129a88eef02779d009543e745543ae62eed6998dab37bee.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC503_b1f5e3511c147f9b5ee454b0125a37594e68b2e90b632d6341473227c222cf31.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC503_c5c6e3b6195d0ba0d1f114edd6b448fdd9a1315b8f51752ebedb653d724b152a.png"
+      },
+      "modules_tree": {
+        "4060523984": {
+          "name": "GFCS III mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4060523984,
+          "type": "Suo",
+          "module_id_str": "PRUS223"
+        },
+        "4060884432": {
+          "name": "Oleg",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4060884432,
+          "type": "Hull",
+          "module_id_str": "PRUH223"
+        },
+        "4072517072": {
+          "name": "Propulsion: 19,500 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4072517072,
+          "type": "Engine",
+          "module_id_str": "PRUE212"
+        },
+        "4082085328": {
+          "name": "152 mm/45 Model 1892",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4082085328,
+          "type": "Artillery",
+          "module_id_str": "PRUA203"
+        }
+      }
+    },
+    {
+      "id": "3865982416",
+      "id_str": "PRSD409",
+      "name": "Tashkent",
+      "type": "Destroyer",
+      "tier": 9,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSD409_43fe2b0655c4eb04a9f25f0f8084053d7a6d589f3cdf0f995b30ddc8861b5a3d.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSD409_0f37faebf4a7716c614ced9de73f8c2eacf8681f4002449df55e3af7b4d1a738.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSD409_f5e54bc6e81d5cc972a84519245e15d13796f556e74210067e783d235e93a4f1.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSD409_38713d912b51129db692838aeb2adfb212f9dff3936fe31dd26b4a69cf717659.png"
+      },
+      "modules_tree": {
+        "3436621264": {
+          "name": "GFCS IX mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 25000,
+          "price_credit": 1900000,
+          "next_ships": null,
+          "module_id": 3436621264,
+          "type": "Suo",
+          "module_id_str": "PRUS818"
+        },
+        "3437669840": {
+          "name": "GFCS IX mod. 1",
+          "next_modules": [
+            3436621264
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 900000,
+          "next_ships": null,
+          "module_id": 3437669840,
+          "type": "Suo",
+          "module_id_str": "PRUS817"
+        },
+        "3441405392": {
+          "name": "130 mm/55 B-2-U",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 23500,
+          "price_credit": 1800000,
+          "next_ships": null,
+          "module_id": 3441405392,
+          "type": "Artillery",
+          "module_id_str": "PRUA814"
+        },
+        "3447074256": {
+          "name": "53-39 mod.2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 20000,
+          "price_credit": 1500000,
+          "next_ships": null,
+          "module_id": 3447074256,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT808"
+        },
+        "3447467472": {
+          "name": "Tashkent (B)",
+          "next_modules": [
+            3447074256
+          ],
+          "is_default": false,
+          "price_xp": 40000,
+          "price_credit": 3200000,
+          "next_ships": [
+            4179506640
+          ],
+          "module_id": 3447467472,
+          "type": "Hull",
+          "module_id_str": "PRUH808"
+        },
+        "3448122832": {
+          "name": "53-36 mod.2",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1300000,
+          "next_ships": null,
+          "module_id": 3448122832,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT807"
+        },
+        "3448516048": {
+          "name": "Tashkent (A)",
+          "next_modules": [
+            3447467472
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1400000,
+          "next_ships": null,
+          "module_id": 3448516048,
+          "type": "Hull",
+          "module_id_str": "PRUH807"
+        },
+        "3451760080": {
+          "name": "Propulsion: 125,500 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1100000,
+          "next_ships": null,
+          "module_id": 3451760080,
+          "type": "Engine",
+          "module_id_str": "PRUE804"
+        },
+        "3451891152": {
+          "name": "130 mm/50 B-2LM",
+          "next_modules": [
+            3441405392
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1000000,
+          "next_ships": null,
+          "module_id": 3451891152,
+          "type": "Artillery",
+          "module_id_str": "PRUA804"
+        }
+      }
+    },
+    {
+      "id": "3969824208",
+      "id_str": "PRSC310",
+      "name": "Petropavlovsk",
+      "type": "Cruiser",
+      "tier": 10,
+      "is_premium": false,
+      "is_special": true,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC310_7bc76fe61713b0d3c69a4ecce93af3da4aa63b7536f64a6a24210ecea25642b9.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC310_da263f59ac41a724d85326b3000d562e897b866620a98ad1c20c720229ac9e0f.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC310_7d03ac5da6073f603f2e31d84f9e5f0a41bf6b43efd5600f5e8fcbd9a4928461.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC310_55e89e2097b945eb697329223146f8d2bda6996501bc9164564f3cb17bea8e95.png"
+      },
+      "modules_tree": {
+        "3335957968": {
+          "name": "GFCS X mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2000000,
+          "next_ships": null,
+          "module_id": 3335957968,
+          "type": "Suo",
+          "module_id_str": "PRUS914"
+        },
+        "3341561296": {
+          "name": "Petropavlovsk",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2500000,
+          "next_ships": null,
+          "module_id": 3341561296,
+          "type": "Hull",
+          "module_id_str": "PRUH909"
+        },
+        "3342708176": {
+          "name": "Propulsion: 140,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2000000,
+          "next_ships": null,
+          "module_id": 3342708176,
+          "type": "Engine",
+          "module_id_str": "PRUE908"
+        },
+        "3344936400": {
+          "name": "220 mm/65 SM-6",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2000000,
+          "next_ships": null,
+          "module_id": 3344936400,
+          "type": "Artillery",
+          "module_id_str": "PRUA906"
+        }
+      }
+    },
+    {
+      "id": "3971888592",
+      "id_str": "PRSD308",
+      "name": "Kiev",
+      "type": "Destroyer",
+      "tier": 8,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSD308_325186da73a2bcb00040aa3c922695372b4c6d416847ca561d5a4298ef422aa5.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSD308_bade8a95e14773dc6b73e798447891c4ed8bf200bfe1ee812554616f25bf2dd8.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSD308_5dffed0aa5ac5906377a0989a30e05accba3434f81886132c0198f7cbcb15a89.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSD308_9b217fa5da5a765cd1c37efa595d4a92bac1b3c31ce20e035a67c3a940befcd7.png"
+      },
+      "modules_tree": {
+        "3533057488": {
+          "name": "53-36 mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 15000,
+          "price_credit": 1400000,
+          "next_ships": null,
+          "module_id": 3533057488,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT726"
+        },
+        "3534106064": {
+          "name": "53-38U",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 800000,
+          "next_ships": null,
+          "module_id": 3534106064,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT725"
+        },
+        "3536825808": {
+          "name": "130 mm/50 B-2LM",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 650000,
+          "next_ships": null,
+          "module_id": 3536825808,
+          "type": "Artillery",
+          "module_id_str": "PRUA723"
+        },
+        "3544624592": {
+          "name": "GFCS VIII mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 20000,
+          "price_credit": 1500000,
+          "next_ships": null,
+          "module_id": 3544624592,
+          "type": "Suo",
+          "module_id_str": "PRUS715"
+        },
+        "3545673168": {
+          "name": "GFCS VIII mod. 1",
+          "next_modules": [
+            3544624592
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 400000,
+          "next_ships": null,
+          "module_id": 3545673168,
+          "type": "Suo",
+          "module_id_str": "PRUS714"
+        },
+        "3554422224": {
+          "name": "Kiev (B)",
+          "next_modules": [
+            3533057488
+          ],
+          "is_default": false,
+          "price_xp": 30000,
+          "price_credit": 2500000,
+          "next_ships": [
+            3865982416
+          ],
+          "module_id": 3554422224,
+          "type": "Hull",
+          "module_id_str": "PRUH706"
+        },
+        "3555470800": {
+          "name": "Kiev (A)",
+          "next_modules": [
+            3554422224
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 850000,
+          "next_ships": null,
+          "module_id": 3555470800,
+          "type": "Hull",
+          "module_id_str": "PRUH705"
+        },
+        "3557666256": {
+          "name": "Propulsion: 81,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 700000,
+          "next_ships": null,
+          "module_id": 3557666256,
+          "type": "Engine",
+          "module_id_str": "PRUE703"
+        }
+      }
+    },
+    {
+      "id": "4074649040",
+      "id_str": "PRSD210",
+      "name": "Grozovoi",
+      "type": "Destroyer",
+      "tier": 10,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSD210_feb6e779076ba64a93a2f295111228b4689bbc47d48c11eac2b31ef13e86b775.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSD210_9887e355dd7e1ad5708d40e21c077557002517fc02fb7f908d2963e3251974a0.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSD210_e1f9b1d1912eb117b46ba7cd8781b9f9a664e36a6c1096f40865db212bf4d62d.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSD210_3075a80da24071f0945c04415bb6ee951827448f1dc08e5e6637c43df6c221d9.png"
+      },
+      "modules_tree": {
+        "3338055120": {
+          "name": "GFCS X mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1600000,
+          "next_ships": null,
+          "module_id": 3338055120,
+          "type": "Suo",
+          "module_id_str": "PRUS912"
+        },
+        "3338644944": {
+          "name": "130 mm/58 SM-2-1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1700000,
+          "next_ships": null,
+          "module_id": 3338644944,
+          "type": "Artillery",
+          "module_id_str": "PRUA912"
+        },
+        "3346410960": {
+          "name": "53-50",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 30000,
+          "price_credit": 2200000,
+          "next_ships": null,
+          "module_id": 3346410960,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT904"
+        },
+        "3347459536": {
+          "name": "53-49M",
+          "next_modules": [
+            3346410960
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1100000,
+          "next_ships": null,
+          "module_id": 3347459536,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT903"
+        },
+        "3348901328": {
+          "name": "Grozovoi (A)",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2500000,
+          "next_ships": null,
+          "module_id": 3348901328,
+          "type": "Hull",
+          "module_id_str": "PRUH902"
+        },
+        "3348999632": {
+          "name": "Propulsion: 73,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1800000,
+          "next_ships": null,
+          "module_id": 3348999632,
+          "type": "Engine",
+          "module_id_str": "PRUE902"
+        }
+      }
+    },
+    {
+      "id": "4074681808",
+      "id_str": "PRSC210",
+      "name": "Alexander Nevsky",
+      "type": "Cruiser",
+      "tier": 10,
+      "is_premium": false,
+      "is_special": true,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC210_017c41dcdd60a1daaf377c213fb32ff1a3d2c237200fed1e6e38af02edf45ced.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC210_63b83b6f7f7107656bda40afdbffdc2aa8c3343a94f182f83bda3bb5c3b2af0b.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC210_e3a29c84d422c0ea98f6f3f34f61a86847ee5f83e0358557410f9f288757d148.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC210_9f0856f2cc606375fc5e062e60fd80e30ab2ddac467bd33a41262f4660f78374.png"
+      },
+      "modules_tree": {
+        "3334909392": {
+          "name": "GFCS X mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2000000,
+          "next_ships": null,
+          "module_id": 3334909392,
+          "type": "Suo",
+          "module_id_str": "PRUS915"
+        },
+        "3341168080": {
+          "name": "53-51",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2000000,
+          "next_ships": null,
+          "module_id": 3341168080,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT909"
+        },
+        "3342609872": {
+          "name": "Alexander Nevsky",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2500000,
+          "next_ships": null,
+          "module_id": 3342609872,
+          "type": "Hull",
+          "module_id_str": "PRUH908"
+        },
+        "3343756752": {
+          "name": "Propulsion: 192,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2000000,
+          "next_ships": null,
+          "module_id": 3343756752,
+          "type": "Engine",
+          "module_id_str": "PRUE907"
+        },
+        "3343887824": {
+          "name": "180 mm/65 SM-48",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2000000,
+          "next_ships": null,
+          "module_id": 3343887824,
+          "type": "Artillery",
+          "module_id_str": "PRUA907"
+        }
+      }
+    },
+    {
+      "id": "4075730384",
+      "id_str": "PRSC209",
+      "name": "Riga",
+      "type": "Cruiser",
+      "tier": 9,
+      "is_premium": false,
+      "is_special": true,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC209_77fbc44f6e1ed93c7ead5e8baa27603a241caa7d03b60775bac188420567496b.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC209_8fec44742070d52c93514bb1b68c4b3838db3f7c622b393ff2390d2f3dd2a0cc.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC209_0d136ba55cd6a3c6b7252637c3fbb7645ccc48d652f0b47e03b80641fec52541.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC209_17e68592e755449a643abcfcf3a1866ef4a1b023956443d6e64d41515a042c1e.png"
+      },
+      "modules_tree": {
+        "3432426960": {
+          "name": "GFCS IX mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 24500,
+          "price_credit": 2000000,
+          "next_ships": null,
+          "module_id": 3432426960,
+          "type": "Suo",
+          "module_id_str": "PRUS822"
+        },
+        "3433475536": {
+          "name": "GFCS IX mod. 1",
+          "next_modules": [
+            3432426960
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1000000,
+          "next_ships": null,
+          "module_id": 3433475536,
+          "type": "Suo",
+          "module_id_str": "PRUS821"
+        },
+        "3438030288": {
+          "name": "Riga (A)",
+          "next_modules": [
+            3439078864
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 3000000,
+          "next_ships": null,
+          "module_id": 3438030288,
+          "type": "Hull",
+          "module_id_str": "PRUH817"
+        },
+        "3439078864": {
+          "name": "Riga (B)",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1300000,
+          "next_ships": null,
+          "module_id": 3439078864,
+          "type": "Hull",
+          "module_id_str": "PRUH816"
+        },
+        "3449662928": {
+          "name": "Propulsion: 165,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1000000,
+          "next_ships": null,
+          "module_id": 3449662928,
+          "type": "Engine",
+          "module_id_str": "PRUE806"
+        },
+        "3449794000": {
+          "name": "220 mm/60 B-43",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1000000,
+          "next_ships": null,
+          "module_id": 3449794000,
+          "type": "Artillery",
+          "module_id_str": "PRUA806"
+        }
+      }
+    },
+    {
+      "id": "4076746192",
+      "id_str": "PRSD208",
+      "name": "Ognevoi",
+      "type": "Destroyer",
+      "tier": 8,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSD208_41357039a466e92f7cda55a6d53866c3913d9575733573df2c0dc603d5e90873.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSD208_65b60e8df14e34e0ef0c8da7b00d037e8ee0bce9c34fae75c70cb512a799554f.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSD208_9defba72556fa10fcd5175f01343caaaa511e5b6bc2c0284a8a1a4b5cdf98675.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSD208_cd3f8ca7093cce8dd5f3272ba210ca85d298aef2ee67c1d7938b0fce8cf887c2.png"
+      },
+      "modules_tree": {
+        "3535777232": {
+          "name": "130 mm/55 B-2-U",
+          "next_modules": [
+            3556519376
+          ],
+          "is_default": false,
+          "price_xp": 17000,
+          "price_credit": 1200000,
+          "next_ships": null,
+          "module_id": 3535777232,
+          "type": "Artillery",
+          "module_id_str": "PRUA724"
+        },
+        "3536203216": {
+          "name": "53-39 mod. 3",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 800000,
+          "next_ships": null,
+          "module_id": 3536203216,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT723"
+        },
+        "3537874384": {
+          "name": "130 mm/50 B-2LM",
+          "next_modules": [
+            3535777232
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 550000,
+          "next_ships": null,
+          "module_id": 3537874384,
+          "type": "Artillery",
+          "module_id_str": "PRUA722"
+        },
+        "3546721744": {
+          "name": "GFCS VIII mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 20000,
+          "price_credit": 1700000,
+          "next_ships": null,
+          "module_id": 3546721744,
+          "type": "Suo",
+          "module_id_str": "PRUS713"
+        },
+        "3547770320": {
+          "name": "GFCS VIII mod. 1",
+          "next_modules": [
+            3546721744
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 455000,
+          "next_ships": null,
+          "module_id": 3547770320,
+          "type": "Suo",
+          "module_id_str": "PRUS712"
+        },
+        "3556519376": {
+          "name": "Ognevoi (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 30000,
+          "price_credit": 2400000,
+          "next_ships": [
+            4182652368
+          ],
+          "module_id": 3556519376,
+          "type": "Hull",
+          "module_id_str": "PRUH704"
+        },
+        "3557567952": {
+          "name": "Ognevoi (A)",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 750000,
+          "next_ships": null,
+          "module_id": 3557567952,
+          "type": "Hull",
+          "module_id_str": "PRUH703"
+        },
+        "3558714832": {
+          "name": "Propulsion: 52,200 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 650000,
+          "next_ships": null,
+          "module_id": 3558714832,
+          "type": "Engine",
+          "module_id_str": "PRUE702"
+        }
+      }
+    },
+    {
+      "id": "4076778960",
+      "id_str": "PRSC208",
+      "name": "Tallinn",
+      "type": "Cruiser",
+      "tier": 8,
+      "is_premium": false,
+      "is_special": true,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC208_cee67f48dbc758e481d2b33e3dff20a1c9cbeb7987bb5b30d39fcac402674ff6.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC208_483bff0f17db0e7a60f52f86eadf225bbe775119b3235122f323f12990400884.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC208_7105c15e66fabeb1087bbbab96d9467d0ee73544341915a6aa3fae50e03c3388.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC208_7ca3a9171c27264a0f8e67025438bd6a40b49958541e009815e0e943b7c97a91.png"
+      },
+      "modules_tree": {
+        "3542527440": {
+          "name": "GFCS VIII mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 16000,
+          "price_credit": 1250000,
+          "next_ships": null,
+          "module_id": 3542527440,
+          "type": "Suo",
+          "module_id_str": "PRUS717"
+        },
+        "3542887888": {
+          "name": "Tallinn (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 29000,
+          "price_credit": 2100000,
+          "next_ships": null,
+          "module_id": 3542887888,
+          "type": "Hull",
+          "module_id_str": "PRUH717"
+        },
+        "3543576016": {
+          "name": "GFCS VIII mod. 1",
+          "next_modules": [
+            3542527440
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 600000,
+          "next_ships": null,
+          "module_id": 3543576016,
+          "type": "Suo",
+          "module_id_str": "PRUS716"
+        },
+        "3543936464": {
+          "name": "Tallinn (A)",
+          "next_modules": [
+            3542887888
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 900000,
+          "next_ships": null,
+          "module_id": 3543936464,
+          "type": "Hull",
+          "module_id_str": "PRUH716"
+        },
+        "3548229072": {
+          "name": "Propulsion: 132,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 600000,
+          "next_ships": null,
+          "module_id": 3548229072,
+          "type": "Engine",
+          "module_id_str": "PRUE712"
+        },
+        "3554651600": {
+          "name": "180 mm/57 MK-3-180",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 600000,
+          "next_ships": null,
+          "module_id": 3554651600,
+          "type": "Artillery",
+          "module_id_str": "PRUA706"
+        },
+        "3555077584": {
+          "name": "53-38U",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 600000,
+          "next_ships": null,
+          "module_id": 3555077584,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT705"
+        }
+      }
+    },
+    {
+      "id": "4077794768",
+      "id_str": "PRSD207",
+      "name": "Minsk",
+      "type": "Destroyer",
+      "tier": 7,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSD207_f11b7abace4c54b871cd6e891afe44231503bbe7206dc1ea4d220165d903ae03.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSD207_14cc53c9bc7d46b4da5c5e82c00dd2cb13b404da53409842684e7ae2e0827baa.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSD207_4558d2c416ef56963a509d48b069c062e1e9c9c1618fb904651702ee15e58c58.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSD207_0b9556cd622444d397aee1072a4f21e5042b44935a55897009ec526c9019cea6.png"
+      },
+      "modules_tree": {
+        "3650530768": {
+          "name": "GFCS VII mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 12000,
+          "price_credit": 1000000,
+          "next_ships": null,
+          "module_id": 3650530768,
+          "type": "Suo",
+          "module_id_str": "PRUS614"
+        },
+        "3651579344": {
+          "name": "GFCS VII mod. 1",
+          "next_modules": [
+            3650530768
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 290000,
+          "next_ships": null,
+          "module_id": 3651579344,
+          "type": "Suo",
+          "module_id_str": "PRUS613"
+        },
+        "3653217744": {
+          "name": "130 mm/50 B-13",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 380000,
+          "next_ships": [
+            3971888592
+          ],
+          "module_id": 3653217744,
+          "type": "Artillery",
+          "module_id_str": "PRUA612"
+        },
+        "3660983760": {
+          "name": "53-38U",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 10000,
+          "price_credit": 800000,
+          "next_ships": [
+            4076746192
+          ],
+          "module_id": 3660983760,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT604"
+        },
+        "3661376976": {
+          "name": "Minsk (B)",
+          "next_modules": [
+            3660983760
+          ],
+          "is_default": false,
+          "price_xp": 18500,
+          "price_credit": 1400000,
+          "next_ships": null,
+          "module_id": 3661376976,
+          "type": "Hull",
+          "module_id_str": "PRUH604"
+        },
+        "3662032336": {
+          "name": "53-39 mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 480000,
+          "next_ships": null,
+          "module_id": 3662032336,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT603"
+        },
+        "3662425552": {
+          "name": "Minsk (A)",
+          "next_modules": [
+            3661376976
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 630000,
+          "next_ships": null,
+          "module_id": 3662425552,
+          "type": "Hull",
+          "module_id_str": "PRUH603"
+        },
+        "3663572432": {
+          "name": "Propulsion: 66,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 380000,
+          "next_ships": null,
+          "module_id": 3663572432,
+          "type": "Engine",
+          "module_id_str": "PRUE602"
+        }
+      }
+    },
+    {
+      "id": "4078843344",
+      "id_str": "PRSD206",
+      "name": "Gnevny",
+      "type": "Destroyer",
+      "tier": 6,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSD206_888f2ff51238f5c02ad3ccb5825078ac3f116cc3fa9a5b1f10de8a864db82c3b.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSD206_fb228963ef0abe5d7f35f2ca3db157c9707a768d4d25843912a74c04f9c41186.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSD206_c0f69d9974690b351bcf3a9c813262c3a78422b46c12f57b7150f42ed59c9178.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSD206_43f6086458ca9f0184d2c7754e7ed1c2e4e0e7a5bececf218072868405d3aa54.png"
+      },
+      "modules_tree": {
+        "3747589584": {
+          "name": "130 mm/50 B-13",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 170000,
+          "next_ships": null,
+          "module_id": 3747589584,
+          "type": "Artillery",
+          "module_id_str": "PRUA522"
+        },
+        "3755355600": {
+          "name": "53-39 mod. 1",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 5900,
+          "price_credit": 480000,
+          "next_ships": null,
+          "module_id": 3755355600,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT514"
+        },
+        "3755388368": {
+          "name": "GFCS VI mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 7200,
+          "price_credit": 580000,
+          "next_ships": null,
+          "module_id": 3755388368,
+          "type": "Suo",
+          "module_id_str": "PRUS514"
+        },
+        "3756404176": {
+          "name": "53-38",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 250000,
+          "next_ships": null,
+          "module_id": 3756404176,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT513"
+        },
+        "3756436944": {
+          "name": "GFCS VI mod. 1",
+          "next_modules": [
+            3755388368
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 180000,
+          "next_ships": null,
+          "module_id": 3756436944,
+          "type": "Suo",
+          "module_id_str": "PRUS513"
+        },
+        "3766234576": {
+          "name": "Gnevny (B)",
+          "next_modules": [
+            3755355600
+          ],
+          "is_default": false,
+          "price_xp": 10700,
+          "price_credit": 860000,
+          "next_ships": [
+            4077794768
+          ],
+          "module_id": 3766234576,
+          "type": "Hull",
+          "module_id_str": "PRUH504"
+        },
+        "3767283152": {
+          "name": "Gnevny (A)",
+          "next_modules": [
+            3766234576
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 380000,
+          "next_ships": null,
+          "module_id": 3767283152,
+          "type": "Hull",
+          "module_id_str": "PRUH503"
+        },
+        "3768430032": {
+          "name": "Propulsion: 48,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 150000,
+          "next_ships": null,
+          "module_id": 3768430032,
+          "type": "Engine",
+          "module_id_str": "PRUE502"
+        }
+      }
+    },
+    {
+      "id": "4079891920",
+      "id_str": "PRSD205",
+      "name": "Podvoisky",
+      "type": "Destroyer",
+      "tier": 5,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSD205_63f952a1ba5adfb2e7bf7ddbe286f0c078b4d81bb4f56f98a1e40fcc12facecf.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSD205_14cc53c9bc7d46b4da5c5e82c00dd2cb13b404da53409842684e7ae2e0827baa.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSD205_4558d2c416ef56963a509d48b069c062e1e9c9c1618fb904651702ee15e58c58.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSD205_135ce58d7d4f4311e69467b450dbb042fed0ed85b40c3367fdc4aac9f37f1aa0.png"
+      },
+      "modules_tree": {
+        "3849727440": {
+          "name": "53-38",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 2700,
+          "price_credit": 250000,
+          "next_ships": null,
+          "module_id": 3849727440,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT424"
+        },
+        "3850120656": {
+          "name": "Podvoisky (B)",
+          "next_modules": [
+            3849727440
+          ],
+          "is_default": false,
+          "price_xp": 5000,
+          "price_credit": 500000,
+          "next_ships": [
+            4078843344
+          ],
+          "module_id": 3850120656,
+          "type": "Hull",
+          "module_id_str": "PRUH424"
+        },
+        "3850776016": {
+          "name": "53-36 mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 125000,
+          "next_ships": null,
+          "module_id": 3850776016,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT423"
+        },
+        "3851169232": {
+          "name": "Podvoisky (A)",
+          "next_modules": [
+            3850120656
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 200000,
+          "next_ships": null,
+          "module_id": 3851169232,
+          "type": "Hull",
+          "module_id_str": "PRUH423"
+        },
+        "3851267536": {
+          "name": "Propulsion: 66,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 95000,
+          "next_ships": null,
+          "module_id": 3851267536,
+          "type": "Engine",
+          "module_id_str": "PRUE423"
+        },
+        "3851398608": {
+          "name": "130 mm/55 B-7",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 80000,
+          "next_ships": null,
+          "module_id": 3851398608,
+          "type": "Artillery",
+          "module_id_str": "PRUA423"
+        },
+        "3860245968": {
+          "name": "GFCS V mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 3400,
+          "price_credit": 300000,
+          "next_ships": null,
+          "module_id": 3860245968,
+          "type": "Suo",
+          "module_id_str": "PRUS414"
+        },
+        "3861294544": {
+          "name": "GFCS V mod. 1",
+          "next_modules": [
+            3860245968
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 82000,
+          "next_ships": null,
+          "module_id": 3861294544,
+          "type": "Suo",
+          "module_id_str": "PRUS413"
+        }
+      }
+    },
+    {
+      "id": "4179506640",
+      "id_str": "PRSD110",
+      "name": "Khabarovsk",
+      "type": "Destroyer",
+      "tier": 10,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSD110_9ac511b0de97fc0d54efc78b1d37191bfd91fdade6e259f86280689d39d53830.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSD110_95c766e20614d697191a693768b8a79a526175afbb14e5354b892f1a44f9580e.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSD110_f85bb15a5a0d0ad573c7d4e4b59488c165a8f61185f879ca2fac5e37cf1e1571.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSD110_d5d7b6a724d814d8ce76cbf666e31a3cf80d9713f36f8e797853ba89a4cf6f57.png"
+      },
+      "modules_tree": {
+        "3339693520": {
+          "name": "130 mm/55 B-2-U",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1800000,
+          "next_ships": null,
+          "module_id": 3339693520,
+          "type": "Artillery",
+          "module_id_str": "PRUA911"
+        },
+        "3348508112": {
+          "name": "ET-46",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1100000,
+          "next_ships": null,
+          "module_id": 3348508112,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT902"
+        },
+        "3349589456": {
+          "name": "GFCS X mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1500000,
+          "next_ships": null,
+          "module_id": 3349589456,
+          "type": "Suo",
+          "module_id_str": "PRUS901"
+        },
+        "3349949904": {
+          "name": "Khabarovsk (A)",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2500000,
+          "next_ships": null,
+          "module_id": 3349949904,
+          "type": "Hull",
+          "module_id_str": "PRUH901"
+        },
+        "3350048208": {
+          "name": "Propulsion: 130,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1800000,
+          "next_ships": null,
+          "module_id": 3350048208,
+          "type": "Engine",
+          "module_id_str": "PRUE901"
+        }
+      }
+    },
+    {
+      "id": "4179539408",
+      "id_str": "PRSC110",
+      "name": "Moskva",
+      "type": "Cruiser",
+      "tier": 10,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC110_b0e51720e691e7e5e52ae2d5924e23224cbc0533d9f1080ac3c29f183a92fec3.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC110_6e87cb1c5b0621300a886111d0888e763175e5edc1877ae944b6259c16fbaf8b.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC110_87a2b945ac657109c17c801083e54c281d181ea9dc3834cf525660bbd7a0436d.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC110_d03b9c132902813be37be4f84cbd4cce588bdb5b662e399717aa15f1a3b44d9e.png"
+      },
+      "modules_tree": {
+        "3339103696": {
+          "name": "GFCS X mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1900000,
+          "next_ships": null,
+          "module_id": 3339103696,
+          "type": "Suo",
+          "module_id_str": "PRUS911"
+        },
+        "3339464144": {
+          "name": "Moskva (A)",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2550000,
+          "next_ships": null,
+          "module_id": 3339464144,
+          "type": "Hull",
+          "module_id_str": "PRUH911"
+        },
+        "3339562448": {
+          "name": "Propulsion: 210,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1500000,
+          "next_ships": null,
+          "module_id": 3339562448,
+          "type": "Engine",
+          "module_id_str": "PRUE911"
+        },
+        "3350179280": {
+          "name": "220 mm/65 SM-6",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2350000,
+          "next_ships": null,
+          "module_id": 3350179280,
+          "type": "Artillery",
+          "module_id_str": "PRUA901"
+        }
+      }
+    },
+    {
+      "id": "4179572176",
+      "id_str": "PRSB110",
+      "name": "Kremlin",
+      "type": "Battleship",
+      "tier": 10,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSB110_a1be11ad68f17faf4282c7e80221255b52c34d1454e70cb53a32f1b79b23fc3f.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSB110_937fa0045105692812a04f2585d52d15d96d466ac54641a827d193d5352b6911.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSB110_b93c00b89a5ed6e60f87aa192d2d125a115185459c79220c166c6e9d2670e80c.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSB110_15cf7bc0b876c9bd3ce4e66ba50cd51ac6ebf7e79635a7d6b7dca5e5d294d104.png"
+      },
+      "modules_tree": {
+        "3346804176": {
+          "name": "Kremlin",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 3500000,
+          "next_ships": null,
+          "module_id": 3346804176,
+          "type": "Hull",
+          "module_id_str": "PRUH904"
+        },
+        "3346902480": {
+          "name": "Propulsion: 280,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1500000,
+          "next_ships": null,
+          "module_id": 3346902480,
+          "type": "Engine",
+          "module_id_str": "PRUE904"
+        },
+        "3348082128": {
+          "name": "457 mm/48 CM-8",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2000000,
+          "next_ships": null,
+          "module_id": 3348082128,
+          "type": "Artillery",
+          "module_id_str": "PRUA903"
+        },
+        "3348540880": {
+          "name": "GFCS X mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2000000,
+          "next_ships": null,
+          "module_id": 3348540880,
+          "type": "Suo",
+          "module_id_str": "PRUS902"
+        }
+      }
+    },
+    {
+      "id": "4180587984",
+      "id_str": "PRSC109",
+      "name": "Dmitri Donskoi",
+      "type": "Cruiser",
+      "tier": 9,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC109_08f7a8bc0b651e4a75048fa9bffb4487759438bb26244759ea08d8966d6febcc.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC109_754255abed712f9eb93992acad6f1f2542d76e1e9060932f72d045f9eed6a6e3.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC109_a749e31362f3654c3391ec34e85c42d0af03dbf2b4561783745f57cd1e6d856e.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC109_b2e80922376e101dab051f9e13f8c92f662deb7385fc4a5e1026f38b1763c4b4.png"
+      },
+      "modules_tree": {
+        "3434065360": {
+          "name": "180 mm/57 MK-3-180M",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1105000,
+          "next_ships": null,
+          "module_id": 3434065360,
+          "type": "Artillery",
+          "module_id_str": "PRUA821"
+        },
+        "3442912720": {
+          "name": "GFCS IX mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 29000,
+          "price_credit": 2400000,
+          "next_ships": null,
+          "module_id": 3442912720,
+          "type": "Suo",
+          "module_id_str": "PRUS812"
+        },
+        "3443273168": {
+          "name": "Dmitri Donskoi (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 40000,
+          "price_credit": 3400000,
+          "next_ships": [
+            4179539408
+          ],
+          "module_id": 3443273168,
+          "type": "Hull",
+          "module_id_str": "PRUH812"
+        },
+        "3443928528": {
+          "name": "53-36 mod. 2",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1300000,
+          "next_ships": null,
+          "module_id": 3443928528,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT811"
+        },
+        "3443961296": {
+          "name": "GFCS IX mod. 1",
+          "next_modules": [
+            3442912720
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 980000,
+          "next_ships": null,
+          "module_id": 3443961296,
+          "type": "Suo",
+          "module_id_str": "PRUS811"
+        },
+        "3444321744": {
+          "name": "Dmitri Donskoi (A)",
+          "next_modules": [
+            3443273168
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 995000,
+          "next_ships": null,
+          "module_id": 3444321744,
+          "type": "Hull",
+          "module_id_str": "PRUH811"
+        },
+        "3444420048": {
+          "name": "Propulsion: 144,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 850000,
+          "next_ships": null,
+          "module_id": 3444420048,
+          "type": "Engine",
+          "module_id_str": "PRUE811"
+        }
+      }
+    },
+    {
+      "id": "4180620752",
+      "id_str": "PRSB109",
+      "name": "Sovetsky Soyuz",
+      "type": "Battleship",
+      "tier": 9,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSB109_1f7368aa523289c7da41454eda799ec135a6a1b7663aafb6f62a62b1b0013053.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSB109_06cf878d9b58b9d3160ccfe06d516653587dc20161e26a3191c0203a07cff0b8.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSB109_cc5f2b8f237ae9c6c131707d6f7fd6ca470d75f41bbdf430f995ad126eb7e5df.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSB109_0d259079c43eab61e39b6c7ed01a50f52fa7a5ab79bd33e996d90b2ef3a5036d.png"
+      },
+      "modules_tree": {
+        "3445370320": {
+          "name": "S. Soyuz (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 64000,
+          "price_credit": 6900000,
+          "next_ships": [
+            4179572176
+          ],
+          "module_id": 3445370320,
+          "type": "Hull",
+          "module_id_str": "PRUH810"
+        },
+        "3446418896": {
+          "name": "S. Soyuz (A)",
+          "next_modules": [
+            3445370320
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2400000,
+          "next_ships": null,
+          "module_id": 3446418896,
+          "type": "Hull",
+          "module_id_str": "PRUH809"
+        },
+        "3450711504": {
+          "name": "Propulsion: 231,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 600000,
+          "next_ships": null,
+          "module_id": 3450711504,
+          "type": "Engine",
+          "module_id_str": "PRUE805"
+        },
+        "3450842576": {
+          "name": "406 mm/50 MK-1-406",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2000000,
+          "next_ships": null,
+          "module_id": 3450842576,
+          "type": "Artillery",
+          "module_id_str": "PRUA805"
+        },
+        "3451301328": {
+          "name": "GFCS IX mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 36000,
+          "price_credit": 3900000,
+          "next_ships": null,
+          "module_id": 3451301328,
+          "type": "Suo",
+          "module_id_str": "PRUS804"
+        },
+        "3452349904": {
+          "name": "GFCS IX mod. 1",
+          "next_modules": [
+            3451301328
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1000000,
+          "next_ships": null,
+          "module_id": 3452349904,
+          "type": "Suo",
+          "module_id_str": "PRUS803"
+        }
+      }
+    },
+    {
+      "id": "4181636560",
+      "id_str": "PRSC108",
+      "name": "Chapayev",
+      "type": "Cruiser",
+      "tier": 8,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC108_a15e11e6fb1d7d7728462af26fba0540d586d3f32a3e8c328899caae1391cea9.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC108_3bdc33546f43d1c31309d538bae131e302c4146c2d6deec4502988303e7bddb0.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC108_2c03d37154ff0089696ae9038fc16e85977add3c0c3d3bd6dab051e077f36263.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC108_46e46ef118b97764debb068c6a41bb1cc16f2185e025d6c4ea3fcf458d1fb51e.png"
+      },
+      "modules_tree": {
+        "3527814608": {
+          "name": "53-38U",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 800000,
+          "next_ships": null,
+          "module_id": 3527814608,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT731"
+        },
+        "3537284560": {
+          "name": "GFCS VIII mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 25000,
+          "price_credit": 1900000,
+          "next_ships": null,
+          "module_id": 3537284560,
+          "type": "Suo",
+          "module_id_str": "PRUS722"
+        },
+        "3537645008": {
+          "name": "Chapayev (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 36000,
+          "price_credit": 2800000,
+          "next_ships": [
+            4180587984
+          ],
+          "module_id": 3537645008,
+          "type": "Hull",
+          "module_id_str": "PRUH722"
+        },
+        "3538333136": {
+          "name": "GFCS VIII mod. 1",
+          "next_modules": [
+            3537284560
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 770000,
+          "next_ships": null,
+          "module_id": 3538333136,
+          "type": "Suo",
+          "module_id_str": "PRUS721"
+        },
+        "3538693584": {
+          "name": "Chapayev (A)",
+          "next_modules": [
+            3537645008
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1100000,
+          "next_ships": null,
+          "module_id": 3538693584,
+          "type": "Hull",
+          "module_id_str": "PRUH721"
+        },
+        "3538791888": {
+          "name": "Propulsion: 124,600 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 600000,
+          "next_ships": null,
+          "module_id": 3538791888,
+          "type": "Engine",
+          "module_id_str": "PRUE721"
+        },
+        "3549408720": {
+          "name": "152 mm/57 MK-5",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 700000,
+          "next_ships": null,
+          "module_id": 3549408720,
+          "type": "Artillery",
+          "module_id_str": "PRUA711"
+        }
+      }
+    },
+    {
+      "id": "4181669328",
+      "id_str": "PRSB108",
+      "name": "Vladivostok",
+      "type": "Battleship",
+      "tier": 8,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSB108_1cbde9121cc80de369459bef0bd5e1b4c8670633c83557b90b8df5e19b582d1e.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSB108_80880fb1062086f5697fd8e65c96e89d78d7be6d5baa91dca9d15d5fb4a5764b.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSB108_83c5c8dacfcb377f2e810ba332c3bdd29b10998a46182a532862e9392b51185f.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSB108_5628b057a62b74c115f340816177765a5967a4f5c52df7d0eed26ac0f1b32acb.png"
+      },
+      "modules_tree": {
+        "3551276496": {
+          "name": "Vladivostok (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 52000,
+          "price_credit": 3900000,
+          "next_ships": [
+            4180620752
+          ],
+          "module_id": 3551276496,
+          "type": "Hull",
+          "module_id_str": "PRUH709"
+        },
+        "3552325072": {
+          "name": "Vladivostok (A)",
+          "next_modules": [
+            3551276496
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1650000,
+          "next_ships": null,
+          "module_id": 3552325072,
+          "type": "Hull",
+          "module_id_str": "PRUH708"
+        },
+        "3555110352": {
+          "name": "GFCS VIII mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 23500,
+          "price_credit": 1500000,
+          "next_ships": null,
+          "module_id": 3555110352,
+          "type": "Suo",
+          "module_id_str": "PRUS705"
+        },
+        "3555569104": {
+          "name": "Propulsion: 201,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 380000,
+          "next_ships": null,
+          "module_id": 3555569104,
+          "type": "Engine",
+          "module_id_str": "PRUE705"
+        },
+        "3556158928": {
+          "name": "GFCS VIII mod. 1",
+          "next_modules": [
+            3555110352
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 600000,
+          "next_ships": null,
+          "module_id": 3556158928,
+          "type": "Suo",
+          "module_id_str": "PRUS704"
+        },
+        "3557797328": {
+          "name": "406 mm/45 Model 1915 OTZ",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1100000,
+          "next_ships": null,
+          "module_id": 3557797328,
+          "type": "Artillery",
+          "module_id_str": "PRUA703"
+        }
+      }
+    },
+    {
+      "id": "4182652368",
+      "id_str": "PRSD107",
+      "name": "Udaloi",
+      "type": "Destroyer",
+      "tier": 9,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSD107_b417331f1fe8559fa6c605a1642061c1d46e6aa093a65655f945d5d3a76d46af.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSD107_0fd24eba764f0cf7c5d181bb7a5f5159aa92377408eed39bbd780b66abd625ec.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSD107_b861ad6022449c2614a556dbd09e83c3747aa70d4bf9ed130c0f44837076ff48.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSD107_c8ce90ac656fdb4df2cc73f687a0f7a76d467a6241d0d960ba3df4114b915b65.png"
+      },
+      "modules_tree": {
+        "3453365712": {
+          "name": "53-49M",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 20000,
+          "price_credit": 1500000,
+          "next_ships": null,
+          "module_id": 3453365712,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT802"
+        },
+        "3453398480": {
+          "name": "GFCS IX mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 25000,
+          "price_credit": 1900000,
+          "next_ships": null,
+          "module_id": 3453398480,
+          "type": "Suo",
+          "module_id_str": "PRUS802"
+        },
+        "3454414288": {
+          "name": "53-49",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1300000,
+          "next_ships": null,
+          "module_id": 3454414288,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT801"
+        },
+        "3454447056": {
+          "name": "GFCS IX mod. 1",
+          "next_modules": [
+            3453398480
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 900000,
+          "next_ships": null,
+          "module_id": 3454447056,
+          "type": "Suo",
+          "module_id_str": "PRUS801"
+        },
+        "3454905808": {
+          "name": "Propulsion: 84,500 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1100000,
+          "next_ships": null,
+          "module_id": 3454905808,
+          "type": "Engine",
+          "module_id_str": "PRUE801"
+        },
+        "3455036880": {
+          "name": "130 mm/55 B-2-U",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1000000,
+          "next_ships": null,
+          "module_id": 3455036880,
+          "type": "Artillery",
+          "module_id_str": "PRUA801"
+        },
+        "3663474128": {
+          "name": "Udaloi (B)",
+          "next_modules": [
+            3453365712
+          ],
+          "is_default": false,
+          "price_xp": 40000,
+          "price_credit": 3200000,
+          "next_ships": [
+            4074649040
+          ],
+          "module_id": 3663474128,
+          "type": "Hull",
+          "module_id_str": "PRUH602"
+        },
+        "3664522704": {
+          "name": "Udaloi (A)",
+          "next_modules": [
+            3663474128
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1400000,
+          "next_ships": null,
+          "module_id": 3664522704,
+          "type": "Hull",
+          "module_id_str": "PRUH601"
+        }
+      }
+    },
+    {
+      "id": "4182685136",
+      "id_str": "PRSC107",
+      "name": "Shchors",
+      "type": "Cruiser",
+      "tier": 7,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC107_a42181e939d1415cc88c3f3f75270339b79c7310b70feec7d22b62340599d8cc.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC107_47cc569d5fe5c8766c68e9d9ee7e268e1e784dbc31db1f885f3e93d3c991e425.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC107_18f2614bea0d05a50655c33b121634602ded3ea838b6c9916e2fb9aa80ea8139.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC107_8130ffab04e40b534281675dedd865b65ddcb1fc1f22269cefaf5171da486ba8.png"
+      },
+      "modules_tree": {
+        "3652627920": {
+          "name": "GFCS VII mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 15000,
+          "price_credit": 1150000,
+          "next_ships": null,
+          "module_id": 3652627920,
+          "type": "Suo",
+          "module_id_str": "PRUS612"
+        },
+        "3652988368": {
+          "name": "Shchors (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 23000,
+          "price_credit": 1750000,
+          "next_ships": [
+            4181636560
+          ],
+          "module_id": 3652988368,
+          "type": "Hull",
+          "module_id_str": "PRUH612"
+        },
+        "3653643728": {
+          "name": "53-39 mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 480000,
+          "next_ships": null,
+          "module_id": 3653643728,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT611"
+        },
+        "3653676496": {
+          "name": "GFCS VII mod. 1",
+          "next_modules": [
+            3652627920
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 505000,
+          "next_ships": null,
+          "module_id": 3653676496,
+          "type": "Suo",
+          "module_id_str": "PRUS611"
+        },
+        "3654036944": {
+          "name": "Shchors (A)",
+          "next_modules": [
+            3652988368
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 690000,
+          "next_ships": null,
+          "module_id": 3654036944,
+          "type": "Hull",
+          "module_id_str": "PRUH611"
+        },
+        "3654135248": {
+          "name": "Propulsion: 126,500 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 440000,
+          "next_ships": null,
+          "module_id": 3654135248,
+          "type": "Engine",
+          "module_id_str": "PRUE611"
+        },
+        "3664752080": {
+          "name": "152 mm/57 MK-5",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 400000,
+          "next_ships": null,
+          "module_id": 3664752080,
+          "type": "Artillery",
+          "module_id_str": "PRUA601"
+        }
+      }
+    },
+    {
+      "id": "4182717904",
+      "id_str": "PRSB107",
+      "name": "Sinop",
+      "type": "Battleship",
+      "tier": 7,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSB107_cf9d57e0074c918d64e895b3f4e8d00f2749e3aca714c1b0edd71cf8ab320152.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSB107_108657580b676d5f2bfea56c29d8527e27ea909690ce299670a04b51f7322511.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSB107_1ae8f2411a439c1811c1f232128443da85d673b1748bc340782dc51aac9a53ba.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSB107_ae3d65b32ca1033cceb6ef298d566fdea040f377109ab596dcbf5d20d7261e70.png"
+      },
+      "modules_tree": {
+        "3659279824": {
+          "name": "Sinop (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 24000,
+          "price_credit": 1350000,
+          "next_ships": [
+            4181669328
+          ],
+          "module_id": 3659279824,
+          "type": "Hull",
+          "module_id_str": "PRUH606"
+        },
+        "3660328400": {
+          "name": "Sinop (A)",
+          "next_modules": [
+            3659279824
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 620000,
+          "next_ships": null,
+          "module_id": 3660328400,
+          "type": "Hull",
+          "module_id_str": "PRUH605"
+        },
+        "3661016528": {
+          "name": "GFCS VII mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 12000,
+          "price_credit": 800000,
+          "next_ships": null,
+          "module_id": 3661016528,
+          "type": "Suo",
+          "module_id_str": "PRUS604"
+        },
+        "3662065104": {
+          "name": "GFCS VII mod. 1",
+          "next_modules": [
+            3661016528
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 360000,
+          "next_ships": null,
+          "module_id": 3662065104,
+          "type": "Suo",
+          "module_id_str": "PRUS603"
+        },
+        "3662523856": {
+          "name": "Propulsion: 100,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 300000,
+          "next_ships": null,
+          "module_id": 3662523856,
+          "type": "Engine",
+          "module_id_str": "PRUE603"
+        },
+        "3663703504": {
+          "name": "406 mm/45 Model 1915 Vickers",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 520000,
+          "next_ships": null,
+          "module_id": 3663703504,
+          "type": "Artillery",
+          "module_id_str": "PRUA602"
+        }
+      }
+    },
+    {
+      "id": "4183733712",
+      "id_str": "PRSC106",
+      "name": "Budyonny",
+      "type": "Cruiser",
+      "tier": 6,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC106_0cbe8a2209234e31c34d28827b0be14465da45600cd78a5b00997ba0e5e17136.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC106_6694e0fd0a2c89f1a47d0ec0f95e278ca172d999fb1f9d3902aa1e9b4cae800b.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC106_090209163218c216ed147d25d3bc6060f0b61a7bd4ccab1c82cf5ff4787622dc.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC106_d99db607ab47068862b38320bf9f28012c729d7f6d9ffab5798294c1b48ed1f5.png"
+      },
+      "modules_tree": {
+        "3748015568": {
+          "name": "53-38",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 250000,
+          "next_ships": null,
+          "module_id": 3748015568,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT521"
+        },
+        "3757485520": {
+          "name": "GFCS VI mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 8500,
+          "price_credit": 770000,
+          "next_ships": null,
+          "module_id": 3757485520,
+          "type": "Suo",
+          "module_id_str": "PRUS512"
+        },
+        "3757845968": {
+          "name": "Budyonny (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 13500,
+          "price_credit": 1000000,
+          "next_ships": [
+            4182685136
+          ],
+          "module_id": 3757845968,
+          "type": "Hull",
+          "module_id_str": "PRUH512"
+        },
+        "3758534096": {
+          "name": "GFCS VI mod. 1",
+          "next_modules": [
+            3757485520
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 300000,
+          "next_ships": null,
+          "module_id": 3758534096,
+          "type": "Suo",
+          "module_id_str": "PRUS511"
+        },
+        "3758894544": {
+          "name": "Budyonny (A)",
+          "next_modules": [
+            3757845968
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 450000,
+          "next_ships": null,
+          "module_id": 3758894544,
+          "type": "Hull",
+          "module_id_str": "PRUH511"
+        },
+        "3758992848": {
+          "name": "Propulsion: 130,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 170000,
+          "next_ships": null,
+          "module_id": 3758992848,
+          "type": "Engine",
+          "module_id_str": "PRUE511"
+        },
+        "3769609680": {
+          "name": "152 mm/57 MK-5",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 120000,
+          "next_ships": null,
+          "module_id": 3769609680,
+          "type": "Artillery",
+          "module_id_str": "PRUA501"
+        }
+      }
+    },
+    {
+      "id": "4183766480",
+      "id_str": "PRSB106",
+      "name": "Izmail",
+      "type": "Battleship",
+      "tier": 6,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSB106_f20b9c4175084ab8776ce50df944c12f0d10e5dd347f1d74b635e4dcdc2b6569.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSB106_bf821a68a299e1ab61908ecec1d072d526175e65949a091d501f89188992884c.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSB106_9a7e517855b2a06c167f5b805df711e288726ec365b52e7f42dc2797cc6b2fa7.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSB106_6a16ca2a87942c3239c43dacc1ba295fb99c32e58e768128a52576d5f3bc396f.png"
+      },
+      "modules_tree": {
+        "3764137424": {
+          "name": "Izmail (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 16500,
+          "price_credit": 1000000,
+          "next_ships": [
+            4182717904
+          ],
+          "module_id": 3764137424,
+          "type": "Hull",
+          "module_id_str": "PRUH506"
+        },
+        "3765186000": {
+          "name": "Izmail (A)",
+          "next_modules": [
+            3764137424
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 440000,
+          "next_ships": null,
+          "module_id": 3765186000,
+          "type": "Hull",
+          "module_id_str": "PRUH505"
+        },
+        "3765874128": {
+          "name": "GFCS VI mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 9000,
+          "price_credit": 700000,
+          "next_ships": null,
+          "module_id": 3765874128,
+          "type": "Suo",
+          "module_id_str": "PRUS504"
+        },
+        "3766922704": {
+          "name": "GFCS VI mod. 1",
+          "next_modules": [
+            3765874128
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 300000,
+          "next_ships": null,
+          "module_id": 3766922704,
+          "type": "Suo",
+          "module_id_str": "PRUS503"
+        },
+        "3767381456": {
+          "name": "Propulsion: 75,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 130000,
+          "next_ships": null,
+          "module_id": 3767381456,
+          "type": "Engine",
+          "module_id_str": "PRUE503"
+        },
+        "3768561104": {
+          "name": "356 mm/52 Model 1913",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 320000,
+          "next_ships": null,
+          "module_id": 3768561104,
+          "type": "Artillery",
+          "module_id_str": "PRUA502"
+        }
+      }
+    },
+    {
+      "id": "4184782288",
+      "id_str": "PRSC105",
+      "name": "Kirov",
+      "type": "Cruiser",
+      "tier": 5,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC105_f00aa6745c46192ac362918178a8feb685d76863f284255c0148911d741112a0.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC105_f063e84d4ea57c8e0e84c2f66f054d34c49b4a2b854c87e230ec7f852430560a.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC105_998a95631c442a52459032678a15835c8ac6137f49d831afd606d4537da543ac.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC105_6c62c54a33f1f2c717af5c11e1ad42d70368f408160e8de7cddc6208ac12a009.png"
+      },
+      "modules_tree": {
+        "3830885840": {
+          "name": "GFCS V mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 4500,
+          "price_credit": 480000,
+          "next_ships": null,
+          "module_id": 3830885840,
+          "type": "Suo",
+          "module_id_str": "PRUS442"
+        },
+        "3831246288": {
+          "name": "Kirov (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 7600,
+          "price_credit": 700000,
+          "next_ships": [
+            4183733712
+          ],
+          "module_id": 3831246288,
+          "type": "Hull",
+          "module_id_str": "PRUH442"
+        },
+        "3831901648": {
+          "name": "53-36 mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 125000,
+          "next_ships": null,
+          "module_id": 3831901648,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT441"
+        },
+        "3831934416": {
+          "name": "GFCS V mod. 1",
+          "next_modules": [
+            3830885840
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 120000,
+          "next_ships": null,
+          "module_id": 3831934416,
+          "type": "Suo",
+          "module_id_str": "PRUS441"
+        },
+        "3832294864": {
+          "name": "Kirov (A)",
+          "next_modules": [
+            3831246288
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 180000,
+          "next_ships": null,
+          "module_id": 3832294864,
+          "type": "Hull",
+          "module_id_str": "PRUH441"
+        },
+        "3832393168": {
+          "name": "Propulsion: 110,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 90000,
+          "next_ships": null,
+          "module_id": 3832393168,
+          "type": "Engine",
+          "module_id_str": "PRUE441"
+        },
+        "3832524240": {
+          "name": "180 mm/57 MK-3-180",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 125000,
+          "next_ships": null,
+          "module_id": 3832524240,
+          "type": "Artillery",
+          "module_id_str": "PRUA441"
+        }
+      }
+    },
+    {
+      "id": "4184815056",
+      "id_str": "PRSB105",
+      "name": "Pyotr Velikiy",
+      "type": "Battleship",
+      "tier": 5,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSB105_c2ac66795b8038fb1f475a9c597e37630ee3500d5599b20f607ae445769d2a1d.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSB105_009d2face1357aab3f54260f6fc91e52cdeeb183b1b6e98e01a6fd58645d2bd4.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSB105_0346b186599f8e3dea2345d70b5090e01284eab6ed3bbe94e39096d5b54d8015.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSB105_d642d20e3d9359d43b988e22bee5f430a75cb96bf1b7a4d75a30c539cf1053f0.png"
+      },
+      "modules_tree": {
+        "3871780304": {
+          "name": "GFCS V mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 3600,
+          "price_credit": 340000,
+          "next_ships": null,
+          "module_id": 3871780304,
+          "type": "Suo",
+          "module_id_str": "PRUS403"
+        },
+        "3872140752": {
+          "name": "Pyotr Velikiy (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 5000,
+          "price_credit": 550000,
+          "next_ships": [
+            4183766480
+          ],
+          "module_id": 3872140752,
+          "type": "Hull",
+          "module_id_str": "PRUH403"
+        },
+        "3872828880": {
+          "name": "GFCS V mod. 1",
+          "next_modules": [
+            3871780304
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 64000,
+          "next_ships": null,
+          "module_id": 3872828880,
+          "type": "Suo",
+          "module_id_str": "PRUS402"
+        },
+        "3873189328": {
+          "name": "Pyotr Velikiy (A)",
+          "next_modules": [
+            3872140752
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 190000,
+          "next_ships": null,
+          "module_id": 3873189328,
+          "type": "Hull",
+          "module_id_str": "PRUH402"
+        },
+        "3873287632": {
+          "name": "Propulsion: 60,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 84000,
+          "next_ships": null,
+          "module_id": 3873287632,
+          "type": "Engine",
+          "module_id_str": "PRUE402"
+        },
+        "3873418704": {
+          "name": "356 mm/52 Model 1913",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 178000,
+          "next_ships": null,
+          "module_id": 3873418704,
+          "type": "Artillery",
+          "module_id_str": "PRUA402"
+        }
+      }
+    },
+    {
+      "id": "4185798096",
+      "id_str": "PRSD104",
+      "name": "Izyaslav",
+      "type": "Destroyer",
+      "tier": 4,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSD104_1e906dcb9379316061196bffcbd45620ec0b4dd8ee4f31c5c887a9abaec2e45e.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSD104_02be33dce16e74e0e8e443072608626c60cd024eefc495f1509cfec747a89d5b.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSD104_09c53ea9abde5b715b940fffeaa8fc6c719c9f27e07d57f72a555e9561ffeca6.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSD104_e7e73d2d56a0c5b796e5daea3a732a410a01ed2617740a5e2a0ae9ccde6a0e42.png"
+      },
+      "modules_tree": {
+        "3957730768": {
+          "name": "Torpedo Model 1912",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 850,
+          "price_credit": 125000,
+          "next_ships": null,
+          "module_id": 3957730768,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT321"
+        },
+        "3968839120": {
+          "name": "102 mm/60 Model 1911",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 50000,
+          "next_ships": null,
+          "module_id": 3968839120,
+          "type": "Artillery",
+          "module_id_str": "PRUA311"
+        },
+        "3977686480": {
+          "name": "GFCS IV mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 1000,
+          "price_credit": 150000,
+          "next_ships": null,
+          "module_id": 3977686480,
+          "type": "Suo",
+          "module_id_str": "PRUS302"
+        },
+        "3978046928": {
+          "name": "Izyaslav (B)",
+          "next_modules": [
+            3957730768
+          ],
+          "is_default": false,
+          "price_xp": 1500,
+          "price_credit": 230000,
+          "next_ships": [
+            4079891920
+          ],
+          "module_id": 3978046928,
+          "type": "Hull",
+          "module_id_str": "PRUH302"
+        },
+        "3978702288": {
+          "name": "Torpedo Model 1910",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 18000,
+          "next_ships": null,
+          "module_id": 3978702288,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT301"
+        },
+        "3978735056": {
+          "name": "GFCS IV mod. 1",
+          "next_modules": [
+            3977686480
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 43000,
+          "next_ships": null,
+          "module_id": 3978735056,
+          "type": "Suo",
+          "module_id_str": "PRUS301"
+        },
+        "3979095504": {
+          "name": "Izyaslav (A)",
+          "next_modules": [
+            3978046928
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 80000,
+          "next_ships": null,
+          "module_id": 3979095504,
+          "type": "Hull",
+          "module_id_str": "PRUH301"
+        },
+        "3979193808": {
+          "name": "Propulsion: 32,700 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 38000,
+          "next_ships": null,
+          "module_id": 3979193808,
+          "type": "Engine",
+          "module_id_str": "PRUE301"
+        }
+      }
+    },
+    {
+      "id": "4185830864",
+      "id_str": "PRSC104",
+      "name": "Svietlana",
+      "type": "Cruiser",
+      "tier": 4,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC104_22b554c235d37c6304367311ccd9bb45c7a4a0a2cfafd21232474ede791c7f46.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC104_3170b738a302cb2a7fec93022f5fefac84b673411952890ab4cab17c35f41842.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC104_9ba92ccd46719dbcc177a5bf937b2ceaa7d5b3b06880e2ec9319a4e764b98c9b.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC104_063128879bc993de9f523024afda52abe55ca22167e83551f271b0c1b52869fb.png"
+      },
+      "modules_tree": {
+        "3936759248": {
+          "name": "Torpedo Model 1912",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 125000,
+          "next_ships": null,
+          "module_id": 3936759248,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT341"
+        },
+        "3967200720": {
+          "name": "GFCS IV mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 700,
+          "price_credit": 110000,
+          "next_ships": null,
+          "module_id": 3967200720,
+          "type": "Suo",
+          "module_id_str": "PRUS312"
+        },
+        "3967561168": {
+          "name": "Svietlana (B)",
+          "next_modules": [
+            3978276304
+          ],
+          "is_default": false,
+          "price_xp": 1700,
+          "price_credit": 240000,
+          "next_ships": [
+            4184782288
+          ],
+          "module_id": 3967561168,
+          "type": "Hull",
+          "module_id_str": "PRUH312"
+        },
+        "3968249296": {
+          "name": "GFCS IV mod. 1",
+          "next_modules": [
+            3967200720
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 41000,
+          "next_ships": null,
+          "module_id": 3968249296,
+          "type": "Suo",
+          "module_id_str": "PRUS311"
+        },
+        "3968609744": {
+          "name": "Svietlana (A)",
+          "next_modules": [
+            3967561168
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 90000,
+          "next_ships": null,
+          "module_id": 3968609744,
+          "type": "Hull",
+          "module_id_str": "PRUH311"
+        },
+        "3968708048": {
+          "name": "Propulsion: 50,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 38000,
+          "next_ships": null,
+          "module_id": 3968708048,
+          "type": "Engine",
+          "module_id_str": "PRUE311"
+        },
+        "3978276304": {
+          "name": "130 mm/55 Model 1913",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 900,
+          "price_credit": 140000,
+          "next_ships": null,
+          "module_id": 3978276304,
+          "type": "Artillery",
+          "module_id_str": "PRUA302"
+        },
+        "3979324880": {
+          "name": "130 mm/55 Model 1913",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 72000,
+          "next_ships": null,
+          "module_id": 3979324880,
+          "type": "Artillery",
+          "module_id_str": "PRUA301"
+        }
+      }
+    },
+    {
+      "id": "4185863632",
+      "id_str": "PRSB104",
+      "name": "Gangut",
+      "type": "Battleship",
+      "tier": 4,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSB104_96d5306fc70a6fb120f8dcf82aa669ac7afa2416793792885a3d51f63255d224.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSB104_a20b64deb53f8c76a381ce8974e66b92f9f80beff2890608a2943ff62cfe36cc.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSB104_2ced0369e857107738a64bd4e85ccedce441b3223cf1026dad60e23db3f0c447.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSB104_02ded811c760d6d7d3304e8845abf18cd1f3de10851bc83bd269fc77c088269f.png"
+      },
+      "modules_tree": {
+        "3975589328": {
+          "name": "GFCS IV mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 1300,
+          "price_credit": 180000,
+          "next_ships": null,
+          "module_id": 3975589328,
+          "type": "Suo",
+          "module_id_str": "PRUS304"
+        },
+        "3975949776": {
+          "name": "Gangut (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 2000,
+          "price_credit": 280000,
+          "next_ships": [
+            4184815056
+          ],
+          "module_id": 3975949776,
+          "type": "Hull",
+          "module_id_str": "PRUH304"
+        },
+        "3976637904": {
+          "name": "GFCS IV mod. 1",
+          "next_modules": [
+            3975589328
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 40000,
+          "next_ships": null,
+          "module_id": 3976637904,
+          "type": "Suo",
+          "module_id_str": "PRUS303"
+        },
+        "3976998352": {
+          "name": "Gangut (A)",
+          "next_modules": [
+            3975949776
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 128000,
+          "next_ships": null,
+          "module_id": 3976998352,
+          "type": "Hull",
+          "module_id_str": "PRUH303"
+        },
+        "3977227728": {
+          "name": "305 mm/52 Model 1907",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 94000,
+          "next_ships": null,
+          "module_id": 3977227728,
+          "type": "Artillery",
+          "module_id_str": "PRUA303"
+        },
+        "3978145232": {
+          "name": "Propulsion: 42,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 30000,
+          "next_ships": null,
+          "module_id": 3978145232,
+          "type": "Engine",
+          "module_id_str": "PRUE302"
+        }
+      }
+    },
+    {
+      "id": "4186846672",
+      "id_str": "PRSD103",
+      "name": "Derzki",
+      "type": "Destroyer",
+      "tier": 3,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSD103_5bb18f7b0508041b6fbff5e38676bdced361c26188e0c31230f809b54e4d3a7e.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSD103_7d2cc233eb3ef9d0a6dab71a9a1eb4f4f645b26b16073463efe86a5cc8584b12.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSD103_503170274baa7416d3d382565c4ac99c3d16288689747cbf80b61c71df598800.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSD103_f7520dea41ac7af1649183532162ec01755bb526799aec760a5717bc71980d1e.png"
+      },
+      "modules_tree": {
+        "4072058320": {
+          "name": "GFCS III mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 500,
+          "price_credit": 64000,
+          "next_ships": null,
+          "module_id": 4072058320,
+          "type": "Suo",
+          "module_id_str": "PRUS212"
+        },
+        "4072418768": {
+          "name": "Derzki (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 700,
+          "price_credit": 96000,
+          "next_ships": [
+            4185798096
+          ],
+          "module_id": 4072418768,
+          "type": "Hull",
+          "module_id_str": "PRUH212"
+        },
+        "4073106896": {
+          "name": "GFCS III mod. 1",
+          "next_modules": [
+            4072058320
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 20000,
+          "next_ships": null,
+          "module_id": 4073106896,
+          "type": "Suo",
+          "module_id_str": "PRUS211"
+        },
+        "4073467344": {
+          "name": "Derzki (A)",
+          "next_modules": [
+            4072418768
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 40000,
+          "next_ships": null,
+          "module_id": 4073467344,
+          "type": "Hull",
+          "module_id_str": "PRUH211"
+        },
+        "4073696720": {
+          "name": "102 mm/60 Model 1911",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 27500,
+          "next_ships": null,
+          "module_id": 4073696720,
+          "type": "Artillery",
+          "module_id_str": "PRUA211"
+        },
+        "4083559888": {
+          "name": "Torpedo Model 1910",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 18000,
+          "next_ships": null,
+          "module_id": 4083559888,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT201"
+        },
+        "4084051408": {
+          "name": "Propulsion: 25,500 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 16000,
+          "next_ships": null,
+          "module_id": 4084051408,
+          "type": "Engine",
+          "module_id_str": "PRUE201"
+        }
+      }
+    },
+    {
+      "id": "4186879440",
+      "id_str": "PRSC103",
+      "name": "Bogatyr",
+      "type": "Cruiser",
+      "tier": 3,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC103_9ba8d071a494fb32ffb652a2578ab4841fb4e9b609ea40aeffc9625b85712566.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC103_0e3f558993ef891eb93c749364e94ba132e91a9e0ac56ffe6c8f37d7bec52d28.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC103_3149ed06a3a7f087662bb7f5da5bce11c94e4556dec07ef2dd01e9b5425b059f.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC103_f2f1828a1f3d684c90063123dfbc68cfad57e73205f8eafadfa90c66c52c57be.png"
+      },
+      "modules_tree": {
+        "4061572560": {
+          "name": "GFCS III mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 360,
+          "price_credit": 48000,
+          "next_ships": [
+            4185830864
+          ],
+          "module_id": 4061572560,
+          "type": "Suo",
+          "module_id_str": "PRUS222"
+        },
+        "4061933008": {
+          "name": "Bogatyr (B)",
+          "next_modules": [
+            4083133904
+          ],
+          "is_default": false,
+          "price_xp": 700,
+          "price_credit": 90000,
+          "next_ships": null,
+          "module_id": 4061933008,
+          "type": "Hull",
+          "module_id_str": "PRUH222"
+        },
+        "4062621136": {
+          "name": "GFCS III mod. 1",
+          "next_modules": [
+            4061572560
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 20000,
+          "next_ships": null,
+          "module_id": 4062621136,
+          "type": "Suo",
+          "module_id_str": "PRUS221"
+        },
+        "4062981584": {
+          "name": "Bogatyr (A)",
+          "next_modules": [
+            4061933008
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 43000,
+          "next_ships": null,
+          "module_id": 4062981584,
+          "type": "Hull",
+          "module_id_str": "PRUH221"
+        },
+        "4073565648": {
+          "name": "Propulsion: 19,500 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 19000,
+          "next_ships": null,
+          "module_id": 4073565648,
+          "type": "Engine",
+          "module_id_str": "PRUE211"
+        },
+        "4083133904": {
+          "name": "130 mm/55 Model 1913",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 600,
+          "price_credit": 72000,
+          "next_ships": [
+            4186912208
+          ],
+          "module_id": 4083133904,
+          "type": "Artillery",
+          "module_id_str": "PRUA202"
+        },
+        "4084182480": {
+          "name": "152 mm/45 Model 1892",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 27000,
+          "next_ships": null,
+          "module_id": 4084182480,
+          "type": "Artillery",
+          "module_id_str": "PRUA201"
+        }
+      }
+    },
+    {
+      "id": "4186912208",
+      "id_str": "PRSB103",
+      "name": "Knyaz Suvorov",
+      "type": "Battleship",
+      "tier": 3,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSB103_de0ab8e776f813bad9a3eb96aad60913df194d38a3807ca5648c2e6b2a4826f6.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSB103_b152c0a44b4e1562392b01f39563814fe664bffa28c5a22b60a9d2a3930a3f88.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSB103_67e79f7b3b4579ee113d4b7725d173c68e122b6f0dde257370c4e541cdc2371d.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSB103_e81889d1fd4e8b9dd37519c729a1002651ef54042009cf1cf67a14e3c2e151e9.png"
+      },
+      "modules_tree": {
+        "4079988176": {
+          "name": "305 mm/52 Model 1907",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 32000,
+          "next_ships": null,
+          "module_id": 4079988176,
+          "type": "Artillery",
+          "module_id_str": "PRUA205"
+        },
+        "4081495504": {
+          "name": "GFCS III mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 800,
+          "price_credit": 80000,
+          "next_ships": null,
+          "module_id": 4081495504,
+          "type": "Suo",
+          "module_id_str": "PRUS203"
+        },
+        "4082544080": {
+          "name": "GFCS III mod. 1",
+          "next_modules": [
+            4081495504
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 24000,
+          "next_ships": null,
+          "module_id": 4082544080,
+          "type": "Suo",
+          "module_id_str": "PRUS202"
+        },
+        "4082904528": {
+          "name": "K. Suvorov (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 1600,
+          "price_credit": 160000,
+          "next_ships": [
+            4185863632
+          ],
+          "module_id": 4082904528,
+          "type": "Hull",
+          "module_id_str": "PRUH202"
+        },
+        "4083002832": {
+          "name": "Propulsion: 33,200 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 17000,
+          "next_ships": null,
+          "module_id": 4083002832,
+          "type": "Engine",
+          "module_id_str": "PRUE202"
+        },
+        "4083953104": {
+          "name": "K. Suvorov (A)",
+          "next_modules": [
+            4082904528
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 74000,
+          "next_ships": null,
+          "module_id": 4083953104,
+          "type": "Hull",
+          "module_id_str": "PRUH201"
+        }
+      }
+    },
+    {
+      "id": "4187895248",
+      "id_str": "PRSD102",
+      "name": "Storozhevoi",
+      "type": "Destroyer",
+      "tier": 2,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSD102_20377e63e9c344e2e63bd0b632b17de8da693432daff88c4d06d45151da010b8.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSD102_cdeda6453efe959f19b1c410d5270098bf75e533a4b2dc7ef5cd5565bbfcff98.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSD102_552bd644cb9d7341c84d5bd7dc460e1bbe88b5d70925735adcfea961787107df.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSD102_50ff679bd39e4042f29ac152ab5a19b34d73c0e82556c2b6c85d385954e7c58e.png"
+      },
+      "modules_tree": {
+        "4166790608": {
+          "name": "Storozhevoi (B)",
+          "next_modules": [
+            4187368912
+          ],
+          "is_default": false,
+          "price_xp": 290,
+          "price_credit": 31500,
+          "next_ships": [
+            4186846672
+          ],
+          "module_id": 4166790608,
+          "type": "Hull",
+          "module_id_str": "PRUH122"
+        },
+        "4167478736": {
+          "name": "GFCS II mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 4500,
+          "next_ships": null,
+          "module_id": 4167478736,
+          "type": "Suo",
+          "module_id_str": "PRUS121"
+        },
+        "4167839184": {
+          "name": "Storozhevoi (A)",
+          "next_modules": [
+            4166790608
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 12000,
+          "next_ships": null,
+          "module_id": 4167839184,
+          "type": "Hull",
+          "module_id_str": "PRUH121"
+        },
+        "4167937488": {
+          "name": "Propulsion: 28,400 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 3000,
+          "next_ships": null,
+          "module_id": 4167937488,
+          "type": "Engine",
+          "module_id_str": "PRUE121"
+        },
+        "4168068560": {
+          "name": "102 mm/60 Model 1911",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 8000,
+          "next_ships": null,
+          "module_id": 4168068560,
+          "type": "Artillery",
+          "module_id_str": "PRUA121"
+        },
+        "4187368912": {
+          "name": "Torpedo Model 1910",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 180,
+          "price_credit": 18000,
+          "next_ships": null,
+          "module_id": 4187368912,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT102"
+        },
+        "4188417488": {
+          "name": "Torpedo Model 1908",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 6000,
+          "next_ships": null,
+          "module_id": 4188417488,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT101"
+        }
+      }
+    },
+    {
+      "id": "4187928016",
+      "id_str": "PRSC102",
+      "name": "Novik",
+      "type": "Cruiser",
+      "tier": 2,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC102_775a7f4068b9ca4c98db5b60f8282b2a05fba5f83b9656949679b8498f6c7260.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC102_fd62bfa985e086ab624bc81c29cae45a502fbaf506277293684af912827f042f.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC102_e03e2d4ebcb226b7e947766a24ec25adfe798ff0ef8b6ea5da8feacdaa92bd97.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC102_7590511aad502435a761a1b02150e1f9049aa17628a238b0815122def3780466.png"
+      },
+      "modules_tree": {
+        "4155944400": {
+          "name": "GFCS II mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 230,
+          "price_credit": 24000,
+          "next_ships": [
+            4187895248
+          ],
+          "module_id": 4155944400,
+          "type": "Suo",
+          "module_id_str": "PRUS132"
+        },
+        "4156304848": {
+          "name": "Novik (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 400,
+          "price_credit": 40000,
+          "next_ships": null,
+          "module_id": 4156304848,
+          "type": "Hull",
+          "module_id_str": "PRUH132"
+        },
+        "4156992976": {
+          "name": "GFCS II mod. 1",
+          "next_modules": [
+            4155944400
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 8000,
+          "next_ships": null,
+          "module_id": 4156992976,
+          "type": "Suo",
+          "module_id_str": "PRUS131"
+        },
+        "4157353424": {
+          "name": "Novik (A)",
+          "next_modules": [
+            4156304848
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 18000,
+          "next_ships": null,
+          "module_id": 4157353424,
+          "type": "Hull",
+          "module_id_str": "PRUH131"
+        },
+        "4157451728": {
+          "name": "Propulsion: 17,700 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 3000,
+          "next_ships": null,
+          "module_id": 4157451728,
+          "type": "Engine",
+          "module_id_str": "PRUE131"
+        },
+        "4157582800": {
+          "name": "120 mm/45 Model 1892",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 7500,
+          "next_ships": [
+            4186879440
+          ],
+          "module_id": 4157582800,
+          "type": "Artillery",
+          "module_id_str": "PRUA131"
+        }
+      }
+    },
+    {
+      "id": "4188976592",
+      "id_str": "PRSC101",
+      "name": "Orlan",
+      "type": "Cruiser",
+      "tier": 1,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC101_5ce5d3990f5acc716cd15436522b59d05373dee3f0480355b31823eb77b5f534.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC101_556eb1ea63b37d643fdd3d36ff5d5d21b62aed300b658df4c7ab731c40993512.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC101_e0ba300df0456d7b1433d20d4ee17b2e35b4f5fb1ce30fc0065516e65c32cff9.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC101_e72f6c51e05ba8f074e64a28072990f0cbd0f0282313c5108be9d94513affaf5.png"
+      },
+      "modules_tree": {
+        "4283182544": {
+          "name": "Orlan (A)",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": [
+            4187928016
+          ],
+          "module_id": 4283182544,
+          "type": "Hull",
+          "module_id_str": "PRUH011"
+        },
+        "4283280848": {
+          "name": "Propulsion: 20,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4283280848,
+          "type": "Engine",
+          "module_id_str": "PRUE011"
+        },
+        "4292849104": {
+          "name": "130 mm/50 B-2LM",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4292849104,
+          "type": "Artillery",
+          "module_id_str": "PRUA002"
+        },
+        "4293307856": {
+          "name": "GFCS I mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4293307856,
+          "type": "Suo",
+          "module_id_str": "PRUS001"
+        }
+      }
+    },
+    {
+      "id": "4284397008",
+      "id_str": "PRSC010",
+      "name": "Diana Lima",
+      "type": "Cruiser",
+      "tier": 2,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC010_8c8139f5360051823b945ca1759fc1c02ece282de3a08242632a9eec614a793c.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC010_3c175d569697aca1fac216d735725231769758692e933564f57b8d41cd56d722.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC010_22778c40d508226a25e4afd7ab8374f08bd6b9bb9da696aeddd621880e96cd47.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC010_ad68623ac18ea0b50b2a0b49b41558a04533725090b46c43e082826c75ff7306.png"
+      },
+      "modules_tree": {
+        "4177964496": {
+          "name": "GFCS II mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4177964496,
+          "type": "Suo",
+          "module_id_str": "PRUS111"
+        },
+        "4178324944": {
+          "name": "Diana",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4178324944,
+          "type": "Hull",
+          "module_id_str": "PRUH111"
+        },
+        "4178423248": {
+          "name": "Propulsion: 11,600 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4178423248,
+          "type": "Engine",
+          "module_id_str": "PRUE111"
+        },
+        "4178554320": {
+          "name": "152 mm/45 Canet naval gun",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4178554320,
+          "type": "Artillery",
+          "module_id_str": "PRUA111"
+        }
+      }
+    },
+    {
+      "id": "4291737040",
+      "id_str": "PRSC003",
+      "name": "Murmansk",
+      "type": "Cruiser",
+      "tier": 5,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC003_12de8888c5c05ba9479ad496193c841281284437bcb2acd42921d2d39ed5aca8.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC003_5c87cd7fa0000d1d085d5b0b60cac3c57f599b044894126f4ba2ed554e3dadde.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC003_ad97d112541cea21af1283c7abb58bf0dcc8d7e1a48a503bef240148a67ab6d8.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC003_21c66097dac05b387124523326196a5e41495c7b8b091bba75890ddc15d6cefb.png"
+      },
+      "modules_tree": {
+        "3861261776": {
+          "name": "53-39",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3861261776,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT413"
+        },
+        "3873877456": {
+          "name": "GFCS V mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3873877456,
+          "type": "Suo",
+          "module_id_str": "PRUS401"
+        },
+        "3874237904": {
+          "name": "Murmansk",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3874237904,
+          "type": "Hull",
+          "module_id_str": "PRUH401"
+        },
+        "3874336208": {
+          "name": "Propulsion: 90,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3874336208,
+          "type": "Engine",
+          "module_id_str": "PRUE401"
+        },
+        "3874467280": {
+          "name": "152 mm/53 Mk16/Mk13",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3874467280,
+          "type": "Artillery",
+          "module_id_str": "PRUA401"
+        }
+      }
+    },
+    {
+      "id": "4292785616",
+      "id_str": "PRSC002",
+      "name": "Diana",
+      "type": "Cruiser",
+      "tier": 2,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC002_dd0b07a17617dbed3939446044392489849812497f829017158886130206bb1d.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC002_03d5d31394805097be40af85c1fb030c2f3511e19376ba5c02db2bec73e608fc.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC002_6cfe378ecbe9f321f6994b458225cfd33e857826aed194e13ff6f663b8b3faab.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC002_ad68623ac18ea0b50b2a0b49b41558a04533725090b46c43e082826c75ff7306.png"
+      },
+      "modules_tree": {
+        "4188450256": {
+          "name": "GFCS II mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4188450256,
+          "type": "Suo",
+          "module_id_str": "PRUS101"
+        },
+        "4188810704": {
+          "name": "Diana",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4188810704,
+          "type": "Hull",
+          "module_id_str": "PRUH101"
+        },
+        "4188909008": {
+          "name": "Propulsion: 11,600 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4188909008,
+          "type": "Engine",
+          "module_id_str": "PRUE101"
+        },
+        "4189040080": {
+          "name": "152 mm/45 Canet naval gun",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4189040080,
+          "type": "Artillery",
+          "module_id_str": "PRUA101"
+        }
+      }
+    },
+    {
+      "id": "4293801424",
+      "id_str": "PRSD001",
+      "name": "Gremyashchy",
+      "type": "Destroyer",
+      "tier": 5,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSD001_72d299bc3a0fecbc2887da6c41ae5bb6764db5a7ce921e2e665721f021e9be8b.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSD001_4813c14eaa885f844a252d5b2f60a30af7556e97cd233d9db5db409443bf4717.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSD001_54fba8c988ce8fc40829933e8458035b76703ebf5bc9970b7e4140577a352fa2.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSD001_d6a5e4f11cef9701f0ac583d70209e5341c9968077ebb4965e5e70d9373fd116.png"
+      },
+      "modules_tree": {
+        "3863358928": {
+          "name": "53-39",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3863358928,
+          "type": "Torpedoes",
+          "module_id_str": "PRUT411"
+        },
+        "3863391696": {
+          "name": "GFCS V mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3863391696,
+          "type": "Suo",
+          "module_id_str": "PRUS411"
+        },
+        "3863752144": {
+          "name": "Gremyashchy",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3863752144,
+          "type": "Hull",
+          "module_id_str": "PRUH411"
+        },
+        "3863850448": {
+          "name": "Propulsion: 48,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3863850448,
+          "type": "Engine",
+          "module_id_str": "PRUE411"
+        },
+        "3863981520": {
+          "name": "130 mm/50 B-13",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3863981520,
+          "type": "Artillery",
+          "module_id_str": "PRUA411"
+        }
+      }
+    },
+    {
+      "id": "4293834192",
+      "id_str": "PRSC001",
+      "name": "Aurora",
+      "type": "Cruiser",
+      "tier": 3,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSC001_de2772478db9915d4700ac8941a346a881e793a50cbcdfa4249dd0cf15e3d668.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSC001_ca906a0980743c8d58f255a02bee0948e4a713a31a5e3804bccde90cc14f9819.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSC001_6a7b82679f8aa5650dd2eb449b6787a1d21bd9e00fc7402a569bf8e8f7cf2861.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSC001_9f5d54edcef698edac1a99f9fa5c62aa94da9c30b8cd5183ee763c2d47d61110.png"
+      },
+      "modules_tree": {
+        "4083592656": {
+          "name": "GFCS III mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4083592656,
+          "type": "Suo",
+          "module_id_str": "PRUS201"
+        },
+        "4293668304": {
+          "name": "Aurora",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4293668304,
+          "type": "Hull",
+          "module_id_str": "PRUH001"
+        },
+        "4293766608": {
+          "name": "Propulsion: 12,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4293766608,
+          "type": "Engine",
+          "module_id_str": "PRUE001"
+        },
+        "4293897680": {
+          "name": "152 mm/45 Canet naval gun",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4293897680,
+          "type": "Artillery",
+          "module_id_str": "PRUA001"
+        }
+      }
+    },
+    {
+      "id": "4293866960",
+      "id_str": "PRSB001",
+      "name": "Imperator Nikolai I",
+      "type": "Battleship",
+      "tier": 4,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PRSB001_4579e7d96220de23d97a0f36ff8e1deb462fe30eefca7e225267fe84b3dbd10b.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PRSB001_b72b2ae9a78443769c8edd6eff439d94c86229022661a149cf5cc3d3fe806530.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PRSB001_4c062ded338182049c6669e5ce31ff3ac7c87dd5299672a14b635e9d081972c4.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PRSB001_64c5f88325fc7dfcd0e802f31c6f5867b32619f3019479b71978f608dde11b4e.png"
+      },
+      "modules_tree": {
+        "3842420176": {
+          "name": "GFCS IV mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3842420176,
+          "type": "Suo",
+          "module_id_str": "PRUS431"
+        },
+        "3842780624": {
+          "name": "Imperator Nikolai I",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3842780624,
+          "type": "Hull",
+          "module_id_str": "PRUH431"
+        },
+        "3842878928": {
+          "name": "Propulsion: 30,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3842878928,
+          "type": "Engine",
+          "module_id_str": "PRUE431"
+        },
+        "3843010000": {
+          "name": "305 mm/52 Model 1907",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3843010000,
+          "type": "Artillery",
+          "module_id_str": "PRUA431"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,3892 @@
+{
+  "status": "ok",
+  "meta": {
+    "count": 47,
+    "page_total": 1,
+    "total": 47,
+    "limit": 100,
+    "page": 1
+  },
+  "data": [
+    {
+      "id": "3554588464",
+      "id_str": "PGSC706",
+      "name": "HSF Admiral Graf Spee",
+      "type": "Cruiser",
+      "tier": 6,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC706_b3c99f5ac9380a04b653d4f05cdab282c0b6ef2679969e9509ff202e46f7a957.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSC706_00f6a043ba7653db3780029fe79ceb7b86da552806304c456106fec5e6c08034.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSC706_943bbe1f2734b5f876d11e20007a1798fc9a391704bc827394014fadef7081be.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSC706_08ace3cc7647fcac238bbb4722d441f30ab6b102feab3a896797edc3bbc48155.png"
+      },
+      "modules_tree": {
+        "3658886960": {
+          "name": "G7 Steinbutt",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3658886960,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT606"
+        },
+        "3658919728": {
+          "name": "FKS Typ 6 Mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3658919728,
+          "type": "Suo",
+          "module_id_str": "PGUS606"
+        },
+        "3659280176": {
+          "name": "HSF Admiral Graf Spee",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3659280176,
+          "type": "Hull",
+          "module_id_str": "PGUH606"
+        },
+        "3661475632": {
+          "name": "Propulsion: 54,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3661475632,
+          "type": "Engine",
+          "module_id_str": "PGUE604"
+        },
+        "3661606704": {
+          "name": "283 mm L/52 Drh LC/28",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3661606704,
+          "type": "Artillery",
+          "module_id_str": "PGUA604"
+        }
+      }
+    },
+    {
+      "id": "3750672176",
+      "id_str": "PGSC519",
+      "name": "Ägir",
+      "type": "Cruiser",
+      "tier": 9,
+      "is_premium": false,
+      "is_special": true,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC519_7e70a173146ffeea7e969f1987ca3decb88d42ee1e95f7516bd89633fceeb2ee.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSC519_65ce06ad784bd333c4717c2d6118c75d80dedcde77d7f82e4bc80f37892b7618.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSC519_1eef13240ce7d158546f9341eb758cc6c7679ef66312042f80c327321e7aa329.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSC519_05bf4b371372c05a5fa3d4623ea4030865651a04a2d73bbe80ae0acbf9034c05.png"
+      },
+      "modules_tree": {
+        "3449204528": {
+          "name": "FKS Typ 9 Mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3449204528,
+          "type": "Suo",
+          "module_id_str": "PGUS806"
+        },
+        "3449564976": {
+          "name": "Ägir",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3449564976,
+          "type": "Hull",
+          "module_id_str": "PGUH806"
+        },
+        "3450220336": {
+          "name": "G7 Steinbutt",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3450220336,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT805"
+        },
+        "3451760432": {
+          "name": "Propulsion: 176,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3451760432,
+          "type": "Engine",
+          "module_id_str": "PGUE804"
+        },
+        "3451891504": {
+          "name": "305 mm L/56 SK C/39",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3451891504,
+          "type": "Artillery",
+          "module_id_str": "PGUA804"
+        }
+      }
+    },
+    {
+      "id": "3751720752",
+      "id_str": "PGSC518",
+      "name": "Mainz",
+      "type": "Cruiser",
+      "tier": 8,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC518_abe8c7d0bd569584f7d39787c2a58c4450499c25bc986c397b089e5db5f57662.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSC518_2e25f5cda7495d10e863392a05ba4b42a61b60941f57630325a7bd32497eae76.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSC518_8d0f8768b6877daabca08e8aee5510ed9d6cdd8dfbb3aac314e3f76fb749bf65.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSC518_d78a20b32a9c32dc8d606a01e6c61a56af32287d54d4560f1867e73517c98381.png"
+      },
+      "modules_tree": {
+        "3551375152": {
+          "name": "Propulsion: 132,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3551375152,
+          "type": "Engine",
+          "module_id_str": "PGUE709"
+        },
+        "3552325424": {
+          "name": "Mainz",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3552325424,
+          "type": "Hull",
+          "module_id_str": "PGUH708"
+        },
+        "3552980784": {
+          "name": "G7a T1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3552980784,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT707"
+        },
+        "3554062128": {
+          "name": "FKS Typ 8 Mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3554062128,
+          "type": "Suo",
+          "module_id_str": "PGUS706"
+        },
+        "3554651952": {
+          "name": "150 mm L/60 Drh Tr C/25",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3554651952,
+          "type": "Artillery",
+          "module_id_str": "PGUA706"
+        }
+      }
+    },
+    {
+      "id": "3751786288",
+      "id_str": "PGSA518",
+      "name": "Graf Zeppelin",
+      "type": "AirCarrier",
+      "tier": 8,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSA518_3f1aff5cb151b143cc14e9da364ab2d3269cd9a6ab80df0529ccd0e1b75c1ba4.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSA518_a04100f8847f52eaa1c44286c08d152abbb97dbc4a2a12148e76677fcaf08673.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSA518_a04100f8847f52eaa1c44286c08d152abbb97dbc4a2a12148e76677fcaf08673.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSA518_fee3db64026664e86657450aa0fc6e9499d8c32c9776641a0562375e3f381ee4.png"
+      },
+      "modules_tree": {
+        "3465359152": {
+          "name": "FID Typ 8 Mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3465359152,
+          "type": "FlightControl",
+          "module_id_str": "PGUF791"
+        },
+        "3552423728": {
+          "name": "Propulsion: 200,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3552423728,
+          "type": "Engine",
+          "module_id_str": "PGUE708"
+        },
+        "3553374000": {
+          "name": "Graf Zeppelin",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3553374000,
+          "type": "Hull",
+          "module_id_str": "PGUH707"
+        },
+        "3557699376": {
+          "name": "Ta-152C-1/R14",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3557699376,
+          "type": "DiveBomber",
+          "module_id_str": "PGUD703"
+        },
+        "3557764912": {
+          "name": "Ta-152C-1/R14",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3557764912,
+          "type": "TorpedoBomber",
+          "module_id_str": "PGUB703"
+        },
+        "3558584112": {
+          "name": "Me-155A",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3558584112,
+          "type": "Fighter",
+          "module_id_str": "PGUI702"
+        }
+      }
+    },
+    {
+      "id": "3761157936",
+      "id_str": "PGSC509",
+      "name": "Siegfried",
+      "type": "Cruiser",
+      "tier": 9,
+      "is_premium": false,
+      "is_special": true,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC509_30f9ff5841ec1c8cdbfed55101217c2d08615ef9ee111868772f719f8c06e707.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSC509_ac569703be28d8f0b62ff34002fc87c8808aa7738e43e574030e3b3afa26fd3d.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSC509_c645c70b8e6b8a3a7274687345bd6999ae0848bfe1d193680a7bec54f78b8908.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSC509_1d0435ee838bbe38954373cc69657b6c6449796b3a044002b6a7970c234b8006.png"
+      },
+      "modules_tree": {
+        "3450253104": {
+          "name": "FKS Typ 9 Mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3450253104,
+          "type": "Suo",
+          "module_id_str": "PGUS805"
+        },
+        "3450613552": {
+          "name": "Siegfried",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3450613552,
+          "type": "Hull",
+          "module_id_str": "PGUH805"
+        },
+        "3451268912": {
+          "name": "G7 Steinbutt",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3451268912,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT804"
+        },
+        "3452809008": {
+          "name": "Propulsion: 176,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3452809008,
+          "type": "Engine",
+          "module_id_str": "PGUE803"
+        },
+        "3452940080": {
+          "name": "380 mm L/52 SK C/34",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3452940080,
+          "type": "Artillery",
+          "module_id_str": "PGUA803"
+        }
+      }
+    },
+    {
+      "id": "3762173744",
+      "id_str": "PGSD508",
+      "name": "Z-39",
+      "type": "Destroyer",
+      "tier": 7,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSD508_9aa92d1aab51689cf337177e30b27688c614bb9803dc617aacbf89f0ed4a0fa4.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSD508_1e3345fff70f7bd1cfb248abe4617916a93a2fab57c3c9e79cffdb08fc57d64a.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSD508_29ca9b15780fdad771d4e825390d43f52ee697766e82a31b2240b435913dde8a.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSD508_c69ad7d5965c5598d5bf3e06e931b9e103b297b51443efeb87d48bb7a669e391.png"
+      },
+      "modules_tree": {
+        "3554422576": {
+          "name": "Z-39",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3554422576,
+          "type": "Hull",
+          "module_id_str": "PGUH706"
+        },
+        "3554520880": {
+          "name": "Propulsion: 70,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3554520880,
+          "type": "Engine",
+          "module_id_str": "PGUE706"
+        },
+        "3555077936": {
+          "name": "G7 Steinbarsch",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3555077936,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT705"
+        },
+        "3555110704": {
+          "name": "FKS Typ 8 Mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3555110704,
+          "type": "Suo",
+          "module_id_str": "PGUS705"
+        },
+        "3556749104": {
+          "name": "150 mm L/48 LDrh LC/38",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3556749104,
+          "type": "Artillery",
+          "module_id_str": "PGUA704"
+        }
+      }
+    },
+    {
+      "id": "3762206512",
+      "id_str": "PGSC508",
+      "name": "Prinz Eugen",
+      "type": "Cruiser",
+      "tier": 8,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC508_f1aeb94a477976b1dc3a487804f06ef16688b53c9c3b6a796007e2f439815193.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSC508_f1bd15df6428bc72ec0c29157013483c9b883ab31d976924e2668d39e304a94c.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSC508_b158ab67352b1a42165a113cb4b0e5132209fcf84099d38aefe288fe0e610919.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSC508_15e47c4661ddc734f394d375927bb63c8a974cf4c68b96258f626d74b99a4b55.png"
+      },
+      "modules_tree": {
+        "3526799152": {
+          "name": "FKS Typ 8 Mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3526799152,
+          "type": "Suo",
+          "module_id_str": "PGUS732"
+        },
+        "3547082544": {
+          "name": "Prinz Eugen",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3547082544,
+          "type": "Hull",
+          "module_id_str": "PGUH713"
+        },
+        "3556618032": {
+          "name": "Propulsion: 110,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3556618032,
+          "type": "Engine",
+          "module_id_str": "PGUE704"
+        },
+        "3557797680": {
+          "name": "203 mm L/60 Drh LC/34",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3557797680,
+          "type": "Artillery",
+          "module_id_str": "PGUA703"
+        },
+        "3558223664": {
+          "name": "G7a T1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3558223664,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT702"
+        }
+      }
+    },
+    {
+      "id": "3762239280",
+      "id_str": "PGSB508",
+      "name": "Odin",
+      "type": "Battleship",
+      "tier": 8,
+      "is_premium": false,
+      "is_special": true,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB508_c7864bdffcf071f467929b4a96615c4eca8a232c7ef96cb15d4d28a597cf7b90.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSB508_d2056d8d664334d0f16e7de4a8e9709b15360bbfc2b43711d0a1333900543dae.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSB508_74d4e40ad1044ec6f411881a3e7ee7db140b38bacd3752700af844e901fd05d9.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSB508_38129933d84ce1b71445ddf65b0f7b2b465c21ed4fcc72867a5fe635b3679c92.png"
+      },
+      "modules_tree": {
+        "3550326576": {
+          "name": "Propulsion: 137,300 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3550326576,
+          "type": "Engine",
+          "module_id_str": "PGUE710"
+        },
+        "3551276848": {
+          "name": "Odin",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3551276848,
+          "type": "Hull",
+          "module_id_str": "PGUH709"
+        },
+        "3551932208": {
+          "name": "G7a T1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3551932208,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT708"
+        },
+        "3551964976": {
+          "name": "FKS Typ 8 Mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3551964976,
+          "type": "Suo",
+          "module_id_str": "PGUS708"
+        },
+        "3553603376": {
+          "name": "305 mm L/56 SK C/39",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3553603376,
+          "type": "Artillery",
+          "module_id_str": "PGUA707"
+        }
+      }
+    },
+    {
+      "id": "3763287856",
+      "id_str": "PGSB507",
+      "name": "Scharnhorst",
+      "type": "Battleship",
+      "tier": 7,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB507_f73355091fc84cf4b698a3b9b6f0e60c14091a22503afe00b9533916f969533d.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSB507_876b156301da29d83335f42329121d8277e2257cb40fa92887beded0b1fc02c3.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSB507_abdbe00e4fc2cb5f4616366ca1e8cb58c988b54d619284296a936b71eebb73bb.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSB507_ec19b682c3b43662d4bff384b319f4edfe41ba77b38d4ddc4622d5c81813ad35.png"
+      },
+      "modules_tree": {
+        "3527847728": {
+          "name": "FKS Typ 7 Mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3527847728,
+          "type": "Suo",
+          "module_id_str": "PGUS731"
+        },
+        "3548131120": {
+          "name": "Scharnhorst",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3548131120,
+          "type": "Hull",
+          "module_id_str": "PGUH712"
+        },
+        "3642601264": {
+          "name": "Propulsion: 160,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3642601264,
+          "type": "Engine",
+          "module_id_str": "PGUE622"
+        },
+        "3643780912": {
+          "name": "283 mm L/54.5 Drh LC/34",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3643780912,
+          "type": "Artillery",
+          "module_id_str": "PGUA621"
+        },
+        "3653644080": {
+          "name": "G7a T1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3653644080,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT611"
+        }
+      }
+    },
+    {
+      "id": "3764270896",
+      "id_str": "PGSD506",
+      "name": "T-61",
+      "type": "Destroyer",
+      "tier": 6,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSD506_7dcc64e840bc4ff641d4669aae606aacf023f41a222cfb0b71bcfaf4c692d865.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSD506_c9d5bfe76f48830e10834b5e72d879d6e5fcd706769b641f9f960d5d9256a70f.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSD506_ad2d873cae74c4c049827e46553a32cd7b9f9dd0b3cfc28bdbf2ff1729d78caa.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSD506_7839dbe782d3034fe83d0ebb4f6676c308c24d054e4bd7ae1e1c45af653adbd7.png"
+      },
+      "modules_tree": {
+        "3763744560": {
+          "name": "G7 Steinbutt",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 430000,
+          "next_ships": null,
+          "module_id": 3763744560,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT506"
+        },
+        "3763777328": {
+          "name": "FKS Typ 6 Mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 530000,
+          "next_ships": null,
+          "module_id": 3763777328,
+          "type": "Suo",
+          "module_id_str": "PGUS506"
+        },
+        "3764137776": {
+          "name": "T-61",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 760000,
+          "next_ships": null,
+          "module_id": 3764137776,
+          "type": "Hull",
+          "module_id_str": "PGUH506"
+        },
+        "3764236080": {
+          "name": "Propulsion: 45,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 165000,
+          "next_ships": null,
+          "module_id": 3764236080,
+          "type": "Engine",
+          "module_id_str": "PGUE506"
+        },
+        "3764367152": {
+          "name": "128 mm L/45 LC/34",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 600000,
+          "next_ships": null,
+          "module_id": 3764367152,
+          "type": "Artillery",
+          "module_id_str": "PGUA506"
+        }
+      }
+    },
+    {
+      "id": "3764303664",
+      "id_str": "PGSC506",
+      "name": "Admiral Graf Spee",
+      "type": "Cruiser",
+      "tier": 6,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC506_cd19a0c7ddbdcc99aef6f5cc2b0a27bbed9881faad07bed279305f04e6fa5bdd.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSC506_fafca8506dd146610e4c03fc2f6a373df89461307de2b9bdf4bc9dcbac894cdb.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSC506_f5d948faa4fe7d10d73ac49e57651f1730c8bda7889e65b6e2854128877a8267.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSC506_08ace3cc7647fcac238bbb4722d441f30ab6b102feab3a896797edc3bbc48155.png"
+      },
+      "modules_tree": {
+        "3659935536": {
+          "name": "G7 Steinbutt",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3659935536,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT605"
+        },
+        "3659968304": {
+          "name": "FKS Typ 6 Mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3659968304,
+          "type": "Suo",
+          "module_id_str": "PGUS605"
+        },
+        "3660328752": {
+          "name": "Admiral Graf Spee",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3660328752,
+          "type": "Hull",
+          "module_id_str": "PGUH605"
+        },
+        "3662524208": {
+          "name": "Propulsion: 54,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3662524208,
+          "type": "Engine",
+          "module_id_str": "PGUE603"
+        },
+        "3662655280": {
+          "name": "283 mm L/52 Drh LC/28",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3662655280,
+          "type": "Artillery",
+          "module_id_str": "PGUA603"
+        }
+      }
+    },
+    {
+      "id": "3764336432",
+      "id_str": "PGSB506",
+      "name": "Prinz Eitel Friedrich",
+      "type": "Battleship",
+      "tier": 6,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB506_d8b0ba60b21183cd8af7d0071bdca57687cf1890e822219a828cabb59572e0a8.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSB506_0aba4f5c44ea2e05498ac41b3536b0c8ba76e31ca2eb3bf2c8f1db2ea8b85ce2.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSB506_7db17c6bf40a1541912d9000e0bfbe5bcebc4aa90ef8818e87f5543c69be5716.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSB506_df52f3de68bce661560a5ac17d7b0a19a6cdbde8be9695e1c7bda0b5bd9246f8.png"
+      },
+      "modules_tree": {
+        "3762728752": {
+          "name": "FKS Typ 6 Mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3762728752,
+          "type": "Suo",
+          "module_id_str": "PGUS507"
+        },
+        "3763089200": {
+          "name": "Prinz Eitel Friedrich",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3763089200,
+          "type": "Hull",
+          "module_id_str": "PGUH507"
+        },
+        "3763187504": {
+          "name": "Propulsion: 90,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3763187504,
+          "type": "Engine",
+          "module_id_str": "PGUE507"
+        },
+        "3763318576": {
+          "name": "350 mm L/42 SK C/14",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3763318576,
+          "type": "Artillery",
+          "module_id_str": "PGUA507"
+        }
+      }
+    },
+    {
+      "id": "3767482160",
+      "id_str": "PGSB503",
+      "name": "König Albert",
+      "type": "Battleship",
+      "tier": 3,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB503_b54f41d5fb3a82619bdcb8c655c378f41452c858b3ea124ea610ab857ad3f3cf.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSB503_2d97e397e56d3aeab0ebfafe544fd3b224c27de445aebd6ba564fbd6234309cf.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSB503_4f41f16f18909ce34730efa28805958b064c6cfd617342e368dde9fc9421439b.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSB503_e545301b6f8b078cb44f3508f422017efa22a782534e3add27637efba8ed2769.png"
+      },
+      "modules_tree": {
+        "4062621488": {
+          "name": "FKS Typ 3 Mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4062621488,
+          "type": "Suo",
+          "module_id_str": "PGUS221"
+        },
+        "4062981936": {
+          "name": "König Albert",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4062981936,
+          "type": "Hull",
+          "module_id_str": "PGUH221"
+        },
+        "4063080240": {
+          "name": "Propulsion: 55,180 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4063080240,
+          "type": "Engine",
+          "module_id_str": "PGUE221"
+        },
+        "4063211312": {
+          "name": "305 mm L/50 Drh LC/1909",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 200,
+          "next_ships": null,
+          "module_id": 4063211312,
+          "type": "Artillery",
+          "module_id_str": "PGUA221"
+        }
+      }
+    },
+    {
+      "id": "3768497968",
+      "id_str": "PGSC502",
+      "name": "Emden",
+      "type": "Cruiser",
+      "tier": 2,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC502_0368049f8d9c4c52a7d92148e41e8a832b63a25fffe3fc9a363790cd69c22040.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSC502_e5dec3a9e6fe0a35f0abb3064b220931d0b969217f0235e4fd23b4161eb458ea.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSC502_8e8ec754b158ad803c5e65c898d0a4da8a06bf13a3c7c0a6a2c15b9306fb87cb.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSC502_9a0a55667068e217468c673e45ceb1b3b8cad670c127f15a6a406a82062b5780.png"
+      },
+      "modules_tree": {
+        "4177964848": {
+          "name": "FKS Typ 2 Mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4177964848,
+          "type": "Suo",
+          "module_id_str": "PGUS111"
+        },
+        "4178325296": {
+          "name": "Emden",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4178325296,
+          "type": "Hull",
+          "module_id_str": "PGUH111"
+        },
+        "4178423600": {
+          "name": "Propulsion: 16,350 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4178423600,
+          "type": "Engine",
+          "module_id_str": "PGUE111"
+        },
+        "4178554672": {
+          "name": "105 mm L/40 MPL C/04",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4178554672,
+          "type": "Artillery",
+          "module_id_str": "PGUA111"
+        }
+      }
+    },
+    {
+      "id": "4179506992",
+      "id_str": "PGSD110",
+      "name": "Z-52",
+      "type": "Destroyer",
+      "tier": 10,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSD110_9afa6ea3980695c40159f5b4b290b7caff8f3150db86fde1a5142866d7b77748.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSD110_3467327e2360c2dcff523dc2d7891a48dd0c612b3edc6d7fe4a9d9a01d8b2781.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSD110_022736a277751519eef6c78c71d934292c01125da02f7c58601d9c4df5830982.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSD110_f684d40683e27ed1f544c10faf37b78a91e8b87221d24036d1e0b31b36473ac5.png"
+      },
+      "modules_tree": {
+        "3347459888": {
+          "name": "G7 Steinwal",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 30000,
+          "price_credit": 2200000,
+          "next_ships": null,
+          "module_id": 3347459888,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT903"
+        },
+        "3348508464": {
+          "name": "G7 Wolfsbarsch",
+          "next_modules": [
+            3347459888
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1500000,
+          "next_ships": null,
+          "module_id": 3348508464,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT902"
+        },
+        "3348541232": {
+          "name": "FKS Typ 10 Mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1700000,
+          "next_ships": null,
+          "module_id": 3348541232,
+          "type": "Suo",
+          "module_id_str": "PGUS902"
+        },
+        "3348901680": {
+          "name": "Z-52 (A)",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2350000,
+          "next_ships": null,
+          "module_id": 3348901680,
+          "type": "Hull",
+          "module_id_str": "PGUH902"
+        },
+        "3348999984": {
+          "name": "Propulsion: 76,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1800000,
+          "next_ships": null,
+          "module_id": 3348999984,
+          "type": "Engine",
+          "module_id_str": "PGUE902"
+        },
+        "3349131056": {
+          "name": "128 mm L/45 Drh LC/41",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2000000,
+          "next_ships": null,
+          "module_id": 3349131056,
+          "type": "Artillery",
+          "module_id_str": "PGUA902"
+        }
+      }
+    },
+    {
+      "id": "4179539760",
+      "id_str": "PGSC110",
+      "name": "Hindenburg",
+      "type": "Cruiser",
+      "tier": 10,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC110_4635332915d94f64dbdc1fda94f7f2f0bfd227355eab5406b16f5d2e81006c3d.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSC110_818bb4af8d0b8f3059c9877115b6cbabec9b40aa1b3683ff1de54f456614db23.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSC110_29be3e3bcaf2ef80c974deb90b7cbf1d1d24027f87007796f0db172d5d9ad41b.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSC110_05f58e7c19a4d6bd8cd44f51ba7e24f67bf2126fad26227f578b044eea192f7b.png"
+      },
+      "modules_tree": {
+        "3349557040": {
+          "name": "G7a T1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 260000,
+          "next_ships": null,
+          "module_id": 3349557040,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT901"
+        },
+        "3349589808": {
+          "name": "FKS Typ 10 Mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1700000,
+          "next_ships": null,
+          "module_id": 3349589808,
+          "type": "Suo",
+          "module_id_str": "PGUS901"
+        },
+        "3349950256": {
+          "name": "Hindenburg (A)",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2200000,
+          "next_ships": null,
+          "module_id": 3349950256,
+          "type": "Hull",
+          "module_id_str": "PGUH901"
+        },
+        "3350048560": {
+          "name": "Propulsion: 155,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1400000,
+          "next_ships": null,
+          "module_id": 3350048560,
+          "type": "Engine",
+          "module_id_str": "PGUE901"
+        },
+        "3350179632": {
+          "name": "203 mm L/60 Drh LC/34",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1800000,
+          "next_ships": null,
+          "module_id": 3350179632,
+          "type": "Artillery",
+          "module_id_str": "PGUA901"
+        }
+      }
+    },
+    {
+      "id": "4179572528",
+      "id_str": "PGSB110",
+      "name": "Großer Kurfürst",
+      "type": "Battleship",
+      "tier": 10,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB110_9b3dbcaf7d4508435c97bc3b30de24490dc70b24cf6e49794f0681db9ec86bfe.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSB110_09e01522f9a2e5be6a69d1afd44a8173de06e37f3b6af050e953bc639bd2b279.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSB110_747c5b326961714a84b5322db24e0fa968dd0df3f61432da3f48bd42a61c00ed.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSB110_7962247ac0daf277bcc9f722a4b2c655252b593ffa0769ec8a305d7765d97177.png"
+      },
+      "modules_tree": {
+        "3336548144": {
+          "name": "406 mm L/52 Drh C/34",
+          "next_modules": [
+            3337596720
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2000000,
+          "next_ships": null,
+          "module_id": 3336548144,
+          "type": "Artillery",
+          "module_id_str": "PGUA914"
+        },
+        "3337596720": {
+          "name": "420 mm L/48 Drh LC/40",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 35000,
+          "price_credit": 2500000,
+          "next_ships": null,
+          "module_id": 3337596720,
+          "type": "Artillery",
+          "module_id_str": "PGUA913"
+        },
+        "3339104048": {
+          "name": "FKS Typ 10 Mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2000000,
+          "next_ships": null,
+          "module_id": 3339104048,
+          "type": "Suo",
+          "module_id_str": "PGUS911"
+        },
+        "3339464496": {
+          "name": "Großer Kurfürst (A)",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 3500000,
+          "next_ships": null,
+          "module_id": 3339464496,
+          "type": "Hull",
+          "module_id_str": "PGUH911"
+        },
+        "3339562800": {
+          "name": "Propulsion: 167,600 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1500000,
+          "next_ships": null,
+          "module_id": 3339562800,
+          "type": "Engine",
+          "module_id_str": "PGUE911"
+        }
+      }
+    },
+    {
+      "id": "4180555568",
+      "id_str": "PGSD109",
+      "name": "Z-46",
+      "type": "Destroyer",
+      "tier": 9,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSD109_0f0f3c787bb5f08f1b7b27900ddfb76bd3a05554746212d87d166ecfa95e84c9.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSD109_70202b5e80ea7c646ab5fff2db439218a040d07e4c60ca025ec482ad16c09632.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSD109_9b7a36d398c767671ef03b843fc8b49fd599fa690bd1dd9a7299d292249a486a.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSD109_4f3de18a7aafb2a83a694941846d8cb27596cdafe84149c7b965fde85e8139be.png"
+      },
+      "modules_tree": {
+        "3451301680": {
+          "name": "FKS Typ 9 Mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 25000,
+          "price_credit": 1900000,
+          "next_ships": null,
+          "module_id": 3451301680,
+          "type": "Suo",
+          "module_id_str": "PGUS804"
+        },
+        "3451662128": {
+          "name": "Z-46 (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 39000,
+          "price_credit": 3200000,
+          "next_ships": [
+            4179506992
+          ],
+          "module_id": 3451662128,
+          "type": "Hull",
+          "module_id_str": "PGUH804"
+        },
+        "3452317488": {
+          "name": "G7 Wolfsbarsch",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 20000,
+          "price_credit": 1500000,
+          "next_ships": null,
+          "module_id": 3452317488,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT803"
+        },
+        "3452350256": {
+          "name": "FKS Typ 9 Mod. 1",
+          "next_modules": [
+            3451301680
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 850000,
+          "next_ships": null,
+          "module_id": 3452350256,
+          "type": "Suo",
+          "module_id_str": "PGUS803"
+        },
+        "3452710704": {
+          "name": "Z-46 (A)",
+          "next_modules": [
+            3451662128
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1400000,
+          "next_ships": null,
+          "module_id": 3452710704,
+          "type": "Hull",
+          "module_id_str": "PGUH803"
+        },
+        "3453366064": {
+          "name": "G7 Schildbutt",
+          "next_modules": [
+            3452317488
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1300000,
+          "next_ships": null,
+          "module_id": 3453366064,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT802"
+        },
+        "3453857584": {
+          "name": "Propulsion: 70,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1100000,
+          "next_ships": null,
+          "module_id": 3453857584,
+          "type": "Engine",
+          "module_id_str": "PGUE802"
+        },
+        "3453988656": {
+          "name": "128 mm L/45 Drh LC/41",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1000000,
+          "next_ships": null,
+          "module_id": 3453988656,
+          "type": "Artillery",
+          "module_id_str": "PGUA802"
+        }
+      }
+    },
+    {
+      "id": "4180588336",
+      "id_str": "PGSC109",
+      "name": "Roon",
+      "type": "Cruiser",
+      "tier": 9,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC109_7c46eca44e99cb1c0b0c9c8f5fddaa71fc41d5c14d18c65ba5ef55a5c0a92a6b.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSC109_666f96680317518b6eae9f8773ba7bdf2bb4ee66485915ccece3408de3fbeb16.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSC109_be507ee2c9276209a9fc5fbf53c1237f19ca56f4be2a36918b7dfaa86848a981.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSC109_8febf7c7cd900ee4f7e70bdd972588c85038973f6a23fba63677f0da7002ab7b.png"
+      },
+      "modules_tree": {
+        "3444551472": {
+          "name": "203 mm L/60 Drh LC/34",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 21000,
+          "price_credit": 2000000,
+          "next_ships": null,
+          "module_id": 3444551472,
+          "type": "Artillery",
+          "module_id_str": "PGUA811"
+        },
+        "3453398832": {
+          "name": "FKS Typ 9 Mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 25000,
+          "price_credit": 2300000,
+          "next_ships": null,
+          "module_id": 3453398832,
+          "type": "Suo",
+          "module_id_str": "PGUS802"
+        },
+        "3453759280": {
+          "name": "Roon (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 45000,
+          "price_credit": 3400000,
+          "next_ships": [
+            4179539760
+          ],
+          "module_id": 3453759280,
+          "type": "Hull",
+          "module_id_str": "PGUH802"
+        },
+        "3454414640": {
+          "name": "G7a T1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 260000,
+          "next_ships": null,
+          "module_id": 3454414640,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT801"
+        },
+        "3454447408": {
+          "name": "FKS Typ 9 Mod. 1",
+          "next_modules": [
+            3453398832
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1000000,
+          "next_ships": null,
+          "module_id": 3454447408,
+          "type": "Suo",
+          "module_id_str": "PGUS801"
+        },
+        "3454807856": {
+          "name": "Roon (A)",
+          "next_modules": [
+            3453759280
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1300000,
+          "next_ships": null,
+          "module_id": 3454807856,
+          "type": "Hull",
+          "module_id_str": "PGUH801"
+        },
+        "3454906160": {
+          "name": "Propulsion: 155,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 840000,
+          "next_ships": null,
+          "module_id": 3454906160,
+          "type": "Engine",
+          "module_id_str": "PGUE801"
+        },
+        "3455037232": {
+          "name": "203 mm L/60 Drh LC/34",
+          "next_modules": [
+            3444551472
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 900000,
+          "next_ships": null,
+          "module_id": 3455037232,
+          "type": "Artillery",
+          "module_id_str": "PGUA801"
+        }
+      }
+    },
+    {
+      "id": "4180621104",
+      "id_str": "PGSB109",
+      "name": "Friedrich der Große",
+      "type": "Battleship",
+      "tier": 9,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB109_a4c6684ba41bbb922a684ed1055c2163849f4e3cad992e2c7842cb07bd861556.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSB109_282f7166ba9152949c8f07f14fbfbd8ea7bbf0f56c950dcba6f0ea22dfab24b6.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSB109_3df94d6b1a927bb934df817de5041dc6d76672f081680ac764a637817a048875.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSB109_79b808e38cff046947d227a607bfa3db5af7bccdf67e1a741c71b8720b485168.png"
+      },
+      "modules_tree": {
+        "3433017136": {
+          "name": "420 mm L/48 Drh LC/40",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 35000,
+          "price_credit": 2500000,
+          "next_ships": null,
+          "module_id": 3433017136,
+          "type": "Artillery",
+          "module_id_str": "PGUA822"
+        },
+        "3434065712": {
+          "name": "406 mm L/52 Drh C/34",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2000000,
+          "next_ships": null,
+          "module_id": 3434065712,
+          "type": "Artillery",
+          "module_id_str": "PGUA821"
+        },
+        "3442913072": {
+          "name": "FKS Typ 9 Mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 26000,
+          "price_credit": 2600000,
+          "next_ships": null,
+          "module_id": 3442913072,
+          "type": "Suo",
+          "module_id_str": "PGUS812"
+        },
+        "3443273520": {
+          "name": "Friedrich der Große (B)",
+          "next_modules": [
+            3433017136
+          ],
+          "is_default": false,
+          "price_xp": 54000,
+          "price_credit": 5100000,
+          "next_ships": [
+            4179572528
+          ],
+          "module_id": 3443273520,
+          "type": "Hull",
+          "module_id_str": "PGUH812"
+        },
+        "3443371824": {
+          "name": "Propulsion: 165,000 hp",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 20000,
+          "price_credit": 1500000,
+          "next_ships": null,
+          "module_id": 3443371824,
+          "type": "Engine",
+          "module_id_str": "PGUE812"
+        },
+        "3443961648": {
+          "name": "FKS Typ 9 Mod. 1",
+          "next_modules": [
+            3442913072
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1000000,
+          "next_ships": null,
+          "module_id": 3443961648,
+          "type": "Suo",
+          "module_id_str": "PGUS811"
+        },
+        "3444322096": {
+          "name": "Friedrich der Große (A)",
+          "next_modules": [
+            3443273520
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2400000,
+          "next_ships": null,
+          "module_id": 3444322096,
+          "type": "Hull",
+          "module_id_str": "PGUH811"
+        },
+        "3444420400": {
+          "name": "Propulsion: 150,000 hp",
+          "next_modules": [
+            3443371824
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 600000,
+          "next_ships": null,
+          "module_id": 3444420400,
+          "type": "Engine",
+          "module_id_str": "PGUE811"
+        }
+      }
+    },
+    {
+      "id": "4181604144",
+      "id_str": "PGSD108",
+      "name": "Z-23",
+      "type": "Destroyer",
+      "tier": 8,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSD108_bdf17aa0439bd000b558266e8b938f1ddcb78d9d2c514b0c47d3f22819ecce0f.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSD108_230f0ce7e86aca99eb9dc4f515a24d7ca8bd070853947c29ff51731907d82d22.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSD108_1063f2d55aa770b7bfe3f8b12ce14fbaee40778399264cdf707187bbb8577317.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSD108_125a081e25896ce47622f532c7f1baa05d13e27e8d64238bb6cf954435e1618d.png"
+      },
+      "modules_tree": {
+        "3546263344": {
+          "name": "150 mm L/48 Tbts KC/36",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 15000,
+          "price_credit": 1400000,
+          "next_ships": null,
+          "module_id": 3546263344,
+          "type": "Artillery",
+          "module_id_str": "PGUA714"
+        },
+        "3547311920": {
+          "name": "128 mm L/45 LC/34",
+          "next_modules": [
+            3546263344
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 650000,
+          "next_ships": null,
+          "module_id": 3547311920,
+          "type": "Artillery",
+          "module_id_str": "PGUA713"
+        },
+        "3548229424": {
+          "name": "Propulsion: 70,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 635000,
+          "next_ships": null,
+          "module_id": 3548229424,
+          "type": "Engine",
+          "module_id_str": "PGUE712"
+        },
+        "3556126512": {
+          "name": "G7 Schildbutt",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 16000,
+          "price_credit": 1300000,
+          "next_ships": null,
+          "module_id": 3556126512,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT704"
+        },
+        "3556159280": {
+          "name": "FKS Typ 8 Mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 20000,
+          "price_credit": 1400000,
+          "next_ships": null,
+          "module_id": 3556159280,
+          "type": "Suo",
+          "module_id_str": "PGUS704"
+        },
+        "3556519728": {
+          "name": "Z-23 (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 26000,
+          "price_credit": 2200000,
+          "next_ships": [
+            4180555568
+          ],
+          "module_id": 3556519728,
+          "type": "Hull",
+          "module_id_str": "PGUH704"
+        },
+        "3557175088": {
+          "name": "G7 Steinbarsch",
+          "next_modules": [
+            3556126512
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 800000,
+          "next_ships": null,
+          "module_id": 3557175088,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT703"
+        },
+        "3557207856": {
+          "name": "FKS Typ 8 Mod. 1",
+          "next_modules": [
+            3556159280
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 400000,
+          "next_ships": null,
+          "module_id": 3557207856,
+          "type": "Suo",
+          "module_id_str": "PGUS703"
+        },
+        "3557568304": {
+          "name": "Z-23 (A)",
+          "next_modules": [
+            3556519728
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 900000,
+          "next_ships": null,
+          "module_id": 3557568304,
+          "type": "Hull",
+          "module_id_str": "PGUH703"
+        }
+      }
+    },
+    {
+      "id": "4181636912",
+      "id_str": "PGSC108",
+      "name": "Admiral Hipper",
+      "type": "Cruiser",
+      "tier": 8,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC108_dc6b59b5f648bc0dabb4854f50c9e11d0d4f429543c890fb49467f66906e6524.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSC108_37cce5c1d336880391a51b5d94dbfc03a2d51f714ef65672c2454613308f61ad.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSC108_a889c1b80d74cb105cf9a533c60032925a83a9ceadca2f84089e670ba0b1a124.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSC108_783c8bbc427a0055b5aa95fa1e8119b1e6cd9496edfc9682615ae1af099d2257.png"
+      },
+      "modules_tree": {
+        "3536596784": {
+          "name": "Admiral Hipper (C)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 26000,
+          "price_credit": 2000000,
+          "next_ships": [
+            4180588336
+          ],
+          "module_id": 3536596784,
+          "type": "Hull",
+          "module_id_str": "PGUH723"
+        },
+        "3537284912": {
+          "name": "FKS Typ 8 Mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 23000,
+          "price_credit": 1800000,
+          "next_ships": null,
+          "module_id": 3537284912,
+          "type": "Suo",
+          "module_id_str": "PGUS722"
+        },
+        "3537645360": {
+          "name": "Admiral Hipper (B)",
+          "next_modules": [
+            3536596784
+          ],
+          "is_default": false,
+          "price_xp": 22000,
+          "price_credit": 1800000,
+          "next_ships": null,
+          "module_id": 3537645360,
+          "type": "Hull",
+          "module_id_str": "PGUH722"
+        },
+        "3538333488": {
+          "name": "FKS Typ 8 Mod. 1",
+          "next_modules": [
+            3537284912
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 750000,
+          "next_ships": null,
+          "module_id": 3538333488,
+          "type": "Suo",
+          "module_id_str": "PGUS721"
+        },
+        "3538693936": {
+          "name": "Admiral Hipper (A)",
+          "next_modules": [
+            3537645360
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 900000,
+          "next_ships": null,
+          "module_id": 3538693936,
+          "type": "Hull",
+          "module_id_str": "PGUH721"
+        },
+        "3548786480": {
+          "name": "G7a T1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 260000,
+          "next_ships": null,
+          "module_id": 3548786480,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT711"
+        },
+        "3549278000": {
+          "name": "Propulsion: 110,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 600000,
+          "next_ships": null,
+          "module_id": 3549278000,
+          "type": "Engine",
+          "module_id_str": "PGUE711"
+        },
+        "3549409072": {
+          "name": "203 mm L/60 Drh LC/34",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 700000,
+          "next_ships": null,
+          "module_id": 3549409072,
+          "type": "Artillery",
+          "module_id_str": "PGUA711"
+        }
+      }
+    },
+    {
+      "id": "4181669680",
+      "id_str": "PGSB108",
+      "name": "Bismarck",
+      "type": "Battleship",
+      "tier": 8,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB108_9e1ed243aae21ca2487345acf3c5a5701b8cbd4f2e3fa2dad7f64f9865df1885.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSB108_b4093badf0d40f5497ae6fbe6b081260640378a01dc505755a846892e3c7f3f2.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSB108_d8a09e83e4a5e5e21ee4d069fccf16c252d63f967f8e69f804ec908bd99d26c4.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSB108_db4ed1a48a7ee13965ef1ae339cc132fa0f2a6a364e49b90826fd0f456ed45d8.png"
+      },
+      "modules_tree": {
+        "3538923312": {
+          "name": "380 mm L/52 Drh LC/34",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1100000,
+          "next_ships": null,
+          "module_id": 3538923312,
+          "type": "Artillery",
+          "module_id_str": "PGUA721"
+        },
+        "3557666608": {
+          "name": "Propulsion: 163,000 hp",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 15500,
+          "price_credit": 900000,
+          "next_ships": null,
+          "module_id": 3557666608,
+          "type": "Engine",
+          "module_id_str": "PGUE703"
+        },
+        "3558256432": {
+          "name": "FKS Typ 8 Mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 23500,
+          "price_credit": 1500000,
+          "next_ships": null,
+          "module_id": 3558256432,
+          "type": "Suo",
+          "module_id_str": "PGUS702"
+        },
+        "3558616880": {
+          "name": "Bismarck (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 52000,
+          "price_credit": 3900000,
+          "next_ships": [
+            4180621104
+          ],
+          "module_id": 3558616880,
+          "type": "Hull",
+          "module_id_str": "PGUH702"
+        },
+        "3559305008": {
+          "name": "FKS Typ 8 Mod. 1",
+          "next_modules": [
+            3558256432
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 600000,
+          "next_ships": null,
+          "module_id": 3559305008,
+          "type": "Suo",
+          "module_id_str": "PGUS701"
+        },
+        "3559665456": {
+          "name": "Bismarck (A)",
+          "next_modules": [
+            3558616880
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1650000,
+          "next_ships": null,
+          "module_id": 3559665456,
+          "type": "Hull",
+          "module_id_str": "PGUH701"
+        },
+        "3559763760": {
+          "name": "Propulsion: 150,100 hp",
+          "next_modules": [
+            3557666608
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 380000,
+          "next_ships": null,
+          "module_id": 3559763760,
+          "type": "Engine",
+          "module_id_str": "PGUE701"
+        }
+      }
+    },
+    {
+      "id": "4182652720",
+      "id_str": "PGSD107",
+      "name": "Leberecht Maass",
+      "type": "Destroyer",
+      "tier": 7,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSD107_b238d268b8b682dcda19fac084ef4f1dbc31eaeb826b8045d728f89d577b4bff.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSD107_ef759c6cd96aaef7e68f2cc43cdb116cde994055b468316b7d7a60d50f7eda62.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSD107_e2b06218f25b46773fdee924bac35eb2377aff8755e364123405ded6519673df.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSD107_287b44574b7b5fe3354cbc7f988dd3aeeaa744ffc616c110eba53ca7bab6d41a.png"
+      },
+      "modules_tree": {
+        "3660984112": {
+          "name": "G7 Steinbarsch",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 10000,
+          "price_credit": 800000,
+          "next_ships": null,
+          "module_id": 3660984112,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT604"
+        },
+        "3661016880": {
+          "name": "FKS Typ 7 Mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 12000,
+          "price_credit": 1000000,
+          "next_ships": null,
+          "module_id": 3661016880,
+          "type": "Suo",
+          "module_id_str": "PGUS604"
+        },
+        "3661377328": {
+          "name": "Leberecht Maass (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 18500,
+          "price_credit": 1400000,
+          "next_ships": [
+            4181604144
+          ],
+          "module_id": 3661377328,
+          "type": "Hull",
+          "module_id_str": "PGUH604"
+        },
+        "3662032688": {
+          "name": "G7 Steinbutt",
+          "next_modules": [
+            3660984112
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 430000,
+          "next_ships": null,
+          "module_id": 3662032688,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT603"
+        },
+        "3662065456": {
+          "name": "FKS Typ 7 Mod. 1",
+          "next_modules": [
+            3661016880
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 350000,
+          "next_ships": null,
+          "module_id": 3662065456,
+          "type": "Suo",
+          "module_id_str": "PGUS603"
+        },
+        "3662425904": {
+          "name": "Leberecht Maass (A)",
+          "next_modules": [
+            3661377328
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 600000,
+          "next_ships": null,
+          "module_id": 3662425904,
+          "type": "Hull",
+          "module_id_str": "PGUH603"
+        },
+        "3663572784": {
+          "name": "Propulsion: 70,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 405000,
+          "next_ships": null,
+          "module_id": 3663572784,
+          "type": "Engine",
+          "module_id_str": "PGUE602"
+        },
+        "3663703856": {
+          "name": "128 mm L/45 LC/34",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 420000,
+          "next_ships": null,
+          "module_id": 3663703856,
+          "type": "Artillery",
+          "module_id_str": "PGUA602"
+        }
+      }
+    },
+    {
+      "id": "4182685488",
+      "id_str": "PGSC107",
+      "name": "Yorck",
+      "type": "Cruiser",
+      "tier": 7,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC107_66822a0b94d76dc69a836a4dde6d4851f873d6a5003fc1dc002fa3e85ba0afc1.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSC107_e48cd31fd3d333a2ca9d8c85401522870298b4d052f7f0b820dce10f29c2612b.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSC107_079b038c971c3089700fb11dbab7b2881e1ad8c0233ab44b22c4c1d57d9de42f.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSC107_d6442219a3d72be166cfc32bb4d5a1507d7b36c5a9c96f10d9492e7234643a40.png"
+      },
+      "modules_tree": {
+        "3663114032": {
+          "name": "FKS Typ 7 Mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 14000,
+          "price_credit": 1100000,
+          "next_ships": null,
+          "module_id": 3663114032,
+          "type": "Suo",
+          "module_id_str": "PGUS602"
+        },
+        "3663474480": {
+          "name": "Yorck (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 21500,
+          "price_credit": 1800000,
+          "next_ships": [
+            4181636912
+          ],
+          "module_id": 3663474480,
+          "type": "Hull",
+          "module_id_str": "PGUH602"
+        },
+        "3664129840": {
+          "name": "G7a T1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 260000,
+          "next_ships": null,
+          "module_id": 3664129840,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT601"
+        },
+        "3664162608": {
+          "name": "FKS Typ 7 Mod. 1",
+          "next_modules": [
+            3663114032
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 380000,
+          "next_ships": null,
+          "module_id": 3664162608,
+          "type": "Suo",
+          "module_id_str": "PGUS601"
+        },
+        "3664523056": {
+          "name": "Yorck (A)",
+          "next_modules": [
+            3663474480
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 630000,
+          "next_ships": null,
+          "module_id": 3664523056,
+          "type": "Hull",
+          "module_id_str": "PGUH601"
+        },
+        "3664621360": {
+          "name": "Propulsion: 80,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 330000,
+          "next_ships": null,
+          "module_id": 3664621360,
+          "type": "Engine",
+          "module_id_str": "PGUE601"
+        },
+        "3664752432": {
+          "name": "210 mm L/45 Drl C/06",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 410000,
+          "next_ships": null,
+          "module_id": 3664752432,
+          "type": "Artillery",
+          "module_id_str": "PGUA601"
+        }
+      }
+    },
+    {
+      "id": "4182718256",
+      "id_str": "PGSB107",
+      "name": "Gneisenau",
+      "type": "Battleship",
+      "tier": 7,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB107_d40dddfed38d402024b9c438bcd1999dccf85f2766e6c88ea29044e1f020a285.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSB107_b65091229f4607938439851b6d08daea24a43dd9e7d92b5680f79642bc3f0dba.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSB107_99da80537188d5f981aaa2ed2e696bcfe5a2d8cef4f61927a39946806ff3db19.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSB107_75cd159d6836452e5b2e80fb54ab8c2ee9aa03795a37060cb9632358072a6199.png"
+      },
+      "modules_tree": {
+        "3652628272": {
+          "name": "FKS Typ 7 Mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 12000,
+          "price_credit": 800000,
+          "next_ships": null,
+          "module_id": 3652628272,
+          "type": "Suo",
+          "module_id_str": "PGUS612"
+        },
+        "3652988720": {
+          "name": "Gneisenau (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 24000,
+          "price_credit": 1350000,
+          "next_ships": [
+            4181669680
+          ],
+          "module_id": 3652988720,
+          "type": "Hull",
+          "module_id_str": "PGUH612"
+        },
+        "3653087024": {
+          "name": "Propulsion: 160,000 hp",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 8000,
+          "price_credit": 650000,
+          "next_ships": null,
+          "module_id": 3653087024,
+          "type": "Engine",
+          "module_id_str": "PGUE612"
+        },
+        "3653676848": {
+          "name": "FKS Typ 7 Mod. 1",
+          "next_modules": [
+            3652628272
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 360000,
+          "next_ships": null,
+          "module_id": 3653676848,
+          "type": "Suo",
+          "module_id_str": "PGUS611"
+        },
+        "3654037296": {
+          "name": "Gneisenau (A)",
+          "next_modules": [
+            3652988720
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 620000,
+          "next_ships": null,
+          "module_id": 3654037296,
+          "type": "Hull",
+          "module_id_str": "PGUH611"
+        },
+        "3654135600": {
+          "name": "Propulsion: 125,000 hp",
+          "next_modules": [
+            3653087024
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 300000,
+          "next_ships": null,
+          "module_id": 3654135600,
+          "type": "Engine",
+          "module_id_str": "PGUE611"
+        },
+        "3654266672": {
+          "name": "380 mm L/52 Drh LC/34",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 520000,
+          "next_ships": null,
+          "module_id": 3654266672,
+          "type": "Artillery",
+          "module_id_str": "PGUA611"
+        },
+        "3663081264": {
+          "name": "G7a T1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 260000,
+          "next_ships": null,
+          "module_id": 3663081264,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT602"
+        }
+      }
+    },
+    {
+      "id": "4183701296",
+      "id_str": "PGSD106",
+      "name": "Ernst Gaede",
+      "type": "Destroyer",
+      "tier": 6,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSD106_e6af2fb755c921e56af3dbe8759ff96ff9a06af0c74ffdc73c3ce163b51c67c1.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSD106_df054321ae1751c1d95fc566a66b214849299200d2df1e10e540fd45d0db939b.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSD106_d9d970cfce4daaaa13198a23802f277e159348edb37e5048e1c3c2c2ab13f217.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSD106_9c6e251590bae147a7cca0eee01af2083315bfb46bcd3135cb7baa0183003480.png"
+      },
+      "modules_tree": {
+        "3765186352": {
+          "name": "Ernst Gaede (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 10700,
+          "price_credit": 760000,
+          "next_ships": [
+            4182652720
+          ],
+          "module_id": 3765186352,
+          "type": "Hull",
+          "module_id_str": "PGUH505"
+        },
+        "3765874480": {
+          "name": "FKS Typ 6 Mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 6100,
+          "price_credit": 530000,
+          "next_ships": null,
+          "module_id": 3765874480,
+          "type": "Suo",
+          "module_id_str": "PGUS504"
+        },
+        "3766234928": {
+          "name": "Ernst Gaede (A)",
+          "next_modules": [
+            3765186352
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 300000,
+          "next_ships": null,
+          "module_id": 3766234928,
+          "type": "Hull",
+          "module_id_str": "PGUH504"
+        },
+        "3766464304": {
+          "name": "150 mm L/48 Tbts KC/36",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 6000,
+          "price_credit": 600000,
+          "next_ships": null,
+          "module_id": 3766464304,
+          "type": "Artillery",
+          "module_id_str": "PGUA504"
+        },
+        "3766890288": {
+          "name": "G7 Steinbutt",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 5000,
+          "price_credit": 430000,
+          "next_ships": null,
+          "module_id": 3766890288,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT503"
+        },
+        "3766923056": {
+          "name": "FKS Typ 6 Mod. 1",
+          "next_modules": [
+            3765874480
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 200000,
+          "next_ships": null,
+          "module_id": 3766923056,
+          "type": "Suo",
+          "module_id_str": "PGUS503"
+        },
+        "3767512880": {
+          "name": "128 mm L/45 LC/34",
+          "next_modules": [
+            3766464304
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 200000,
+          "next_ships": null,
+          "module_id": 3767512880,
+          "type": "Artillery",
+          "module_id_str": "PGUA503"
+        },
+        "3767938864": {
+          "name": "G7a T1",
+          "next_modules": [
+            3766890288
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 260000,
+          "next_ships": null,
+          "module_id": 3767938864,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT502"
+        },
+        "3768430384": {
+          "name": "Propulsion: 80,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 165000,
+          "next_ships": null,
+          "module_id": 3768430384,
+          "type": "Engine",
+          "module_id_str": "PGUE502"
+        }
+      }
+    },
+    {
+      "id": "4183734064",
+      "id_str": "PGSC106",
+      "name": "Nürnberg",
+      "type": "Cruiser",
+      "tier": 6,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC106_d8710dbe24d48e935adff6eb41a193491251d1af7a1248d7e4c4fcb7aecc6090.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSC106_5b114dff6dd86affa7ba7a85e90561162c4c3cfcb401a1b50f358395533808b4.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSC106_81e2d47e0a567656f0263d49009a4ea1b4a60e1aa4ff06a09bf7efadf4741fdc.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSC106_65ffd4380215b7eb32bbf699f68e0eb78a57cdbd9936245739576c5f3d5fb312.png"
+      },
+      "modules_tree": {
+        "3767283504": {
+          "name": "Nürnberg (C)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 12000,
+          "price_credit": 1000000,
+          "next_ships": null,
+          "module_id": 3767283504,
+          "type": "Hull",
+          "module_id_str": "PGUH503"
+        },
+        "3767971632": {
+          "name": "FKS Typ 6 Mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 8000,
+          "price_credit": 670000,
+          "next_ships": null,
+          "module_id": 3767971632,
+          "type": "Suo",
+          "module_id_str": "PGUS502"
+        },
+        "3768332080": {
+          "name": "Nürnberg (B)",
+          "next_modules": [
+            3767283504
+          ],
+          "is_default": false,
+          "price_xp": 9000,
+          "price_credit": 700000,
+          "next_ships": [
+            4182685488
+          ],
+          "module_id": 3768332080,
+          "type": "Hull",
+          "module_id_str": "PGUH502"
+        },
+        "3768987440": {
+          "name": "G7a T1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 260000,
+          "next_ships": null,
+          "module_id": 3768987440,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT501"
+        },
+        "3769020208": {
+          "name": "FKS Typ 6 Mod. 1",
+          "next_modules": [
+            3767971632
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 210000,
+          "next_ships": null,
+          "module_id": 3769020208,
+          "type": "Suo",
+          "module_id_str": "PGUS501"
+        },
+        "3769380656": {
+          "name": "Nürnberg (A)",
+          "next_modules": [
+            3768332080
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 345000,
+          "next_ships": null,
+          "module_id": 3769380656,
+          "type": "Hull",
+          "module_id_str": "PGUH501"
+        },
+        "3769478960": {
+          "name": "Propulsion: 60,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 180000,
+          "next_ships": null,
+          "module_id": 3769478960,
+          "type": "Engine",
+          "module_id_str": "PGUE501"
+        },
+        "3769610032": {
+          "name": "150 mm L/60 Drh Tr C/28",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 215000,
+          "next_ships": null,
+          "module_id": 3769610032,
+          "type": "Artillery",
+          "module_id_str": "PGUA501"
+        }
+      }
+    },
+    {
+      "id": "4183766832",
+      "id_str": "PGSB106",
+      "name": "Bayern",
+      "type": "Battleship",
+      "tier": 6,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB106_e44780fcd179d6c2ca875ae7d167182a32202a4a1e21c8e61dcef90fcec2e0ee.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSB106_f8a54eadfc057821edf5a5c9a77204385d3aa996ecd182ea078b63035b05279c.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSB106_99153cd4cfad122ffa9173940d70a79f6257020621dce9ad20eebc6de1539bc7.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSB106_2af0fed5b1eff93700dea3f33781f07b28b99fda385da188622b27fea4442a10.png"
+      },
+      "modules_tree": {
+        "3757485872": {
+          "name": "FKS Typ 6 Mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 9000,
+          "price_credit": 700000,
+          "next_ships": null,
+          "module_id": 3757485872,
+          "type": "Suo",
+          "module_id_str": "PGUS512"
+        },
+        "3757846320": {
+          "name": "Bayern (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 16500,
+          "price_credit": 1000000,
+          "next_ships": [
+            4182718256
+          ],
+          "module_id": 3757846320,
+          "type": "Hull",
+          "module_id_str": "PGUH512"
+        },
+        "3757944624": {
+          "name": "Propulsion: 75,000 hp",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 5000,
+          "price_credit": 300000,
+          "next_ships": null,
+          "module_id": 3757944624,
+          "type": "Engine",
+          "module_id_str": "PGUE512"
+        },
+        "3758534448": {
+          "name": "FKS Typ 6 Mod. 1",
+          "next_modules": [
+            3757485872
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 300000,
+          "next_ships": null,
+          "module_id": 3758534448,
+          "type": "Suo",
+          "module_id_str": "PGUS511"
+        },
+        "3758894896": {
+          "name": "Bayern (A)",
+          "next_modules": [
+            3757846320
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 440000,
+          "next_ships": null,
+          "module_id": 3758894896,
+          "type": "Hull",
+          "module_id_str": "PGUH511"
+        },
+        "3758993200": {
+          "name": "Propulsion: 54,800 hp",
+          "next_modules": [
+            3757944624
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 130000,
+          "next_ships": null,
+          "module_id": 3758993200,
+          "type": "Engine",
+          "module_id_str": "PGUE511"
+        },
+        "3759124272": {
+          "name": "380 mm L/45 Drh LC/1913",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 320000,
+          "next_ships": null,
+          "module_id": 3759124272,
+          "type": "Artillery",
+          "module_id_str": "PGUA511"
+        }
+      }
+    },
+    {
+      "id": "4184749872",
+      "id_str": "PGSD105",
+      "name": "T-22",
+      "type": "Destroyer",
+      "tier": 5,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSD105_0dbd8297e68c5ff53bdede55155ea6fb3ed8d023c115b9400e31ef2095a0e8d4.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSD105_b585b28926fb320b7b6693166bc34a57550a379296dcf7dcb32f87ab94a9eafb.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSD105_0175b4a35f86ea0bf0cb2df4a8cc2d8487e0cc3f8b0e612562b3b2a83ebd3383.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSD105_307a02088206e9b255a910e8bc2b035e6cef2be37ef897b0e70517acbc89346e.png"
+      },
+      "modules_tree": {
+        "3870732080": {
+          "name": "FKS Typ 5 Mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 3400,
+          "price_credit": 310000,
+          "next_ships": null,
+          "module_id": 3870732080,
+          "type": "Suo",
+          "module_id_str": "PGUS404"
+        },
+        "3871092528": {
+          "name": "T-22 (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 5000,
+          "price_credit": 470000,
+          "next_ships": [
+            4183701296
+          ],
+          "module_id": 3871092528,
+          "type": "Hull",
+          "module_id_str": "PGUH404"
+        },
+        "3871747888": {
+          "name": "G7a T1",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 2800,
+          "price_credit": 260000,
+          "next_ships": null,
+          "module_id": 3871747888,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT403"
+        },
+        "3871780656": {
+          "name": "FKS Typ 5 Mod. 1",
+          "next_modules": [
+            3870732080
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 110000,
+          "next_ships": null,
+          "module_id": 3871780656,
+          "type": "Suo",
+          "module_id_str": "PGUS403"
+        },
+        "3872141104": {
+          "name": "T-22 (A)",
+          "next_modules": [
+            3871092528
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 160000,
+          "next_ships": null,
+          "module_id": 3872141104,
+          "type": "Hull",
+          "module_id_str": "PGUH403"
+        },
+        "3872796464": {
+          "name": "G7 Klippfisch",
+          "next_modules": [
+            3871747888
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 100000,
+          "next_ships": null,
+          "module_id": 3872796464,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT402"
+        },
+        "3873287984": {
+          "name": "Propulsion: 32,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 125000,
+          "next_ships": null,
+          "module_id": 3873287984,
+          "type": "Engine",
+          "module_id_str": "PGUE402"
+        },
+        "3873419056": {
+          "name": "105 mm L/45 MPL C/32ge",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 100000,
+          "next_ships": null,
+          "module_id": 3873419056,
+          "type": "Artillery",
+          "module_id_str": "PGUA402"
+        }
+      }
+    },
+    {
+      "id": "4184782640",
+      "id_str": "PGSC105",
+      "name": "Königsberg",
+      "type": "Cruiser",
+      "tier": 5,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC105_174fb3aaf7e110a67c49bfa00996f345abf8b2ca1e8f9bbdcf117cbc786366e7.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSC105_5a7b8b095214a8d4ee696f05600acf15fdc2487b6de9c93dbc77885bb5423091.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSC105_59e55904266f1bc08a0116dd7f7654b02155614b06dd7ae4805f4178c38e0393.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSC105_fdb5a6bc3e5b13210cdd8e9ed2d7e3696df77db5201d34160d75782dfb6203c4.png"
+      },
+      "modules_tree": {
+        "3872829232": {
+          "name": "FKS Typ 5 Mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 4000,
+          "price_credit": 380000,
+          "next_ships": null,
+          "module_id": 3872829232,
+          "type": "Suo",
+          "module_id_str": "PGUS402"
+        },
+        "3873189680": {
+          "name": "Königsberg (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 7200,
+          "price_credit": 600000,
+          "next_ships": [
+            4183734064
+          ],
+          "module_id": 3873189680,
+          "type": "Hull",
+          "module_id_str": "PGUH402"
+        },
+        "3873845040": {
+          "name": "G7a T1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 260000,
+          "next_ships": null,
+          "module_id": 3873845040,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT401"
+        },
+        "3873877808": {
+          "name": "FKS Typ 5 Mod. 1",
+          "next_modules": [
+            3872829232
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 105000,
+          "next_ships": null,
+          "module_id": 3873877808,
+          "type": "Suo",
+          "module_id_str": "PGUS401"
+        },
+        "3874238256": {
+          "name": "Königsberg (A)",
+          "next_modules": [
+            3873189680
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 165000,
+          "next_ships": null,
+          "module_id": 3874238256,
+          "type": "Hull",
+          "module_id_str": "PGUH401"
+        },
+        "3874336560": {
+          "name": "Propulsion: 68,200 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 82000,
+          "next_ships": null,
+          "module_id": 3874336560,
+          "type": "Engine",
+          "module_id_str": "PGUE401"
+        },
+        "3874467632": {
+          "name": "150 mm L/60 Drh Tr C/25",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 105000,
+          "next_ships": null,
+          "module_id": 3874467632,
+          "type": "Artillery",
+          "module_id_str": "PGUA401"
+        }
+      }
+    },
+    {
+      "id": "4184815408",
+      "id_str": "PGSB105",
+      "name": "König",
+      "type": "Battleship",
+      "tier": 5,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB105_4910e9f204fe1fd41318f81f5b82af0dfd24d14662b132dff1656c41a2488f78.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSB105_b631f61ed9ecbfc5bf82466a6e9cabca935c33ed0510f53bd9672be87596e70e.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSB105_6060dfd43083bde77fadcf9d5934b556063e7fb3d95dbff5783c4d951101282d.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSB105_0da3468fdbc11c21a7ed1871e3bbf447a2bfcbb6a581b846382ad57607782c6b.png"
+      },
+      "modules_tree": {
+        "3861655344": {
+          "name": "König (C)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 5400,
+          "price_credit": 480000,
+          "next_ships": [
+            4183766832
+          ],
+          "module_id": 3861655344,
+          "type": "Hull",
+          "module_id_str": "PGUH413"
+        },
+        "3862343472": {
+          "name": "FKS Typ 5 Mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 3700,
+          "price_credit": 240000,
+          "next_ships": null,
+          "module_id": 3862343472,
+          "type": "Suo",
+          "module_id_str": "PGUS412"
+        },
+        "3862703920": {
+          "name": "König (B)",
+          "next_modules": [
+            3861655344
+          ],
+          "is_default": false,
+          "price_xp": 4100,
+          "price_credit": 400000,
+          "next_ships": null,
+          "module_id": 3862703920,
+          "type": "Hull",
+          "module_id_str": "PGUH412"
+        },
+        "3862802224": {
+          "name": "Propulsion: 63,000 hp",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 2700,
+          "price_credit": 240000,
+          "next_ships": null,
+          "module_id": 3862802224,
+          "type": "Engine",
+          "module_id_str": "PGUE412"
+        },
+        "3863392048": {
+          "name": "FKS Typ 5 Mod. 1",
+          "next_modules": [
+            3862343472
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 64000,
+          "next_ships": null,
+          "module_id": 3863392048,
+          "type": "Suo",
+          "module_id_str": "PGUS411"
+        },
+        "3863752496": {
+          "name": "König (A)",
+          "next_modules": [
+            3862703920
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 190000,
+          "next_ships": null,
+          "module_id": 3863752496,
+          "type": "Hull",
+          "module_id_str": "PGUH411"
+        },
+        "3863850800": {
+          "name": "Propulsion: 46,200 hp",
+          "next_modules": [
+            3862802224
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 84000,
+          "next_ships": null,
+          "module_id": 3863850800,
+          "type": "Engine",
+          "module_id_str": "PGUE411"
+        },
+        "3863981872": {
+          "name": "305 mm L/50 Drh LC/1911",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 178000,
+          "next_ships": null,
+          "module_id": 3863981872,
+          "type": "Artillery",
+          "module_id_str": "PGUA411"
+        }
+      }
+    },
+    {
+      "id": "4185798448",
+      "id_str": "PGSD104",
+      "name": "V-170",
+      "type": "Destroyer",
+      "tier": 4,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSD104_1881fe953a9d2c7d99d0700aa3ceb47f40d62ca54d3ad45ac95030e3b79b3863.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSD104_380a46a46710355960562483128eff0348de34d12caec28ff566e8453fb658ab.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSD104_31d230ed9b90e662e11b7d71869ec162b5c3344fa3093f28468af20461ddf465.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSD104_9b20aa2f702011b8b76ce79794339af03a1d09f0f0fec5068dabf9659f557238.png"
+      },
+      "modules_tree": {
+        "3975556912": {
+          "name": "G7",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 850,
+          "price_credit": 125000,
+          "next_ships": null,
+          "module_id": 3975556912,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT304"
+        },
+        "3975589680": {
+          "name": "FKS Typ 4 Mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 1000,
+          "price_credit": 150000,
+          "next_ships": null,
+          "module_id": 3975589680,
+          "type": "Suo",
+          "module_id_str": "PGUS304"
+        },
+        "3975950128": {
+          "name": "V-170 (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 1500,
+          "price_credit": 230000,
+          "next_ships": [
+            4184749872
+          ],
+          "module_id": 3975950128,
+          "type": "Hull",
+          "module_id_str": "PGUH304"
+        },
+        "3976605488": {
+          "name": "G/6D",
+          "next_modules": [
+            3975556912
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 50000,
+          "next_ships": null,
+          "module_id": 3976605488,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT303"
+        },
+        "3976638256": {
+          "name": "FKS Typ 4 Mod. 1",
+          "next_modules": [
+            3975589680
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 66000,
+          "next_ships": null,
+          "module_id": 3976638256,
+          "type": "Suo",
+          "module_id_str": "PGUS303"
+        },
+        "3976998704": {
+          "name": "V-170 (A)",
+          "next_modules": [
+            3975950128
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 90000,
+          "next_ships": null,
+          "module_id": 3976998704,
+          "type": "Hull",
+          "module_id_str": "PGUH303"
+        },
+        "3978145584": {
+          "name": "Propulsion: 34,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 52000,
+          "next_ships": null,
+          "module_id": 3978145584,
+          "type": "Engine",
+          "module_id_str": "PGUE302"
+        },
+        "3978276656": {
+          "name": "105 mm L/45 Tbts LC/16",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 50000,
+          "next_ships": null,
+          "module_id": 3978276656,
+          "type": "Artillery",
+          "module_id_str": "PGUA302"
+        }
+      }
+    },
+    {
+      "id": "4185831216",
+      "id_str": "PGSC104",
+      "name": "Karlsruhe",
+      "type": "Cruiser",
+      "tier": 4,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC104_f19a56ce3041cbf965fdbeb2259ee92a683832bdb74d2644fb230194c07a8bcc.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSC104_6d7937aa01a487db6e74e67fd067538c36386073ec55c10d2dd83436f523a2e8.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSC104_15b099ad8fe38892713d8bc3fdbe6a0671e0b04aff06d91c8411aec5ecb5b93d.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSC104_d4440f4e0986e97b9907a45b7eafacdf342fea409fa82670bd4fa151f794db33.png"
+      },
+      "modules_tree": {
+        "3977654064": {
+          "name": "G7",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 30000,
+          "next_ships": null,
+          "module_id": 3977654064,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT302"
+        },
+        "3977686832": {
+          "name": "FKS Typ 4 Mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 1200,
+          "price_credit": 175000,
+          "next_ships": null,
+          "module_id": 3977686832,
+          "type": "Suo",
+          "module_id_str": "PGUS302"
+        },
+        "3978047280": {
+          "name": "Karlsruhe (B)",
+          "next_modules": [
+            3978702640
+          ],
+          "is_default": false,
+          "price_xp": 1900,
+          "price_credit": 280000,
+          "next_ships": [
+            4184782640
+          ],
+          "module_id": 3978047280,
+          "type": "Hull",
+          "module_id_str": "PGUH302"
+        },
+        "3978702640": {
+          "name": "H8",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 600,
+          "price_credit": 100000,
+          "next_ships": null,
+          "module_id": 3978702640,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT301"
+        },
+        "3978735408": {
+          "name": "FKS Typ 4 Mod. 1",
+          "next_modules": [
+            3977686832
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 56000,
+          "next_ships": null,
+          "module_id": 3978735408,
+          "type": "Suo",
+          "module_id_str": "PGUS301"
+        },
+        "3979095856": {
+          "name": "Karlsruhe (A)",
+          "next_modules": [
+            3978047280
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 90000,
+          "next_ships": null,
+          "module_id": 3979095856,
+          "type": "Hull",
+          "module_id_str": "PGUH301"
+        },
+        "3979194160": {
+          "name": "Propulsion: 45,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 39000,
+          "next_ships": null,
+          "module_id": 3979194160,
+          "type": "Engine",
+          "module_id_str": "PGUE301"
+        },
+        "3979325232": {
+          "name": "150 mm L/45 MPL C/16",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 48000,
+          "next_ships": null,
+          "module_id": 3979325232,
+          "type": "Artillery",
+          "module_id_str": "PGUA301"
+        }
+      }
+    },
+    {
+      "id": "4185863984",
+      "id_str": "PGSB104",
+      "name": "Kaiser",
+      "type": "Battleship",
+      "tier": 4,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB104_bfd77b36af9570ac04c6b75e3a958e52438e108502f5e7f9c601763e02966a32.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSB104_f8fcf432ee7564ab12f22d9257c6007e842fd9e76fb47843a12c64cece3bf006.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSB104_6ac872116ea67ce6380014afb7947b449c4c8fb33adcc6bcb43c230431ea2ccd.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSB104_1cd27c3e02a620e72c21162669e3c48ea32f9511e7d30b24d22235be0d158f9c.png"
+      },
+      "modules_tree": {
+        "3967201072": {
+          "name": "FKS Typ 4 Mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 1300,
+          "price_credit": 180000,
+          "next_ships": null,
+          "module_id": 3967201072,
+          "type": "Suo",
+          "module_id_str": "PGUS312"
+        },
+        "3967561520": {
+          "name": "Kaiser (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 2000,
+          "price_credit": 280000,
+          "next_ships": [
+            4184815408
+          ],
+          "module_id": 3967561520,
+          "type": "Hull",
+          "module_id_str": "PGUH312"
+        },
+        "3967659824": {
+          "name": "Propulsion: 57,000 hp",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 900,
+          "price_credit": 90000,
+          "next_ships": null,
+          "module_id": 3967659824,
+          "type": "Engine",
+          "module_id_str": "PGUE312"
+        },
+        "3968249648": {
+          "name": "FKS Typ 4 Mod. 1",
+          "next_modules": [
+            3967201072
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 40000,
+          "next_ships": null,
+          "module_id": 3968249648,
+          "type": "Suo",
+          "module_id_str": "PGUS311"
+        },
+        "3968610096": {
+          "name": "Kaiser (A)",
+          "next_modules": [
+            3967561520
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 128000,
+          "next_ships": null,
+          "module_id": 3968610096,
+          "type": "Hull",
+          "module_id_str": "PGUH311"
+        },
+        "3968708400": {
+          "name": "Propulsion: 55,180 hp",
+          "next_modules": [
+            3967659824
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 30000,
+          "next_ships": null,
+          "module_id": 3968708400,
+          "type": "Engine",
+          "module_id_str": "PGUE311"
+        },
+        "3968839472": {
+          "name": "305 mm L/50 Drh LC/1909",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 94000,
+          "next_ships": null,
+          "module_id": 3968839472,
+          "type": "Artillery",
+          "module_id_str": "PGUA311"
+        }
+      }
+    },
+    {
+      "id": "4186847024",
+      "id_str": "PGSD103",
+      "name": "G-101",
+      "type": "Destroyer",
+      "tier": 3,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSD103_c7128beea81bb83db391af8a6ab9ed7ce65629cb05d468420ded858816556eaf.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSD103_eb28ed5034e69bef72c8b9a9fbe76b51a825f4155b667d05b929166e7e2a9d07.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSD103_0790eb9a668db0c581f89787f6ff3ecd062c1096f96c481c63de2c6db779c23d.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSD103_0c2a1d7e36f0abce2fbdc69ba8fba41f22141c512fe86b9a75953a152bfba080.png"
+      },
+      "modules_tree": {
+        "4080447280": {
+          "name": "FKS Typ 3 Mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 500,
+          "price_credit": 64000,
+          "next_ships": null,
+          "module_id": 4080447280,
+          "type": "Suo",
+          "module_id_str": "PGUS204"
+        },
+        "4080807728": {
+          "name": "G-101 (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 700,
+          "price_credit": 96000,
+          "next_ships": [
+            4185798448
+          ],
+          "module_id": 4080807728,
+          "type": "Hull",
+          "module_id_str": "PGUH204"
+        },
+        "4081495856": {
+          "name": "FKS Typ 3 Mod. 1",
+          "next_modules": [
+            4080447280
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 22500,
+          "next_ships": null,
+          "module_id": 4081495856,
+          "type": "Suo",
+          "module_id_str": "PGUS203"
+        },
+        "4081856304": {
+          "name": "G-101 (A)",
+          "next_modules": [
+            4080807728
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 37500,
+          "next_ships": null,
+          "module_id": 4081856304,
+          "type": "Hull",
+          "module_id_str": "PGUH203"
+        },
+        "4082511664": {
+          "name": "G/6D",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 400,
+          "price_credit": 50000,
+          "next_ships": null,
+          "module_id": 4082511664,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT202"
+        },
+        "4083003184": {
+          "name": "Propulsion: 28,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 23000,
+          "next_ships": null,
+          "module_id": 4083003184,
+          "type": "Engine",
+          "module_id_str": "PGUE202"
+        },
+        "4083134256": {
+          "name": "105 mm L/45 Tbts LC/16",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 24000,
+          "next_ships": null,
+          "module_id": 4083134256,
+          "type": "Artillery",
+          "module_id_str": "PGUA202"
+        },
+        "4083560240": {
+          "name": "G/6 AV**",
+          "next_modules": [
+            4082511664
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 14000,
+          "next_ships": null,
+          "module_id": 4083560240,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT201"
+        }
+      }
+    },
+    {
+      "id": "4186879792",
+      "id_str": "PGSC103",
+      "name": "Kolberg",
+      "type": "Cruiser",
+      "tier": 3,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC103_9bd72e63e422417406b041ffdc25fccaf50d739d6a51ba8bffd6284672639fb9.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSC103_a6e5572ad42d9c607a17623864cdb0ab5034489b3392bfde7e1e5e8068c50703.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSC103_cba6a0fbd13eb82d00f33ba715ef8cd39431c1a3e3c61bbca1b2323f2dbd32b2.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSC103_2c7461de681ccc13b95d86f3b2249b8a71f351d853a282d8bbcf23870f4b3d63.png"
+      },
+      "modules_tree": {
+        "4082544432": {
+          "name": "FKS Typ 3 Mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 650,
+          "price_credit": 74000,
+          "next_ships": null,
+          "module_id": 4082544432,
+          "type": "Suo",
+          "module_id_str": "PGUS202"
+        },
+        "4082904880": {
+          "name": "Kolberg (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 950,
+          "price_credit": 118000,
+          "next_ships": [
+            4185831216
+          ],
+          "module_id": 4082904880,
+          "type": "Hull",
+          "module_id_str": "PGUH202"
+        },
+        "4083593008": {
+          "name": "FKS Typ 3 Mod. 1",
+          "next_modules": [
+            4082544432
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 24000,
+          "next_ships": null,
+          "module_id": 4083593008,
+          "type": "Suo",
+          "module_id_str": "PGUS201"
+        },
+        "4083953456": {
+          "name": "Kolberg (A)",
+          "next_modules": [
+            4082904880
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 44000,
+          "next_ships": null,
+          "module_id": 4083953456,
+          "type": "Hull",
+          "module_id_str": "PGUH201"
+        },
+        "4084051760": {
+          "name": "Propulsion: 31,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 15000,
+          "next_ships": null,
+          "module_id": 4084051760,
+          "type": "Engine",
+          "module_id_str": "PGUE201"
+        },
+        "4084182832": {
+          "name": "105 mm L/45 MPL C/06",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 20000,
+          "next_ships": [
+            4186912560
+          ],
+          "module_id": 4084182832,
+          "type": "Artillery",
+          "module_id_str": "PGUA201"
+        }
+      }
+    },
+    {
+      "id": "4186912560",
+      "id_str": "PGSB103",
+      "name": "Nassau",
+      "type": "Battleship",
+      "tier": 3,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB103_73dcd3cc1f269a765bc5300e3c9cfbff9a98b6178149152428e513b99243a2f2.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSB103_990ebec9e0c080205a649b750d1ba864c31df8323fe0c56042cc90f3e9fdd2dc.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSB103_f46c29a59d702becaaf20a7c0d21e249ded24c76e65646b0e15736da24143393.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSB103_ca693d6ecbc033d18053225906db12b271a8fbbfa5f3769fa0af1b0d5ae9768f.png"
+      },
+      "modules_tree": {
+        "4072058672": {
+          "name": "FKS Typ 3 Mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 800,
+          "price_credit": 80000,
+          "next_ships": null,
+          "module_id": 4072058672,
+          "type": "Suo",
+          "module_id_str": "PGUS212"
+        },
+        "4072419120": {
+          "name": "Nassau (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 1600,
+          "price_credit": 160000,
+          "next_ships": [
+            4185863984
+          ],
+          "module_id": 4072419120,
+          "type": "Hull",
+          "module_id_str": "PGUH212"
+        },
+        "4072517424": {
+          "name": "Propulsion: 26,200 hp",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 500,
+          "price_credit": 40000,
+          "next_ships": null,
+          "module_id": 4072517424,
+          "type": "Engine",
+          "module_id_str": "PGUE212"
+        },
+        "4073107248": {
+          "name": "FKS Typ 3 Mod. 1",
+          "next_modules": [
+            4072058672
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 24000,
+          "next_ships": null,
+          "module_id": 4073107248,
+          "type": "Suo",
+          "module_id_str": "PGUS211"
+        },
+        "4073467696": {
+          "name": "Nassau (A)",
+          "next_modules": [
+            4072419120
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 74000,
+          "next_ships": null,
+          "module_id": 4073467696,
+          "type": "Hull",
+          "module_id_str": "PGUH211"
+        },
+        "4073566000": {
+          "name": "Propulsion: 22,000 hp",
+          "next_modules": [
+            4072517424
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 17000,
+          "next_ships": null,
+          "module_id": 4073566000,
+          "type": "Engine",
+          "module_id_str": "PGUE211"
+        },
+        "4073697072": {
+          "name": "283 mm L/45 Drh LC/1906",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 32000,
+          "next_ships": null,
+          "module_id": 4073697072,
+          "type": "Artillery",
+          "module_id_str": "PGUA211"
+        }
+      }
+    },
+    {
+      "id": "4187895600",
+      "id_str": "PGSD102",
+      "name": "V-25",
+      "type": "Destroyer",
+      "tier": 2,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSD102_985d3831fa202e83d1cd69ce61ec74ffaaecfa8c7f610674756b9acc5b856e2f.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSD102_06d20f42687263f9fa2d751cdfe07fddbc07c34c42524a80e07c1f6070022c3b.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSD102_a7eee35a2b4ae6606cf34d443dbfeb3315a1b92df8f2895f6b4dce1f02c54960.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSD102_17d676e489ad3afdcd77502106bd6e42b2e42a50aa7edabd3c0d2e86d964bf0d.png"
+      },
+      "modules_tree": {
+        "4185304880": {
+          "name": "FKS Typ 2 Mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 100,
+          "price_credit": 14000,
+          "next_ships": null,
+          "module_id": 4185304880,
+          "type": "Suo",
+          "module_id_str": "PGUS104"
+        },
+        "4185665328": {
+          "name": "V-25 (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 270,
+          "price_credit": 31500,
+          "next_ships": [
+            4186847024
+          ],
+          "module_id": 4185665328,
+          "type": "Hull",
+          "module_id_str": "PGUH104"
+        },
+        "4186353456": {
+          "name": "FKS Typ 2 Mod. 1",
+          "next_modules": [
+            4185304880
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 4000,
+          "next_ships": null,
+          "module_id": 4186353456,
+          "type": "Suo",
+          "module_id_str": "PGUS103"
+        },
+        "4186713904": {
+          "name": "V-25 (A)",
+          "next_modules": [
+            4185665328
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 11000,
+          "next_ships": null,
+          "module_id": 4186713904,
+          "type": "Hull",
+          "module_id_str": "PGUH103"
+        },
+        "4186943280": {
+          "name": "105 mm L/45 Tbts LC/16",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 270,
+          "price_credit": 10000,
+          "next_ships": null,
+          "module_id": 4186943280,
+          "type": "Artillery",
+          "module_id_str": "PGUA103"
+        },
+        "4187369264": {
+          "name": "G/6 AV**",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 180,
+          "price_credit": 14000,
+          "next_ships": null,
+          "module_id": 4187369264,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT102"
+        },
+        "4187860784": {
+          "name": "Propulsion: 24,800 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 6000,
+          "next_ships": null,
+          "module_id": 4187860784,
+          "type": "Engine",
+          "module_id_str": "PGUE102"
+        },
+        "4187991856": {
+          "name": "88 mm L/45 Tbts LC/13",
+          "next_modules": [
+            4186943280
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 4000,
+          "next_ships": null,
+          "module_id": 4187991856,
+          "type": "Artillery",
+          "module_id_str": "PGUA102"
+        },
+        "4188417840": {
+          "name": "G/6",
+          "next_modules": [
+            4187369264
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 6500,
+          "next_ships": null,
+          "module_id": 4188417840,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT101"
+        }
+      }
+    },
+    {
+      "id": "4292785968",
+      "id_str": "PGSC002",
+      "name": "Dresden",
+      "type": "Cruiser",
+      "tier": 2,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC002_66ce623a93dfde135c49a146b20de3337863d1760ab813d7bef4808dd3ba2a1c.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSC002_0b865a4c45dacdbf1e7d4b3cecc1c26219585f9dd8e08cf0f373be0c1ded5b4b.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSC002_61737e84f0b1c42394e4a1bfd43c335861b7bedf6dbaa1a0a58884b3e40ec15a.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSC002_0ca64bc0f75c96c81cec0379cb7d1c72dfb8de14456f13ebf96ba27526a3758c.png"
+      },
+      "modules_tree": {
+        "4187402032": {
+          "name": "FKS Typ 2 Mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 230,
+          "price_credit": 25000,
+          "next_ships": null,
+          "module_id": 4187402032,
+          "type": "Suo",
+          "module_id_str": "PGUS102"
+        },
+        "4187762480": {
+          "name": "Dresden (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 360,
+          "price_credit": 38000,
+          "next_ships": [
+            4186879792
+          ],
+          "module_id": 4187762480,
+          "type": "Hull",
+          "module_id_str": "PGUH102"
+        },
+        "4188450608": {
+          "name": "FKS Typ 2 Mod. 1",
+          "next_modules": [
+            4187402032
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 6000,
+          "next_ships": null,
+          "module_id": 4188450608,
+          "type": "Suo",
+          "module_id_str": "PGUS101"
+        },
+        "4188811056": {
+          "name": "Dresden (A)",
+          "next_modules": [
+            4187762480
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 12500,
+          "next_ships": null,
+          "module_id": 4188811056,
+          "type": "Hull",
+          "module_id_str": "PGUH101"
+        },
+        "4188909360": {
+          "name": "Propulsion: 18,800 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 3000,
+          "next_ships": [
+            4187895600
+          ],
+          "module_id": 4188909360,
+          "type": "Engine",
+          "module_id_str": "PGUE101"
+        },
+        "4189040432": {
+          "name": "105 mm L/40 MPL C/04",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 8000,
+          "next_ships": null,
+          "module_id": 4189040432,
+          "type": "Artillery",
+          "module_id_str": "PGUA101"
+        }
+      }
+    },
+    {
+      "id": "4292818736",
+      "id_str": "PGSB002",
+      "name": "Tirpitz",
+      "type": "Battleship",
+      "tier": 8,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSB002_e7b49ecef4ae0be8382c3ff3c77ad70beeb89bdb90e7dd7a6d82b194c5812260.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSB002_2c9f270bbe57173c36ef17f72f1536b2190f64d72694f753bf8719adc6dc05e3.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSB002_920b7d9ded5402d9106c181c1b752e36f057db821c8a97254ce2fb8a8d7d6113.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSB002_f41b73861c5de05e7875af2276c13ccacdb3ee3b9258f58beed0e22b97ac8dc6.png"
+      },
+      "modules_tree": {
+        "3548819248": {
+          "name": "FKS Typ 8 Mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3548819248,
+          "type": "Suo",
+          "module_id_str": "PGUS711"
+        },
+        "3549179696": {
+          "name": "Tirpitz",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3549179696,
+          "type": "Hull",
+          "module_id_str": "PGUH711"
+        },
+        "3558715184": {
+          "name": "Propulsion: 163,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3558715184,
+          "type": "Engine",
+          "module_id_str": "PGUE702"
+        },
+        "3558846256": {
+          "name": "380 mm L/52 Drh LC/34",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3558846256,
+          "type": "Artillery",
+          "module_id_str": "PGUA702"
+        },
+        "3559272240": {
+          "name": "G7a T1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3559272240,
+          "type": "Torpedoes",
+          "module_id_str": "PGUT701"
+        }
+      }
+    },
+    {
+      "id": "4293834544",
+      "id_str": "PGSC001",
+      "name": "Hermelin",
+      "type": "Cruiser",
+      "tier": 1,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PGSC001_14099708b79bc1fd1442376ae808df4af10a51a1c0b7b6e676722cdc2dcaaa0e.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PGSC001_71586fb6561f62ae7d090b4e92a5d4c24d10671038e140ed359b668e88946b1f.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PGSC001_400bd45fef20f20ab6ed4f3df40d8c81ec87724d5f7822a9b1b019c26665d7a5.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PGSC001_154286ae5832bf4fd898d9a08f3eb898977f1b6af5fb30ccb56293e40f5a672b.png"
+      },
+      "modules_tree": {
+        "4293308208": {
+          "name": "FKS Typ 1 Mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4293308208,
+          "type": "Suo",
+          "module_id_str": "PGUS001"
+        },
+        "4293668656": {
+          "name": "Hermelin (A)",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": [
+            4292785968
+          ],
+          "module_id": 4293668656,
+          "type": "Hull",
+          "module_id_str": "PGUH001"
+        },
+        "4293766960": {
+          "name": "Propulsion: 15,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4293766960,
+          "type": "Engine",
+          "module_id_str": "PGUE001"
+        },
+        "4293898032": {
+          "name": "128 mm L/61 SK C/42",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4293898032,
+          "type": "Artillery",
+          "module_id_str": "PGUA001"
+        }
+      }
+    }
+  ]
+}

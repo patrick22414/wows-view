@@ -1,0 +1,1280 @@
+{
+  "status": "ok",
+  "meta": {
+    "count": 16,
+    "page_total": 1,
+    "total": 16,
+    "limit": 100,
+    "page": 1
+  },
+  "data": [
+    {
+      "id": "3655218480",
+      "id_str": "PWSD610",
+      "name": "Småland",
+      "type": "Destroyer",
+      "tier": 10,
+      "is_premium": false,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PWSD610_7b05921780b6ff275a670453947fe6ee783dc981a4e20528a20bf62d0bb358b9.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PWSD610_b45d68d4bc94a5abe0fff2df9933b087029ec6fb0cbe59f4001c542758a5bd65.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PWSD610_c2a02ed4d7b1d73fc26383cd909aba5fb032cae7e149a404bb95673f65da1f5b.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PWSD610_bb63aff278d4ff94d67656a0835b803427167999daf79aafee3aeccf4a41ac17.png"
+      },
+      "modules_tree": {
+        "3346443568": {
+          "name": "SUO Mk 10 Mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3346443568,
+          "type": "Suo",
+          "module_id_str": "PWUS904"
+        },
+        "3347459376": {
+          "name": "Torped M1943 mod 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3347459376,
+          "type": "Torpedoes",
+          "module_id_str": "PWUT903"
+        },
+        "3347852592": {
+          "name": "Småland",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3347852592,
+          "type": "Hull",
+          "module_id_str": "PWUH903"
+        },
+        "3347950896": {
+          "name": "Propulsion: 58,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3347950896,
+          "type": "Engine",
+          "module_id_str": "PWUE903"
+        },
+        "3348081968": {
+          "name": "120 mm/50 Bofors M1950",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3348081968,
+          "type": "Artillery",
+          "module_id_str": "PWUA903"
+        }
+      }
+    },
+    {
+      "id": "3760076080",
+      "id_str": "PWSD510",
+      "name": "Friesland",
+      "type": "Destroyer",
+      "tier": 9,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PWSD510_590c7a4fc8b1c5ff9c1c5bea106c9e76d10dc5c27d1abd837368808d40fc0520.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PWSD510_de7a25d5ee1bf67b7c40873f6d5ff32698e378a97741ebad74d0964d94806b0f.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PWSD510_9ed5ccc2bb9f64c223dc103e1be2085e6755a7e24edbf37714fe7713beaf6ca3.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PWSD510_332b29ef0899386dbb4828468c7f9bdd545292e4ba905abe463f14a2bef7f58e.png"
+      },
+      "modules_tree": {
+        "3349589296": {
+          "name": "Vuurleiding Mk 10 Mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3349589296,
+          "type": "Suo",
+          "module_id_str": "PWUS901"
+        },
+        "3349949744": {
+          "name": "Friesland",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3349949744,
+          "type": "Hull",
+          "module_id_str": "PWUH901"
+        },
+        "3350048048": {
+          "name": "Propulsion: 60,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3350048048,
+          "type": "Engine",
+          "module_id_str": "PWUE901"
+        },
+        "3350179120": {
+          "name": "120 mm/50 Bofors No.10",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3350179120,
+          "type": "Artillery",
+          "module_id_str": "PWUA901"
+        }
+      }
+    },
+    {
+      "id": "3762173232",
+      "id_str": "PWSD508",
+      "name": "Orkan",
+      "type": "Destroyer",
+      "tier": 8,
+      "is_premium": false,
+      "is_special": true,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PWSD508_978143f5501a5d8b7b0ba37702be90f5d484b9c563f9d257766e3ed6638ae661.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PWSD508_ad3a037e742aa43b3cf197ffa8075dfa995bb77bde103c3d5f7f2f152a54399c.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PWSD508_5dc8f2b7a1e807262bd10700f10bf2437f74c5b2900103dc17ac2d63d3441194.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PWSD508_55d629d579984f1d07fe95d2b4c888abcf28865b1f46c383971bc568188b74d1.png"
+      },
+      "modules_tree": {
+        "3557207344": {
+          "name": "SUO Mk 8 Mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3557207344,
+          "type": "Suo",
+          "module_id_str": "PWUS703"
+        },
+        "3557567792": {
+          "name": "Orkan",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3557567792,
+          "type": "Hull",
+          "module_id_str": "PWUH703"
+        },
+        "3558223152": {
+          "name": "Torped M1943",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3558223152,
+          "type": "Torpedoes",
+          "module_id_str": "PWUT702"
+        },
+        "3558714672": {
+          "name": "Propulsion: 48,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3558714672,
+          "type": "Engine",
+          "module_id_str": "PWUE702"
+        },
+        "3558845744": {
+          "name": "120 mm/50 QF Mk XI",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3558845744,
+          "type": "Artillery",
+          "module_id_str": "PWUA702"
+        }
+      }
+    },
+    {
+      "id": "3766433072",
+      "id_str": "PWSB504",
+      "name": "Viribus Unitis",
+      "type": "Battleship",
+      "tier": 5,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PWSB504_ecd3c4de540d2b616e3d8e82968e29c2357336293c5e183d539c75f15929fe8e.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PWSB504_0fedb9e6fd66c31d7bb7e3b150f27ea97aeca3503e09fb1b4c1b39888bcb2ec9.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PWSB504_d985621cc17a892a57a887c3dd0f5c1397215d7aa3cae15766b8f2815f17f224.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PWSB504_c53a5dfd40ba3b5ea2142b7d7dbc33d9f34a5db29138cf756a29c7b3cc7ebe56.png"
+      },
+      "modules_tree": {
+        "3974540592": {
+          "name": "FKS Typ 4 Mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3974540592,
+          "type": "Suo",
+          "module_id_str": "PWUS305"
+        },
+        "3974901040": {
+          "name": "Viribus Unitis",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3974901040,
+          "type": "Hull",
+          "module_id_str": "PWUH305"
+        },
+        "3977096496": {
+          "name": "Propulsion: 27,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3977096496,
+          "type": "Engine",
+          "module_id_str": "PWUE303"
+        },
+        "3977227568": {
+          "name": "305 mm/45 Skoda K10",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3977227568,
+          "type": "Artillery",
+          "module_id_str": "PWUA303"
+        }
+      }
+    },
+    {
+      "id": "3769513264",
+      "id_str": "PWSD501",
+      "name": "Błyskawica",
+      "type": "Destroyer",
+      "tier": 7,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PWSD501_85e89984588cbe60601a42f1fb9d85b33994ab524e0884b5199ad0c58584a522.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PWSD501_faf1eae79f9fb30fc897c844fe21dfa649ae4463a09a2ffd992ed107720a2742.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PWSD501_1799458a09740875020b6515cca2540f5081c1ff8c127995e361d35ab53af88e.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PWSD501_12c4dfa3b6e525b5eded03d4a20456f5a4037092802a5df46135aad649ebaa86.png"
+      },
+      "modules_tree": {
+        "3664129328": {
+          "name": "Mark 10",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3664129328,
+          "type": "Torpedoes",
+          "module_id_str": "PWUT601"
+        },
+        "3664162096": {
+          "name": "SKO Mod. 7",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3664162096,
+          "type": "Suo",
+          "module_id_str": "PWUS601"
+        },
+        "3664522544": {
+          "name": "Błyskawica",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3664522544,
+          "type": "Hull",
+          "module_id_str": "PWUH601"
+        },
+        "3664620848": {
+          "name": "Propulsion: 54,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3664620848,
+          "type": "Engine",
+          "module_id_str": "PWUE601"
+        },
+        "3664751920": {
+          "name": "120 mm/50 wz. 34/36 Bofors",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3664751920,
+          "type": "Artillery",
+          "module_id_str": "PWUA601"
+        }
+      }
+    },
+    {
+      "id": "4179506480",
+      "id_str": "PWSD110",
+      "name": "Halland",
+      "type": "Destroyer",
+      "tier": 10,
+      "is_premium": false,
+      "is_special": true,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PWSD110_7308033011232024e532502422297e9d469c73017a88307e53e64c13bfe4e97e.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PWSD110_292ebab2e5a4e947697be86077329f45f66ee12952ccf05b6efb643c9e6d85d4.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PWSD110_fb063a0b67bd1b296291c4a2d40311e65b93a4d69eeb62ad087668e32855d143.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PWSD110_0e76b9ffefc5f0f2c1d78d3921ee7795033223ebac75d5cbb3c1f9ee81ec7abe.png"
+      },
+      "modules_tree": {
+        "3347492144": {
+          "name": "SUO Mk 10 Mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2000000,
+          "next_ships": null,
+          "module_id": 3347492144,
+          "type": "Suo",
+          "module_id_str": "PWUS903"
+        },
+        "3348507952": {
+          "name": "Torped M1947",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2000000,
+          "next_ships": null,
+          "module_id": 3348507952,
+          "type": "Torpedoes",
+          "module_id_str": "PWUT902"
+        },
+        "3348901168": {
+          "name": "Halland",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 3000000,
+          "next_ships": null,
+          "module_id": 3348901168,
+          "type": "Hull",
+          "module_id_str": "PWUH902"
+        },
+        "3348999472": {
+          "name": "Propulsion: 58,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2000000,
+          "next_ships": null,
+          "module_id": 3348999472,
+          "type": "Engine",
+          "module_id_str": "PWUE902"
+        },
+        "3349130544": {
+          "name": "120 mm/50 Bofors M1950",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 2000000,
+          "next_ships": null,
+          "module_id": 3349130544,
+          "type": "Artillery",
+          "module_id_str": "PWUA902"
+        }
+      }
+    },
+    {
+      "id": "4180555056",
+      "id_str": "PWSD109",
+      "name": "Östergötland",
+      "type": "Destroyer",
+      "tier": 9,
+      "is_premium": false,
+      "is_special": true,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PWSD109_294d99b27a69f3522789d203f673ba85d7d759c0ddfa5c5ab9349c4fafa3155e.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PWSD109_a6aa8ffde120df22fb8e963c2a280792faa64bb4777df93f65f131402b4d9998.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PWSD109_824aff20cb67b7aedadd6f0e7a00c4854eda4812fc0241344bfb128718339ac7.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PWSD109_25372878cf486a4a10d1dbcce4b52d279d3bd773d83fa1efbb967fd00cd37d34.png"
+      },
+      "modules_tree": {
+        "3453398320": {
+          "name": "SUO Mk 9 Mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 30000,
+          "price_credit": 2200000,
+          "next_ships": null,
+          "module_id": 3453398320,
+          "type": "Suo",
+          "module_id_str": "PWUS802"
+        },
+        "3453758768": {
+          "name": "Östergötland (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 45000,
+          "price_credit": 3300000,
+          "next_ships": null,
+          "module_id": 3453758768,
+          "type": "Hull",
+          "module_id_str": "PWUH802"
+        },
+        "3454414128": {
+          "name": "Torped M1947",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1000000,
+          "next_ships": null,
+          "module_id": 3454414128,
+          "type": "Torpedoes",
+          "module_id_str": "PWUT801"
+        },
+        "3454446896": {
+          "name": "SUO Mk 9 Mod. 1",
+          "next_modules": [
+            3453398320
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1000000,
+          "next_ships": null,
+          "module_id": 3454446896,
+          "type": "Suo",
+          "module_id_str": "PWUS801"
+        },
+        "3454807344": {
+          "name": "Östergötland (A)",
+          "next_modules": [
+            3453758768
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1500000,
+          "next_ships": null,
+          "module_id": 3454807344,
+          "type": "Hull",
+          "module_id_str": "PWUH801"
+        },
+        "3454905648": {
+          "name": "Propulsion: 44,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1000000,
+          "next_ships": null,
+          "module_id": 3454905648,
+          "type": "Engine",
+          "module_id_str": "PWUE801"
+        },
+        "3455036720": {
+          "name": "120 mm/50 Bofors M1942",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 1000000,
+          "next_ships": null,
+          "module_id": 3455036720,
+          "type": "Artillery",
+          "module_id_str": "PWUA801"
+        }
+      }
+    },
+    {
+      "id": "4181603632",
+      "id_str": "PWSD108",
+      "name": "Öland",
+      "type": "Destroyer",
+      "tier": 8,
+      "is_premium": false,
+      "is_special": true,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PWSD108_ab550888980de9189fab68a0a85bd0cc960c937206ed97791be03a6006662a9d.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PWSD108_1909132168cd4b154515652d0432f32fee07f3ea837c49959e6663fe78ed0b2b.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PWSD108_1e579e7de6d9f69c138726add6f14a5fffcd7cacb4f9419f4d2ca76e0b9957e1.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PWSD108_f15556ba4ccd6f6fafaa767facd85a3371af1c06e98428cee3e5b85322743492.png"
+      },
+      "modules_tree": {
+        "3558255920": {
+          "name": "SUO Mk 8 Mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 20000,
+          "price_credit": 1800000,
+          "next_ships": null,
+          "module_id": 3558255920,
+          "type": "Suo",
+          "module_id_str": "PWUS702"
+        },
+        "3558616368": {
+          "name": "Öland (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 30000,
+          "price_credit": 2400000,
+          "next_ships": null,
+          "module_id": 3558616368,
+          "type": "Hull",
+          "module_id_str": "PWUH702"
+        },
+        "3559271728": {
+          "name": "Torped M1943 mod 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 600000,
+          "next_ships": null,
+          "module_id": 3559271728,
+          "type": "Torpedoes",
+          "module_id_str": "PWUT701"
+        },
+        "3559304496": {
+          "name": "SUO Mk 8 Mod. 1",
+          "next_modules": [
+            3558255920
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 600000,
+          "next_ships": null,
+          "module_id": 3559304496,
+          "type": "Suo",
+          "module_id_str": "PWUS701"
+        },
+        "3559664944": {
+          "name": "Öland (A)",
+          "next_modules": [
+            3558616368
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 900000,
+          "next_ships": null,
+          "module_id": 3559664944,
+          "type": "Hull",
+          "module_id_str": "PWUH701"
+        },
+        "3559763248": {
+          "name": "Propulsion: 44,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 600000,
+          "next_ships": null,
+          "module_id": 3559763248,
+          "type": "Engine",
+          "module_id_str": "PWUE701"
+        },
+        "3559894320": {
+          "name": "120 mm/50 Bofors M1942",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 600000,
+          "next_ships": null,
+          "module_id": 3559894320,
+          "type": "Artillery",
+          "module_id_str": "PWUA701"
+        }
+      }
+    },
+    {
+      "id": "4182652208",
+      "id_str": "PWSD107",
+      "name": "Skåne",
+      "type": "Destroyer",
+      "tier": 7,
+      "is_premium": false,
+      "is_special": true,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PWSD107_68f1bb7bb6c977ce9af7ed2a394e5284a83843240a8ce20dfd656c2afd4e874d.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PWSD107_84750846bef33b7a00ccf8c632eb2ffb1ec45e230618e4b69aff04b72a619dd6.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PWSD107_2c82d939c0b8c5f71edd7f805d5445f94c150c679d637dfc9e8bd5a97cca348c.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PWSD107_5e4cd93306f2881d03e4505443f5ed44be538f1f7f1cb18e85df2696f7a9e80f.png"
+      },
+      "modules_tree": {
+        "3662064944": {
+          "name": "SUO Mk 7 Mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 14000,
+          "price_credit": 1000000,
+          "next_ships": null,
+          "module_id": 3662064944,
+          "type": "Suo",
+          "module_id_str": "PWUS603"
+        },
+        "3662425392": {
+          "name": "Skåne (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 21000,
+          "price_credit": 1500000,
+          "next_ships": null,
+          "module_id": 3662425392,
+          "type": "Hull",
+          "module_id_str": "PWUH603"
+        },
+        "3663080752": {
+          "name": "Torped M1943",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 400000,
+          "next_ships": null,
+          "module_id": 3663080752,
+          "type": "Torpedoes",
+          "module_id_str": "PWUT602"
+        },
+        "3663113520": {
+          "name": "SUO Mk 7 Mod. 1",
+          "next_modules": [
+            3662064944
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 400000,
+          "next_ships": null,
+          "module_id": 3663113520,
+          "type": "Suo",
+          "module_id_str": "PWUS602"
+        },
+        "3663473968": {
+          "name": "Skåne (A)",
+          "next_modules": [
+            3662425392
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 600000,
+          "next_ships": null,
+          "module_id": 3663473968,
+          "type": "Hull",
+          "module_id_str": "PWUH602"
+        },
+        "3663572272": {
+          "name": "Propulsion: 40,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 400000,
+          "next_ships": null,
+          "module_id": 3663572272,
+          "type": "Engine",
+          "module_id_str": "PWUE602"
+        },
+        "3663703344": {
+          "name": "120 mm/50 Bofors M1942",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 400000,
+          "next_ships": null,
+          "module_id": 3663703344,
+          "type": "Artillery",
+          "module_id_str": "PWUA602"
+        }
+      }
+    },
+    {
+      "id": "4183700784",
+      "id_str": "PWSD106",
+      "name": "Västerås",
+      "type": "Destroyer",
+      "tier": 6,
+      "is_premium": false,
+      "is_special": true,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PWSD106_20c77c8a27c3563ae4736d13b7eb512ccc1b326af78f21d34f314f047a69222d.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PWSD106_12c7e9ae419ead90c91eb957a6b9d554ff95b4b57e57038d9261be408723296c.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PWSD106_54c3ec58b33e9cc81813457908ccb8eb9846395515607de307a30cf47d1f0f8c.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PWSD106_153c8c3c7c81f4abeaac6483beade67a9dad664caefa724eea00786c6051faf1.png"
+      },
+      "modules_tree": {
+        "3767971120": {
+          "name": "SUO Mk 6 Mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 7000,
+          "price_credit": 560000,
+          "next_ships": null,
+          "module_id": 3767971120,
+          "type": "Suo",
+          "module_id_str": "PWUS502"
+        },
+        "3768331568": {
+          "name": "Västerås (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 10500,
+          "price_credit": 840000,
+          "next_ships": null,
+          "module_id": 3768331568,
+          "type": "Hull",
+          "module_id_str": "PWUH502"
+        },
+        "3768986928": {
+          "name": "Torped M1924 mod 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 200000,
+          "next_ships": null,
+          "module_id": 3768986928,
+          "type": "Torpedoes",
+          "module_id_str": "PWUT501"
+        },
+        "3769019696": {
+          "name": "SUO Mk 6 Mod. 1",
+          "next_modules": [
+            3767971120
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 200000,
+          "next_ships": null,
+          "module_id": 3769019696,
+          "type": "Suo",
+          "module_id_str": "PWUS501"
+        },
+        "3769380144": {
+          "name": "Västerås (A)",
+          "next_modules": [
+            3768331568
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 300000,
+          "next_ships": null,
+          "module_id": 3769380144,
+          "type": "Hull",
+          "module_id_str": "PWUH501"
+        },
+        "3769478448": {
+          "name": "Propulsion: 41,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 200000,
+          "next_ships": null,
+          "module_id": 3769478448,
+          "type": "Engine",
+          "module_id_str": "PWUE501"
+        },
+        "3769609520": {
+          "name": "120 mm/50 Bofors M1924",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 200000,
+          "next_ships": null,
+          "module_id": 3769609520,
+          "type": "Artillery",
+          "module_id_str": "PWUA501"
+        }
+      }
+    },
+    {
+      "id": "4184749360",
+      "id_str": "PWSD105",
+      "name": "Visby",
+      "type": "Destroyer",
+      "tier": 5,
+      "is_premium": false,
+      "is_special": true,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PWSD105_fc2eb8958e01dac0028f5d99a4cd723e49f8bf7259e52dc42a3bcb58147faf39.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PWSD105_cbb1677b5aeceebdd59dd4fd59a90468e3f8ddce4983a83bae988d70a45d7c21.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PWSD105_9777b4234d74cd2ac8e23ae283f293f58d7fb5d27ebf5b8c8a9253653c249af5.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PWSD105_2a684bcddeb763ece46d5bc7d0a7f5281c96386ba9cec41f0e8a6faa14f266c4.png"
+      },
+      "modules_tree": {
+        "3872828720": {
+          "name": "SUO Mk 5 Mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 3000,
+          "price_credit": 320000,
+          "next_ships": null,
+          "module_id": 3872828720,
+          "type": "Suo",
+          "module_id_str": "PWUS402"
+        },
+        "3873189168": {
+          "name": "Visby (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 4500,
+          "price_credit": 480000,
+          "next_ships": null,
+          "module_id": 3873189168,
+          "type": "Hull",
+          "module_id_str": "PWUH402"
+        },
+        "3873418544": {
+          "name": "120 mm/50 Bofors M1924",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 100000,
+          "next_ships": null,
+          "module_id": 3873418544,
+          "type": "Artillery",
+          "module_id_str": "PWUA402"
+        },
+        "3873844528": {
+          "name": "Torped M1929",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 100000,
+          "next_ships": null,
+          "module_id": 3873844528,
+          "type": "Torpedoes",
+          "module_id_str": "PWUT401"
+        },
+        "3873877296": {
+          "name": "SUO Mk 5 Mod. 1",
+          "next_modules": [
+            3872828720
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 100000,
+          "next_ships": null,
+          "module_id": 3873877296,
+          "type": "Suo",
+          "module_id_str": "PWUS401"
+        },
+        "3874237744": {
+          "name": "Visby (A)",
+          "next_modules": [
+            3873189168
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 150000,
+          "next_ships": null,
+          "module_id": 3874237744,
+          "type": "Hull",
+          "module_id_str": "PWUH401"
+        },
+        "3874336048": {
+          "name": "Propulsion: 36,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 100000,
+          "next_ships": null,
+          "module_id": 3874336048,
+          "type": "Engine",
+          "module_id_str": "PWUE401"
+        }
+      }
+    },
+    {
+      "id": "4185797936",
+      "id_str": "PWSD104",
+      "name": "Klas Horn",
+      "type": "Destroyer",
+      "tier": 4,
+      "is_premium": false,
+      "is_special": true,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PWSD104_0df1dcebe7dde658354dfb3cbc484ed55252eb2f75b2448a3eadc7dac395af94.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PWSD104_45d3f02ad9bf1cccf5bf8929eac34e6c0838e6521acaf0f445281a0701d53df1.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PWSD104_0ea6638a9bda7ebbfc61e9057cc9d400cab203532baaf1726df3a43d7954384d.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PWSD104_cf936a1e410785ba6ec7370798a9c2b28ae83c1e6201f8bc00bf92fc40dd95e6.png"
+      },
+      "modules_tree": {
+        "3976637744": {
+          "name": "SUO Mk 4 Mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 1000,
+          "price_credit": 140000,
+          "next_ships": null,
+          "module_id": 3976637744,
+          "type": "Suo",
+          "module_id_str": "PWUS303"
+        },
+        "3976998192": {
+          "name": "Klas Horn (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 1500,
+          "price_credit": 210000,
+          "next_ships": null,
+          "module_id": 3976998192,
+          "type": "Hull",
+          "module_id_str": "PWUH303"
+        },
+        "3977653552": {
+          "name": "Torped M1929",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 50000,
+          "next_ships": null,
+          "module_id": 3977653552,
+          "type": "Torpedoes",
+          "module_id_str": "PWUT302"
+        },
+        "3977686320": {
+          "name": "SUO Mk 4 Mod. 1",
+          "next_modules": [
+            3976637744
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 50000,
+          "next_ships": null,
+          "module_id": 3977686320,
+          "type": "Suo",
+          "module_id_str": "PWUS302"
+        },
+        "3978046768": {
+          "name": "Klas Horn (A)",
+          "next_modules": [
+            3976998192
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 75000,
+          "next_ships": null,
+          "module_id": 3978046768,
+          "type": "Hull",
+          "module_id_str": "PWUH302"
+        },
+        "3978145072": {
+          "name": "Propulsion: 26,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 50000,
+          "next_ships": null,
+          "module_id": 3978145072,
+          "type": "Engine",
+          "module_id_str": "PWUE302"
+        },
+        "3978276144": {
+          "name": "120 mm/50 Bofors M1924",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 50000,
+          "next_ships": null,
+          "module_id": 3978276144,
+          "type": "Artillery",
+          "module_id_str": "PWUA302"
+        }
+      }
+    },
+    {
+      "id": "4186846512",
+      "id_str": "PWSD103",
+      "name": "Romulus",
+      "type": "Destroyer",
+      "tier": 3,
+      "is_premium": false,
+      "is_special": true,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PWSD103_1701e227c65a4a13610d04049aa47aa45e03fb542eed3415909f6a5226a92e87.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PWSD103_3c9d721e74fcd7757a9148c5c2ab96886b7fb3b21442707b19e613a2c5eee574.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PWSD103_1951044717278d06a927e613b734e763f0ae5786d9a41ca6ba28caf46cdb2720.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PWSD103_2aed1d59b2a2e09a33e98019a5f0a2326f0c934939d7cca6c42ce491eadd437f.png"
+      },
+      "modules_tree": {
+        "4082543920": {
+          "name": "SUO Mk 3 Mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 500,
+          "price_credit": 64000,
+          "next_ships": null,
+          "module_id": 4082543920,
+          "type": "Suo",
+          "module_id_str": "PWUS202"
+        },
+        "4082904368": {
+          "name": "Romulus (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 750,
+          "price_credit": 96000,
+          "next_ships": null,
+          "module_id": 4082904368,
+          "type": "Hull",
+          "module_id_str": "PWUH202"
+        },
+        "4083133744": {
+          "name": "120 mm/45 Bofors M1924",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 500,
+          "price_credit": 64000,
+          "next_ships": null,
+          "module_id": 4083133744,
+          "type": "Artillery",
+          "module_id_str": "PWUA202"
+        },
+        "4083559728": {
+          "name": "Torped M1913",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 20000,
+          "next_ships": null,
+          "module_id": 4083559728,
+          "type": "Torpedoes",
+          "module_id_str": "PWUT201"
+        },
+        "4083592496": {
+          "name": "SUO Mk 3 Mod. 1",
+          "next_modules": [
+            4082543920
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 20000,
+          "next_ships": null,
+          "module_id": 4083592496,
+          "type": "Suo",
+          "module_id_str": "PWUS201"
+        },
+        "4083952944": {
+          "name": "Romulus (A)",
+          "next_modules": [
+            4082904368
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 30000,
+          "next_ships": null,
+          "module_id": 4083952944,
+          "type": "Hull",
+          "module_id_str": "PWUH201"
+        },
+        "4084051248": {
+          "name": "Propulsion: 19,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 20000,
+          "next_ships": null,
+          "module_id": 4084051248,
+          "type": "Engine",
+          "module_id_str": "PWUE201"
+        },
+        "4084182320": {
+          "name": "100 mm/47 OTO Model 1931",
+          "next_modules": [
+            4083133744
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 20000,
+          "next_ships": null,
+          "module_id": 4084182320,
+          "type": "Artillery",
+          "module_id_str": "PWUA201"
+        }
+      }
+    },
+    {
+      "id": "4187895088",
+      "id_str": "PWSD102",
+      "name": "Tátra",
+      "type": "Destroyer",
+      "tier": 2,
+      "is_premium": false,
+      "is_special": true,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PWSD102_d1ea0b735cf9238ed0f264a6c7c8a71926563e2d699093ead2f6fdd2e052c82e.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PWSD102_ddcd817db80d4214bfebdb3cd7b7cf5b971bfa2c9d1d6fd2c8cd740aa740b895.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PWSD102_b6c32c7a3afe609a8575261ad9e71443a10e4db0983c0059166cb6fc90b33008.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PWSD102_a2a7989f40d021f23736e40f1066c633e18f2f8479af84d40655984fd8cdb54d.png"
+      },
+      "modules_tree": {
+        "4187401520": {
+          "name": "SUO Mk 2 Mod. 2",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 200,
+          "price_credit": 20000,
+          "next_ships": null,
+          "module_id": 4187401520,
+          "type": "Suo",
+          "module_id_str": "PWUS102"
+        },
+        "4187761968": {
+          "name": "Tátra (B)",
+          "next_modules": null,
+          "is_default": false,
+          "price_xp": 300,
+          "price_credit": 30000,
+          "next_ships": null,
+          "module_id": 4187761968,
+          "type": "Hull",
+          "module_id_str": "PWUH102"
+        },
+        "4188417328": {
+          "name": "Torped M1913",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 6000,
+          "next_ships": null,
+          "module_id": 4188417328,
+          "type": "Torpedoes",
+          "module_id_str": "PWUT101"
+        },
+        "4188450096": {
+          "name": "SUO Mk 2 Mod. 1",
+          "next_modules": [
+            4187401520
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 6000,
+          "next_ships": null,
+          "module_id": 4188450096,
+          "type": "Suo",
+          "module_id_str": "PWUS101"
+        },
+        "4188810544": {
+          "name": "Tátra (A)",
+          "next_modules": [
+            4187761968
+          ],
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 9000,
+          "next_ships": null,
+          "module_id": 4188810544,
+          "type": "Hull",
+          "module_id_str": "PWUH101"
+        },
+        "4188908848": {
+          "name": "Propulsion: 20,500 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 6000,
+          "next_ships": null,
+          "module_id": 4188908848,
+          "type": "Engine",
+          "module_id_str": "PWUE101"
+        },
+        "4189039920": {
+          "name": "100 mm/50 Skoda K10",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 6000,
+          "next_ships": null,
+          "module_id": 4189039920,
+          "type": "Artillery",
+          "module_id_str": "PWUA101"
+        }
+      }
+    },
+    {
+      "id": "4188976432",
+      "id_str": "PWSC101",
+      "name": "Gryf",
+      "type": "Cruiser",
+      "tier": 1,
+      "is_premium": false,
+      "is_special": true,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PWSC101_6d8f152ce3295383f78027aa8c53833e32879d64088cac87938ea83a682c2e3c.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PWSC101_556b02f53923858c04c9c63cc2d5333b69e4b80326baebc525c550c935076032.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PWSC101_4758253b0e76d113aa8a3e2364a5702b8d2f4cf807b7026140936797748df7e4.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PWSC101_d3ea2f5a2eb3fb49c4b8c44c3f057c7246ad70b2aad52e000ca1ce9ad95f9e21.png"
+      },
+      "modules_tree": {
+        "4293307696": {
+          "name": "SKO Mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4293307696,
+          "type": "Suo",
+          "module_id_str": "PWUS001"
+        },
+        "4293668144": {
+          "name": "Gryf",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4293668144,
+          "type": "Hull",
+          "module_id_str": "PWUH001"
+        },
+        "4293766448": {
+          "name": "Propulsion: 6,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4293766448,
+          "type": "Engine",
+          "module_id_str": "PWUE001"
+        },
+        "4293897520": {
+          "name": "120 mm/50 Bofors wz. 34/36",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 4293897520,
+          "type": "Artillery",
+          "module_id_str": "PWUA001"
+        }
+      }
+    }
+  ]
+}

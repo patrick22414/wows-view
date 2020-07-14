@@ -1,0 +1,73 @@
+{
+  "status": "ok",
+  "meta": {
+    "count": 1,
+    "page_total": 1,
+    "total": 1,
+    "limit": 100,
+    "page": 1
+  },
+  "data": [
+    {
+      "id": "3763254608",
+      "id_str": "PVSC507",
+      "name": "Nueve de Julio",
+      "type": "Cruiser",
+      "tier": 7,
+      "is_premium": true,
+      "is_special": false,
+      "images": {
+        "small": "https://glossary-wows-global.gcdn.co/icons//vehicle/small/PVSC507_823e3d410006ac4bf8c793d3f0675c60b9408bf146a78bba2934cdb6864307e5.png",
+        "large": "https://glossary-wows-global.gcdn.co/icons//vehicle/large/PVSC507_19ce5d47c39a7db135eea9c496cc85538cc1affecc3fe3030007bcdf5e7e1e18.png",
+        "medium": "https://glossary-wows-global.gcdn.co/icons//vehicle/medium/PVSC507_dce5eba0e3942f63ae1bb23d279da4b6405dd321e20f1367a34a76fd8cc15bb6.png",
+        "contour": "https://glossary-wows-global.gcdn.co/icons//vehicle/contour/PVSC507_c0ce8e4b3dbd3c6b41d0a82fdd2b4aa6a0a5865e6293ef0d0c48b393b046dab9.png"
+      },
+      "modules_tree": {
+        "3664162128": {
+          "name": "Mk7 mod. 1",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3664162128,
+          "type": "Suo",
+          "module_id_str": "PVUS601"
+        },
+        "3664522576": {
+          "name": "Nueve de Julio",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3664522576,
+          "type": "Hull",
+          "module_id_str": "PVUH601"
+        },
+        "3664620880": {
+          "name": "Propulsion: 100,000 hp",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3664620880,
+          "type": "Engine",
+          "module_id_str": "PVUE601"
+        },
+        "3664751952": {
+          "name": "152 mm/47 Mk16",
+          "next_modules": null,
+          "is_default": true,
+          "price_xp": 0,
+          "price_credit": 0,
+          "next_ships": null,
+          "module_id": 3664751952,
+          "type": "Artillery",
+          "module_id_str": "PVUA601"
+        }
+      }
+    }
+  ]
+}

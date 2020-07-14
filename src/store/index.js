@@ -3,12 +3,15 @@ import Vuex from "vuex";
 import selecting from "./modules/selecting";
 import building from "./modules/building";
 
+const encyclopedia = require("../assets/encyclopedia");
+
 Vue.use(Vuex);
 
 export default new Vuex.Store({
   state: {
     siteTitle: "WoWs View",
-    info: require("../../assets/encyclopedia"),
+
+    ship_types_dict: encyclopedia.ship_types,
   },
   getters: {
     getSiteTitle: (state) => state.siteTitle,
